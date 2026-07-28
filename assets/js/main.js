@@ -9,13 +9,17 @@
 
   /* ------------------------------------------------------------------
      CONFIGURA AQUÍ EL DESTINO DEL FORMULARIO
-     Deja FORM_ENDPOINT vacío ('') y el formulario abrirá el correo del
-     usuario con todo relleno (funciona sin backend, desde el minuto uno).
+     Deja FORM_ENDPOINT vacío ('') y el formulario abrirá WhatsApp con el
+     mensaje ya redactado (funciona sin backend, desde el minuto uno).
      Cuando tengas un endpoint (Formspree, Netlify Forms, tu propia API),
      pégalo aquí y el envío pasará a ser en segundo plano, sin salir de la web.
      ------------------------------------------------------------------ */
   var FORM_ENDPOINT = '';
-  var CONTACT_EMAIL = 'hola@hex.studio';
+
+  // El número de WhatsApp NO se define aquí: se lee del enlace [data-wa] del
+  // HTML, para que solo haya que cambiarlo en un sitio.
+  var waLink = document.querySelector('[data-wa]');
+  var WHATSAPP_URL = waLink ? waLink.getAttribute('href') : '';
 
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
@@ -86,6 +90,26 @@
     });
   }
 
+  /* ---------- Foco de las tarjetas siguiendo al cursor ----------
+     Se escribe en variables CSS dentro de un rAF: el trabajo de pintado lo hace
+     el compositor, no JavaScript. Se ignora en dispositivos sin puntero fino
+     (en táctil no hay hover y sería trabajo tirado a la basura). ---------- */
+  var finePointer = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+  if (finePointer && !reduceMotion) {
+    document.querySelectorAll('.card').forEach(function (card) {
+      var frame = null;
+      card.addEventListener('pointermove', function (e) {
+        if (frame) return;
+        frame = requestAnimationFrame(function () {
+          var r = card.getBoundingClientRect();
+          card.style.setProperty('--mx', (e.clientX - r.left) + 'px');
+          card.style.setProperty('--my', (e.clientY - r.top) + 'px');
+          frame = null;
+        });
+      });
+    });
+  }
+
   /* ---------- FAQ (feedback: confirma la apertura) ---------- */
   document.querySelectorAll('[data-faq-q]').forEach(function (btn) {
     btn.addEventListener('click', function () {
@@ -102,7 +126,10 @@
 
   var status = form.querySelector('[data-status]');
   var submit = form.querySelector('[type="submit"]');
-  var submitLabel = submit ? submit.textContent : '';
+  // Solo se toca el span de texto: si se usara textContent en el botón entero
+  // se borraría el icono SVG que lleva dentro.
+  var submitLabelEl = submit ? submit.querySelector('[data-label]') : null;
+  var submitLabel = submitLabelEl ? submitLabelEl.textContent : '';
 
   var showError = function (field, message) {
     var input = field.querySelector('input, select, textarea');
@@ -158,21 +185,19 @@
   var setLoading = function (loading) {
     if (!submit) return;
     submit.dataset.loading = String(loading);
-    submit.textContent = loading ? 'Enviando' : submitLabel;
+    if (submitLabelEl) submitLabelEl.textContent = loading ? 'Enviando' : submitLabel;
   };
 
-  var mailtoFallback = function (data) {
-    var body = [
-      'Nombre: ' + data.nombre,
-      'Email: ' + data.email,
-      'Necesita: ' + data.servicio,
+  var whatsappFallback = function (data) {
+    var texto = [
+      'Hola, soy ' + data.nombre + '.',
+      'Me interesa: ' + data.servicio + '.',
       '',
-      data.mensaje
+      data.mensaje,
+      '',
+      'Mi correo: ' + data.email
     ].join('\n');
-    window.location.href =
-      'mailto:' + CONTACT_EMAIL +
-      '?subject=' + encodeURIComponent('Nuevo proyecto: ' + data.nombre) +
-      '&body=' + encodeURIComponent(body);
+    window.open(WHATSAPP_URL + '?text=' + encodeURIComponent(texto), '_blank', 'noopener');
   };
 
   form.addEventListener('submit', function (e) {
@@ -198,9 +223,16 @@
     };
 
     if (!FORM_ENDPOINT) {
-      mailtoFallback(data);
+      if (!WHATSAPP_URL) {
+        if (status) {
+          status.textContent = 'Falta configurar el número de WhatsApp en el enlace [data-wa].';
+          status.dataset.state = 'error';
+        }
+        return;
+      }
+      whatsappFallback(data);
       if (status) {
-        status.textContent = 'Abriendo tu correo con el mensaje ya preparado.';
+        status.textContent = 'Abriendo WhatsApp con el mensaje ya redactado.';
         status.dataset.state = 'ok';
       }
       return;
@@ -222,7 +254,7 @@
       })
       .catch(function () {
         if (status) {
-          status.textContent = 'No se pudo enviar. Escríbeme directamente a ' + CONTACT_EMAIL + '.';
+          status.textContent = 'No se pudo enviar. Escríbeme directamente por WhatsApp.';
           status.dataset.state = 'error';
         }
       })
