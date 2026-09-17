@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /css
+Disallow: /images
+Disallow: /includes
+Disallow: /js
+Disallow: /ll-admin
+Disallow: /pages
+Disallow: /request

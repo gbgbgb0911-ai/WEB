@@ -1,0 +1,6457 @@
+{
+  "generado": "2026-09-17T20:17:22Z",
+  "total": 752,
+  "solo_categoria": 752,
+  "solo_barrido": 0,
+  "ambos": 0,
+  "barrido_ejecutado": false,
+  "huerfanos": [],
+  "por_categoria": {
+    "categoria:2": [
+      1221,
+      1218,
+      1211,
+      1186,
+      1180,
+      1179,
+      1112,
+      1103,
+      1050,
+      1049,
+      1041,
+      1039,
+      1027,
+      214,
+      99
+    ],
+    "categoria:3": [
+      1367,
+      1365,
+      1364,
+      1361,
+      1358,
+      1357,
+      1356,
+      1349,
+      1348,
+      1345,
+      1344,
+      1342,
+      1341,
+      1338,
+      1336,
+      1335,
+      1334,
+      1333,
+      1332,
+      1331,
+      1322,
+      1321,
+      1315,
+      1314,
+      1313,
+      1312,
+      1311,
+      1310,
+      1301,
+      1296,
+      1295,
+      1289,
+      1285,
+      1280,
+      1279,
+      1278,
+      1277,
+      1276,
+      1274,
+      1273,
+      1272,
+      1271,
+      1265,
+      1263,
+      1262,
+      1261,
+      1260,
+      1251,
+      1249,
+      1248,
+      1247,
+      1246,
+      1239,
+      1238,
+      1237,
+      1236,
+      1229,
+      1227,
+      1225,
+      1217,
+      1214,
+      1210,
+      1209,
+      1208,
+      1194,
+      1187,
+      1183,
+      1182,
+      1178,
+      1172,
+      1165,
+      1161,
+      1106,
+      1101,
+      1100,
+      1099,
+      1098,
+      1097,
+      1096,
+      1095,
+      1093,
+      1091,
+      1089,
+      1088,
+      1087,
+      1086,
+      1084,
+      1080,
+      1079,
+      1077,
+      1076,
+      1052,
+      1048,
+      1047,
+      1046,
+      1044,
+      1043,
+      1037,
+      1035,
+      1034,
+      1033,
+      1015,
+      1014,
+      1013,
+      1012,
+      1011,
+      1009,
+      1008,
+      1007,
+      999,
+      997,
+      984,
+      983,
+      982,
+      981,
+      967,
+      966,
+      965,
+      964,
+      962,
+      961,
+      943,
+      935,
+      922,
+      904,
+      903,
+      891,
+      890,
+      880,
+      879,
+      878,
+      861,
+      860,
+      844,
+      839,
+      837,
+      828,
+      824,
+      815,
+      811,
+      796,
+      785,
+      780,
+      779,
+      778,
+      777,
+      776,
+      774,
+      770,
+      769,
+      764,
+      741,
+      738,
+      728,
+      726,
+      725,
+      724,
+      721,
+      720,
+      711,
+      665,
+      662,
+      661,
+      659,
+      611,
+      596,
+      595,
+      580,
+      569,
+      566,
+      555,
+      537,
+      530,
+      529,
+      521,
+      516,
+      493,
+      473,
+      472,
+      462,
+      459,
+      416,
+      414,
+      386,
+      325,
+      296,
+      293,
+      252
+    ],
+    "categoria:4": [
+      1366,
+      1343,
+      1264,
+      1258,
+      1202,
+      1201,
+      1175,
+      1115,
+      1111,
+      1105,
+      1056,
+      1055,
+      1054,
+      1053,
+      1029,
+      322,
+      113,
+      108,
+      105
+    ],
+    "categoria:5": [
+      1302,
+      359
+    ],
+    "categoria:6": [
+      1328,
+      1327,
+      1309,
+      1298,
+      1267,
+      1266,
+      1254,
+      1234,
+      1199,
+      1198,
+      1197,
+      1196,
+      1176,
+      1173,
+      1166,
+      1113,
+      1110,
+      1109,
+      1108,
+      1102,
+      1042,
+      1004,
+      1003,
+      1002,
+      987,
+      986,
+      949,
+      829,
+      737,
+      736,
+      713,
+      712,
+      471,
+      418,
+      312,
+      291,
+      254,
+      142,
+      138,
+      137,
+      37,
+      36,
+      35,
+      33,
+      32,
+      30,
+      29,
+      28,
+      26,
+      25
+    ],
+    "categoria:7": [
+      1353,
+      1323,
+      1316,
+      1259,
+      1253,
+      1252,
+      1233,
+      1167,
+      1163,
+      1090,
+      1021,
+      1020,
+      1019,
+      1001,
+      1000,
+      934,
+      825,
+      805,
+      804,
+      749,
+      739,
+      602,
+      579,
+      510,
+      469,
+      399,
+      381,
+      380,
+      51,
+      49
+    ],
+    "categoria:8": [
+      1340,
+      1326,
+      1319,
+      1318,
+      1317,
+      1308,
+      1307,
+      1306,
+      1305,
+      1304,
+      1303,
+      1300,
+      1288,
+      1287,
+      1286,
+      1284,
+      1282,
+      1270,
+      1269,
+      1250,
+      1245,
+      1244,
+      1243,
+      1242,
+      1232,
+      1231,
+      1230,
+      1226,
+      1207,
+      1206,
+      1205,
+      1204,
+      1203,
+      1192,
+      1191,
+      1190,
+      1189,
+      1188,
+      1185,
+      1184,
+      1170,
+      1148,
+      1147,
+      1146,
+      1145,
+      1144,
+      1143,
+      1094,
+      1074,
+      1072,
+      1031,
+      1016,
+      1010,
+      1006,
+      998,
+      992,
+      980,
+      979,
+      978,
+      977,
+      974,
+      973,
+      972,
+      971,
+      970,
+      969,
+      968,
+      960,
+      959,
+      946,
+      945,
+      942,
+      940,
+      939,
+      938,
+      908,
+      901,
+      900,
+      899,
+      896,
+      895,
+      894,
+      893,
+      892,
+      862,
+      840,
+      834,
+      833,
+      830,
+      827,
+      820,
+      810,
+      799,
+      773,
+      768,
+      767,
+      753,
+      751,
+      748,
+      735,
+      730,
+      723,
+      718,
+      717,
+      708,
+      706,
+      703,
+      698,
+      697,
+      694,
+      672,
+      671,
+      669,
+      667,
+      666,
+      660,
+      615,
+      613,
+      609,
+      608,
+      605,
+      600,
+      599,
+      598,
+      591,
+      589,
+      587,
+      584,
+      583,
+      577,
+      575,
+      574,
+      561,
+      560,
+      552,
+      549,
+      548,
+      544,
+      524,
+      496,
+      489,
+      480,
+      470,
+      429,
+      341,
+      92,
+      63
+    ],
+    "categoria:9": [
+      1275,
+      1257,
+      1255,
+      1240,
+      1235,
+      1177,
+      1169,
+      1168,
+      1164,
+      1107,
+      1092,
+      1078,
+      1032,
+      1030,
+      310,
+      112,
+      97
+    ],
+    "categoria:10": [
+      1339,
+      1330,
+      1329,
+      1268,
+      1073,
+      958,
+      936,
+      906,
+      842,
+      801,
+      771,
+      758,
+      756,
+      755,
+      747,
+      746,
+      709,
+      704,
+      701,
+      700,
+      670,
+      523,
+      497,
+      324,
+      117
+    ],
+    "categoria:11": [
+      1291,
+      148,
+      147,
+      139,
+      126,
+      125,
+      124,
+      123,
+      122,
+      121,
+      120
+    ],
+    "categoria:12": [
+      1325,
+      1290,
+      1224,
+      1223,
+      1160,
+      1159,
+      1158,
+      1157,
+      1156,
+      1155,
+      1154,
+      1153,
+      1152,
+      1151,
+      1150,
+      1149,
+      1085,
+      1070,
+      1068,
+      1067,
+      1066,
+      1065,
+      1064,
+      1063,
+      1062,
+      1061,
+      1060,
+      1059,
+      1058,
+      1057,
+      994,
+      988,
+      957,
+      956,
+      955,
+      954,
+      913,
+      912,
+      911,
+      910,
+      897,
+      858,
+      857,
+      855,
+      853,
+      793,
+      789,
+      788,
+      650,
+      645,
+      502,
+      500,
+      158,
+      154,
+      153
+    ],
+    "categoria:13": [
+      283,
+      173,
+      172,
+      171,
+      170,
+      169
+    ],
+    "categoria:14": [
+      952,
+      288,
+      256,
+      179,
+      178,
+      177,
+      176,
+      175,
+      174
+    ],
+    "categoria:15": [
+      848,
+      847,
+      846,
+      845,
+      362,
+      361,
+      196,
+      195,
+      194,
+      193,
+      191,
+      190,
+      189,
+      188,
+      187,
+      186,
+      185,
+      184,
+      183,
+      182
+    ],
+    "categoria:16": [
+      1299,
+      1293,
+      1292,
+      812,
+      213
+    ],
+    "categoria:17": [
+      250,
+      249,
+      248,
+      247,
+      246,
+      245,
+      244,
+      243,
+      242,
+      241,
+      240,
+      239,
+      238,
+      237,
+      236,
+      235,
+      234,
+      233,
+      232,
+      231,
+      230,
+      229,
+      228,
+      227,
+      226,
+      225
+    ],
+    "categoria:18": [
+      1283,
+      1281,
+      1228,
+      1195,
+      1051,
+      1017,
+      1005,
+      950,
+      843,
+      556,
+      519,
+      448,
+      318,
+      303,
+      295,
+      294,
+      292
+    ],
+    "categoria:19": [
+      1026,
+      1025,
+      1023,
+      1022,
+      850,
+      849,
+      581,
+      485,
+      484,
+      420,
+      409,
+      366,
+      365,
+      364,
+      307,
+      306,
+      305,
+      304,
+      203,
+      201,
+      200,
+      199,
+      198,
+      197
+    ],
+    "categoria:20": [
+      1297,
+      1294,
+      951,
+      948,
+      947,
+      859,
+      822,
+      806,
+      743,
+      740,
+      618,
+      617,
+      468,
+      427
+    ],
+    "categoria:21": [
+      1018,
+      933,
+      931,
+      930,
+      929,
+      928,
+      927,
+      926,
+      925,
+      924,
+      923,
+      921,
+      920,
+      919,
+      918,
+      917,
+      916,
+      915,
+      882,
+      877,
+      876,
+      875,
+      874,
+      873,
+      872,
+      871,
+      870,
+      869,
+      868,
+      867,
+      866,
+      865,
+      864,
+      693,
+      692,
+      691,
+      690,
+      689,
+      688,
+      687,
+      686,
+      685,
+      684,
+      683,
+      682,
+      681,
+      680,
+      679,
+      678,
+      630,
+      629,
+      628,
+      627,
+      626,
+      625,
+      624,
+      623,
+      375,
+      374,
+      373,
+      371,
+      370,
+      369,
+      368,
+      367
+    ],
+    "categoria:22": [
+      818,
+      817,
+      637,
+      634,
+      633,
+      632,
+      631
+    ],
+    "nuevo": [
+      318,
+      322,
+      324,
+      325,
+      341,
+      359,
+      361,
+      362,
+      364,
+      365,
+      366,
+      381,
+      399,
+      414,
+      416,
+      429,
+      529,
+      530,
+      575,
+      579,
+      580,
+      581,
+      583,
+      584,
+      623,
+      624,
+      625,
+      627,
+      628,
+      629,
+      630,
+      645,
+      650,
+      665,
+      666,
+      667,
+      669,
+      694,
+      711,
+      712,
+      713,
+      717,
+      718,
+      720,
+      721,
+      723,
+      724,
+      725,
+      726,
+      768,
+      769,
+      770,
+      771,
+      773,
+      774,
+      776,
+      777,
+      778,
+      779,
+      780,
+      785,
+      788,
+      789,
+      793,
+      796,
+      799,
+      801,
+      804,
+      805,
+      806,
+      810,
+      811,
+      812,
+      815,
+      817,
+      818,
+      942,
+      943,
+      947,
+      948,
+      949,
+      950,
+      951,
+      952,
+      954,
+      955,
+      956,
+      957,
+      964,
+      965,
+      966,
+      967,
+      969,
+      970,
+      971,
+      972,
+      973,
+      974,
+      981,
+      982,
+      983,
+      984,
+      986,
+      987,
+      988,
+      1000,
+      1001,
+      1002,
+      1003,
+      1004,
+      1006,
+      1012,
+      1013,
+      1014,
+      1015,
+      1029,
+      1030,
+      1031,
+      1032,
+      1033,
+      1170,
+      1178,
+      1179,
+      1188,
+      1189,
+      1190,
+      1191,
+      1195,
+      1196,
+      1197,
+      1198,
+      1199,
+      1201,
+      1203,
+      1204,
+      1205,
+      1206,
+      1207,
+      1208,
+      1209,
+      1210,
+      1211,
+      1226,
+      1227,
+      1228,
+      1229,
+      1230,
+      1231,
+      1232,
+      1233,
+      1234,
+      1235,
+      1236,
+      1237,
+      1238,
+      1239,
+      1240,
+      1246,
+      1247,
+      1248,
+      1249,
+      1250,
+      1251,
+      1252,
+      1253,
+      1254,
+      1255,
+      1257,
+      1258,
+      1259,
+      1260,
+      1261,
+      1262,
+      1263,
+      1264,
+      1265,
+      1266,
+      1267
+    ],
+    "ofertas": [
+      293,
+      303,
+      92,
+      341,
+      367,
+      368,
+      369,
+      370,
+      371,
+      373,
+      374,
+      375,
+      386
+    ]
+  },
+  "detalle": [
+    {
+      "id": 25,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 26,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 28,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 29,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 30,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 32,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 33,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 35,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 36,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 37,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 49,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 51,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 63,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 92,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "ofertas"
+      ]
+    },
+    {
+      "id": 97,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9"
+      ]
+    },
+    {
+      "id": 99,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2"
+      ]
+    },
+    {
+      "id": 105,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 108,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 112,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9"
+      ]
+    },
+    {
+      "id": 113,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 117,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 120,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:11"
+      ]
+    },
+    {
+      "id": 121,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:11"
+      ]
+    },
+    {
+      "id": 122,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:11"
+      ]
+    },
+    {
+      "id": 123,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:11"
+      ]
+    },
+    {
+      "id": 124,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:11"
+      ]
+    },
+    {
+      "id": 125,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:11"
+      ]
+    },
+    {
+      "id": 126,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:11"
+      ]
+    },
+    {
+      "id": 137,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 138,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 139,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:11"
+      ]
+    },
+    {
+      "id": 142,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 147,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:11"
+      ]
+    },
+    {
+      "id": 148,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:11"
+      ]
+    },
+    {
+      "id": 153,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 154,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 158,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 169,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:13"
+      ]
+    },
+    {
+      "id": 170,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:13"
+      ]
+    },
+    {
+      "id": 171,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:13"
+      ]
+    },
+    {
+      "id": 172,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:13"
+      ]
+    },
+    {
+      "id": 173,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:13"
+      ]
+    },
+    {
+      "id": 174,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:14"
+      ]
+    },
+    {
+      "id": 175,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:14"
+      ]
+    },
+    {
+      "id": 176,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:14"
+      ]
+    },
+    {
+      "id": 177,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:14"
+      ]
+    },
+    {
+      "id": 178,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:14"
+      ]
+    },
+    {
+      "id": 179,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:14"
+      ]
+    },
+    {
+      "id": 182,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 183,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 184,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 185,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 186,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 187,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 188,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 189,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 190,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 191,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 193,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 194,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 195,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 196,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 197,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 198,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 199,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 200,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 201,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 203,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 213,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:16"
+      ]
+    },
+    {
+      "id": 214,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2"
+      ]
+    },
+    {
+      "id": 225,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 226,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 227,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 228,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 229,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 230,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 231,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 232,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 233,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 234,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 235,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 236,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 237,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 238,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 239,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 240,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 241,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 242,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 243,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 244,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 245,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 246,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 247,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 248,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 249,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 250,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:17"
+      ]
+    },
+    {
+      "id": 252,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 254,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 256,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:14"
+      ]
+    },
+    {
+      "id": 283,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:13"
+      ]
+    },
+    {
+      "id": 288,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:14"
+      ]
+    },
+    {
+      "id": 291,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 292,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18"
+      ]
+    },
+    {
+      "id": 293,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "ofertas"
+      ]
+    },
+    {
+      "id": 294,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18"
+      ]
+    },
+    {
+      "id": 295,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18"
+      ]
+    },
+    {
+      "id": 296,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 303,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18",
+        "ofertas"
+      ]
+    },
+    {
+      "id": 304,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 305,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 306,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 307,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 310,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9"
+      ]
+    },
+    {
+      "id": 312,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 318,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 322,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 324,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 325,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 341,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo",
+        "ofertas"
+      ]
+    },
+    {
+      "id": 359,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:5",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 361,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 362,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 364,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 365,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 366,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 367,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "ofertas"
+      ]
+    },
+    {
+      "id": 368,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "ofertas"
+      ]
+    },
+    {
+      "id": 369,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "ofertas"
+      ]
+    },
+    {
+      "id": 370,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "ofertas"
+      ]
+    },
+    {
+      "id": 371,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "ofertas"
+      ]
+    },
+    {
+      "id": 373,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "ofertas"
+      ]
+    },
+    {
+      "id": 374,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "ofertas"
+      ]
+    },
+    {
+      "id": 375,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "ofertas"
+      ]
+    },
+    {
+      "id": 380,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 381,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 386,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "ofertas"
+      ]
+    },
+    {
+      "id": 399,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 409,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 414,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 416,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 418,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 420,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 427,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20"
+      ]
+    },
+    {
+      "id": 429,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 448,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18"
+      ]
+    },
+    {
+      "id": 459,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 462,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 468,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20"
+      ]
+    },
+    {
+      "id": 469,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 470,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 471,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 472,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 473,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 480,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 484,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 485,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 489,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 493,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 496,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 497,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 500,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 502,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 510,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 516,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 519,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18"
+      ]
+    },
+    {
+      "id": 521,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 523,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 524,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 529,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 530,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 537,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 544,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 548,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 549,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 552,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 555,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 556,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18"
+      ]
+    },
+    {
+      "id": 560,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 561,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 566,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 569,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 574,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 575,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 577,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 579,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 580,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 581,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 583,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 584,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 587,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 589,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 591,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 595,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 596,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 598,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 599,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 600,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 602,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 605,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 608,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 609,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 611,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 613,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 615,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 617,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20"
+      ]
+    },
+    {
+      "id": 618,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20"
+      ]
+    },
+    {
+      "id": 623,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 624,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 625,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 626,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 627,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 628,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 629,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 630,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 631,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:22"
+      ]
+    },
+    {
+      "id": 632,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:22"
+      ]
+    },
+    {
+      "id": 633,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:22"
+      ]
+    },
+    {
+      "id": 634,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:22"
+      ]
+    },
+    {
+      "id": 637,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:22"
+      ]
+    },
+    {
+      "id": 645,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 650,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 659,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 660,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 661,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 662,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 665,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 666,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 667,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 669,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 670,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 671,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 672,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 678,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 679,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 680,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 681,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 682,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 683,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 684,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 685,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 686,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 687,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 688,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 689,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 690,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 691,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 692,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 693,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 694,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 697,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 698,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 700,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 701,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 703,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 704,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 706,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 708,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 709,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 711,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 712,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 713,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 717,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 718,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 720,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 721,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 723,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 724,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 725,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 726,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 728,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 730,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 735,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 736,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 737,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 738,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 739,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 740,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20"
+      ]
+    },
+    {
+      "id": 741,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 743,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20"
+      ]
+    },
+    {
+      "id": 746,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 747,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 748,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 749,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 751,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 753,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 755,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 756,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 758,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 764,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 767,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 768,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 769,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 770,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 771,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 773,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 774,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 776,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 777,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 778,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 779,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 780,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 785,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 788,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 789,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 793,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 796,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 799,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 801,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 804,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 805,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 806,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 810,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 811,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 812,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:16",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 815,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 817,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:22",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 818,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:22",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 820,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 822,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20"
+      ]
+    },
+    {
+      "id": 824,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 825,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 827,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 828,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 829,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 830,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 833,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 834,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 837,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 839,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 840,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 842,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 843,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18"
+      ]
+    },
+    {
+      "id": 844,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 845,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 846,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 847,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 848,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:15"
+      ]
+    },
+    {
+      "id": 849,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 850,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 853,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 855,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 857,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 858,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 859,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20"
+      ]
+    },
+    {
+      "id": 860,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 861,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 862,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 864,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 865,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 866,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 867,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 868,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 869,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 870,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 871,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 872,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 873,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 874,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 875,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 876,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 877,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 878,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 879,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 880,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 882,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 890,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 891,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 892,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 893,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 894,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 895,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 896,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 897,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 899,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 900,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 901,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 903,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 904,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 906,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 908,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 910,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 911,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 912,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 913,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 915,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 916,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 917,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 918,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 919,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 920,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 921,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 922,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 923,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 924,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 925,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 926,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 927,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 928,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 929,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 930,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 931,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 933,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 934,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 935,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 936,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 938,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 939,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 940,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 942,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 943,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 945,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 946,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 947,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 948,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 949,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 950,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 951,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 952,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:14",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 954,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 955,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 956,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 957,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 958,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 959,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 960,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 961,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 962,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 964,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 965,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 966,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 967,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 968,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 969,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 970,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 971,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 972,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 973,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 974,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 977,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 978,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 979,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 980,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 981,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 982,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 983,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 984,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 986,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 987,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 988,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 992,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 994,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 997,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 998,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 999,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1000,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1001,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1002,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1003,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1004,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1005,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18"
+      ]
+    },
+    {
+      "id": 1006,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1007,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1008,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1009,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1010,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1011,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1012,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1013,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1014,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1015,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1016,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1017,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18"
+      ]
+    },
+    {
+      "id": 1018,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:21"
+      ]
+    },
+    {
+      "id": 1019,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 1020,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 1021,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 1022,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 1023,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 1025,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 1026,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:19"
+      ]
+    },
+    {
+      "id": 1027,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2"
+      ]
+    },
+    {
+      "id": 1029,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1030,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1031,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1032,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1033,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1034,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1035,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1037,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1039,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2"
+      ]
+    },
+    {
+      "id": 1041,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2"
+      ]
+    },
+    {
+      "id": 1042,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 1043,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1044,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1046,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1047,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1048,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1049,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2"
+      ]
+    },
+    {
+      "id": 1050,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2"
+      ]
+    },
+    {
+      "id": 1051,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18"
+      ]
+    },
+    {
+      "id": 1052,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1053,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 1054,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 1055,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 1056,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 1057,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1058,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1059,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1060,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1061,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1062,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1063,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1064,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1065,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1066,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1067,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1068,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1070,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1072,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1073,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 1074,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1076,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1077,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1078,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9"
+      ]
+    },
+    {
+      "id": 1079,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1080,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1084,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1085,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1086,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1087,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1088,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1089,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1090,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 1091,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1092,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9"
+      ]
+    },
+    {
+      "id": 1093,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1094,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1095,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1096,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1097,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1098,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1099,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1100,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1101,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1102,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 1103,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2"
+      ]
+    },
+    {
+      "id": 1105,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 1106,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1107,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9"
+      ]
+    },
+    {
+      "id": 1108,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 1109,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 1110,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 1111,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 1112,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2"
+      ]
+    },
+    {
+      "id": 1113,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 1115,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 1143,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1144,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1145,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1146,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1147,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1148,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1149,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1150,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1151,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1152,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1153,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1154,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1155,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1156,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1157,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1158,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1159,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1160,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1161,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1163,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 1164,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9"
+      ]
+    },
+    {
+      "id": 1165,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1166,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 1167,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 1168,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9"
+      ]
+    },
+    {
+      "id": 1169,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9"
+      ]
+    },
+    {
+      "id": 1170,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1172,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1173,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 1175,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 1176,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 1177,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9"
+      ]
+    },
+    {
+      "id": 1178,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1179,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1180,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2"
+      ]
+    },
+    {
+      "id": 1182,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1183,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1184,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1185,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1186,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2"
+      ]
+    },
+    {
+      "id": 1187,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1188,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1189,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1190,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1191,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1192,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1194,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1195,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1196,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1197,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1198,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1199,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1201,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1202,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 1203,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1204,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1205,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1206,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1207,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1208,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1209,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1210,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1211,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1214,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1217,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1218,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2"
+      ]
+    },
+    {
+      "id": 1221,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:2"
+      ]
+    },
+    {
+      "id": 1223,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1224,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1225,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1226,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1227,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1228,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1229,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1230,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1231,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1232,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1233,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1234,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1235,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1236,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1237,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1238,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1239,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1240,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1242,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1243,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1244,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1245,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1246,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1247,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1248,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1249,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1250,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1251,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1252,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1253,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1254,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1255,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1257,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1258,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1259,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1260,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1261,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1262,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1263,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1264,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1265,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1266,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1267,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6",
+        "nuevo"
+      ]
+    },
+    {
+      "id": 1268,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 1269,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1270,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1271,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1272,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1273,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1274,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1275,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:9"
+      ]
+    },
+    {
+      "id": 1276,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1277,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1278,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1279,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1280,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1281,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18"
+      ]
+    },
+    {
+      "id": 1282,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1283,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:18"
+      ]
+    },
+    {
+      "id": 1284,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1285,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1286,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1287,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1288,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1289,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1290,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1291,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:11"
+      ]
+    },
+    {
+      "id": 1292,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:16"
+      ]
+    },
+    {
+      "id": 1293,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:16"
+      ]
+    },
+    {
+      "id": 1294,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20"
+      ]
+    },
+    {
+      "id": 1295,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1296,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1297,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:20"
+      ]
+    },
+    {
+      "id": 1298,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 1299,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:16"
+      ]
+    },
+    {
+      "id": 1300,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1301,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1302,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:5"
+      ]
+    },
+    {
+      "id": 1303,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1304,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1305,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1306,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1307,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1308,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1309,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 1310,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1311,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1312,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1313,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1314,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1315,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1316,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 1317,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1318,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1319,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1321,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1322,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1323,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 1325,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:12"
+      ]
+    },
+    {
+      "id": 1326,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1327,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 1328,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:6"
+      ]
+    },
+    {
+      "id": 1329,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 1330,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 1331,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1332,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1333,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1334,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1335,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1336,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1338,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1339,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:10"
+      ]
+    },
+    {
+      "id": 1340,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:8"
+      ]
+    },
+    {
+      "id": 1341,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1342,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1343,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 1344,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1345,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1348,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1349,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1353,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:7"
+      ]
+    },
+    {
+      "id": 1356,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1357,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1358,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1361,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1364,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1365,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    },
+    {
+      "id": 1366,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:4"
+      ]
+    },
+    {
+      "id": 1367,
+      "origen": "categoria",
+      "fuentes_listado": [
+        "categoria:3"
+      ]
+    }
+  ]
+}
