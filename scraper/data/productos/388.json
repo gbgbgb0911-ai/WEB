@@ -1,0 +1,41 @@
+{
+  "id_original": 388,
+  "url_original": "https://euchelperu.com/producto.php?id=388",
+  "nombre": "Set summer",
+  "descripcion": "",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "388SET31067",
+  "item_group_id": "388",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175890492873537101468689.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1034,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 1034,
+      "tallas": [
+        {
+          "id_talla": 1272,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175890492873537101468689.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:42:47Z"
+}

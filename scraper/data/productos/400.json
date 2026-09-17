@@ -1,0 +1,101 @@
+{
+  "id_original": 400,
+  "url_original": "https://euchelperu.com/producto.php?id=400",
+  "nombre": "Vestido estrella corrugado",
+  "descripcion": "Vestido ajustado con detalle corrugado lateral que realza la figura. Lleva una estrella dorada que apora un toque únicco y llamativo.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "400VES27519",
+  "item_group_id": "400",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175899170974152817227286.jpg",
+    "https://euchelperu.com/images/productos/175926400725740184149068.jpg",
+    "https://euchelperu.com/images/productos/175926402316829162134638.jpg",
+    "https://euchelperu.com/images/productos/175926403186423324274943.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1046,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 1046,
+      "tallas": [
+        {
+          "id_talla": 1288,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175899170974152817227286.jpg",
+        "https://euchelperu.com/images/productos/175926400725740184149068.jpg",
+        "https://euchelperu.com/images/productos/175926402316829162134638.jpg",
+        "https://euchelperu.com/images/productos/175926403186423324274943.jpg"
+      ]
+    },
+    {
+      "id_color": 1171,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 1171,
+      "tallas": [
+        {
+          "id_talla": 1436,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175926400725740184149068.jpg",
+        "https://euchelperu.com/images/productos/175899170974152817227286.jpg",
+        "https://euchelperu.com/images/productos/175926402316829162134638.jpg",
+        "https://euchelperu.com/images/productos/175926403186423324274943.jpg"
+      ]
+    },
+    {
+      "id_color": 1172,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 1172,
+      "tallas": [
+        {
+          "id_talla": 1437,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175926402316829162134638.jpg",
+        "https://euchelperu.com/images/productos/175899170974152817227286.jpg",
+        "https://euchelperu.com/images/productos/175926400725740184149068.jpg",
+        "https://euchelperu.com/images/productos/175926403186423324274943.jpg"
+      ]
+    },
+    {
+      "id_color": 1173,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 1173,
+      "tallas": [
+        {
+          "id_talla": 1438,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175926403186423324274943.jpg",
+        "https://euchelperu.com/images/productos/175899170974152817227286.jpg",
+        "https://euchelperu.com/images/productos/175926400725740184149068.jpg",
+        "https://euchelperu.com/images/productos/175926402316829162134638.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:43:32Z"
+}

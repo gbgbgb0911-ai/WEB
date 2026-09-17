@@ -1,0 +1,41 @@
+{
+  "id_original": 399,
+  "url_original": "https://euchelperu.com/producto.php?id=399",
+  "nombre": "Mini falda puntos",
+  "descripcion": "Esta mini falda es perfecta para un look casual con estilo. Fresca, cómoda y fácil de combinar.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "399MIN28043",
+  "item_group_id": "399",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17589916673797427965059.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Mini falda puntos",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1045,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 1045,
+      "tallas": [
+        {
+          "id_talla": 1287,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17589916673797427965059.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:42:53Z"
+}

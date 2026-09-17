@@ -1,0 +1,41 @@
+{
+  "id_original": 371,
+  "url_original": "https://euchelperu.com/producto.php?id=371",
+  "nombre": "Bikini Coralina",
+  "descripcion": "Bikini Coralina con estampado efecto serpiente, diseño triangular clásico con tiras ajustables para un ajuste perfecto y comodidad total. Ideal para destacar en la playa o la piscina con estilo y frescura.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": 89.0,
+  "retailer_item_id": "37105",
+  "item_group_id": "371",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175798222058919440798776.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Coralina",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": 89.0,
+  "colores": [
+    {
+      "id_color": 975,
+      "nombre": "Rosado",
+      "precio": 89.0,
+      "id_color_confirmado": 975,
+      "tallas": [
+        {
+          "id_talla": 1224,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175798222058919440798776.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:36:27Z"
+}

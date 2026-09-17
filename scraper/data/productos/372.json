@@ -1,0 +1,41 @@
+{
+  "id_original": 372,
+  "url_original": "https://euchelperu.com/producto.php?id=372",
+  "nombre": "Bikini Ocean",
+  "descripcion": "Bikini con diseño de tiras ajustables y detalles en argollas metálicas, que realzan una silueta sofisticada y moderna. Perfecto para destacar en la playa o la piscina con estilo y comodidad.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "37206",
+  "item_group_id": "372",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175798248519968161397757.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 976,
+      "nombre": "Marrón",
+      "precio": 89.0,
+      "id_color_confirmado": 976,
+      "tallas": [
+        {
+          "id_talla": 1225,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175798248519968161397757.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:36:30Z"
+}

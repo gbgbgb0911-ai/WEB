@@ -1,0 +1,60 @@
+{
+  "id_original": 373,
+  "url_original": "https://euchelperu.com/producto.php?id=373",
+  "nombre": "Bikini Lua",
+  "descripcion": "Descubre el bikini Luna, nuestro clásico infaltable de triángulo con tiras ajustables. Su diseño minimalista y cómodo lo hace perfecto para broncearte o disfrutar del mar con estilo.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": 89.0,
+  "retailer_item_id": "37307",
+  "item_group_id": "373",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175798306717223556245963.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Lua",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": 89.0,
+  "colores": [
+    {
+      "id_color": 977,
+      "nombre": "Celeste",
+      "precio": 89.0,
+      "id_color_confirmado": 977,
+      "tallas": [
+        {
+          "id_talla": 1226,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1227,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175798306717223556245963.jpg"
+      ]
+    },
+    {
+      "id_color": 978,
+      "nombre": "Morado",
+      "precio": 89.0,
+      "id_color_confirmado": 978,
+      "tallas": [
+        {
+          "id_talla": 1228,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175798306717223556245963.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:37:05Z"
+}

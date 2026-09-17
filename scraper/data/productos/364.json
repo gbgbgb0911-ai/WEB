@@ -1,0 +1,116 @@
+{
+  "id_original": 364,
+  "url_original": "https://euchelperu.com/producto.php?id=364",
+  "nombre": "Gancho marmoleado",
+  "descripcion": "Ganchos acrílicos de alta resistencia con acabado marmoleado, perfectas para sujetar el cabello con estilo y firmeza. Disponibles en varios tonos elegantes, son ideales para todo tipo de peinados y ocasiones. Tamaño grande y diseño cómodo para uso diario.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 5.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "364GAN46904",
+  "item_group_id": "364",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17578031785379194964402.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Gancho marmoleado",
+  "precio_listado_normal": 5.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 870,
+      "nombre": "Color 1",
+      "precio": 5.0,
+      "id_color_confirmado": 870,
+      "tallas": [
+        {
+          "id_talla": 1098,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17578031785379194964402.jpg"
+      ]
+    },
+    {
+      "id_color": 871,
+      "nombre": "Color 2",
+      "precio": 5.0,
+      "id_color_confirmado": 871,
+      "tallas": [
+        {
+          "id_talla": 1099,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17578031785379194964402.jpg"
+      ]
+    },
+    {
+      "id_color": 872,
+      "nombre": "Color 3",
+      "precio": 5.0,
+      "id_color_confirmado": 872,
+      "tallas": [
+        {
+          "id_talla": 1100,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17578031785379194964402.jpg"
+      ]
+    },
+    {
+      "id_color": 873,
+      "nombre": "Color 4",
+      "precio": 5.0,
+      "id_color_confirmado": 873,
+      "tallas": [
+        {
+          "id_talla": 1101,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17578031785379194964402.jpg"
+      ]
+    },
+    {
+      "id_color": 874,
+      "nombre": "Color 5",
+      "precio": 5.0,
+      "id_color_confirmado": 874,
+      "tallas": [
+        {
+          "id_talla": 1102,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17578031785379194964402.jpg"
+      ]
+    },
+    {
+      "id_color": 875,
+      "nombre": "Color 6",
+      "precio": 5.0,
+      "id_color_confirmado": 875,
+      "tallas": [
+        {
+          "id_talla": 1103,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17578031785379194964402.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:32:12Z"
+}

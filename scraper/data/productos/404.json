@@ -1,0 +1,101 @@
+{
+  "id_original": 404,
+  "url_original": "https://euchelperu.com/producto.php?id=404",
+  "nombre": "Top Jazmin",
+  "descripcion": "El top jazmin presenta una abertura frontal en el busto y en esa union encontramos un broche decorativo de color dorado.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "404TOP68447",
+  "item_group_id": "404",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175899436515644571162005.jpg",
+    "https://euchelperu.com/images/productos/175901177522418105643808.jpg",
+    "https://euchelperu.com/images/productos/176239204076247293521893.jpg",
+    "https://euchelperu.com/images/productos/176239333217921586598382.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1051,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 1051,
+      "tallas": [
+        {
+          "id_talla": 1291,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175899436515644571162005.jpg",
+        "https://euchelperu.com/images/productos/175901177522418105643808.jpg",
+        "https://euchelperu.com/images/productos/176239204076247293521893.jpg",
+        "https://euchelperu.com/images/productos/176239333217921586598382.jpg"
+      ]
+    },
+    {
+      "id_color": 1087,
+      "nombre": "Celeste",
+      "precio": 45.0,
+      "id_color_confirmado": 1087,
+      "tallas": [
+        {
+          "id_talla": 1292,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175901177522418105643808.jpg",
+        "https://euchelperu.com/images/productos/175899436515644571162005.jpg",
+        "https://euchelperu.com/images/productos/176239204076247293521893.jpg",
+        "https://euchelperu.com/images/productos/176239333217921586598382.jpg"
+      ]
+    },
+    {
+      "id_color": 1105,
+      "nombre": "Melón",
+      "precio": 45.0,
+      "id_color_confirmado": 1105,
+      "tallas": [
+        {
+          "id_talla": 1364,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176239333217921586598382.jpg",
+        "https://euchelperu.com/images/productos/175899436515644571162005.jpg",
+        "https://euchelperu.com/images/productos/175901177522418105643808.jpg",
+        "https://euchelperu.com/images/productos/176239204076247293521893.jpg"
+      ]
+    },
+    {
+      "id_color": 1106,
+      "nombre": "Amarillo",
+      "precio": 45.0,
+      "id_color_confirmado": 1106,
+      "tallas": [
+        {
+          "id_talla": 1365,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176239204076247293521893.jpg",
+        "https://euchelperu.com/images/productos/175899436515644571162005.jpg",
+        "https://euchelperu.com/images/productos/175901177522418105643808.jpg",
+        "https://euchelperu.com/images/productos/176239333217921586598382.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:45:10Z"
+}

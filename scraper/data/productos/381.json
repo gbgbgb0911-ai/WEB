@@ -1,0 +1,192 @@
+{
+  "id_original": 381,
+  "url_original": "https://euchelperu.com/producto.php?id=381",
+  "nombre": "Falda Short Lentejuelas",
+  "descripcion": "Falda de lentejuelas, con brillo elegante y corte favorecedor. Ideal para darle un toque glam a tus noches especiales.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "381FAL92025",
+  "item_group_id": "381",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17584856015661835996229.jpg",
+    "https://euchelperu.com/images/productos/17584856127225227768243.jpg",
+    "https://euchelperu.com/images/productos/175890324338183131389732.jpg",
+    "https://euchelperu.com/images/productos/175890327753812568155442.jpg",
+    "https://euchelperu.com/images/productos/175890328959325607984509.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Falda Short Lentejuelas",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1003,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 1003,
+      "tallas": [
+        {
+          "id_talla": 1255,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 1256,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1257,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17584856015661835996229.jpg",
+        "https://euchelperu.com/images/productos/17584856127225227768243.jpg",
+        "https://euchelperu.com/images/productos/175890324338183131389732.jpg",
+        "https://euchelperu.com/images/productos/175890327753812568155442.jpg",
+        "https://euchelperu.com/images/productos/175890328959325607984509.jpg"
+      ]
+    },
+    {
+      "id_color": 1004,
+      "nombre": "Beige",
+      "precio": 75.0,
+      "id_color_confirmado": 1004,
+      "tallas": [
+        {
+          "id_talla": 1258,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 1259,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1260,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17584856127225227768243.jpg",
+        "https://euchelperu.com/images/productos/17584856015661835996229.jpg",
+        "https://euchelperu.com/images/productos/175890324338183131389732.jpg",
+        "https://euchelperu.com/images/productos/175890327753812568155442.jpg",
+        "https://euchelperu.com/images/productos/175890328959325607984509.jpg"
+      ]
+    },
+    {
+      "id_color": 1020,
+      "nombre": "Rosado",
+      "precio": 75.0,
+      "id_color_confirmado": 1020,
+      "tallas": [
+        {
+          "id_talla": 1337,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 1338,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1339,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175890324338183131389732.jpg",
+        "https://euchelperu.com/images/productos/17584856015661835996229.jpg",
+        "https://euchelperu.com/images/productos/17584856127225227768243.jpg",
+        "https://euchelperu.com/images/productos/175890327753812568155442.jpg",
+        "https://euchelperu.com/images/productos/175890328959325607984509.jpg"
+      ]
+    },
+    {
+      "id_color": 1021,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 1021,
+      "tallas": [
+        {
+          "id_talla": 1343,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 1344,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1345,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175890327753812568155442.jpg",
+        "https://euchelperu.com/images/productos/17584856015661835996229.jpg",
+        "https://euchelperu.com/images/productos/17584856127225227768243.jpg",
+        "https://euchelperu.com/images/productos/175890324338183131389732.jpg",
+        "https://euchelperu.com/images/productos/175890328959325607984509.jpg"
+      ]
+    },
+    {
+      "id_color": 1022,
+      "nombre": "Plateado",
+      "precio": 75.0,
+      "id_color_confirmado": 1022,
+      "tallas": [
+        {
+          "id_talla": 1340,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 1341,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1342,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175890328959325607984509.jpg",
+        "https://euchelperu.com/images/productos/17584856015661835996229.jpg",
+        "https://euchelperu.com/images/productos/17584856127225227768243.jpg",
+        "https://euchelperu.com/images/productos/175890324338183131389732.jpg",
+        "https://euchelperu.com/images/productos/175890327753812568155442.jpg"
+      ]
+    },
+    {
+      "id_color": 1598,
+      "nombre": "Dorado",
+      "precio": 75.0,
+      "id_color_confirmado": 1598,
+      "tallas": [
+        {
+          "id_talla": 1855,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 1856,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1857,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17584856015661835996229.jpg",
+        "https://euchelperu.com/images/productos/17584856127225227768243.jpg",
+        "https://euchelperu.com/images/productos/175890324338183131389732.jpg",
+        "https://euchelperu.com/images/productos/175890327753812568155442.jpg",
+        "https://euchelperu.com/images/productos/175890328959325607984509.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:42:05Z"
+}

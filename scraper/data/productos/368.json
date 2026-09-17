@@ -1,0 +1,41 @@
+{
+  "id_original": 368,
+  "url_original": "https://euchelperu.com/producto.php?id=368",
+  "nombre": "Bikini Halo",
+  "descripcion": "Bikini bicolor con top tipo balconet estructurado y tirantes anchos que realzan el escote, braguita de corte bajo que estiliza la silueta.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": 89.0,
+  "retailer_item_id": "368012",
+  "item_group_id": "368",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175798107769689939117332.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Halo",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": 89.0,
+  "colores": [
+    {
+      "id_color": 972,
+      "nombre": "Bicolor",
+      "precio": 89.0,
+      "id_color_confirmado": 972,
+      "tallas": [
+        {
+          "id_talla": 1221,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175798107769689939117332.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:35:07Z"
+}

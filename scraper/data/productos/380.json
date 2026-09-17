@@ -1,0 +1,115 @@
+{
+  "id_original": 380,
+  "url_original": "https://euchelperu.com/producto.php?id=380",
+  "nombre": "Falda Short Tul",
+  "descripcion": "Falda short tul, con diseño en capas y detalle de short interno para mayor comodidad. Femenina y versátil para tus outfits.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "380FAL209251",
+  "item_group_id": "380",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175848569104187530025807.jpg",
+    "https://euchelperu.com/images/productos/175848571579335143032074.jpg",
+    "https://euchelperu.com/images/productos/175848572481122761454748.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Falda Short Tul",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1000,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 1000,
+      "tallas": [
+        {
+          "id_talla": 1246,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 1247,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1248,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 1852,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175848569104187530025807.jpg",
+        "https://euchelperu.com/images/productos/175848571579335143032074.jpg",
+        "https://euchelperu.com/images/productos/175848572481122761454748.jpg"
+      ]
+    },
+    {
+      "id_color": 1001,
+      "nombre": "Blanco",
+      "precio": 69.0,
+      "id_color_confirmado": 1001,
+      "tallas": [
+        {
+          "id_talla": 1249,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 1250,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1251,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 1853,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175848571579335143032074.jpg",
+        "https://euchelperu.com/images/productos/175848569104187530025807.jpg",
+        "https://euchelperu.com/images/productos/175848572481122761454748.jpg"
+      ]
+    },
+    {
+      "id_color": 1002,
+      "nombre": "Crema",
+      "precio": 69.0,
+      "id_color_confirmado": 1002,
+      "tallas": [
+        {
+          "id_talla": 1252,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 1253,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1254,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 1854,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175848572481122761454748.jpg",
+        "https://euchelperu.com/images/productos/175848569104187530025807.jpg",
+        "https://euchelperu.com/images/productos/175848571579335143032074.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:40:18Z"
+}

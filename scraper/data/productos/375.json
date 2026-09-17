@@ -1,0 +1,41 @@
+{
+  "id_original": 375,
+  "url_original": "https://euchelperu.com/producto.php?id=375",
+  "nombre": "Bikini Nudé",
+  "descripcion": "El bikini Nude destaca por su top con nudo central y tirantes anchos que brindan un look sofisticado y femenino. Su panty de tiro alto con frunces laterales estiliza la figura y asegura un ajuste cómodo. Ideal para quienes buscan un equilibrio entre elegancia y sensualidad.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": 89.0,
+  "retailer_item_id": "375022111",
+  "item_group_id": "375",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17579840892124364797300.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Nudé",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": 89.0,
+  "colores": [
+    {
+      "id_color": 980,
+      "nombre": "Amarillo",
+      "precio": 89.0,
+      "id_color_confirmado": 980,
+      "tallas": [
+        {
+          "id_talla": 1231,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17579840892124364797300.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:37:11Z"
+}

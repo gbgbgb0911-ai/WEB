@@ -1,0 +1,66 @@
+{
+  "id_original": 367,
+  "url_original": "https://euchelperu.com/producto.php?id=367",
+  "nombre": "Bikini Soleil",
+  "descripcion": "Conjunto con top bandeau cruzado y braguita comfy: sensualidad y estilo en pocas palabras.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": 89.0,
+  "retailer_item_id": "36710",
+  "item_group_id": "367",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175919543128663175676425.jpg",
+    "https://euchelperu.com/images/productos/175919543621006891931320.jpg",
+    "https://euchelperu.com/images/productos/17591954648431328022465.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Soleil",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": 89.0,
+  "colores": [
+    {
+      "id_color": 970,
+      "nombre": "Rojo",
+      "precio": 89.0,
+      "id_color_confirmado": 970,
+      "tallas": [
+        {
+          "id_talla": 1218,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1219,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175919543128663175676425.jpg",
+        "https://euchelperu.com/images/productos/175919543621006891931320.jpg",
+        "https://euchelperu.com/images/productos/17591954648431328022465.jpg"
+      ]
+    },
+    {
+      "id_color": 971,
+      "nombre": "Amarillo",
+      "precio": 89.0,
+      "id_color_confirmado": 971,
+      "tallas": [
+        {
+          "id_talla": 1220,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17591954648431328022465.jpg",
+        "https://euchelperu.com/images/productos/175919543128663175676425.jpg",
+        "https://euchelperu.com/images/productos/175919543621006891931320.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:35:04Z"
+}

@@ -1,0 +1,96 @@
+{
+  "id_original": 378,
+  "url_original": "https://euchelperu.com/producto.php?id=378",
+  "nombre": "Top Demi Broche",
+  "descripcion": "Top con detalle de anillo dorado en el cuello y un corte en forma de lagrima en la parte delantera.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 35.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "378TOP03927",
+  "item_group_id": "378",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175841748888831305792086.jpg",
+    "https://euchelperu.com/images/productos/175841808004169235572529.jpg",
+    "https://euchelperu.com/images/productos/17625418173817422629736.jpg",
+    "https://euchelperu.com/images/productos/17741216794221074187796.jpg",
+    "https://euchelperu.com/images/productos/177412177273424593065386.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 995,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 995,
+      "tallas": [
+        {
+          "id_talla": 1241,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17625418173817422629736.jpg",
+        "https://euchelperu.com/images/productos/175841748888831305792086.jpg",
+        "https://euchelperu.com/images/productos/175841808004169235572529.jpg",
+        "https://euchelperu.com/images/productos/17741216794221074187796.jpg",
+        "https://euchelperu.com/images/productos/177412177273424593065386.jpg"
+      ]
+    },
+    {
+      "id_color": 997,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 997,
+      "tallas": [
+        {
+          "id_talla": 1243,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175841748888831305792086.jpg",
+        "https://euchelperu.com/images/productos/175841808004169235572529.jpg",
+        "https://euchelperu.com/images/productos/17625418173817422629736.jpg",
+        "https://euchelperu.com/images/productos/17741216794221074187796.jpg",
+        "https://euchelperu.com/images/productos/177412177273424593065386.jpg"
+      ]
+    },
+    {
+      "id_color": 3093,
+      "nombre": "Rosado pastel",
+      "precio": null,
+      "id_color_confirmado": 3093,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17741216794221074187796.jpg",
+        "https://euchelperu.com/images/productos/175841748888831305792086.jpg",
+        "https://euchelperu.com/images/productos/175841808004169235572529.jpg",
+        "https://euchelperu.com/images/productos/17625418173817422629736.jpg",
+        "https://euchelperu.com/images/productos/177412177273424593065386.jpg"
+      ]
+    },
+    {
+      "id_color": 3094,
+      "nombre": "Celeste pastel",
+      "precio": null,
+      "id_color_confirmado": 3094,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177412177273424593065386.jpg",
+        "https://euchelperu.com/images/productos/175841748888831305792086.jpg",
+        "https://euchelperu.com/images/productos/175841808004169235572529.jpg",
+        "https://euchelperu.com/images/productos/17625418173817422629736.jpg",
+        "https://euchelperu.com/images/productos/17741216794221074187796.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:39:41Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 370,
+  "url_original": "https://euchelperu.com/producto.php?id=370",
+  "nombre": "Bikini Wild Print",
+  "descripcion": "Bikini Wild Elegance con estampado animal print y detalles en perlas que realzan tu estilo. Perfecto para un look atrevido y sofisticado en la playa o la piscina.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": 89.0,
+  "retailer_item_id": "37004",
+  "item_group_id": "370",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175798183308825186174730.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Wild Print",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": 89.0,
+  "colores": [
+    {
+      "id_color": 974,
+      "nombre": "Animal Print",
+      "precio": 89.0,
+      "id_color_confirmado": 974,
+      "tallas": [
+        {
+          "id_talla": 1223,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175798183308825186174730.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:36:24Z"
+}

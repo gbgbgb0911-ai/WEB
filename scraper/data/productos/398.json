@@ -1,0 +1,41 @@
+{
+  "id_original": 398,
+  "url_original": "https://euchelperu.com/producto.php?id=398",
+  "nombre": "Top envolvente puntos",
+  "descripcion": "Un top con cuello un escote v pronunciado, con una bufanda en el cuello dandole al outfit clase y elgancia.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "398TOP14272",
+  "item_group_id": "398",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175899157742513874116049.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1044,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 1044,
+      "tallas": [
+        {
+          "id_talla": 1286,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175899157742513874116049.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:42:50Z"
+}

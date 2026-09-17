@@ -1,0 +1,45 @@
+{
+  "id_original": 374,
+  "url_original": "https://euchelperu.com/producto.php?id=374",
+  "nombre": "Bikini Venus",
+  "descripcion": "El bikini Venus combina elegancia y soporte con su top tipo bustier de tirantes anchos y copas con aro. El panty de amarre ajustable en los costados aporta un toque sensual y personalizado. Ideal para destacar tu figura con estilo y seguridad",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": 89.0,
+  "retailer_item_id": "374099",
+  "item_group_id": "374",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17579838799815072646905.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Venus",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": 89.0,
+  "colores": [
+    {
+      "id_color": 979,
+      "nombre": "Morado",
+      "precio": 89.0,
+      "id_color_confirmado": 979,
+      "tallas": [
+        {
+          "id_talla": 1229,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1230,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17579838799815072646905.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:37:08Z"
+}

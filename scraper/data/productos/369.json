@@ -1,0 +1,41 @@
+{
+  "id_original": 369,
+  "url_original": "https://euchelperu.com/producto.php?id=369",
+  "nombre": "Bikini Floral Bliss",
+  "descripcion": "Bikini con estampado floral y detalles anudados, ideal para un look fresco y femenino.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": 89.0,
+  "retailer_item_id": "36903",
+  "item_group_id": "369",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175798150439978664095881.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Floral Bliss",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": 89.0,
+  "colores": [
+    {
+      "id_color": 973,
+      "nombre": "Floral",
+      "precio": 89.0,
+      "id_color_confirmado": 973,
+      "tallas": [
+        {
+          "id_talla": 1222,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175798150439978664095881.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:36:07Z"
+}

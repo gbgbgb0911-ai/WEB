@@ -1,0 +1,41 @@
+{
+  "id_original": 365,
+  "url_original": "https://euchelperu.com/producto.php?id=365",
+  "nombre": "Set de Ligas",
+  "descripcion": "Ligas gruesas de tela tejida, suaves y resistentes, ideales para sujetar el cabello sin maltratarlo. Vienen en un set de 3 colores neutros (negro, beige y café), perfectos para cualquier look y ocasión. Cómodas para uso diario.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 3.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "365SET38815",
+  "item_group_id": "365",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175780307814485824181424.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Set de Ligas",
+  "precio_listado_normal": 3.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 869,
+      "nombre": "Único",
+      "precio": 3.0,
+      "id_color_confirmado": 869,
+      "tallas": [
+        {
+          "id_talla": 1097,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175780307814485824181424.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:32:28Z"
+}

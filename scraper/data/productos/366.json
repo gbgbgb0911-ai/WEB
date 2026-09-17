@@ -1,0 +1,116 @@
+{
+  "id_original": 366,
+  "url_original": "https://euchelperu.com/producto.php?id=366",
+  "nombre": "Pinza de Flor Acrílica",
+  "descripcion": "Pinza de cabello en forma de flor con acabado marmoleado. Disponible en 6 colores elegantes que combinan con cualquier look. Ideal para sujetar el cabello con estilo y firmeza, sin maltratarlo. ¡Añade un toque femenino y chic a tu peinado!",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 7.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "366GAN55101",
+  "item_group_id": "366",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17578025701730062927681.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pinza de Flor Acrílica",
+  "precio_listado_normal": 7.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 863,
+      "nombre": "Color 1",
+      "precio": 7.0,
+      "id_color_confirmado": 863,
+      "tallas": [
+        {
+          "id_talla": 1091,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17578025701730062927681.jpg"
+      ]
+    },
+    {
+      "id_color": 864,
+      "nombre": "Color 2",
+      "precio": 7.0,
+      "id_color_confirmado": 864,
+      "tallas": [
+        {
+          "id_talla": 1092,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17578025701730062927681.jpg"
+      ]
+    },
+    {
+      "id_color": 865,
+      "nombre": "Color 3",
+      "precio": 7.0,
+      "id_color_confirmado": 865,
+      "tallas": [
+        {
+          "id_talla": 1093,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17578025701730062927681.jpg"
+      ]
+    },
+    {
+      "id_color": 866,
+      "nombre": "Color 4",
+      "precio": 7.0,
+      "id_color_confirmado": 866,
+      "tallas": [
+        {
+          "id_talla": 1094,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17578025701730062927681.jpg"
+      ]
+    },
+    {
+      "id_color": 867,
+      "nombre": "Color 5",
+      "precio": 7.0,
+      "id_color_confirmado": 867,
+      "tallas": [
+        {
+          "id_talla": 1095,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17578025701730062927681.jpg"
+      ]
+    },
+    {
+      "id_color": 868,
+      "nombre": "Color 6",
+      "precio": 7.0,
+      "id_color_confirmado": 868,
+      "tallas": [
+        {
+          "id_talla": 1096,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17578025701730062927681.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:34:15Z"
+}
