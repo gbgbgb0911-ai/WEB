@@ -1,0 +1,103 @@
+{
+  "id_original": 296,
+  "url_original": "https://euchelperu.com/producto.php?id=296",
+  "nombre": "Top cuerina broche",
+  "descripcion": "Top de cuerina con escote profundo y correa ajustable para realzar el pecho, perfecto para un look audaz y moderno.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "296TOP12085",
+  "item_group_id": "296",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175684702756139688015078.jpg",
+    "https://euchelperu.com/images/productos/175942842788546917471218.jpg",
+    "https://euchelperu.com/images/productos/175942846737163386948504.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top cuerina broche",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 507,
+      "nombre": "Marrón",
+      "precio": 55.0,
+      "id_color_confirmado": 507,
+      "tallas": [
+        {
+          "id_talla": 452,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1377,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 1378,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175684702756139688015078.jpg",
+        "https://euchelperu.com/images/productos/175942842788546917471218.jpg",
+        "https://euchelperu.com/images/productos/175942846737163386948504.jpg"
+      ]
+    },
+    {
+      "id_color": 1119,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 1119,
+      "tallas": [
+        {
+          "id_talla": 1379,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 1380,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1381,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175942846737163386948504.jpg",
+        "https://euchelperu.com/images/productos/175684702756139688015078.jpg",
+        "https://euchelperu.com/images/productos/175942842788546917471218.jpg"
+      ]
+    },
+    {
+      "id_color": 1120,
+      "nombre": "Vino",
+      "precio": 55.0,
+      "id_color_confirmado": 1120,
+      "tallas": [
+        {
+          "id_talla": 1382,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 1383,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1384,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175942842788546917471218.jpg",
+        "https://euchelperu.com/images/productos/175684702756139688015078.jpg",
+        "https://euchelperu.com/images/productos/175942846737163386948504.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:53:31Z"
+}

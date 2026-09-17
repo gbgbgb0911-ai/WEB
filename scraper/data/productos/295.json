@@ -1,0 +1,129 @@
+{
+  "id_original": 295,
+  "url_original": "https://euchelperu.com/producto.php?id=295",
+  "nombre": "BLUSA CORSET MANGA LARGA",
+  "descripcion": "Blusa ajustada tipo corset con botones frontales y amarre en la espalda, ideal para definir tu figura con un toque femenino y moderno.",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "295BLU1382511",
+  "item_group_id": "295",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175953194848785487023483.jpg",
+    "https://euchelperu.com/images/productos/17595321608473507287895.jpg",
+    "https://euchelperu.com/images/productos/175953241829424541236607.jpg",
+    "https://euchelperu.com/images/productos/176305302218623465091877.jpg",
+    "https://euchelperu.com/images/productos/177715879622040440657045.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BLUSA CORSET MANGA LARGA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 711,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 711,
+      "tallas": [
+        {
+          "id_talla": 935,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17595321608473507287895.jpg",
+        "https://euchelperu.com/images/productos/175953194848785487023483.jpg",
+        "https://euchelperu.com/images/productos/175953241829424541236607.jpg",
+        "https://euchelperu.com/images/productos/176305302218623465091877.jpg",
+        "https://euchelperu.com/images/productos/177715879622040440657045.jpg"
+      ]
+    },
+    {
+      "id_color": 712,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 712,
+      "tallas": [
+        {
+          "id_talla": 936,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175953194848785487023483.jpg",
+        "https://euchelperu.com/images/productos/17595321608473507287895.jpg",
+        "https://euchelperu.com/images/productos/175953241829424541236607.jpg",
+        "https://euchelperu.com/images/productos/176305302218623465091877.jpg",
+        "https://euchelperu.com/images/productos/177715879622040440657045.jpg"
+      ]
+    },
+    {
+      "id_color": 713,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 713,
+      "tallas": [
+        {
+          "id_talla": 937,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175953241829424541236607.jpg",
+        "https://euchelperu.com/images/productos/175953194848785487023483.jpg",
+        "https://euchelperu.com/images/productos/17595321608473507287895.jpg",
+        "https://euchelperu.com/images/productos/176305302218623465091877.jpg",
+        "https://euchelperu.com/images/productos/177715879622040440657045.jpg"
+      ]
+    },
+    {
+      "id_color": 1601,
+      "nombre": "Plomo",
+      "precio": 59.0,
+      "id_color_confirmado": 1601,
+      "tallas": [
+        {
+          "id_talla": 1864,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176305302218623465091877.jpg",
+        "https://euchelperu.com/images/productos/175953194848785487023483.jpg",
+        "https://euchelperu.com/images/productos/17595321608473507287895.jpg",
+        "https://euchelperu.com/images/productos/175953241829424541236607.jpg",
+        "https://euchelperu.com/images/productos/177715879622040440657045.jpg"
+      ]
+    },
+    {
+      "id_color": 1988,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 1988,
+      "tallas": [
+        {
+          "id_talla": 2314,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2315,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177715879622040440657045.jpg",
+        "https://euchelperu.com/images/productos/175953194848785487023483.jpg",
+        "https://euchelperu.com/images/productos/17595321608473507287895.jpg",
+        "https://euchelperu.com/images/productos/175953241829424541236607.jpg",
+        "https://euchelperu.com/images/productos/176305302218623465091877.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:52:26Z"
+}
