@@ -354,8 +354,13 @@ def descubrir(cli, dirs, hacer_barrido=True, tope_inicial=BARRIDO_INICIAL,
             n += 1
             url = f"{BASE}producto.php?id={n}"
             status, html = cli.get(url, permitir_404=True)
-            ok = status == 200 and bool(html) and bool(
-                re.search(r"class=['\"][^'\"]*nmbpro", html))
+            # Mirar solo si aparece la clase `nmbpro` contaba como válidas las
+            # fichas fantasma: el sitio sirve la plantilla con el h1 vacío para
+            # IDs que no son producto (253 de las 403 primeras que no están en
+            # el menú). Eso inflaba el total, y como nunca se acumulaban
+            # inválidos el barrido se habría extendido hasta el tope de 5000.
+            # Se usa el mismo parser que la extracción, que exige h1 con texto.
+            ok = status == 200 and bool(html) and parse_ficha(n, html) is not None
             if ok:
                 validos_barrido.add(n)
                 consecutivos = 0
