@@ -38,7 +38,10 @@ UA = ("EuchelCatalogMigration/1.0 (extraccion autorizada por los duenos de la ti
       "1 request concurrente, 500ms de pausa)")
 PAUSA = 0.5
 TIMEOUT = 45
-REINTENTOS = 3
+# El proxy de salida de la sesión cloud corta ~1 de cada 3 conexiones
+# (ECONNRESET). Con 3 intentos, la probabilidad de perder una URL era ~4%:
+# suficiente para tumbar alguna de las 23 páginas de listado en cada corrida.
+REINTENTOS = 6
 CATEGORIAS = range(2, 23)
 BARRIDO_INICIAL = 1500
 BARRIDO_PASO = 100
@@ -317,9 +320,14 @@ def descubrir(cli, dirs, hacer_barrido=True, tope_inicial=BARRIDO_INICIAL,
     for url, etiqueta in paginas:
         status, html = cli.get(url, cache=not refrescar_listados)
         if status != 200 or not html:
-            print(f"  {etiqueta}: sin respuesta utilizable (status {status})")
-            por_categoria[etiqueta] = []
-            continue
+            # Seguir con la categoría vacía perdía sus productos en silencio:
+            # el barrido los recupera, pero sin nombre ni precios de listado
+            # (y `precio_oferta` sale de la tarjeta, no de la ficha). Mejor
+            # parar: el descubrimiento es de 23 peticiones y se puede repetir.
+            raise Detener(
+                f"{etiqueta}: sin respuesta utilizable (status {status}) en {url}. "
+                f"Relanzar con --rehacer-descubrimiento; no se continúa para no "
+                f"perder los productos de esta categoría en silencio.")
         fichas = parse_listado(html, url)
         por_categoria[etiqueta] = [f["id"] for f in fichas]
         for f in fichas:
