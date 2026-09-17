@@ -1,0 +1,59 @@
+{
+  "id_original": 352,
+  "url_original": "https://euchelperu.com/producto.php?id=352",
+  "nombre": "Short Shine",
+  "descripcion": "Short Shine, diseñados con un tejido de destellos metálicos que capturan la luz con cada movimiento. El complemento ideal para tus looks nocturnos con estilo y actitud.",
+  "categoria": "Shorts",
+  "categoria_subid": 20,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "3520009",
+  "item_group_id": "352",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175770485503922355535468.jpg",
+    "https://euchelperu.com/images/productos/175770486921103726490746.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 828,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 828,
+      "tallas": [
+        {
+          "id_talla": 1057,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175770485503922355535468.jpg",
+        "https://euchelperu.com/images/productos/175770486921103726490746.jpg"
+      ]
+    },
+    {
+      "id_color": 829,
+      "nombre": "Plomo",
+      "precio": 65.0,
+      "id_color_confirmado": 829,
+      "tallas": [
+        {
+          "id_talla": 1058,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175770486921103726490746.jpg",
+        "https://euchelperu.com/images/productos/175770485503922355535468.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:25:53Z"
+}
