@@ -1,0 +1,41 @@
+{
+  "id_original": 73,
+  "url_original": "https://euchelperu.com/producto.php?id=73",
+  "nombre": "Vestido Artemi Push Up",
+  "descripcion": "Este vestido representa un equilibrio perfecto entre estructura y sensualidad, destaca con sofisticación en cualquier evento, realzando las curvas femeninas con sutileza y diseño inteligente.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "73VES71677",
+  "item_group_id": "73",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175694133731959694344592.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 205,
+      "nombre": "Blanco",
+      "precio": 69.0,
+      "id_color_confirmado": 205,
+      "tallas": [
+        {
+          "id_talla": 661,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175694133731959694344592.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:45:45Z"
+}

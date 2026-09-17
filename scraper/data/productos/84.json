@@ -1,0 +1,41 @@
+{
+  "id_original": 84,
+  "url_original": "https://euchelperu.com/producto.php?id=84",
+  "nombre": "Vestido Mellsh",
+  "descripcion": "Un diseño pulcro que combina la sobriedad del corte sastrero con la suavidad y movimiento de una falda amplia. Ideal para mujeres que buscan una pieza versátil, moderna y refinada.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "84VES15403",
+  "item_group_id": "84",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175718258141280541026516.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 234,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 234,
+      "tallas": [
+        {
+          "id_talla": 230,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175718258141280541026516.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:48:34Z"
+}

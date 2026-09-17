@@ -1,0 +1,71 @@
+{
+  "id_original": 99,
+  "url_original": "https://euchelperu.com/producto.php?id=99",
+  "nombre": "Casaca Logan oversize",
+  "descripcion": "Destaca por su cálido interior lanoso, ideal para abrigarte sin perder el estilo.",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "99CAS59645",
+  "item_group_id": "99",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17570086737105223921923.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Casaca Logan oversize",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 288,
+      "nombre": "Perla",
+      "precio": 99.0,
+      "id_color_confirmado": 288,
+      "tallas": [
+        {
+          "id_talla": 600,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570086737105223921923.jpg"
+      ]
+    },
+    {
+      "id_color": 289,
+      "nombre": "Plomo",
+      "precio": 99.0,
+      "id_color_confirmado": 289,
+      "tallas": [
+        {
+          "id_talla": 601,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570086737105223921923.jpg"
+      ]
+    },
+    {
+      "id_color": 290,
+      "nombre": "Marrón",
+      "precio": 99.0,
+      "id_color_confirmado": 290,
+      "tallas": [
+        {
+          "id_talla": 602,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570086737105223921923.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:53:40Z"
+}

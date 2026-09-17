@@ -1,0 +1,56 @@
+{
+  "id_original": 79,
+  "url_original": "https://euchelperu.com/producto.php?id=79",
+  "nombre": "Vestido Mary",
+  "descripcion": "Descubre una pieza con sofisticación y feminidad: escote cuadrado, mangas largas y apertura lateral que añade sofisticación y libertad al caminar.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "79  VES33868",
+  "item_group_id": "79",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175708817553252831991470.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 223,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 223,
+      "tallas": [
+        {
+          "id_talla": 649,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175708817553252831991470.jpg"
+      ]
+    },
+    {
+      "id_color": 224,
+      "nombre": "Beige",
+      "precio": 55.0,
+      "id_color_confirmado": 224,
+      "tallas": [
+        {
+          "id_talla": 650,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175708817553252831991470.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:48:04Z"
+}

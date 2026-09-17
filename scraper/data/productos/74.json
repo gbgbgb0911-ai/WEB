@@ -1,0 +1,86 @@
+{
+  "id_original": 74,
+  "url_original": "https://euchelperu.com/producto.php?id=74",
+  "nombre": "Vestido Cuello Corrugado",
+  "descripcion": "\\n \\n \\n \\n \\n \\n \\n \\n \\nEste vestido es perfecto para la mujer moderna que busca un diseño elegante con un detalle distintivo. El cuello corrugado marca la diferencia, ofreciendo una pieza con personalidad sin perder funcionalidad. \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "74VES19597",
+  "item_group_id": "74",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17571200836944339891898.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 207,
+      "nombre": "Moca",
+      "precio": 69.0,
+      "id_color_confirmado": 207,
+      "tallas": [
+        {
+          "id_talla": 657,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17571200836944339891898.jpg"
+      ]
+    },
+    {
+      "id_color": 208,
+      "nombre": "Marrón",
+      "precio": 69.0,
+      "id_color_confirmado": 208,
+      "tallas": [
+        {
+          "id_talla": 658,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17571200836944339891898.jpg"
+      ]
+    },
+    {
+      "id_color": 209,
+      "nombre": "Verde",
+      "precio": 69.0,
+      "id_color_confirmado": 209,
+      "tallas": [
+        {
+          "id_talla": 659,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17571200836944339891898.jpg"
+      ]
+    },
+    {
+      "id_color": 210,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 210,
+      "tallas": [
+        {
+          "id_talla": 660,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17571200836944339891898.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:45:58Z"
+}

@@ -1,0 +1,75 @@
+{
+  "id_original": 69,
+  "url_original": "https://euchelperu.com/producto.php?id=69",
+  "nombre": "Vestido Jazmin Aro",
+  "descripcion": "Este vestido combina estructura y sensualidad con sus copas refinadas y un aro central metálico que define el escote con gracia, este vestido brinda comodidad y elegancia en cada paso. Perfecto para eventos formales, cenas de gala o celebraciones especiales.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "69VES50202",
+  "item_group_id": "69",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17570069580601713417901.jpg",
+    "https://euchelperu.com/images/productos/175857838131523390564704.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 194,
+      "nombre": "Palo Rosa",
+      "precio": 75.0,
+      "id_color_confirmado": 194,
+      "tallas": [
+        {
+          "id_talla": 668,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570069580601713417901.jpg",
+        "https://euchelperu.com/images/productos/175857838131523390564704.jpg"
+      ]
+    },
+    {
+      "id_color": 195,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 195,
+      "tallas": [
+        {
+          "id_talla": 669,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570069580601713417901.jpg",
+        "https://euchelperu.com/images/productos/175857838131523390564704.jpg"
+      ]
+    },
+    {
+      "id_color": 200,
+      "nombre": "Jade",
+      "precio": 75.0,
+      "id_color_confirmado": 200,
+      "tallas": [
+        {
+          "id_talla": 670,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175857838131523390564704.jpg",
+        "https://euchelperu.com/images/productos/17570069580601713417901.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:45:42Z"
+}

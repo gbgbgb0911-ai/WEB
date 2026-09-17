@@ -1,0 +1,41 @@
+{
+  "id_original": 89,
+  "url_original": "https://euchelperu.com/producto.php?id=89",
+  "nombre": "Vestido Valen bicolor",
+  "descripcion": "Acentúa la cintura y brinda un aire coqueto y cómodo para tus salidas diurnas o elegantes.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "89VES59624",
+  "item_group_id": "89",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17571166461424633830986.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 252,
+      "nombre": "Blanco",
+      "precio": 79.0,
+      "id_color_confirmado": 252,
+      "tallas": [
+        {
+          "id_talla": 641,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17571166461424633830986.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:48:50Z"
+}

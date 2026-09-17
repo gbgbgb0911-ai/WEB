@@ -1,0 +1,41 @@
+{
+  "id_original": 76,
+  "url_original": "https://euchelperu.com/producto.php?id=76",
+  "nombre": "Borda Vestido Escote",
+  "descripcion": "Este vestido tiene una espalda descubierta que deja una huella memorable. Diseño ideal para eventos o para robar miradas en cada paso.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "76BOR40531",
+  "item_group_id": "76",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175708797634672979564164.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 215,
+      "nombre": "Palo Rosa",
+      "precio": 69.0,
+      "id_color_confirmado": 215,
+      "tallas": [
+        {
+          "id_talla": 671,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175708797634672979564164.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:46:10Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id_original": 95,
+  "url_original": "https://euchelperu.com/producto.php?id=95",
+  "nombre": "Top Mia",
+  "descripcion": "Ideal para estilismos casuales o looks más sofisticados, es una pieza versátil de fondo de armario que aporta un toque chic a cualquier outfit.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 25.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "95TOP95216",
+  "item_group_id": "95",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17570883504214024429749.jpg",
+    "https://euchelperu.com/images/productos/175866006472476262218026.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 277,
+      "nombre": "Beige",
+      "precio": 39.0,
+      "id_color_confirmado": 277,
+      "tallas": [
+        {
+          "id_talla": 631,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570883504214024429749.jpg",
+        "https://euchelperu.com/images/productos/175866006472476262218026.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:50:53Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 78,
+  "url_original": "https://euchelperu.com/producto.php?id=78",
+  "nombre": "Vestido Trenzado Abertura Posterior",
+  "descripcion": "Este vestido combina detalles con un diseño moderno, creando una prenda única que destaca en cualquier ocasión.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "78VES49962",
+  "item_group_id": "78",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175708960537265734859251.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 221,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 221,
+      "tallas": [
+        {
+          "id_talla": 653,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175708960537265734859251.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:46:27Z"
+}

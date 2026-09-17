@@ -1,0 +1,71 @@
+{
+  "id_original": 75,
+  "url_original": "https://euchelperu.com/producto.php?id=75",
+  "nombre": "Vestido Manga Larga Espalda",
+  "descripcion": "Este vestido combina la elegancia de las mangas largas con la sensualidad de una espalda al aire, perfecto para deslumbrar con un balance ideal entre sofisticación y modernidad.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "75VES30526",
+  "item_group_id": "75",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175708812754548147566478.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 212,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 212,
+      "tallas": [
+        {
+          "id_talla": 654,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175708812754548147566478.jpg"
+      ]
+    },
+    {
+      "id_color": 213,
+      "nombre": "Jade",
+      "precio": 75.0,
+      "id_color_confirmado": 213,
+      "tallas": [
+        {
+          "id_talla": 655,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175708812754548147566478.jpg"
+      ]
+    },
+    {
+      "id_color": 214,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 214,
+      "tallas": [
+        {
+          "id_talla": 656,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175708812754548147566478.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:46:07Z"
+}
