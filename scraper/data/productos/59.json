@@ -1,0 +1,41 @@
+{
+  "id_original": 59,
+  "url_original": "https://euchelperu.com/producto.php?id=59",
+  "nombre": "Vestido Pliegue Arcoíris",
+  "descripcion": "Sumérgete en el espíritu veraniego con este elegante vestido, adornado con un vibrante estampado tropical. Sus pliegues suaves en todo el diseño realzan la silueta sin esfuerzo, mientras el estampado aporta una dosis de frescura.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "59VES10586",
+  "item_group_id": "59",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685336678042677173724.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 166,
+      "nombre": "Arcoíris",
+      "precio": 69.0,
+      "id_color_confirmado": 166,
+      "tallas": [
+        {
+          "id_talla": 848,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685336678042677173724.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:44:48Z"
+}

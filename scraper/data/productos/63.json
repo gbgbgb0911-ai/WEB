@@ -1,0 +1,96 @@
+{
+  "id_original": 63,
+  "url_original": "https://euchelperu.com/producto.php?id=63",
+  "nombre": "Vestido Cuello Tortuga",
+  "descripcion": "Descubre nuestro vestido con escote drapeado y con una espalda sutilmente expuesta adornada con finos tirantes. Ideal para brillar en cada ocasión especial, este modelo combina romanticismo con un toque de modernidad refinada.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "63VES22316",
+  "item_group_id": "63",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175693638655053368674412.jpg",
+    "https://euchelperu.com/images/productos/17600494931878590808873.jpg",
+    "https://euchelperu.com/images/productos/176004951676193287243675.jpg",
+    "https://euchelperu.com/images/productos/176547279174635653252393.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Cuello Tortuga",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 170,
+      "nombre": "Verde Oscuro",
+      "precio": 75.0,
+      "id_color_confirmado": 170,
+      "tallas": [
+        {
+          "id_talla": 856,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693638655053368674412.jpg",
+        "https://euchelperu.com/images/productos/17600494931878590808873.jpg",
+        "https://euchelperu.com/images/productos/176004951676193287243675.jpg",
+        "https://euchelperu.com/images/productos/176547279174635653252393.jpg"
+      ]
+    },
+    {
+      "id_color": 846,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 846,
+      "tallas": [
+        {
+          "id_talla": 1074,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17600494931878590808873.jpg",
+        "https://euchelperu.com/images/productos/175693638655053368674412.jpg",
+        "https://euchelperu.com/images/productos/176004951676193287243675.jpg",
+        "https://euchelperu.com/images/productos/176547279174635653252393.jpg"
+      ]
+    },
+    {
+      "id_color": 851,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 851,
+      "tallas": [
+        {
+          "id_talla": 1079,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176004951676193287243675.jpg",
+        "https://euchelperu.com/images/productos/175693638655053368674412.jpg",
+        "https://euchelperu.com/images/productos/17600494931878590808873.jpg",
+        "https://euchelperu.com/images/productos/176547279174635653252393.jpg"
+      ]
+    },
+    {
+      "id_color": 2080,
+      "nombre": "Vino",
+      "precio": null,
+      "id_color_confirmado": 2080,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176547279174635653252393.jpg",
+        "https://euchelperu.com/images/productos/175693638655053368674412.jpg",
+        "https://euchelperu.com/images/productos/17600494931878590808873.jpg",
+        "https://euchelperu.com/images/productos/176004951676193287243675.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:45:02Z"
+}
