@@ -1,0 +1,41 @@
+{
+  "id_original": 244,
+  "url_original": "https://euchelperu.com/producto.php?id=244",
+  "nombre": "Paris Hilton - Paris Hilton (Dupe)",
+  "descripcion": "",
+  "categoria": "Perfumes",
+  "categoria_subid": 17,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2441939",
+  "item_group_id": "244",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175799525293107307118521.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Paris Hilton - Paris Hilton (Dupe)",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 455,
+      "nombre": "Único",
+      "precio": 59.0,
+      "id_color_confirmado": 455,
+      "tallas": [
+        {
+          "id_talla": 398,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175799525293107307118521.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:36:12Z"
+}

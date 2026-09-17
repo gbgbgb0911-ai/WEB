@@ -1,0 +1,56 @@
+{
+  "id_original": 223,
+  "url_original": "https://euchelperu.com/producto.php?id=223",
+  "nombre": "Vestido Murciélago",
+  "descripcion": "Diseñado con mangas holgadas y un corte que aporta movimiento, este vestido estilo murciélago combina libertad y sofisticación en una silueta moderna y favorecedora.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "223VES54823",
+  "item_group_id": "223",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175684955501830625958463.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 434,
+      "nombre": "Plomo",
+      "precio": 69.0,
+      "id_color_confirmado": 434,
+      "tallas": [
+        {
+          "id_talla": 377,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175684955501830625958463.jpg"
+      ]
+    },
+    {
+      "id_color": 750,
+      "nombre": "Blanco",
+      "precio": 69.0,
+      "id_color_confirmado": 750,
+      "tallas": [
+        {
+          "id_talla": 978,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175684955501830625958463.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:29:51Z"
+}

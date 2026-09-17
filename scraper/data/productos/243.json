@@ -1,0 +1,41 @@
+{
+  "id_original": 243,
+  "url_original": "https://euchelperu.com/producto.php?id=243",
+  "nombre": "Scandall Le Parfum - Jean Paul Gaultier (Dupe)",
+  "descripcion": "",
+  "categoria": "Perfumes",
+  "categoria_subid": 17,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2431938",
+  "item_group_id": "243",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17579952640310794011043.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Scandall Le Parfum - Jean Paul Gaultier (Dupe)",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 454,
+      "nombre": "Único",
+      "precio": 59.0,
+      "id_color_confirmado": 454,
+      "tallas": [
+        {
+          "id_talla": 397,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17579952640310794011043.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:36:09Z"
+}

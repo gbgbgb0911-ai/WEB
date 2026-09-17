@@ -1,0 +1,71 @@
+{
+  "id_original": 222,
+  "url_original": "https://euchelperu.com/producto.php?id=222",
+  "nombre": "Vestido Tarzán Abertura",
+  "descripcion": "Un diseño único que equilibra elegancia y sensualidad, este vestido largo y de corte asimétrico, realzado con una abertura lateral que aporta movimiento y sofisticación.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "222VES99186",
+  "item_group_id": "222",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175700712381033531981921.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 433,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 433,
+      "tallas": [
+        {
+          "id_talla": 376,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700712381033531981921.jpg"
+      ]
+    },
+    {
+      "id_color": 952,
+      "nombre": "Vino",
+      "precio": 75.0,
+      "id_color_confirmado": 952,
+      "tallas": [
+        {
+          "id_talla": 1166,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700712381033531981921.jpg"
+      ]
+    },
+    {
+      "id_color": 953,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 953,
+      "tallas": [
+        {
+          "id_talla": 1167,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700712381033531981921.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:29:31Z"
+}

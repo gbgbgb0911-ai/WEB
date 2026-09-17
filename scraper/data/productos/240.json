@@ -1,0 +1,41 @@
+{
+  "id_original": 240,
+  "url_original": "https://euchelperu.com/producto.php?id=240",
+  "nombre": "Yara Candy - Lattafa (Dupe)",
+  "descripcion": "",
+  "categoria": "Perfumes",
+  "categoria_subid": 17,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2401935",
+  "item_group_id": "240",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175799643796636982561645.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Yara Candy - Lattafa (Dupe)",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 451,
+      "nombre": "Único",
+      "precio": 59.0,
+      "id_color_confirmado": 451,
+      "tallas": [
+        {
+          "id_talla": 394,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175799643796636982561645.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:35:04Z"
+}

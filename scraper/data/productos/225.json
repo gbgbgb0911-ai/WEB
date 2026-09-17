@@ -1,0 +1,41 @@
+{
+  "id_original": 225,
+  "url_original": "https://euchelperu.com/producto.php?id=225",
+  "nombre": "Cloud - Ariana Grande (Dupe)",
+  "descripcion": "",
+  "categoria": "Perfumes",
+  "categoria_subid": 17,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "225PER58505",
+  "item_group_id": "225",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175799810114073467899433.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Cloud - Ariana Grande (Dupe)",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 436,
+      "nombre": "Único",
+      "precio": 59.0,
+      "id_color_confirmado": 436,
+      "tallas": [
+        {
+          "id_talla": 379,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175799810114073467899433.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:30:00Z"
+}

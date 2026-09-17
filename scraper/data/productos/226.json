@@ -1,0 +1,41 @@
+{
+  "id_original": 226,
+  "url_original": "https://euchelperu.com/producto.php?id=226",
+  "nombre": "Mod Vainilla - Ariana Grande (Dupe)",
+  "descripcion": "",
+  "categoria": "Perfumes",
+  "categoria_subid": 17,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2261921",
+  "item_group_id": "226",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175799709351069255010748.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Mod Vainilla - Ariana Grande (Dupe)",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 437,
+      "nombre": "Único",
+      "precio": 59.0,
+      "id_color_confirmado": 437,
+      "tallas": [
+        {
+          "id_talla": 380,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175799709351069255010748.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:30:04Z"
+}

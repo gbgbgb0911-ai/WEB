@@ -1,0 +1,41 @@
+{
+  "id_original": 233,
+  "url_original": "https://euchelperu.com/producto.php?id=233",
+  "nombre": "CH - Carolina Herrera (Dupe)",
+  "descripcion": "",
+  "categoria": "Perfumes",
+  "categoria_subid": 17,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2331928",
+  "item_group_id": "233",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17579983276486443619541.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CH - Carolina Herrera (Dupe)",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 444,
+      "nombre": "Único",
+      "precio": 59.0,
+      "id_color_confirmado": 444,
+      "tallas": [
+        {
+          "id_talla": 387,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17579983276486443619541.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:32:30Z"
+}

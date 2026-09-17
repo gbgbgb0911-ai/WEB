@@ -1,0 +1,41 @@
+{
+  "id_original": 231,
+  "url_original": "https://euchelperu.com/producto.php?id=231",
+  "nombre": "Good Girl Blush - Carolina Herrera (Dupe)",
+  "descripcion": "",
+  "categoria": "Perfumes",
+  "categoria_subid": 17,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2311926",
+  "item_group_id": "231",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17579982897351992644383.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Good Girl Blush - Carolina Herrera (Dupe)",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 442,
+      "nombre": "Único",
+      "precio": 59.0,
+      "id_color_confirmado": 442,
+      "tallas": [
+        {
+          "id_talla": 385,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17579982897351992644383.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:32:10Z"
+}

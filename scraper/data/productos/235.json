@@ -1,0 +1,41 @@
+{
+  "id_original": 235,
+  "url_original": "https://euchelperu.com/producto.php?id=235",
+  "nombre": "Hypnotic Poison - Dior (Dupe)",
+  "descripcion": "",
+  "categoria": "Perfumes",
+  "categoria_subid": 17,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2351930",
+  "item_group_id": "235",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17579965404708892652415.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Hypnotic Poison - Dior (Dupe)",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 446,
+      "nombre": "Único",
+      "precio": 59.0,
+      "id_color_confirmado": 446,
+      "tallas": [
+        {
+          "id_talla": 389,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17579965404708892652415.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:32:49Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 237,
+  "url_original": "https://euchelperu.com/producto.php?id=237",
+  "nombre": "Bombshell - Victoria´s Secret (Dupe)",
+  "descripcion": "",
+  "categoria": "Perfumes",
+  "categoria_subid": 17,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2371932",
+  "item_group_id": "237",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175799649499200481454508.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bombshell - Victoria´s Secret (Dupe)",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 448,
+      "nombre": "Único",
+      "precio": 59.0,
+      "id_color_confirmado": 448,
+      "tallas": [
+        {
+          "id_talla": 391,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175799649499200481454508.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:33:38Z"
+}

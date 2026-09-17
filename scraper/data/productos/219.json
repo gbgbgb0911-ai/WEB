@@ -1,0 +1,74 @@
+{
+  "id_original": 219,
+  "url_original": "https://euchelperu.com/producto.php?id=219",
+  "nombre": "Vestido Selena Cuello",
+  "descripcion": "Este vestido ofrece fluidez, estructura y estilo refinado para ocasiones formales o eventos de noche.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "219VES45950",
+  "item_group_id": "219",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685789796618690886837.jpg",
+    "https://euchelperu.com/images/productos/176264147737326917814362.png",
+    "https://euchelperu.com/images/productos/176264263156512634962999.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 430,
+      "nombre": "Azul marino",
+      "precio": 95.0,
+      "id_color_confirmado": 430,
+      "tallas": [
+        {
+          "id_talla": 373,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685789796618690886837.jpg",
+        "https://euchelperu.com/images/productos/176264147737326917814362.png",
+        "https://euchelperu.com/images/productos/176264263156512634962999.jpg"
+      ]
+    },
+    {
+      "id_color": 753,
+      "nombre": "Negro",
+      "precio": 95.0,
+      "id_color_confirmado": 753,
+      "tallas": [
+        {
+          "id_talla": 981,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176264147737326917814362.png",
+        "https://euchelperu.com/images/productos/175685789796618690886837.jpg",
+        "https://euchelperu.com/images/productos/176264263156512634962999.jpg"
+      ]
+    },
+    {
+      "id_color": 1585,
+      "nombre": "Verde",
+      "precio": null,
+      "id_color_confirmado": 1585,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176264263156512634962999.jpg",
+        "https://euchelperu.com/images/productos/175685789796618690886837.jpg",
+        "https://euchelperu.com/images/productos/176264147737326917814362.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:29:22Z"
+}

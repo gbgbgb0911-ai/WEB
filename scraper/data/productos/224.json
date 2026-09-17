@@ -1,0 +1,56 @@
+{
+  "id_original": 224,
+  "url_original": "https://euchelperu.com/producto.php?id=224",
+  "nombre": "Set Viena Suplex",
+  "descripcion": "El Set Viena combina dos piezas que se complementan estética y estructuralmente para un estilo armónico, moderno y versátil en una sola opción.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "224SET28185",
+  "item_group_id": "224",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17568539340801335857723.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 435,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 435,
+      "tallas": [
+        {
+          "id_talla": 378,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568539340801335857723.jpg"
+      ]
+    },
+    {
+      "id_color": 749,
+      "nombre": "Marrón",
+      "precio": 69.0,
+      "id_color_confirmado": 749,
+      "tallas": [
+        {
+          "id_talla": 977,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568539340801335857723.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:29:57Z"
+}
