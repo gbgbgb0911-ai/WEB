@@ -1,0 +1,144 @@
+{
+  "id_original": 409,
+  "url_original": "https://euchelperu.com/producto.php?id=409",
+  "nombre": "Gancho terciopelo",
+  "descripcion": "Este gacho combina terciopelo con brillos para dar un toque de glamour a tu peinado.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 5.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "409GAN20657",
+  "item_group_id": "409",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17589951266832369982888.jpg",
+    "https://euchelperu.com/images/productos/175899514208068709184917.jpg",
+    "https://euchelperu.com/images/productos/17589951617233175376470.jpg",
+    "https://euchelperu.com/images/productos/175899517596959213459226.jpg",
+    "https://euchelperu.com/images/productos/175899518733676591817304.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Gancho terciopelo",
+  "precio_listado_normal": 5.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1056,
+      "nombre": "Marrón",
+      "precio": 5.0,
+      "id_color_confirmado": 1056,
+      "tallas": [
+        {
+          "id_talla": 1331,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17589951266832369982888.jpg",
+        "https://euchelperu.com/images/productos/175899514208068709184917.jpg",
+        "https://euchelperu.com/images/productos/17589951617233175376470.jpg",
+        "https://euchelperu.com/images/productos/175899517596959213459226.jpg",
+        "https://euchelperu.com/images/productos/175899518733676591817304.jpg"
+      ]
+    },
+    {
+      "id_color": 1057,
+      "nombre": "Celeste",
+      "precio": 5.0,
+      "id_color_confirmado": 1057,
+      "tallas": [
+        {
+          "id_talla": 1332,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17589951266832369982888.jpg",
+        "https://euchelperu.com/images/productos/175899514208068709184917.jpg",
+        "https://euchelperu.com/images/productos/17589951617233175376470.jpg",
+        "https://euchelperu.com/images/productos/175899517596959213459226.jpg",
+        "https://euchelperu.com/images/productos/175899518733676591817304.jpg"
+      ]
+    },
+    {
+      "id_color": 1058,
+      "nombre": "Negro",
+      "precio": 5.0,
+      "id_color_confirmado": 1058,
+      "tallas": [
+        {
+          "id_talla": 1333,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175899514208068709184917.jpg",
+        "https://euchelperu.com/images/productos/17589951266832369982888.jpg",
+        "https://euchelperu.com/images/productos/17589951617233175376470.jpg",
+        "https://euchelperu.com/images/productos/175899517596959213459226.jpg",
+        "https://euchelperu.com/images/productos/175899518733676591817304.jpg"
+      ]
+    },
+    {
+      "id_color": 1059,
+      "nombre": "Vino",
+      "precio": 5.0,
+      "id_color_confirmado": 1059,
+      "tallas": [
+        {
+          "id_talla": 1334,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17589951617233175376470.jpg",
+        "https://euchelperu.com/images/productos/17589951266832369982888.jpg",
+        "https://euchelperu.com/images/productos/175899514208068709184917.jpg",
+        "https://euchelperu.com/images/productos/175899517596959213459226.jpg",
+        "https://euchelperu.com/images/productos/175899518733676591817304.jpg"
+      ]
+    },
+    {
+      "id_color": 1060,
+      "nombre": "Rojo",
+      "precio": 5.0,
+      "id_color_confirmado": 1060,
+      "tallas": [
+        {
+          "id_talla": 1335,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175899517596959213459226.jpg",
+        "https://euchelperu.com/images/productos/17589951266832369982888.jpg",
+        "https://euchelperu.com/images/productos/175899514208068709184917.jpg",
+        "https://euchelperu.com/images/productos/17589951617233175376470.jpg",
+        "https://euchelperu.com/images/productos/175899518733676591817304.jpg"
+      ]
+    },
+    {
+      "id_color": 1061,
+      "nombre": "Camel",
+      "precio": 5.0,
+      "id_color_confirmado": 1061,
+      "tallas": [
+        {
+          "id_talla": 1336,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175899518733676591817304.jpg",
+        "https://euchelperu.com/images/productos/17589951266832369982888.jpg",
+        "https://euchelperu.com/images/productos/175899514208068709184917.jpg",
+        "https://euchelperu.com/images/productos/17589951617233175376470.jpg",
+        "https://euchelperu.com/images/productos/175899517596959213459226.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:47:48Z"
+}
