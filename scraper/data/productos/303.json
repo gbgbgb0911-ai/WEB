@@ -1,0 +1,167 @@
+{
+  "id_original": 303,
+  "url_original": "https://euchelperu.com/producto.php?id=303",
+  "nombre": "Blusa Lady Manga Larga",
+  "descripcion": "Blusa con pinzas frontales que realzan la silueta, mangas acampanadas, cuello camisero y botones al frente; elegante y versátil para cualquier ocasión.",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": 59.0,
+  "retailer_item_id": "303BLU19825",
+  "item_group_id": "303",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17568473681431778277020.jpg",
+    "https://euchelperu.com/images/productos/17600522424441671286230.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Blusa Lady Manga Larga",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": 59.0,
+  "colores": [
+    {
+      "id_color": 514,
+      "nombre": "Blanco c/ Plomo",
+      "precio": 59.0,
+      "id_color_confirmado": 514,
+      "tallas": [
+        {
+          "id_talla": 459,
+          "nombre": "Standard"
+        },
+        {
+          "id_talla": 568,
+          "nombre": "Medium"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568473681431778277020.jpg",
+        "https://euchelperu.com/images/productos/17600522424441671286230.jpg"
+      ]
+    },
+    {
+      "id_color": 619,
+      "nombre": "Blanco c/ Celeste",
+      "precio": 59.0,
+      "id_color_confirmado": 619,
+      "tallas": [
+        {
+          "id_talla": 569,
+          "nombre": "Standard"
+        },
+        {
+          "id_talla": 570,
+          "nombre": "Medium"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568473681431778277020.jpg",
+        "https://euchelperu.com/images/productos/17600522424441671286230.jpg"
+      ]
+    },
+    {
+      "id_color": 620,
+      "nombre": "Blanco c/ Beige",
+      "precio": 59.0,
+      "id_color_confirmado": 620,
+      "tallas": [
+        {
+          "id_talla": 571,
+          "nombre": "Standard"
+        },
+        {
+          "id_talla": 572,
+          "nombre": "Medium"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17600522424441671286230.jpg",
+        "https://euchelperu.com/images/productos/17568473681431778277020.jpg"
+      ]
+    },
+    {
+      "id_color": 621,
+      "nombre": "Moca",
+      "precio": 59.0,
+      "id_color_confirmado": 621,
+      "tallas": [
+        {
+          "id_talla": 573,
+          "nombre": "Standard"
+        },
+        {
+          "id_talla": 574,
+          "nombre": "Medium"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568473681431778277020.jpg",
+        "https://euchelperu.com/images/productos/17600522424441671286230.jpg"
+      ]
+    },
+    {
+      "id_color": 624,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 624,
+      "tallas": [
+        {
+          "id_talla": 578,
+          "nombre": "Standard"
+        },
+        {
+          "id_talla": 579,
+          "nombre": "Medium"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568473681431778277020.jpg",
+        "https://euchelperu.com/images/productos/17600522424441671286230.jpg"
+      ]
+    },
+    {
+      "id_color": 625,
+      "nombre": "Beige",
+      "precio": 59.0,
+      "id_color_confirmado": 625,
+      "tallas": [
+        {
+          "id_talla": 580,
+          "nombre": "Standard"
+        },
+        {
+          "id_talla": 581,
+          "nombre": "Medium"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568473681431778277020.jpg",
+        "https://euchelperu.com/images/productos/17600522424441671286230.jpg"
+      ]
+    },
+    {
+      "id_color": 626,
+      "nombre": "Celeste",
+      "precio": 59.0,
+      "id_color_confirmado": 626,
+      "tallas": [
+        {
+          "id_talla": 582,
+          "nombre": "Standard"
+        },
+        {
+          "id_talla": 583,
+          "nombre": "Medium"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568473681431778277020.jpg",
+        "https://euchelperu.com/images/productos/17600522424441671286230.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:57:31Z"
+}

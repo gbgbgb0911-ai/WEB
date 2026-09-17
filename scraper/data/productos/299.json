@@ -1,0 +1,41 @@
+{
+  "id_original": 299,
+  "url_original": "https://euchelperu.com/producto.php?id=299",
+  "nombre": "Set Marmoleado",
+  "descripcion": "Este set con estampado marmoleado es perfecto para un look moderno, sofisticado y con personalidad",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "299SET12085",
+  "item_group_id": "299",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175684690966921205170322.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 510,
+      "nombre": "Único",
+      "precio": 79.0,
+      "id_color_confirmado": 510,
+      "tallas": [
+        {
+          "id_talla": 455,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175684690966921205170322.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:57:09Z"
+}

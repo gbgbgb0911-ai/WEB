@@ -1,0 +1,71 @@
+{
+  "id_original": 304,
+  "url_original": "https://euchelperu.com/producto.php?id=304",
+  "nombre": "Lentes Vintage Lux",
+  "descripcion": "Dale a tu look un toque retro-chic con estos increíbles lentes de sol con forma hexagonal. Su diseño moderno con inspiración vintage y montura dorada los convierte en el accesorio ideal para destacar en cualquier ocasión.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 20.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "304LEN10775",
+  "item_group_id": "304",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686093792727593425357.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Lentes Vintage Lux",
+  "precio_listado_normal": 20.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 515,
+      "nombre": "Color 1",
+      "precio": 20.0,
+      "id_color_confirmado": 515,
+      "tallas": [
+        {
+          "id_talla": 460,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686093792727593425357.jpg"
+      ]
+    },
+    {
+      "id_color": 709,
+      "nombre": "Color 2",
+      "precio": 20.0,
+      "id_color_confirmado": 709,
+      "tallas": [
+        {
+          "id_talla": 933,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686093792727593425357.jpg"
+      ]
+    },
+    {
+      "id_color": 710,
+      "nombre": "Color 3",
+      "precio": 20.0,
+      "id_color_confirmado": 710,
+      "tallas": [
+        {
+          "id_talla": 934,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686093792727593425357.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:58:07Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id_original": 306,
+  "url_original": "https://euchelperu.com/producto.php?id=306",
+  "nombre": "Lentes Crystal Clare",
+  "descripcion": "Estos lentes de sol ovalados combinan un diseño clásico con un toque moderno, ideales para elevar tu look en cualquier ocasión. Son perfectos para quienes aman la moda con personalidad.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 20.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "3062408",
+  "item_group_id": "306",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686082432412268691980.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Lentes Crystal Clare",
+  "precio_listado_normal": 20.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 517,
+      "nombre": "Color 1",
+      "precio": 20.0,
+      "id_color_confirmado": 517,
+      "tallas": [
+        {
+          "id_talla": 462,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686082432412268691980.jpg"
+      ]
+    },
+    {
+      "id_color": 705,
+      "nombre": "Color 2",
+      "precio": 20.0,
+      "id_color_confirmado": 705,
+      "tallas": [
+        {
+          "id_talla": 929,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686082432412268691980.jpg"
+      ]
+    },
+    {
+      "id_color": 706,
+      "nombre": "Color 3",
+      "precio": 20.0,
+      "id_color_confirmado": 706,
+      "tallas": [
+        {
+          "id_talla": 930,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686082432412268691980.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:01:18Z"
+}

@@ -1,0 +1,137 @@
+{
+  "id_original": 320,
+  "url_original": "https://euchelperu.com/producto.php?id=320",
+  "nombre": "Vestido Medusa Tul",
+  "descripcion": "Vestido corto de tul con caída suave y escote tipo tortuga. Ligero, delicado y con un aire etéreo perfecto para destacar.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "320VES99082",
+  "item_group_id": "320",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175692110573101165553180.jpg",
+    "https://euchelperu.com/images/productos/175856540202499724433971.jpg",
+    "https://euchelperu.com/images/productos/175856601005461971941154.jpg",
+    "https://euchelperu.com/images/productos/175856603245933830595858.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 549,
+      "nombre": "Celeste",
+      "precio": 75.0,
+      "id_color_confirmado": 549,
+      "tallas": [
+        {
+          "id_talla": 492,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175692110573101165553180.jpg",
+        "https://euchelperu.com/images/productos/175856540202499724433971.jpg",
+        "https://euchelperu.com/images/productos/175856601005461971941154.jpg",
+        "https://euchelperu.com/images/productos/175856603245933830595858.jpg"
+      ]
+    },
+    {
+      "id_color": 550,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 550,
+      "tallas": [
+        {
+          "id_talla": 493,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175856540202499724433971.jpg",
+        "https://euchelperu.com/images/productos/175692110573101165553180.jpg",
+        "https://euchelperu.com/images/productos/175856601005461971941154.jpg",
+        "https://euchelperu.com/images/productos/175856603245933830595858.jpg"
+      ]
+    },
+    {
+      "id_color": 551,
+      "nombre": "Verde",
+      "precio": 75.0,
+      "id_color_confirmado": 551,
+      "tallas": [
+        {
+          "id_talla": 494,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175692110573101165553180.jpg",
+        "https://euchelperu.com/images/productos/175856540202499724433971.jpg",
+        "https://euchelperu.com/images/productos/175856601005461971941154.jpg",
+        "https://euchelperu.com/images/productos/175856603245933830595858.jpg"
+      ]
+    },
+    {
+      "id_color": 552,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 552,
+      "tallas": [
+        {
+          "id_talla": 495,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175692110573101165553180.jpg",
+        "https://euchelperu.com/images/productos/175856540202499724433971.jpg",
+        "https://euchelperu.com/images/productos/175856601005461971941154.jpg",
+        "https://euchelperu.com/images/productos/175856603245933830595858.jpg"
+      ]
+    },
+    {
+      "id_color": 1010,
+      "nombre": "Vino",
+      "precio": 75.0,
+      "id_color_confirmado": 1010,
+      "tallas": [
+        {
+          "id_talla": 1482,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175856603245933830595858.jpg",
+        "https://euchelperu.com/images/productos/175692110573101165553180.jpg",
+        "https://euchelperu.com/images/productos/175856540202499724433971.jpg",
+        "https://euchelperu.com/images/productos/175856601005461971941154.jpg"
+      ]
+    },
+    {
+      "id_color": 1011,
+      "nombre": "Gris",
+      "precio": 75.0,
+      "id_color_confirmado": 1011,
+      "tallas": [
+        {
+          "id_talla": 1483,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175856601005461971941154.jpg",
+        "https://euchelperu.com/images/productos/175692110573101165553180.jpg",
+        "https://euchelperu.com/images/productos/175856540202499724433971.jpg",
+        "https://euchelperu.com/images/productos/175856603245933830595858.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:08:38Z"
+}

@@ -1,0 +1,96 @@
+{
+  "id_original": 318,
+  "url_original": "https://euchelperu.com/producto.php?id=318",
+  "nombre": "Top Mía Satín",
+  "descripcion": "Blusa satinada sin mangas, de corte largo y amarre al cuello. Elegancia fluida con un toque sofisticado y moderno.",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "318TOP90653",
+  "item_group_id": "318",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175692026374773677918281.jpg",
+    "https://euchelperu.com/images/productos/176264514513474767776984.jpg",
+    "https://euchelperu.com/images/productos/176264550755057851372015.jpg",
+    "https://euchelperu.com/images/productos/176264572253396249279958.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Mía Satín",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 542,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 542,
+      "tallas": [
+        {
+          "id_talla": 485,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175692026374773677918281.jpg",
+        "https://euchelperu.com/images/productos/176264514513474767776984.jpg",
+        "https://euchelperu.com/images/productos/176264550755057851372015.jpg",
+        "https://euchelperu.com/images/productos/176264572253396249279958.jpg"
+      ]
+    },
+    {
+      "id_color": 543,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 543,
+      "tallas": [
+        {
+          "id_talla": 486,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176264550755057851372015.jpg",
+        "https://euchelperu.com/images/productos/175692026374773677918281.jpg",
+        "https://euchelperu.com/images/productos/176264514513474767776984.jpg",
+        "https://euchelperu.com/images/productos/176264572253396249279958.jpg"
+      ]
+    },
+    {
+      "id_color": 545,
+      "nombre": "Rojo",
+      "precio": 45.0,
+      "id_color_confirmado": 545,
+      "tallas": [
+        {
+          "id_talla": 488,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176264514513474767776984.jpg",
+        "https://euchelperu.com/images/productos/175692026374773677918281.jpg",
+        "https://euchelperu.com/images/productos/176264550755057851372015.jpg",
+        "https://euchelperu.com/images/productos/176264572253396249279958.jpg"
+      ]
+    },
+    {
+      "id_color": 1588,
+      "nombre": "Piel",
+      "precio": null,
+      "id_color_confirmado": 1588,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176264572253396249279958.jpg",
+        "https://euchelperu.com/images/productos/175692026374773677918281.jpg",
+        "https://euchelperu.com/images/productos/176264514513474767776984.jpg",
+        "https://euchelperu.com/images/productos/176264550755057851372015.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:04:59Z"
+}

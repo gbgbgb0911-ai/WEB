@@ -1,0 +1,116 @@
+{
+  "id_original": 310,
+  "url_original": "https://euchelperu.com/producto.php?id=310",
+  "nombre": "Casaca Polar Capucha",
+  "descripcion": "Abrígate con estilo con esta cálida y suave chamarra tipo borrego. Ideal para los días fríos, brinda máxima comodidad, su diseño con gorro y ajuste por cordón agrega practicidad y protección adicional. Perfecta para outfits casuales de otoño e invierno.",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "310CAS20825",
+  "item_group_id": "310",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686040271398130184770.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Casaca Polar Capucha",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 521,
+      "nombre": "Camel",
+      "precio": 95.0,
+      "id_color_confirmado": 521,
+      "tallas": [
+        {
+          "id_talla": 466,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686040271398130184770.jpg"
+      ]
+    },
+    {
+      "id_color": 608,
+      "nombre": "Blanco",
+      "precio": 95.0,
+      "id_color_confirmado": 608,
+      "tallas": [
+        {
+          "id_talla": 557,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686040271398130184770.jpg"
+      ]
+    },
+    {
+      "id_color": 609,
+      "nombre": "Plomo",
+      "precio": 95.0,
+      "id_color_confirmado": 609,
+      "tallas": [
+        {
+          "id_talla": 558,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686040271398130184770.jpg"
+      ]
+    },
+    {
+      "id_color": 610,
+      "nombre": "Beige",
+      "precio": 95.0,
+      "id_color_confirmado": 610,
+      "tallas": [
+        {
+          "id_talla": 559,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686040271398130184770.jpg"
+      ]
+    },
+    {
+      "id_color": 611,
+      "nombre": "Negro",
+      "precio": 95.0,
+      "id_color_confirmado": 611,
+      "tallas": [
+        {
+          "id_talla": 560,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686040271398130184770.jpg"
+      ]
+    },
+    {
+      "id_color": 1019,
+      "nombre": "Marrón",
+      "precio": 95.0,
+      "id_color_confirmado": 1019,
+      "tallas": [
+        {
+          "id_talla": 1831,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686040271398130184770.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:02:15Z"
+}

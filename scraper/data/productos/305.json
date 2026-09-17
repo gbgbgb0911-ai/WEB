@@ -1,0 +1,71 @@
+{
+  "id_original": 305,
+  "url_original": "https://euchelperu.com/producto.php?id=305",
+  "nombre": "Lentes Sunny Shades",
+  "descripcion": "Lentes de sol modernos y versátiles, diseñados para combinar con cualquier outfit, estos lentes son el complemento perfecto para un look casual, elegante o urbano.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 20.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "3052406",
+  "item_group_id": "305",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686088681570752763477.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Lentes Sunny Shades",
+  "precio_listado_normal": 20.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 516,
+      "nombre": "Color 1",
+      "precio": 20.0,
+      "id_color_confirmado": 516,
+      "tallas": [
+        {
+          "id_talla": 461,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686088681570752763477.jpg"
+      ]
+    },
+    {
+      "id_color": 707,
+      "nombre": "Color 2",
+      "precio": 20.0,
+      "id_color_confirmado": 707,
+      "tallas": [
+        {
+          "id_talla": 931,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686088681570752763477.jpg"
+      ]
+    },
+    {
+      "id_color": 708,
+      "nombre": "Color 3",
+      "precio": 20.0,
+      "id_color_confirmado": 708,
+      "tallas": [
+        {
+          "id_talla": 932,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686088681570752763477.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:00:14Z"
+}

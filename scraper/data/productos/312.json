@@ -1,0 +1,88 @@
+{
+  "id_original": 312,
+  "url_original": "https://euchelperu.com/producto.php?id=312",
+  "nombre": "Flare Gretel Basta",
+  "descripcion": "Este pantalón flare destaca por su diseño moderno y elegante, con una costura visible en la basta que añade un toque de estilo original sin perder la sencillez. Su corte acampanado equilibra la figura y estiliza las piernas, convirtiéndolo en una prenda versátil que puedes llevar tanto de día como de noche.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "312FGB222",
+  "item_group_id": "312",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175694394874663461868711.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Flare Gretel Basta",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 523,
+      "nombre": "Azul Claro",
+      "precio": 95.0,
+      "id_color_confirmado": 523,
+      "tallas": [
+        {
+          "id_talla": 468,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 549,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 683,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 684,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 685,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175694394874663461868711.jpg"
+      ]
+    },
+    {
+      "id_color": 605,
+      "nombre": "Azul Oscuro",
+      "precio": 95.0,
+      "id_color_confirmado": 605,
+      "tallas": [
+        {
+          "id_talla": 550,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 551,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 552,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 686,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 687,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175694394874663461868711.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:02:35Z"
+}
