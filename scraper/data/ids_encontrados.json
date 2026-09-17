@@ -1,11 +1,222 @@
 {
-  "generado": "2026-09-17T20:17:22Z",
-  "total": 752,
-  "solo_categoria": 752,
-  "solo_barrido": 0,
-  "ambos": 0,
-  "barrido_ejecutado": false,
-  "huerfanos": [],
+  "generado": "2026-09-17T21:41:40Z",
+  "total": 962,
+  "solo_categoria": 0,
+  "solo_barrido": 210,
+  "ambos": 752,
+  "barrido_ejecutado": true,
+  "huerfanos": [
+    9,
+    16,
+    22,
+    24,
+    40,
+    41,
+    42,
+    43,
+    46,
+    47,
+    48,
+    52,
+    53,
+    55,
+    56,
+    57,
+    58,
+    59,
+    69,
+    73,
+    74,
+    75,
+    76,
+    78,
+    79,
+    84,
+    89,
+    95,
+    101,
+    106,
+    107,
+    109,
+    116,
+    118,
+    128,
+    132,
+    134,
+    141,
+    149,
+    151,
+    152,
+    155,
+    156,
+    157,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    180,
+    192,
+    204,
+    206,
+    216,
+    217,
+    219,
+    222,
+    223,
+    224,
+    255,
+    261,
+    262,
+    263,
+    265,
+    267,
+    268,
+    269,
+    270,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    284,
+    286,
+    287,
+    298,
+    299,
+    320,
+    321,
+    326,
+    329,
+    331,
+    332,
+    337,
+    338,
+    339,
+    343,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    352,
+    353,
+    354,
+    356,
+    372,
+    378,
+    382,
+    384,
+    385,
+    388,
+    398,
+    400,
+    401,
+    404,
+    408,
+    410,
+    415,
+    421,
+    422,
+    425,
+    428,
+    438,
+    439,
+    441,
+    442,
+    443,
+    449,
+    450,
+    456,
+    486,
+    499,
+    505,
+    506,
+    508,
+    512,
+    515,
+    517,
+    522,
+    533,
+    540,
+    542,
+    559,
+    570,
+    586,
+    588,
+    597,
+    604,
+    612,
+    621,
+    635,
+    636,
+    638,
+    641,
+    642,
+    644,
+    646,
+    647,
+    649,
+    651,
+    652,
+    653,
+    654,
+    656,
+    677,
+    696,
+    705,
+    710,
+    714,
+    744,
+    745,
+    772,
+    783,
+    784,
+    787,
+    794,
+    795,
+    798,
+    802,
+    808,
+    814,
+    823,
+    841,
+    851,
+    852,
+    854,
+    863,
+    883,
+    932,
+    944,
+    953,
+    990,
+    991,
+    996,
+    1116,
+    1118,
+    1120,
+    1122,
+    1123,
+    1125,
+    1127,
+    1128,
+    1129,
+    1130,
+    1132,
+    1133,
+    1139
+  ],
   "por_categoria": {
     "categoria:2": [
       1221,
@@ -999,730 +1210,1160 @@
   },
   "detalle": [
     {
+      "id": 9,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 16,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 22,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 24,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 25,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 26,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 28,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 29,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 30,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 32,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 33,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 35,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 36,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 37,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
+      "id": 40,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 41,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 42,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 43,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 46,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 47,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 48,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 49,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 51,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
+      "id": 52,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 53,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 55,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 56,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 57,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 58,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 59,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 63,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
+      "id": 69,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 73,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 74,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 75,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 76,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 78,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 79,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 84,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 89,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 92,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "ofertas"
       ]
     },
     {
+      "id": 95,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 97,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9"
       ]
     },
     {
       "id": 99,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2"
       ]
     },
     {
+      "id": 101,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 105,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
+    },
+    {
+      "id": 106,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 107,
+      "origen": "barrido",
+      "fuentes_listado": []
     },
     {
       "id": 108,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
     },
     {
+      "id": 109,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 112,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9"
       ]
     },
     {
       "id": 113,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
     },
     {
+      "id": 116,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 117,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
+      "id": 118,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 120,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:11"
       ]
     },
     {
       "id": 121,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:11"
       ]
     },
     {
       "id": 122,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:11"
       ]
     },
     {
       "id": 123,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:11"
       ]
     },
     {
       "id": 124,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:11"
       ]
     },
     {
       "id": 125,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:11"
       ]
     },
     {
       "id": 126,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:11"
       ]
     },
     {
+      "id": 128,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 132,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 134,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 137,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 138,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 139,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:11"
       ]
     },
     {
+      "id": 141,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 142,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 147,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:11"
       ]
     },
     {
       "id": 148,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:11"
       ]
     },
     {
+      "id": 149,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 151,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 152,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 153,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 154,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
+    },
+    {
+      "id": 155,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 156,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 157,
+      "origen": "barrido",
+      "fuentes_listado": []
     },
     {
       "id": 158,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
+      "id": 159,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 160,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 161,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 162,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 163,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 164,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 165,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 166,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 167,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 168,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 169,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:13"
       ]
     },
     {
       "id": 170,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:13"
       ]
     },
     {
       "id": 171,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:13"
       ]
     },
     {
       "id": 172,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:13"
       ]
     },
     {
       "id": 173,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:13"
       ]
     },
     {
       "id": 174,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:14"
       ]
     },
     {
       "id": 175,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:14"
       ]
     },
     {
       "id": 176,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:14"
       ]
     },
     {
       "id": 177,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:14"
       ]
     },
     {
       "id": 178,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:14"
       ]
     },
     {
       "id": 179,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:14"
       ]
     },
     {
+      "id": 180,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 182,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 183,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 184,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 185,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 186,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 187,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 188,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 189,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 190,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 191,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
+      "id": 192,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 193,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 194,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 195,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 196,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 197,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 198,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 199,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 200,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 201,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 203,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
+      "id": 204,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 206,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 213,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:16"
       ]
     },
     {
       "id": 214,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2"
       ]
     },
     {
+      "id": 216,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 217,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 219,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 222,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 223,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 224,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 225,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 226,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 227,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 228,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 229,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 230,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 231,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 232,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 233,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 234,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 235,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 236,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 237,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 238,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 239,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 240,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 241,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 242,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 243,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 244,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 245,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 246,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 247,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 248,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 249,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 250,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:17"
       ]
     },
     {
       "id": 252,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 254,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
+      "id": 255,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 256,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:14"
       ]
     },
     {
+      "id": 261,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 262,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 263,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 265,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 267,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 268,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 269,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 270,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 273,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 274,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 275,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 276,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 277,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 278,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 279,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 280,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 281,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 282,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 283,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:13"
       ]
     },
     {
+      "id": 284,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 286,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 287,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 288,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:14"
       ]
     },
     {
       "id": 291,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 292,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18"
       ]
     },
     {
       "id": 293,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "ofertas"
@@ -1730,28 +2371,38 @@
     },
     {
       "id": 294,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18"
       ]
     },
     {
       "id": 295,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18"
       ]
     },
     {
       "id": 296,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
+      "id": 298,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 299,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 303,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18",
         "ofertas"
@@ -1759,57 +2410,67 @@
     },
     {
       "id": 304,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 305,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 306,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 307,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 310,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9"
       ]
     },
     {
       "id": 312,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 318,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18",
         "nuevo"
       ]
     },
     {
+      "id": 320,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 321,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 322,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4",
         "nuevo"
@@ -1817,7 +2478,7 @@
     },
     {
       "id": 324,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10",
         "nuevo"
@@ -1825,15 +2486,50 @@
     },
     {
       "id": 325,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
       ]
     },
     {
+      "id": 326,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 329,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 331,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 332,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 337,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 338,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 339,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 341,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo",
@@ -1841,8 +2537,63 @@
       ]
     },
     {
+      "id": 343,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 345,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 346,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 347,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 348,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 349,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 350,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 352,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 353,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 354,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 356,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 359,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:5",
         "nuevo"
@@ -1850,7 +2601,7 @@
     },
     {
       "id": 361,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15",
         "nuevo"
@@ -1858,7 +2609,7 @@
     },
     {
       "id": 362,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15",
         "nuevo"
@@ -1866,7 +2617,7 @@
     },
     {
       "id": 364,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19",
         "nuevo"
@@ -1874,7 +2625,7 @@
     },
     {
       "id": 365,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19",
         "nuevo"
@@ -1882,7 +2633,7 @@
     },
     {
       "id": 366,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19",
         "nuevo"
@@ -1890,7 +2641,7 @@
     },
     {
       "id": 367,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "ofertas"
@@ -1898,7 +2649,7 @@
     },
     {
       "id": 368,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "ofertas"
@@ -1906,7 +2657,7 @@
     },
     {
       "id": 369,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "ofertas"
@@ -1914,7 +2665,7 @@
     },
     {
       "id": 370,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "ofertas"
@@ -1922,15 +2673,20 @@
     },
     {
       "id": 371,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "ofertas"
       ]
     },
     {
+      "id": 372,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 373,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "ofertas"
@@ -1938,7 +2694,7 @@
     },
     {
       "id": 374,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "ofertas"
@@ -1946,61 +2702,121 @@
     },
     {
       "id": 375,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "ofertas"
       ]
     },
     {
+      "id": 378,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 380,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 381,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7",
         "nuevo"
       ]
     },
     {
+      "id": 382,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 384,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 385,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 386,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "ofertas"
       ]
     },
     {
+      "id": 388,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 398,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 399,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7",
         "nuevo"
       ]
     },
     {
+      "id": 400,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 401,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 404,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 408,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 409,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
+      "id": 410,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 414,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
       ]
     },
     {
+      "id": 415,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 416,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -2008,204 +2824,309 @@
     },
     {
       "id": 418,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 420,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
+      "id": 421,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 422,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 425,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 427,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20"
       ]
     },
     {
+      "id": 428,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 429,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
       ]
     },
     {
+      "id": 438,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 439,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 441,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 442,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 443,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 448,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18"
       ]
     },
     {
+      "id": 449,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 450,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 456,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 459,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 462,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 468,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20"
       ]
     },
     {
       "id": 469,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 470,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 471,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 472,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 473,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 480,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 484,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 485,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
+      "id": 486,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 489,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 493,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 496,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 497,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
+      "id": 499,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 500,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 502,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
+      "id": 505,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 506,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 508,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 510,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
+      "id": 512,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 515,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 516,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
+      "id": 517,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 519,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18"
       ]
     },
     {
       "id": 521,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
+      "id": 522,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 523,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 524,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 529,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -2213,99 +3134,124 @@
     },
     {
       "id": 530,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
       ]
     },
     {
+      "id": 533,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 537,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
+      "id": 540,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 542,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 544,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 548,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 549,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 552,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 555,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 556,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18"
       ]
     },
     {
+      "id": 559,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 560,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 561,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 566,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 569,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
+      "id": 570,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 574,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 575,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -2313,14 +3259,14 @@
     },
     {
       "id": 577,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 579,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7",
         "nuevo"
@@ -2328,7 +3274,7 @@
     },
     {
       "id": 580,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -2336,7 +3282,7 @@
     },
     {
       "id": 581,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19",
         "nuevo"
@@ -2344,7 +3290,7 @@
     },
     {
       "id": 583,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -2352,134 +3298,164 @@
     },
     {
       "id": 584,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
       ]
     },
     {
+      "id": 586,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 587,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
+      "id": 588,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 589,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 591,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 595,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 596,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
+      "id": 597,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 598,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 599,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 600,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 602,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
+      "id": 604,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 605,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 608,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 609,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 611,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
+      "id": 612,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 613,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 615,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 617,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20"
       ]
     },
     {
       "id": 618,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20"
       ]
     },
     {
+      "id": 621,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 623,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "nuevo"
@@ -2487,7 +3463,7 @@
     },
     {
       "id": 624,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "nuevo"
@@ -2495,7 +3471,7 @@
     },
     {
       "id": 625,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "nuevo"
@@ -2503,14 +3479,14 @@
     },
     {
       "id": 626,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 627,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "nuevo"
@@ -2518,7 +3494,7 @@
     },
     {
       "id": 628,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "nuevo"
@@ -2526,7 +3502,7 @@
     },
     {
       "id": 629,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "nuevo"
@@ -2534,7 +3510,7 @@
     },
     {
       "id": 630,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21",
         "nuevo"
@@ -2542,86 +3518,156 @@
     },
     {
       "id": 631,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:22"
       ]
     },
     {
       "id": 632,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:22"
       ]
     },
     {
       "id": 633,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:22"
       ]
     },
     {
       "id": 634,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:22"
       ]
+    },
+    {
+      "id": 635,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 636,
+      "origen": "barrido",
+      "fuentes_listado": []
     },
     {
       "id": 637,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:22"
       ]
     },
     {
+      "id": 638,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 641,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 642,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 644,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 645,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12",
         "nuevo"
       ]
+    },
+    {
+      "id": 646,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 647,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 649,
+      "origen": "barrido",
+      "fuentes_listado": []
     },
     {
       "id": 650,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12",
         "nuevo"
       ]
     },
     {
+      "id": 651,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 652,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 653,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 654,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 656,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 659,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 660,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 661,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 662,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 665,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -2629,7 +3675,7 @@
     },
     {
       "id": 666,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -2637,7 +3683,7 @@
     },
     {
       "id": 667,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -2645,7 +3691,7 @@
     },
     {
       "id": 669,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -2653,211 +3699,231 @@
     },
     {
       "id": 670,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 671,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 672,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
+      "id": 677,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 678,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 679,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 680,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 681,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 682,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 683,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 684,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 685,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 686,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 687,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 688,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 689,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 690,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 691,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 692,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 693,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 694,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
       ]
     },
     {
+      "id": 696,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 697,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 698,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 700,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 701,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 703,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 704,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
+      "id": 705,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 706,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 708,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 709,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
+      "id": 710,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 711,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -2865,7 +3931,7 @@
     },
     {
       "id": 712,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -2873,15 +3939,20 @@
     },
     {
       "id": 713,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
       ]
     },
     {
+      "id": 714,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 717,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -2889,7 +3960,7 @@
     },
     {
       "id": 718,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -2897,7 +3968,7 @@
     },
     {
       "id": 720,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -2905,7 +3976,7 @@
     },
     {
       "id": 721,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -2913,7 +3984,7 @@
     },
     {
       "id": 723,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -2921,7 +3992,7 @@
     },
     {
       "id": 724,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -2929,7 +4000,7 @@
     },
     {
       "id": 725,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -2937,7 +4008,7 @@
     },
     {
       "id": 726,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -2945,154 +4016,164 @@
     },
     {
       "id": 728,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 730,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 735,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 736,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 737,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 738,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 739,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 740,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20"
       ]
     },
     {
       "id": 741,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 743,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20"
       ]
     },
     {
+      "id": 744,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 745,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 746,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 747,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 748,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 749,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 751,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 753,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 755,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 756,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 758,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 764,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 767,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 768,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -3100,7 +4181,7 @@
     },
     {
       "id": 769,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -3108,7 +4189,7 @@
     },
     {
       "id": 770,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -3116,15 +4197,20 @@
     },
     {
       "id": 771,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10",
         "nuevo"
       ]
     },
     {
+      "id": 772,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 773,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -3132,7 +4218,7 @@
     },
     {
       "id": 774,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -3140,7 +4226,7 @@
     },
     {
       "id": 776,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -3148,7 +4234,7 @@
     },
     {
       "id": 777,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -3156,7 +4242,7 @@
     },
     {
       "id": 778,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -3164,7 +4250,7 @@
     },
     {
       "id": 779,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -3172,23 +4258,38 @@
     },
     {
       "id": 780,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
       ]
+    },
+    {
+      "id": 783,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 784,
+      "origen": "barrido",
+      "fuentes_listado": []
     },
     {
       "id": 785,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
       ]
     },
     {
+      "id": 787,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 788,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12",
         "nuevo"
@@ -3196,7 +4297,7 @@
     },
     {
       "id": 789,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12",
         "nuevo"
@@ -3204,23 +4305,38 @@
     },
     {
       "id": 793,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12",
         "nuevo"
       ]
     },
     {
+      "id": 794,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 795,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 796,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
       ]
     },
     {
+      "id": 798,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 799,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -3228,15 +4344,20 @@
     },
     {
       "id": 801,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10",
         "nuevo"
       ]
     },
     {
+      "id": 802,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 804,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7",
         "nuevo"
@@ -3244,7 +4365,7 @@
     },
     {
       "id": 805,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7",
         "nuevo"
@@ -3252,15 +4373,20 @@
     },
     {
       "id": 806,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20",
         "nuevo"
       ]
     },
     {
+      "id": 808,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 810,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -3268,7 +4394,7 @@
     },
     {
       "id": 811,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -3276,15 +4402,20 @@
     },
     {
       "id": 812,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:16",
         "nuevo"
       ]
     },
     {
+      "id": 814,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 815,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -3292,7 +4423,7 @@
     },
     {
       "id": 817,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:22",
         "nuevo"
@@ -3300,7 +4431,7 @@
     },
     {
       "id": 818,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:22",
         "nuevo"
@@ -3308,644 +4439,684 @@
     },
     {
       "id": 820,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 822,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20"
       ]
     },
     {
+      "id": 823,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 824,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 825,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 827,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 828,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 829,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 830,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 833,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 834,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 837,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 839,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 840,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
+      "id": 841,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 842,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 843,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18"
       ]
     },
     {
       "id": 844,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 845,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 846,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 847,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 848,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:15"
       ]
     },
     {
       "id": 849,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 850,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
+      "id": 851,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 852,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 853,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
+      "id": 854,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 855,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 857,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 858,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 859,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20"
       ]
     },
     {
       "id": 860,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 861,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 862,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
+      "id": 863,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 864,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 865,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 866,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 867,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 868,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 869,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 870,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 871,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 872,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 873,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 874,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 875,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 876,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 877,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 878,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 879,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 880,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 882,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
+      "id": 883,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 890,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 891,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 892,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 893,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 894,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 895,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 896,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 897,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 899,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 900,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 901,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 903,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 904,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 906,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 908,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 910,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 911,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 912,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 913,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 915,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 916,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 917,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 918,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 919,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 920,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 921,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 922,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 923,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 924,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 925,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 926,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 927,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 928,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 929,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 930,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 931,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
+      "id": 932,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 933,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 934,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 935,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 936,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 938,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 939,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 940,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 942,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -3953,29 +5124,34 @@
     },
     {
       "id": 943,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
       ]
     },
     {
+      "id": 944,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 945,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 946,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 947,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20",
         "nuevo"
@@ -3983,7 +5159,7 @@
     },
     {
       "id": 948,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20",
         "nuevo"
@@ -3991,7 +5167,7 @@
     },
     {
       "id": 949,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -3999,7 +5175,7 @@
     },
     {
       "id": 950,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18",
         "nuevo"
@@ -4007,7 +5183,7 @@
     },
     {
       "id": 951,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20",
         "nuevo"
@@ -4015,15 +5191,20 @@
     },
     {
       "id": 952,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:14",
         "nuevo"
       ]
     },
     {
+      "id": 953,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 954,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12",
         "nuevo"
@@ -4031,7 +5212,7 @@
     },
     {
       "id": 955,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12",
         "nuevo"
@@ -4039,7 +5220,7 @@
     },
     {
       "id": 956,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12",
         "nuevo"
@@ -4047,7 +5228,7 @@
     },
     {
       "id": 957,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12",
         "nuevo"
@@ -4055,42 +5236,42 @@
     },
     {
       "id": 958,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 959,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 960,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 961,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 962,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 964,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -4098,7 +5279,7 @@
     },
     {
       "id": 965,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -4106,7 +5287,7 @@
     },
     {
       "id": 966,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -4114,7 +5295,7 @@
     },
     {
       "id": 967,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -4122,14 +5303,14 @@
     },
     {
       "id": 968,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 969,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -4137,7 +5318,7 @@
     },
     {
       "id": 970,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -4145,7 +5326,7 @@
     },
     {
       "id": 971,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -4153,7 +5334,7 @@
     },
     {
       "id": 972,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -4161,7 +5342,7 @@
     },
     {
       "id": 973,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -4169,7 +5350,7 @@
     },
     {
       "id": 974,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -4177,35 +5358,35 @@
     },
     {
       "id": 977,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 978,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 979,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 980,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 981,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -4213,7 +5394,7 @@
     },
     {
       "id": 982,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -4221,7 +5402,7 @@
     },
     {
       "id": 983,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -4229,7 +5410,7 @@
     },
     {
       "id": 984,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -4237,7 +5418,7 @@
     },
     {
       "id": 986,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -4245,7 +5426,7 @@
     },
     {
       "id": 987,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -4253,50 +5434,65 @@
     },
     {
       "id": 988,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12",
         "nuevo"
       ]
     },
     {
+      "id": 990,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 991,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 992,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 994,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
+      "id": 996,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 997,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 998,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 999,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1000,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7",
         "nuevo"
@@ -4304,7 +5500,7 @@
     },
     {
       "id": 1001,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7",
         "nuevo"
@@ -4312,7 +5508,7 @@
     },
     {
       "id": 1002,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -4320,7 +5516,7 @@
     },
     {
       "id": 1003,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -4328,7 +5524,7 @@
     },
     {
       "id": 1004,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -4336,14 +5532,14 @@
     },
     {
       "id": 1005,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18"
       ]
     },
     {
       "id": 1006,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -4351,42 +5547,42 @@
     },
     {
       "id": 1007,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1008,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1009,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1010,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1011,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1012,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -4394,7 +5590,7 @@
     },
     {
       "id": 1013,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -4402,7 +5598,7 @@
     },
     {
       "id": 1014,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -4410,7 +5606,7 @@
     },
     {
       "id": 1015,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -4418,84 +5614,84 @@
     },
     {
       "id": 1016,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1017,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18"
       ]
     },
     {
       "id": 1018,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:21"
       ]
     },
     {
       "id": 1019,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 1020,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 1021,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 1022,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 1023,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 1025,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 1026,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:19"
       ]
     },
     {
       "id": 1027,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2"
       ]
     },
     {
       "id": 1029,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4",
         "nuevo"
@@ -4503,7 +5699,7 @@
     },
     {
       "id": 1030,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9",
         "nuevo"
@@ -4511,7 +5707,7 @@
     },
     {
       "id": 1031,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -4519,7 +5715,7 @@
     },
     {
       "id": 1032,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9",
         "nuevo"
@@ -4527,7 +5723,7 @@
     },
     {
       "id": 1033,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -4535,679 +5731,744 @@
     },
     {
       "id": 1034,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1035,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1037,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1039,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2"
       ]
     },
     {
       "id": 1041,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2"
       ]
     },
     {
       "id": 1042,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 1043,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1044,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1046,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1047,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1048,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1049,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2"
       ]
     },
     {
       "id": 1050,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2"
       ]
     },
     {
       "id": 1051,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18"
       ]
     },
     {
       "id": 1052,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1053,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
     },
     {
       "id": 1054,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
     },
     {
       "id": 1055,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
     },
     {
       "id": 1056,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
     },
     {
       "id": 1057,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1058,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1059,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1060,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1061,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1062,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1063,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1064,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1065,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1066,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1067,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1068,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1070,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1072,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1073,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 1074,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1076,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1077,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1078,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9"
       ]
     },
     {
       "id": 1079,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1080,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1084,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1085,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1086,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1087,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1088,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1089,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1090,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 1091,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1092,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9"
       ]
     },
     {
       "id": 1093,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1094,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1095,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1096,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1097,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1098,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1099,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1100,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1101,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1102,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 1103,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2"
       ]
     },
     {
       "id": 1105,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
     },
     {
       "id": 1106,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1107,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9"
       ]
     },
     {
       "id": 1108,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 1109,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 1110,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 1111,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
     },
     {
       "id": 1112,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2"
       ]
     },
     {
       "id": 1113,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 1115,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
     },
     {
+      "id": 1116,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 1118,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 1120,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 1122,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 1123,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 1125,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 1127,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 1128,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 1129,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 1130,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 1132,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 1133,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
+      "id": 1139,
+      "origen": "barrido",
+      "fuentes_listado": []
+    },
+    {
       "id": 1143,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1144,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1145,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1146,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1147,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1148,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1149,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1150,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1151,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1152,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1153,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1154,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1155,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1156,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1157,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1158,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1159,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1160,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1161,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1163,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 1164,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9"
       ]
     },
     {
       "id": 1165,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1166,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 1167,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 1168,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9"
       ]
     },
     {
       "id": 1169,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9"
       ]
     },
     {
       "id": 1170,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5215,42 +6476,42 @@
     },
     {
       "id": 1172,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1173,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 1175,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
     },
     {
       "id": 1176,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 1177,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9"
       ]
     },
     {
       "id": 1178,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5258,7 +6519,7 @@
     },
     {
       "id": 1179,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2",
         "nuevo"
@@ -5266,56 +6527,56 @@
     },
     {
       "id": 1180,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2"
       ]
     },
     {
       "id": 1182,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1183,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1184,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1185,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1186,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2"
       ]
     },
     {
       "id": 1187,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1188,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5323,7 +6584,7 @@
     },
     {
       "id": 1189,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5331,7 +6592,7 @@
     },
     {
       "id": 1190,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5339,7 +6600,7 @@
     },
     {
       "id": 1191,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5347,21 +6608,21 @@
     },
     {
       "id": 1192,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1194,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1195,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18",
         "nuevo"
@@ -5369,7 +6630,7 @@
     },
     {
       "id": 1196,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -5377,7 +6638,7 @@
     },
     {
       "id": 1197,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -5385,7 +6646,7 @@
     },
     {
       "id": 1198,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -5393,7 +6654,7 @@
     },
     {
       "id": 1199,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -5401,7 +6662,7 @@
     },
     {
       "id": 1201,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4",
         "nuevo"
@@ -5409,14 +6670,14 @@
     },
     {
       "id": 1202,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
     },
     {
       "id": 1203,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5424,7 +6685,7 @@
     },
     {
       "id": 1204,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5432,7 +6693,7 @@
     },
     {
       "id": 1205,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5440,7 +6701,7 @@
     },
     {
       "id": 1206,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5448,7 +6709,7 @@
     },
     {
       "id": 1207,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5456,7 +6717,7 @@
     },
     {
       "id": 1208,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5464,7 +6725,7 @@
     },
     {
       "id": 1209,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5472,7 +6733,7 @@
     },
     {
       "id": 1210,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5480,7 +6741,7 @@
     },
     {
       "id": 1211,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2",
         "nuevo"
@@ -5488,56 +6749,56 @@
     },
     {
       "id": 1214,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1217,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1218,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2"
       ]
     },
     {
       "id": 1221,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:2"
       ]
     },
     {
       "id": 1223,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1224,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1225,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1226,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5545,7 +6806,7 @@
     },
     {
       "id": 1227,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5553,7 +6814,7 @@
     },
     {
       "id": 1228,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18",
         "nuevo"
@@ -5561,7 +6822,7 @@
     },
     {
       "id": 1229,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5569,7 +6830,7 @@
     },
     {
       "id": 1230,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5577,7 +6838,7 @@
     },
     {
       "id": 1231,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5585,7 +6846,7 @@
     },
     {
       "id": 1232,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5593,7 +6854,7 @@
     },
     {
       "id": 1233,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7",
         "nuevo"
@@ -5601,7 +6862,7 @@
     },
     {
       "id": 1234,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -5609,7 +6870,7 @@
     },
     {
       "id": 1235,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9",
         "nuevo"
@@ -5617,7 +6878,7 @@
     },
     {
       "id": 1236,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5625,7 +6886,7 @@
     },
     {
       "id": 1237,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5633,7 +6894,7 @@
     },
     {
       "id": 1238,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5641,7 +6902,7 @@
     },
     {
       "id": 1239,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5649,7 +6910,7 @@
     },
     {
       "id": 1240,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9",
         "nuevo"
@@ -5657,35 +6918,35 @@
     },
     {
       "id": 1242,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1243,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1244,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1245,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1246,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5693,7 +6954,7 @@
     },
     {
       "id": 1247,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5701,7 +6962,7 @@
     },
     {
       "id": 1248,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5709,7 +6970,7 @@
     },
     {
       "id": 1249,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5717,7 +6978,7 @@
     },
     {
       "id": 1250,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8",
         "nuevo"
@@ -5725,7 +6986,7 @@
     },
     {
       "id": 1251,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5733,7 +6994,7 @@
     },
     {
       "id": 1252,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7",
         "nuevo"
@@ -5741,7 +7002,7 @@
     },
     {
       "id": 1253,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7",
         "nuevo"
@@ -5749,7 +7010,7 @@
     },
     {
       "id": 1254,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -5757,7 +7018,7 @@
     },
     {
       "id": 1255,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9",
         "nuevo"
@@ -5765,7 +7026,7 @@
     },
     {
       "id": 1257,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9",
         "nuevo"
@@ -5773,7 +7034,7 @@
     },
     {
       "id": 1258,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4",
         "nuevo"
@@ -5781,7 +7042,7 @@
     },
     {
       "id": 1259,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7",
         "nuevo"
@@ -5789,7 +7050,7 @@
     },
     {
       "id": 1260,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5797,7 +7058,7 @@
     },
     {
       "id": 1261,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5805,7 +7066,7 @@
     },
     {
       "id": 1262,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5813,7 +7074,7 @@
     },
     {
       "id": 1263,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5821,7 +7082,7 @@
     },
     {
       "id": 1264,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4",
         "nuevo"
@@ -5829,7 +7090,7 @@
     },
     {
       "id": 1265,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3",
         "nuevo"
@@ -5837,7 +7098,7 @@
     },
     {
       "id": 1266,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -5845,7 +7106,7 @@
     },
     {
       "id": 1267,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6",
         "nuevo"
@@ -5853,602 +7114,602 @@
     },
     {
       "id": 1268,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 1269,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1270,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1271,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1272,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1273,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1274,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1275,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:9"
       ]
     },
     {
       "id": 1276,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1277,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1278,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1279,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1280,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1281,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18"
       ]
     },
     {
       "id": 1282,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1283,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:18"
       ]
     },
     {
       "id": 1284,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1285,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1286,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1287,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1288,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1289,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1290,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1291,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:11"
       ]
     },
     {
       "id": 1292,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:16"
       ]
     },
     {
       "id": 1293,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:16"
       ]
     },
     {
       "id": 1294,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20"
       ]
     },
     {
       "id": 1295,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1296,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1297,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:20"
       ]
     },
     {
       "id": 1298,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 1299,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:16"
       ]
     },
     {
       "id": 1300,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1301,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1302,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:5"
       ]
     },
     {
       "id": 1303,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1304,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1305,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1306,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1307,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1308,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1309,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 1310,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1311,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1312,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1313,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1314,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1315,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1316,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 1317,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1318,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1319,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1321,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1322,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1323,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 1325,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:12"
       ]
     },
     {
       "id": 1326,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1327,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 1328,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:6"
       ]
     },
     {
       "id": 1329,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 1330,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 1331,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1332,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1333,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1334,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1335,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1336,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1338,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1339,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:10"
       ]
     },
     {
       "id": 1340,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:8"
       ]
     },
     {
       "id": 1341,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1342,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1343,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
     },
     {
       "id": 1344,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1345,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1348,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1349,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1353,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:7"
       ]
     },
     {
       "id": 1356,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1357,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1358,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1361,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1364,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1365,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
     },
     {
       "id": 1366,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:4"
       ]
     },
     {
       "id": 1367,
-      "origen": "categoria",
+      "origen": "ambos",
       "fuentes_listado": [
         "categoria:3"
       ]
