@@ -1,0 +1,86 @@
+{
+  "id_original": 26,
+  "url_original": "https://euchelperu.com/producto.php?id=26",
+  "nombre": "Pantalón Jean Flare",
+  "descripcion": "El jean flare crea una silueta que alarga visualmente las piernas, combina estilo retro con un look refinado y contemporáneo.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "26FLA83993-28",
+  "item_group_id": "26",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175709732879665243188938.jpg",
+    "https://euchelperu.com/images/productos/175858670516744232052852.jpg",
+    "https://euchelperu.com/images/productos/175858673373738400749393.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "categoria",
+  "nombre_listado": "Pantalón Jean Flare",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 71,
+      "nombre": "tono 1",
+      "precio": 95.0,
+      "id_color_confirmado": 71,
+      "tallas": [
+        {
+          "id_talla": 45,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 46,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 47,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 786,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709732879665243188938.jpg",
+        "https://euchelperu.com/images/productos/175858673373738400749393.jpg",
+        "https://euchelperu.com/images/productos/175858670516744232052852.jpg"
+      ]
+    },
+    {
+      "id_color": 72,
+      "nombre": "tono 2",
+      "precio": 95.0,
+      "id_color_confirmado": 72,
+      "tallas": [
+        {
+          "id_talla": 49,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 50,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 51,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 787,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175858670516744232052852.jpg",
+        "https://euchelperu.com/images/productos/175709732879665243188938.jpg",
+        "https://euchelperu.com/images/productos/175858673373738400749393.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T20:26:41Z"
+}

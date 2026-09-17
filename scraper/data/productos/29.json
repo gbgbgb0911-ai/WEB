@@ -1,0 +1,57 @@
+{
+  "id_original": 29,
+  "url_original": "https://euchelperu.com/producto.php?id=29",
+  "nombre": "Pantalón Wide Reverse Nebula",
+  "descripcion": "Este pantalón jean crea una figura alargada y relajada, también ofrece libertad de movimiento y comodidad. Perfecto para crear un estilo casual chic y actual.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "29REV26",
+  "item_group_id": "29",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175709183167430740737481.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "categoria",
+  "nombre_listado": "Pantalón Wide Reverse Nebula",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 77,
+      "nombre": "Único",
+      "precio": 95.0,
+      "id_color_confirmado": 77,
+      "tallas": [
+        {
+          "id_talla": 67,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 68,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 776,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 777,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 778,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709183167430740737481.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T20:26:45Z"
+}
