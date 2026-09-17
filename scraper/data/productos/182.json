@@ -1,0 +1,41 @@
+{
+  "id_original": 182,
+  "url_original": "https://euchelperu.com/producto.php?id=182",
+  "nombre": "Roller",
+  "descripcion": "Un accesorio elegante y funcional que transforma tu rutina de cuidado facial en un momento de bienestar y frescura.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 17.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "182ROL22169",
+  "item_group_id": "182",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685958853951126923531.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Roller",
+  "precio_listado_normal": 17.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 391,
+      "nombre": "Único",
+      "precio": 17.0,
+      "id_color_confirmado": 391,
+      "tallas": [
+        {
+          "id_talla": 337,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685958853951126923531.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:18:59Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id_original": 161,
+  "url_original": "https://euchelperu.com/producto.php?id=161",
+  "nombre": "Cartera Diva",
+  "descripcion": "Diseño de media luna con costuras decorativas, ideal para la ciudad, oficina o salidas nocturnas con un toque minimalista.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1611824",
+  "item_group_id": "161",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703489585821415899848.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 370,
+      "nombre": "Blanco",
+      "precio": 65.0,
+      "id_color_confirmado": 370,
+      "tallas": [
+        {
+          "id_talla": 316,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703489585821415899848.jpg"
+      ]
+    },
+    {
+      "id_color": 966,
+      "nombre": "Vino",
+      "precio": 65.0,
+      "id_color_confirmado": 966,
+      "tallas": [
+        {
+          "id_talla": 1214,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703489585821415899848.jpg"
+      ]
+    },
+    {
+      "id_color": 967,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 967,
+      "tallas": [
+        {
+          "id_talla": 1215,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703489585821415899848.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:13:15Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 170,
+  "url_original": "https://euchelperu.com/producto.php?id=170",
+  "nombre": "Billetera Aura",
+  "descripcion": "Esta billetera combina estilo y funcionalidad para ofrecerte una experiencia de uso única, es el complemento perfecto para tu día a día.",
+  "categoria": "Billeteras",
+  "categoria_subid": 13,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1701842",
+  "item_group_id": "170",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685893461134471692275.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Billetera Aura",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 379,
+      "nombre": "Único",
+      "precio": 45.0,
+      "id_color_confirmado": 379,
+      "tallas": [
+        {
+          "id_talla": 325,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685893461134471692275.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:14:43Z"
+}

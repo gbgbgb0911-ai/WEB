@@ -1,0 +1,41 @@
+{
+  "id_original": 168,
+  "url_original": "https://euchelperu.com/producto.php?id=168",
+  "nombre": "Billetera Vela",
+  "descripcion": "Dale un toque elegante y moderno a tu día con nuestra billetera , diseñada para mujeres practicas que no quieren renunciar al estilo.",
+  "categoria": "Billeteras",
+  "categoria_subid": 13,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "168IL76157",
+  "item_group_id": "168",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685890396362466574677.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 377,
+      "nombre": "Único",
+      "precio": 45.0,
+      "id_color_confirmado": 377,
+      "tallas": [
+        {
+          "id_talla": 323,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685890396362466574677.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:14:11Z"
+}

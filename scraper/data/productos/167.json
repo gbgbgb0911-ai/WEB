@@ -1,0 +1,41 @@
+{
+  "id_original": 167,
+  "url_original": "https://euchelperu.com/producto.php?id=167",
+  "nombre": "Billetera Classic & Modern",
+  "descripcion": "Descubre la perfecta combinación entre estilo clásico y moderno con nuestra billetera, ideal para quienes valoran la elegancia atemporal sin renunciar a lkka practicidad del día a día.",
+  "categoria": "Billeteras",
+  "categoria_subid": 13,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "167BIL86379",
+  "item_group_id": "167",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17570344592172568941984.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 376,
+      "nombre": "Único",
+      "precio": 45.0,
+      "id_color_confirmado": 376,
+      "tallas": [
+        {
+          "id_talla": 322,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570344592172568941984.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:14:07Z"
+}

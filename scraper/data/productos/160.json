@@ -1,0 +1,71 @@
+{
+  "id_original": 160,
+  "url_original": "https://euchelperu.com/producto.php?id=160",
+  "nombre": "Cartera Muse",
+  "descripcion": "Esta pieza atemporal presenta una silueta rectangular refinada, ideal para combinar comodidad y estilo.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "160CAR86463",
+  "item_group_id": "160",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17570350479995502830537.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 369,
+      "nombre": "Ladrillo",
+      "precio": 59.0,
+      "id_color_confirmado": 369,
+      "tallas": [
+        {
+          "id_talla": 315,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570350479995502830537.jpg"
+      ]
+    },
+    {
+      "id_color": 968,
+      "nombre": "Beige claro",
+      "precio": 59.0,
+      "id_color_confirmado": 968,
+      "tallas": [
+        {
+          "id_talla": 1216,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570350479995502830537.jpg"
+      ]
+    },
+    {
+      "id_color": 969,
+      "nombre": "Beige oscuro",
+      "precio": 59.0,
+      "id_color_confirmado": 969,
+      "tallas": [
+        {
+          "id_talla": 1217,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570350479995502830537.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:12:39Z"
+}

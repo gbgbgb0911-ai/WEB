@@ -1,0 +1,41 @@
+{
+  "id_original": 169,
+  "url_original": "https://euchelperu.com/producto.php?id=169",
+  "nombre": "Billetera Pretty",
+  "descripcion": "Añade un toque de lujo a tu día con esta elegante billetera, diseñada para quienes valoran los pequeños detalles.",
+  "categoria": "Billeteras",
+  "categoria_subid": 13,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1691836",
+  "item_group_id": "169",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703436594513473171102.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Billetera Pretty",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 378,
+      "nombre": "Único",
+      "precio": 45.0,
+      "id_color_confirmado": 378,
+      "tallas": [
+        {
+          "id_talla": 324,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703436594513473171102.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:14:27Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 165,
+  "url_original": "https://euchelperu.com/producto.php?id=165",
+  "nombre": "Baguette Chic",
+  "descripcion": "Ideal para llevar lo esencial con estilo, una apuesta sofisticada para looks urbanos que combina estilo y funcionalidad.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1651830",
+  "item_group_id": "165",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703467405292321750250.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 374,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 374,
+      "tallas": [
+        {
+          "id_talla": 320,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703467405292321750250.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:14:01Z"
+}

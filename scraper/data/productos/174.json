@@ -1,0 +1,86 @@
+{
+  "id_original": 174,
+  "url_original": "https://euchelperu.com/producto.php?id=174",
+  "nombre": "Correa Cowboy",
+  "descripcion": "Una correa pensada para mujeres con personalidad, que integran el espíritu vaquero con un toque moderno y femenino.",
+  "categoria": "Correas",
+  "categoria_subid": 14,
+  "precio_base": 35.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "174Jjhdv",
+  "item_group_id": "174",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17568629006511793661808.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Correa Cowboy",
+  "precio_listado_normal": 35.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 383,
+      "nombre": "Marrón",
+      "precio": 35.0,
+      "id_color_confirmado": 383,
+      "tallas": [
+        {
+          "id_talla": 1185,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568629006511793661808.jpg"
+      ]
+    },
+    {
+      "id_color": 693,
+      "nombre": "Negro",
+      "precio": 35.0,
+      "id_color_confirmado": 693,
+      "tallas": [
+        {
+          "id_talla": 1186,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568629006511793661808.jpg"
+      ]
+    },
+    {
+      "id_color": 694,
+      "nombre": "Beige",
+      "precio": 35.0,
+      "id_color_confirmado": 694,
+      "tallas": [
+        {
+          "id_talla": 1187,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568629006511793661808.jpg"
+      ]
+    },
+    {
+      "id_color": 695,
+      "nombre": "Animal Print",
+      "precio": 35.0,
+      "id_color_confirmado": 695,
+      "tallas": [
+        {
+          "id_talla": 1188,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568629006511793661808.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:15:33Z"
+}

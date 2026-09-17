@@ -1,0 +1,41 @@
+{
+  "id_original": 162,
+  "url_original": "https://euchelperu.com/producto.php?id=162",
+  "nombre": "Cartera Rubi",
+  "descripcion": "Diseño tipo media luna con hebilla decorativa central. Ideal para un look moderno, cómodo y versátil.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 60.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1621825",
+  "item_group_id": "162",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685830187044942518495.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 371,
+      "nombre": "Beige",
+      "precio": 60.0,
+      "id_color_confirmado": 371,
+      "tallas": [
+        {
+          "id_talla": 317,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685830187044942518495.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:13:18Z"
+}

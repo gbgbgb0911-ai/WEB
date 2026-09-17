@@ -1,0 +1,41 @@
+{
+  "id_original": 158,
+  "url_original": "https://euchelperu.com/producto.php?id=158",
+  "nombre": "Cartera Aura",
+  "descripcion": "Ideal para llevar desde documentos y tablet hasta elementos esenciales del día a día con estilo.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 120.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1581821",
+  "item_group_id": "158",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703515013522712966430.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Cartera Aura",
+  "precio_listado_normal": 120.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 367,
+      "nombre": "Ladrillo",
+      "precio": 120.0,
+      "id_color_confirmado": 367,
+      "tallas": [
+        {
+          "id_talla": 313,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703515013522712966430.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:11:18Z"
+}

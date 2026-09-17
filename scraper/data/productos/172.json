@@ -1,0 +1,41 @@
+{
+  "id_original": 172,
+  "url_original": "https://euchelperu.com/producto.php?id=172",
+  "nombre": "Billetera Lady",
+  "descripcion": "Esta pieza es ideal para quienes buscan un accesorio practico para el día a día, sin renunciar a un diseño único y atractivo.",
+  "categoria": "Billeteras",
+  "categoria_subid": 13,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1721845",
+  "item_group_id": "172",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685875381074242760467.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Billetera Lady",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 381,
+      "nombre": "Único",
+      "precio": 45.0,
+      "id_color_confirmado": 381,
+      "tallas": [
+        {
+          "id_talla": 327,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685875381074242760467.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:14:50Z"
+}

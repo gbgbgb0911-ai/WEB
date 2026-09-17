@@ -1,0 +1,41 @@
+{
+  "id_original": 178,
+  "url_original": "https://euchelperu.com/producto.php?id=178",
+  "nombre": "Cinturón Glam",
+  "descripcion": "Esta correa destaca por hebilla innovadora, aporta un toque moderno y sofisticado. Su estructura permite combinarla fácilmente con diferentes estilos de ropa.",
+  "categoria": "Correas",
+  "categoria_subid": 14,
+  "precio_base": 20.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "178COR23378",
+  "item_group_id": "178",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686382299878576694560.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Cinturón Glam",
+  "precio_listado_normal": 20.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 387,
+      "nombre": "Único",
+      "precio": 20.0,
+      "id_color_confirmado": 387,
+      "tallas": [
+        {
+          "id_talla": 333,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686382299878576694560.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:17:13Z"
+}

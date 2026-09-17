@@ -1,0 +1,41 @@
+{
+  "id_original": 183,
+  "url_original": "https://euchelperu.com/producto.php?id=183",
+  "nombre": "Cera Depiladora",
+  "descripcion": "Transforma tu rutina de depilación con nuestra cera depiladora, diseñada para brindarte una piel suave, libre de vello y con resultados que perduran.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 8.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "183CER57336",
+  "item_group_id": "183",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685904542569352072469.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Cera Depiladora",
+  "precio_listado_normal": 8.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 392,
+      "nombre": "Único",
+      "precio": 8.0,
+      "id_color_confirmado": 392,
+      "tallas": [
+        {
+          "id_talla": 338,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685904542569352072469.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:19:02Z"
+}

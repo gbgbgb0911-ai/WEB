@@ -1,0 +1,41 @@
+{
+  "id_original": 171,
+  "url_original": "https://euchelperu.com/producto.php?id=171",
+  "nombre": "Billetera Caprice",
+  "descripcion": "Descubre la elegancia y funcionalidad en esta billetera, diseñada para quienes valoran el estilo y la practicidad. Ideal para uso diario o como regalo especial, esta billetera combina resistencia y moda en un solo accesorio. \\n",
+  "categoria": "Billeteras",
+  "categoria_subid": 13,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "171BIL76157",
+  "item_group_id": "171",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703432152333971289881.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Billetera Caprice",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 380,
+      "nombre": "Único",
+      "precio": 45.0,
+      "id_color_confirmado": 380,
+      "tallas": [
+        {
+          "id_talla": 326,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703432152333971289881.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:14:47Z"
+}

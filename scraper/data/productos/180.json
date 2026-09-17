@@ -1,0 +1,41 @@
+{
+  "id_original": 180,
+  "url_original": "https://euchelperu.com/producto.php?id=180",
+  "nombre": "Rizador",
+  "descripcion": "Descubre una herramienta de belleza esencial que transforma tus pestañas en segundos para una mirada radiante y elegante.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 8.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "180RIZ91569",
+  "item_group_id": "180",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17568595575891548077616.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 389,
+      "nombre": "Único",
+      "precio": 8.0,
+      "id_color_confirmado": 389,
+      "tallas": [
+        {
+          "id_talla": 335,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568595575891548077616.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:18:42Z"
+}

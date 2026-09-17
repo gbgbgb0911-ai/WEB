@@ -1,0 +1,86 @@
+{
+  "id_original": 175,
+  "url_original": "https://euchelperu.com/producto.php?id=175",
+  "nombre": "Correa Golden",
+  "descripcion": "Esta correa es el accesorio ideal para realzar cualquier outfit, ofrece un toque sutil y sofisticado. Su hebilla en metal dorado aporta ese detalle elegante y nunca pasa desapercibido.",
+  "categoria": "Correas",
+  "categoria_subid": 14,
+  "precio_base": 25.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "175COR95794",
+  "item_group_id": "175",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686306835480655873970.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Correa Golden",
+  "precio_listado_normal": 25.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 384,
+      "nombre": "Negro",
+      "precio": 25.0,
+      "id_color_confirmado": 384,
+      "tallas": [
+        {
+          "id_talla": 330,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686306835480655873970.jpg"
+      ]
+    },
+    {
+      "id_color": 931,
+      "nombre": "Marrón",
+      "precio": 25.0,
+      "id_color_confirmado": 931,
+      "tallas": [
+        {
+          "id_talla": 1182,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686306835480655873970.jpg"
+      ]
+    },
+    {
+      "id_color": 932,
+      "nombre": "Topo",
+      "precio": 25.0,
+      "id_color_confirmado": 932,
+      "tallas": [
+        {
+          "id_talla": 1183,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686306835480655873970.jpg"
+      ]
+    },
+    {
+      "id_color": 933,
+      "nombre": "Blanco",
+      "precio": 25.0,
+      "id_color_confirmado": 933,
+      "tallas": [
+        {
+          "id_talla": 1184,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686306835480655873970.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:15:59Z"
+}

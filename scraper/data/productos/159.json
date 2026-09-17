@@ -1,0 +1,41 @@
+{
+  "id_original": 159,
+  "url_original": "https://euchelperu.com/producto.php?id=159",
+  "nombre": "Cartera Lady",
+  "descripcion": "Esta pieza combina una silueta suave y cómoda con acabados elegantes, ideal para uso diario o salidas urbanas.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "159CAR48873",
+  "item_group_id": "159",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703509147378891069292.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 368,
+      "nombre": "Negro",
+      "precio": 79.0,
+      "id_color_confirmado": 368,
+      "tallas": [
+        {
+          "id_talla": 314,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703509147378891069292.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:12:03Z"
+}

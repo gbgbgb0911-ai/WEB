@@ -1,0 +1,41 @@
+{
+  "id_original": 173,
+  "url_original": "https://euchelperu.com/producto.php?id=173",
+  "nombre": "Billetera Diva",
+  "descripcion": "Esta billetera combina un diseño encantador con una funcionalidad práctica, convirtiéndola en el accesorio perfecto para quienes buscan estilo y organización.",
+  "categoria": "Billeteras",
+  "categoria_subid": 13,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "173BIL13689",
+  "item_group_id": "173",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685244106334871571488.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Billetera Diva",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 382,
+      "nombre": "Único",
+      "precio": 49.0,
+      "id_color_confirmado": 382,
+      "tallas": [
+        {
+          "id_talla": 328,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685244106334871571488.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:14:53Z"
+}

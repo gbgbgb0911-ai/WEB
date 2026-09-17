@@ -1,0 +1,41 @@
+{
+  "id_original": 176,
+  "url_original": "https://euchelperu.com/producto.php?id=176",
+  "nombre": "Correa Cadena Plateada",
+  "descripcion": "Esta correa de cadena plateada para mujer combina la sofisticación del metal con la versatilidad del diseño contemporáneo, se adapta perfectamente a diferentes estilos y ocasiones.",
+  "categoria": "Correas",
+  "categoria_subid": 14,
+  "precio_base": 30.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "176COR72396",
+  "item_group_id": "176",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175700306812697194393114.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Correa Cadena Plateada",
+  "precio_listado_normal": 30.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 385,
+      "nombre": "Único",
+      "precio": 30.0,
+      "id_color_confirmado": 385,
+      "tallas": [
+        {
+          "id_talla": 331,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700306812697194393114.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:16:16Z"
+}

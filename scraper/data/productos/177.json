@@ -1,0 +1,86 @@
+{
+  "id_original": 177,
+  "url_original": "https://euchelperu.com/producto.php?id=177",
+  "nombre": "Correa Silver",
+  "descripcion": "Esta correa destaca por su diseño elegante y versátil, l a hebilla metálica plateada añade un toque de sofisticación, convirtiéndola en el accesorio perfecto para complementar cualquier atuendo.",
+  "categoria": "Correas",
+  "categoria_subid": 14,
+  "precio_base": 15.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "177COR52490",
+  "item_group_id": "177",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686261596983824019519.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Correa Silver",
+  "precio_listado_normal": 15.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 386,
+      "nombre": "Negro",
+      "precio": 15.0,
+      "id_color_confirmado": 386,
+      "tallas": [
+        {
+          "id_talla": 332,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686261596983824019519.jpg"
+      ]
+    },
+    {
+      "id_color": 934,
+      "nombre": "Beige",
+      "precio": 15.0,
+      "id_color_confirmado": 934,
+      "tallas": [
+        {
+          "id_talla": 1179,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686261596983824019519.jpg"
+      ]
+    },
+    {
+      "id_color": 935,
+      "nombre": "Crema",
+      "precio": 15.0,
+      "id_color_confirmado": 935,
+      "tallas": [
+        {
+          "id_talla": 1180,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686261596983824019519.jpg"
+      ]
+    },
+    {
+      "id_color": 936,
+      "nombre": "Blanco",
+      "precio": 15.0,
+      "id_color_confirmado": 936,
+      "tallas": [
+        {
+          "id_talla": 1181,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686261596983824019519.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:17:10Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 166,
+  "url_original": "https://euchelperu.com/producto.php?id=166",
+  "nombre": "Cartera Caprice",
+  "descripcion": "Un accesorio elegante y funcional para el día a día o trabajo, ideal para completar un look profesional o moderno con estética refinada-",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 120.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1661831",
+  "item_group_id": "166",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703460308070425880320.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 375,
+      "nombre": "Negro",
+      "precio": 120.0,
+      "id_color_confirmado": 375,
+      "tallas": [
+        {
+          "id_talla": 321,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703460308070425880320.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:14:04Z"
+}

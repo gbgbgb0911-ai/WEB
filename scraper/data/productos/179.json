@@ -1,0 +1,116 @@
+{
+  "id_original": 179,
+  "url_original": "https://euchelperu.com/producto.php?id=179",
+  "nombre": "Correa Aro Plateado",
+  "descripcion": "Esta correa combina un diseño minimalista con clase y profesionalismo, la hebilla redonda de metal plateado aporta un enfoque moderno y sofisticado, convirtiéndola en un accesorio versátil y atemporal.",
+  "categoria": "Correas",
+  "categoria_subid": 14,
+  "precio_base": 20.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "179COR23378",
+  "item_group_id": "179",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703410723103216594019.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Correa Aro Plateado",
+  "precio_listado_normal": 20.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 388,
+      "nombre": "Negro",
+      "precio": 20.0,
+      "id_color_confirmado": 388,
+      "tallas": [
+        {
+          "id_talla": 1126,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703410723103216594019.jpg"
+      ]
+    },
+    {
+      "id_color": 897,
+      "nombre": "Blanco",
+      "precio": 20.0,
+      "id_color_confirmado": 897,
+      "tallas": [
+        {
+          "id_talla": 1127,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703410723103216594019.jpg"
+      ]
+    },
+    {
+      "id_color": 898,
+      "nombre": "Beige",
+      "precio": 20.0,
+      "id_color_confirmado": 898,
+      "tallas": [
+        {
+          "id_talla": 1128,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703410723103216594019.jpg"
+      ]
+    },
+    {
+      "id_color": 899,
+      "nombre": "Marrón",
+      "precio": 20.0,
+      "id_color_confirmado": 899,
+      "tallas": [
+        {
+          "id_talla": 1129,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703410723103216594019.jpg"
+      ]
+    },
+    {
+      "id_color": 900,
+      "nombre": "Vino",
+      "precio": 20.0,
+      "id_color_confirmado": 900,
+      "tallas": [
+        {
+          "id_talla": 1130,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703410723103216594019.jpg"
+      ]
+    },
+    {
+      "id_color": 901,
+      "nombre": "Camel",
+      "precio": 20.0,
+      "id_color_confirmado": 901,
+      "tallas": [
+        {
+          "id_talla": 1131,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703410723103216594019.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:18:39Z"
+}

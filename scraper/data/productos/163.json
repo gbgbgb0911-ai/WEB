@@ -1,0 +1,71 @@
+{
+  "id_original": 163,
+  "url_original": "https://euchelperu.com/producto.php?id=163",
+  "nombre": "Cartera All Posh",
+  "descripcion": "Esta pieza es el complemento perfecto para tu día a día, desde una salida informal hasta un evento elegante.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "163CAR47379",
+  "item_group_id": "163",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685058189847354434560.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 372,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 372,
+      "tallas": [
+        {
+          "id_talla": 318,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685058189847354434560.jpg"
+      ]
+    },
+    {
+      "id_color": 964,
+      "nombre": "Beige oscuro",
+      "precio": 75.0,
+      "id_color_confirmado": 964,
+      "tallas": [
+        {
+          "id_talla": 1212,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685058189847354434560.jpg"
+      ]
+    },
+    {
+      "id_color": 965,
+      "nombre": "Beige claro",
+      "precio": 75.0,
+      "id_color_confirmado": 965,
+      "tallas": [
+        {
+          "id_talla": 1213,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685058189847354434560.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:13:41Z"
+}
