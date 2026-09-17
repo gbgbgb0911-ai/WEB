@@ -1,1 +1,6 @@
 .claude/settings.local.json
+scraper/data/
+scraper/node_modules/
+scraper/package-lock.json
+__pycache__/
+*.pyc

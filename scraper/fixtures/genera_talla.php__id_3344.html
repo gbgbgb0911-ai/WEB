@@ -1,0 +1,47 @@
+<div class="talla">
+    Tallas:
+                <span id="3708" name="spancolor">
+                Standar            </span>
+            <script>
+            $(document).ready(function () {
+                // Función para manejar el clic en un elemento
+                function handleColorClick(idcodigo) {
+                    // Remover todas las clases "sel" y "unsel" de los elementos con name="spancolor"
+                    $("[name='spancolor']").removeClass("sel unsel").addClass("unsel");
+
+                    // Agregar la clase "sel" al elemento clicado y quitarle "unsel"
+                    $(`#${idcodigo}`).removeClass("unsel").addClass("sel");
+
+                    // Actualizar el valor del campo #tallatxt con el ID del elemento clicado
+                    $("#tallatxt").val(idcodigo);
+                }
+
+                // Asignar el evento click al elemento con el ID dinámico
+                const idCodigo = "3708";
+                $(`#${idCodigo}`).on("click", function () {
+                    handleColorClick(idCodigo);
+                });
+            });
+            </script>
+                <script language="JavaScript" type="text/JavaScript">
+    $(document).ready(function () {
+        // Función para inicializar el estado de los elementos
+        function inicializarEstados() {
+            const primerIdCodigo = "3708";
+
+            // Remover todas las clases "sel" y "unsel" de los elementos con name="spancolor"
+            $("[name='spancolor']").removeClass("sel unsel").addClass("unsel");
+
+            // Agregar la clase "sel" al primer elemento y quitarle "unsel"
+            $(`#${primerIdCodigo}`).removeClass("unsel").addClass("sel");
+
+            // Actualizar el valor del campo #tallatxt con el ID del primer elemento
+            $("#tallatxt").val(primerIdCodigo);
+        }
+
+        // Llamar a la función de inicialización
+        inicializarEstados();
+    });
+    </script>
+</div>
+<input type="hidden" name="txt_talla" id="tallatxt">

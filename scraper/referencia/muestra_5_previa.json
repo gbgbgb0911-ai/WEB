@@ -1,0 +1,189 @@
+[
+  {
+    "id_original": 1102,
+    "url_original": "https://euchelperu.com/producto.php?id=1102",
+    "nombre": "SUPLEX FLARE PANTS",
+    "precio": 55.0,
+    "precio_oferta": null,
+    "descripcion": "",
+    "categoria": "Pantalones",
+    "sku": null,
+    "variantes": [
+      {
+        "talla": "Standar",
+        "color": "Marrón",
+        "stock": null
+      },
+      {
+        "talla": "Standar",
+        "color": "Negro",
+        "stock": null
+      },
+      {
+        "talla": "Standar",
+        "color": "ROJO",
+        "stock": null
+      }
+    ],
+    "imagenes": [
+      "https://euchelperu.com/images/productos/177698613645708641868302.jpg",
+      "https://euchelperu.com/images/productos/177716057328282314419462.jpg",
+      "https://euchelperu.com/images/productos/177716086695884936583026.jpg"
+    ],
+    "agotado": false
+  },
+  {
+    "id_original": 28,
+    "url_original": "https://euchelperu.com/producto.php?id=28",
+    "nombre": "Pantalón Jean Wide Leg Vintage",
+    "precio": 95.0,
+    "precio_oferta": null,
+    "descripcion": "Este pantalón jean ofrece comodidad, libertad de movimiento y un estilo retro moderno que estiliza y alarga visualmente la figura.",
+    "categoria": "Pantalones",
+    "sku": null,
+    "variantes": [
+      {
+        "talla": "24",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "26",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "28",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "30",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "32",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "34",
+        "color": "Único",
+        "stock": null
+      }
+    ],
+    "imagenes": [
+      "https://euchelperu.com/images/productos/175709222113467341082752.jpg"
+    ],
+    "agotado": false
+  },
+  {
+    "id_original": 29,
+    "url_original": "https://euchelperu.com/producto.php?id=29",
+    "nombre": "Pantalón Wide Reverse Nebula",
+    "precio": 95.0,
+    "precio_oferta": null,
+    "descripcion": "Este pantalón jean crea una figura alargada y relajada, también ofrece libertad de movimiento y comodidad. Perfecto para crear un estilo casual chic y actual.",
+    "categoria": "Pantalones",
+    "sku": null,
+    "variantes": [
+      {
+        "talla": "26",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "28",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "30",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "32",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "34",
+        "color": "Único",
+        "stock": null
+      }
+    ],
+    "imagenes": [
+      "https://euchelperu.com/images/productos/175709183167430740737481.jpg"
+    ],
+    "agotado": false
+  },
+  {
+    "id_original": 37,
+    "url_original": "https://euchelperu.com/producto.php?id=37",
+    "nombre": "Wide Leg Jean Verdoso",
+    "precio": 79.0,
+    "precio_oferta": null,
+    "descripcion": "Este pantalón jean permite una silueta fluida y relajada, perfecta para quienes buscan comodidad con carácter.",
+    "categoria": "Pantalones",
+    "sku": null,
+    "variantes": [
+      {
+        "talla": "26",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "28",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "30",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "32",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "34",
+        "color": "Único",
+        "stock": null
+      }
+    ],
+    "imagenes": [
+      "https://euchelperu.com/images/productos/175709114494293316721051.jpg"
+    ],
+    "agotado": false
+  },
+  {
+    "id_original": 113,
+    "url_original": "https://euchelperu.com/producto.php?id=113",
+    "nombre": "Chompa Polar Valeria",
+    "precio": 55.0,
+    "precio_oferta": null,
+    "descripcion": "Ideal para mantenerte abrigada durante las temporadas de frío.",
+    "categoria": "Sweaters",
+    "sku": null,
+    "variantes": [
+      {
+        "talla": "S",
+        "color": "Único",
+        "stock": null
+      },
+      {
+        "talla": "M",
+        "color": "Único",
+        "stock": null
+      }
+    ],
+    "imagenes": [
+      "https://euchelperu.com/images/productos/175708831341097106942180.jpg"
+    ],
+    "agotado": false
+  }
+]

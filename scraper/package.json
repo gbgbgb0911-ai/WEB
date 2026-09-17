@@ -1,0 +1,12 @@
+{
+  "name": "euchel-extraccion-imagenes",
+  "private": true,
+  "type": "module",
+  "description": "Tarea 3 de la extraccion de euchelperu.com: descarga y conversion a WebP",
+  "scripts": {
+    "imagenes": "node imagenes.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
