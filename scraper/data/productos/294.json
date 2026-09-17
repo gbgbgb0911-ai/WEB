@@ -1,0 +1,75 @@
+{
+  "id_original": 294,
+  "url_original": "https://euchelperu.com/producto.php?id=294",
+  "nombre": "Blusa lentejuelas",
+  "descripcion": "Blusa con escote y lentejuelas, espalda descubierta y brillo perfecto para destacar en tus noches especiales.",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "294BLU13085",
+  "item_group_id": "294",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175684705682287289892618.jpg",
+    "https://euchelperu.com/images/productos/176004806145995186242220.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Blusa lentejuelas",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 505,
+      "nombre": "Verde",
+      "precio": 49.0,
+      "id_color_confirmado": 505,
+      "tallas": [
+        {
+          "id_talla": 450,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175684705682287289892618.jpg",
+        "https://euchelperu.com/images/productos/176004806145995186242220.jpg"
+      ]
+    },
+    {
+      "id_color": 715,
+      "nombre": "Vino",
+      "precio": 49.0,
+      "id_color_confirmado": 715,
+      "tallas": [
+        {
+          "id_talla": 939,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175684705682287289892618.jpg",
+        "https://euchelperu.com/images/productos/176004806145995186242220.jpg"
+      ]
+    },
+    {
+      "id_color": 716,
+      "nombre": "Celeste",
+      "precio": 49.0,
+      "id_color_confirmado": 716,
+      "tallas": [
+        {
+          "id_talla": 940,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176004806145995186242220.jpg",
+        "https://euchelperu.com/images/productos/175684705682287289892618.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:51:15Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id_original": 293,
+  "url_original": "https://euchelperu.com/producto.php?id=293",
+  "nombre": "Top piel y2k",
+  "descripcion": "Top con escote pronunciado, amarre al cuello y suave textura de piel de durazno. Ideal para un look sensual y elegante.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 29.0,
+  "moneda": "PEN",
+  "precio_oferta": 45.0,
+  "retailer_item_id": "293TOP13085",
+  "item_group_id": "293",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175684719001252554379794.jpg",
+    "https://euchelperu.com/images/productos/175849729001902216561128.jpg",
+    "https://euchelperu.com/images/productos/175858002441542102335186.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top piel y2k",
+  "precio_listado_normal": 29.0,
+  "precio_listado_oferta": 45.0,
+  "colores": [
+    {
+      "id_color": 504,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 504,
+      "tallas": [
+        {
+          "id_talla": 449,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175684719001252554379794.jpg",
+        "https://euchelperu.com/images/productos/175849729001902216561128.jpg",
+        "https://euchelperu.com/images/productos/175858002441542102335186.jpg"
+      ]
+    },
+    {
+      "id_color": 719,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 719,
+      "tallas": [
+        {
+          "id_talla": 944,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175858002441542102335186.jpg",
+        "https://euchelperu.com/images/productos/175684719001252554379794.jpg",
+        "https://euchelperu.com/images/productos/175849729001902216561128.jpg"
+      ]
+    },
+    {
+      "id_color": 720,
+      "nombre": "Azul",
+      "precio": 45.0,
+      "id_color_confirmado": 720,
+      "tallas": [
+        {
+          "id_talla": 945,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175684719001252554379794.jpg",
+        "https://euchelperu.com/images/productos/175849729001902216561128.jpg",
+        "https://euchelperu.com/images/productos/175858002441542102335186.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:51:05Z"
+}
