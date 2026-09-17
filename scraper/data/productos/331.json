@@ -1,0 +1,59 @@
+{
+  "id_original": 331,
+  "url_original": "https://euchelperu.com/producto.php?id=331",
+  "nombre": "Vestido Meli Copa Aro",
+  "descripcion": "Vestido largo ceñido al cuerpo con detalle de aro en el centro y escote marcado, confeccionado en un tejido suave. Un look sofisticado y lleno de estilo.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "331VES79619",
+  "item_group_id": "331",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175954018703864758265321.jpg",
+    "https://euchelperu.com/images/productos/175954044702116505461826.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 592,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 592,
+      "tallas": [
+        {
+          "id_talla": 540,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175954044702116505461826.jpg",
+        "https://euchelperu.com/images/productos/175954018703864758265321.jpg"
+      ]
+    },
+    {
+      "id_color": 595,
+      "nombre": "Marrón",
+      "precio": 69.0,
+      "id_color_confirmado": 595,
+      "tallas": [
+        {
+          "id_talla": 543,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175954018703864758265321.jpg",
+        "https://euchelperu.com/images/productos/175954044702116505461826.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:20:13Z"
+}

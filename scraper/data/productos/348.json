@@ -1,0 +1,59 @@
+{
+  "id_original": 348,
+  "url_original": "https://euchelperu.com/producto.php?id=348",
+  "nombre": "Tote Urbelle bag",
+  "descripcion": "Diseño estructurado, amplio y con carácter. Ideal para llevarlo a la oficina o para un día de agenda llena, sin perder el estilo.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "34811111",
+  "item_group_id": "348",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1757702025219537899901.jpg",
+    "https://euchelperu.com/images/productos/175770203829136258065523.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 817,
+      "nombre": "Marrón",
+      "precio": 95.0,
+      "id_color_confirmado": 817,
+      "tallas": [
+        {
+          "id_talla": 1046,
+          "nombre": "Tosu Grace"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1757702025219537899901.jpg",
+        "https://euchelperu.com/images/productos/175770203829136258065523.jpg"
+      ]
+    },
+    {
+      "id_color": 818,
+      "nombre": "Negro",
+      "precio": 95.0,
+      "id_color_confirmado": 818,
+      "tallas": [
+        {
+          "id_talla": 1047,
+          "nombre": "Tosu Grace"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175770203829136258065523.jpg",
+        "https://euchelperu.com/images/productos/1757702025219537899901.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:24:26Z"
+}

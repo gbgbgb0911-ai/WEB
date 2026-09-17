@@ -1,0 +1,59 @@
+{
+  "id_original": 350,
+  "url_original": "https://euchelperu.com/producto.php?id=350",
+  "nombre": "Vintage Siena bag",
+  "descripcion": "Vintage Siena combina diseño clásico con funcionalidad moderna. Perfecta para quienes buscan un estilo sofisticado con un toque retro.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "350899",
+  "item_group_id": "350",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175770272554843244589527.jpg",
+    "https://euchelperu.com/images/productos/175770273735565936367389.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 821,
+      "nombre": "Negro",
+      "precio": 89.0,
+      "id_color_confirmado": 821,
+      "tallas": [
+        {
+          "id_talla": 1050,
+          "nombre": "Clasp bag"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175770272554843244589527.jpg",
+        "https://euchelperu.com/images/productos/175770273735565936367389.jpg"
+      ]
+    },
+    {
+      "id_color": 822,
+      "nombre": "Marrón",
+      "precio": 89.0,
+      "id_color_confirmado": 822,
+      "tallas": [
+        {
+          "id_talla": 1051,
+          "nombre": "Clasp bag"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175770273735565936367389.jpg",
+        "https://euchelperu.com/images/productos/175770272554843244589527.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:25:18Z"
+}

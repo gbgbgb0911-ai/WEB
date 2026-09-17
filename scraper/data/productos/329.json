@@ -1,0 +1,101 @@
+{
+  "id_original": 329,
+  "url_original": "https://euchelperu.com/producto.php?id=329",
+  "nombre": "Cardigan Emily",
+  "descripcion": "Cardigan tejido de hilo con corte liviano y detalle de botones dorados al frente. Ideal para elevar tus looks con un toque sofisticado.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "329CAR22451",
+  "item_group_id": "329",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175693685436027262885107.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 583,
+      "nombre": "Beige",
+      "precio": 59.0,
+      "id_color_confirmado": 583,
+      "tallas": [
+        {
+          "id_talla": 526,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693685436027262885107.jpg"
+      ]
+    },
+    {
+      "id_color": 584,
+      "nombre": "Rojo",
+      "precio": 59.0,
+      "id_color_confirmado": 584,
+      "tallas": [
+        {
+          "id_talla": 527,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693685436027262885107.jpg"
+      ]
+    },
+    {
+      "id_color": 585,
+      "nombre": "Azul marino",
+      "precio": 59.0,
+      "id_color_confirmado": 585,
+      "tallas": [
+        {
+          "id_talla": 528,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693685436027262885107.jpg"
+      ]
+    },
+    {
+      "id_color": 586,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 586,
+      "tallas": [
+        {
+          "id_talla": 529,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693685436027262885107.jpg"
+      ]
+    },
+    {
+      "id_color": 587,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 587,
+      "tallas": [
+        {
+          "id_talla": 530,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693685436027262885107.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:19:53Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id_original": 347,
+  "url_original": "https://euchelperu.com/producto.php?id=347",
+  "nombre": "Kuna bag",
+  "descripcion": "Un bolso amplio, ligero y versátil. Perfecto para acompañarte al trabajo, clases o donde quieras con estilo y comodidad.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 139.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "347CAR7777866",
+  "item_group_id": "347",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175770069472827338488445.jpg",
+    "https://euchelperu.com/images/productos/175770070883824154528794.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 815,
+      "nombre": "Marrón",
+      "precio": 139.0,
+      "id_color_confirmado": 815,
+      "tallas": [
+        {
+          "id_talla": 1044,
+          "nombre": "Kairo Taupe"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175770069472827338488445.jpg",
+        "https://euchelperu.com/images/productos/175770070883824154528794.jpg"
+      ]
+    },
+    {
+      "id_color": 816,
+      "nombre": "Negro",
+      "precio": 139.0,
+      "id_color_confirmado": 816,
+      "tallas": [
+        {
+          "id_talla": 1045,
+          "nombre": "Kairo Taupe"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175770070883824154528794.jpg",
+        "https://euchelperu.com/images/productos/175770069472827338488445.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:23:53Z"
+}

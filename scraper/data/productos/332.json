@@ -1,0 +1,113 @@
+{
+  "id_original": 332,
+  "url_original": "https://euchelperu.com/producto.php?id=332",
+  "nombre": "Polera Volkisch",
+  "descripcion": "Polera oversize con diseño ‘Volkisch’, perfecta para un estilo cómodo y con personalidad única.",
+  "categoria": "Poleras",
+  "categoria_subid": 5,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "332POL11547",
+  "item_group_id": "332",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175693678304921521524763.jpg",
+    "https://euchelperu.com/images/productos/17594329390657663075326.jpg",
+    "https://euchelperu.com/images/productos/175943297543108628035920.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 599,
+      "nombre": "Azul Acero",
+      "precio": 65.0,
+      "id_color_confirmado": 599,
+      "tallas": [
+        {
+          "id_talla": 537,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693678304921521524763.jpg",
+        "https://euchelperu.com/images/productos/17594329390657663075326.jpg",
+        "https://euchelperu.com/images/productos/175943297543108628035920.jpg"
+      ]
+    },
+    {
+      "id_color": 601,
+      "nombre": "Marrón",
+      "precio": 65.0,
+      "id_color_confirmado": 601,
+      "tallas": [
+        {
+          "id_talla": 538,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693678304921521524763.jpg",
+        "https://euchelperu.com/images/productos/17594329390657663075326.jpg",
+        "https://euchelperu.com/images/productos/175943297543108628035920.jpg"
+      ]
+    },
+    {
+      "id_color": 602,
+      "nombre": "Verde Botella",
+      "precio": 65.0,
+      "id_color_confirmado": 602,
+      "tallas": [
+        {
+          "id_talla": 539,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693678304921521524763.jpg",
+        "https://euchelperu.com/images/productos/17594329390657663075326.jpg",
+        "https://euchelperu.com/images/productos/175943297543108628035920.jpg"
+      ]
+    },
+    {
+      "id_color": 627,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 627,
+      "tallas": [
+        {
+          "id_talla": 595,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175943297543108628035920.jpg",
+        "https://euchelperu.com/images/productos/175693678304921521524763.jpg",
+        "https://euchelperu.com/images/productos/17594329390657663075326.jpg"
+      ]
+    },
+    {
+      "id_color": 628,
+      "nombre": "Blanco",
+      "precio": 65.0,
+      "id_color_confirmado": 628,
+      "tallas": [
+        {
+          "id_talla": 596,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17594329390657663075326.jpg",
+        "https://euchelperu.com/images/productos/175693678304921521524763.jpg",
+        "https://euchelperu.com/images/productos/175943297543108628035920.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:20:42Z"
+}

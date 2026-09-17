@@ -1,0 +1,79 @@
+{
+  "id_original": 343,
+  "url_original": "https://euchelperu.com/producto.php?id=343",
+  "nombre": "Casaca Zenit Cuerina",
+  "descripcion": "Bomber crop en cuerina con cuello camisero y pretina fruncida. El match perfecto para un look fresco, trendy y lleno de actitud.",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 125.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "343CAS32738",
+  "item_group_id": "343",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175848830624241352717988.jpg",
+    "https://euchelperu.com/images/productos/175864457134067803364825.jpg",
+    "https://euchelperu.com/images/productos/175864460081656166147811.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 682,
+      "nombre": "Negro",
+      "precio": 125.0,
+      "id_color_confirmado": 682,
+      "tallas": [
+        {
+          "id_talla": 909,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175848830624241352717988.jpg",
+        "https://euchelperu.com/images/productos/175864457134067803364825.jpg",
+        "https://euchelperu.com/images/productos/175864460081656166147811.jpg"
+      ]
+    },
+    {
+      "id_color": 683,
+      "nombre": "Marrón",
+      "precio": 125.0,
+      "id_color_confirmado": 683,
+      "tallas": [
+        {
+          "id_talla": 910,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175864457134067803364825.jpg",
+        "https://euchelperu.com/images/productos/175848830624241352717988.jpg",
+        "https://euchelperu.com/images/productos/175864460081656166147811.jpg"
+      ]
+    },
+    {
+      "id_color": 684,
+      "nombre": "Vino",
+      "precio": 125.0,
+      "id_color_confirmado": 684,
+      "tallas": [
+        {
+          "id_talla": 911,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175864460081656166147811.jpg",
+        "https://euchelperu.com/images/productos/175848830624241352717988.jpg",
+        "https://euchelperu.com/images/productos/175864457134067803364825.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:21:47Z"
+}

@@ -1,0 +1,130 @@
+{
+  "id_original": 326,
+  "url_original": "https://euchelperu.com/producto.php?id=326",
+  "nombre": "Vestido Gabriela Copa Tul",
+  "descripcion": "Vestido corto de tul con escote pronunciado, copa estructurada y amarre al cuello. Femenino, delicado y perfecto para destacar.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "326VES47579",
+  "item_group_id": "326",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175693687655030959215182.jpg",
+    "https://euchelperu.com/images/productos/175953554549584125172028.jpg",
+    "https://euchelperu.com/images/productos/175953559532656930059965.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 567,
+      "nombre": "Azul Eléctrico",
+      "precio": 65.0,
+      "id_color_confirmado": 567,
+      "tallas": [
+        {
+          "id_talla": 510,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693687655030959215182.jpg",
+        "https://euchelperu.com/images/productos/175953554549584125172028.jpg",
+        "https://euchelperu.com/images/productos/175953559532656930059965.jpg"
+      ]
+    },
+    {
+      "id_color": 568,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 568,
+      "tallas": [
+        {
+          "id_talla": 511,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693687655030959215182.jpg",
+        "https://euchelperu.com/images/productos/175953554549584125172028.jpg",
+        "https://euchelperu.com/images/productos/175953559532656930059965.jpg"
+      ]
+    },
+    {
+      "id_color": 569,
+      "nombre": "Verde Botella",
+      "precio": 65.0,
+      "id_color_confirmado": 569,
+      "tallas": [
+        {
+          "id_talla": 512,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175953559532656930059965.jpg",
+        "https://euchelperu.com/images/productos/175693687655030959215182.jpg",
+        "https://euchelperu.com/images/productos/175953554549584125172028.jpg"
+      ]
+    },
+    {
+      "id_color": 570,
+      "nombre": "Print Rojo",
+      "precio": 65.0,
+      "id_color_confirmado": 570,
+      "tallas": [
+        {
+          "id_talla": 513,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175953554549584125172028.jpg",
+        "https://euchelperu.com/images/productos/175693687655030959215182.jpg",
+        "https://euchelperu.com/images/productos/175953559532656930059965.jpg"
+      ]
+    },
+    {
+      "id_color": 571,
+      "nombre": "Print Verde",
+      "precio": 65.0,
+      "id_color_confirmado": 571,
+      "tallas": [
+        {
+          "id_talla": 514,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693687655030959215182.jpg",
+        "https://euchelperu.com/images/productos/175953554549584125172028.jpg",
+        "https://euchelperu.com/images/productos/175953559532656930059965.jpg"
+      ]
+    },
+    {
+      "id_color": 572,
+      "nombre": "Print Turquesa",
+      "precio": 65.0,
+      "id_color_confirmado": 572,
+      "tallas": [
+        {
+          "id_talla": 515,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693687655030959215182.jpg",
+        "https://euchelperu.com/images/productos/175953554549584125172028.jpg",
+        "https://euchelperu.com/images/productos/175953559532656930059965.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:17:55Z"
+}

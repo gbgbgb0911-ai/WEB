@@ -1,0 +1,79 @@
+{
+  "id_original": 337,
+  "url_original": "https://euchelperu.com/producto.php?id=337",
+  "nombre": "Casaca Zenit Oversize",
+  "descripcion": "Casaca de cuerina oversize con bolsillos laterales y pretina elástica. Ideal para elevar cualquier look con un toque moderno.",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 145.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "337CAS55923",
+  "item_group_id": "337",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17575479614287437415094.jpg",
+    "https://euchelperu.com/images/productos/175864568791304762223426.jpg",
+    "https://euchelperu.com/images/productos/175864570085720429141597.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 645,
+      "nombre": "Vino",
+      "precio": 145.0,
+      "id_color_confirmado": 645,
+      "tallas": [
+        {
+          "id_talla": 869,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17575479614287437415094.jpg",
+        "https://euchelperu.com/images/productos/175864568791304762223426.jpg",
+        "https://euchelperu.com/images/productos/175864570085720429141597.jpg"
+      ]
+    },
+    {
+      "id_color": 646,
+      "nombre": "Negro",
+      "precio": 145.0,
+      "id_color_confirmado": 646,
+      "tallas": [
+        {
+          "id_talla": 870,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175864568791304762223426.jpg",
+        "https://euchelperu.com/images/productos/17575479614287437415094.jpg",
+        "https://euchelperu.com/images/productos/175864570085720429141597.jpg"
+      ]
+    },
+    {
+      "id_color": 647,
+      "nombre": "Marrón",
+      "precio": 145.0,
+      "id_color_confirmado": 647,
+      "tallas": [
+        {
+          "id_talla": 871,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175864570085720429141597.jpg",
+        "https://euchelperu.com/images/productos/17575479614287437415094.jpg",
+        "https://euchelperu.com/images/productos/175864568791304762223426.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:20:52Z"
+}

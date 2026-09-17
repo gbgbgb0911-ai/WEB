@@ -1,0 +1,151 @@
+{
+  "id_original": 322,
+  "url_original": "https://euchelperu.com/producto.php?id=322",
+  "nombre": "Chompa Ojal Laly",
+  "descripcion": "Chompita de hilo con cuello ojal, suave y ligera. Un básico versátil para combinar en cualquier temporada.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "322CHO22621",
+  "item_group_id": "322",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175830483635627700289334.png",
+    "https://euchelperu.com/images/productos/175848588946649827555241.jpg",
+    "https://euchelperu.com/images/productos/176291024302950207988495.png",
+    "https://euchelperu.com/images/productos/17629104861477136674608.png",
+    "https://euchelperu.com/images/productos/176291081825476511436599.png",
+    "https://euchelperu.com/images/productos/176291100367420727756979.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Chompa Ojal Laly",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 556,
+      "nombre": "Vino",
+      "precio": 55.0,
+      "id_color_confirmado": 556,
+      "tallas": [
+        {
+          "id_talla": 499,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175848588946649827555241.jpg",
+        "https://euchelperu.com/images/productos/175830483635627700289334.png",
+        "https://euchelperu.com/images/productos/176291024302950207988495.png",
+        "https://euchelperu.com/images/productos/17629104861477136674608.png",
+        "https://euchelperu.com/images/productos/176291081825476511436599.png",
+        "https://euchelperu.com/images/productos/176291100367420727756979.png"
+      ]
+    },
+    {
+      "id_color": 557,
+      "nombre": "Beige claro",
+      "precio": 55.0,
+      "id_color_confirmado": 557,
+      "tallas": [
+        {
+          "id_talla": 500,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176291100367420727756979.png",
+        "https://euchelperu.com/images/productos/175830483635627700289334.png",
+        "https://euchelperu.com/images/productos/175848588946649827555241.jpg",
+        "https://euchelperu.com/images/productos/176291024302950207988495.png",
+        "https://euchelperu.com/images/productos/17629104861477136674608.png",
+        "https://euchelperu.com/images/productos/176291081825476511436599.png"
+      ]
+    },
+    {
+      "id_color": 558,
+      "nombre": "Beige oscuro",
+      "precio": 55.0,
+      "id_color_confirmado": 558,
+      "tallas": [
+        {
+          "id_talla": 501,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175830483635627700289334.png",
+        "https://euchelperu.com/images/productos/175848588946649827555241.jpg",
+        "https://euchelperu.com/images/productos/176291024302950207988495.png",
+        "https://euchelperu.com/images/productos/17629104861477136674608.png",
+        "https://euchelperu.com/images/productos/176291081825476511436599.png",
+        "https://euchelperu.com/images/productos/176291100367420727756979.png"
+      ]
+    },
+    {
+      "id_color": 919,
+      "nombre": "Marron",
+      "precio": 55.0,
+      "id_color_confirmado": 919,
+      "tallas": [
+        {
+          "id_talla": 1163,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176291024302950207988495.png",
+        "https://euchelperu.com/images/productos/175830483635627700289334.png",
+        "https://euchelperu.com/images/productos/175848588946649827555241.jpg",
+        "https://euchelperu.com/images/productos/17629104861477136674608.png",
+        "https://euchelperu.com/images/productos/176291081825476511436599.png",
+        "https://euchelperu.com/images/productos/176291100367420727756979.png"
+      ]
+    },
+    {
+      "id_color": 920,
+      "nombre": "Gris",
+      "precio": 55.0,
+      "id_color_confirmado": 920,
+      "tallas": [
+        {
+          "id_talla": 1164,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17629104861477136674608.png",
+        "https://euchelperu.com/images/productos/175830483635627700289334.png",
+        "https://euchelperu.com/images/productos/175848588946649827555241.jpg",
+        "https://euchelperu.com/images/productos/176291024302950207988495.png",
+        "https://euchelperu.com/images/productos/176291081825476511436599.png",
+        "https://euchelperu.com/images/productos/176291100367420727756979.png"
+      ]
+    },
+    {
+      "id_color": 1199,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 1199,
+      "tallas": [
+        {
+          "id_talla": 1463,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176291081825476511436599.png",
+        "https://euchelperu.com/images/productos/175830483635627700289334.png",
+        "https://euchelperu.com/images/productos/175848588946649827555241.jpg",
+        "https://euchelperu.com/images/productos/176291024302950207988495.png",
+        "https://euchelperu.com/images/productos/17629104861477136674608.png",
+        "https://euchelperu.com/images/productos/176291100367420727756979.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:11:09Z"
+}

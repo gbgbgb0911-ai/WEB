@@ -1,0 +1,59 @@
+{
+  "id_original": 345,
+  "url_original": "https://euchelperu.com/producto.php?id=345",
+  "nombre": "Savanna bag",
+  "descripcion": "Un bolso compacto con personalidad salvaje. Estilo baguette, detalles dorados y estampado animal print que eleva cualquier look.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "345CAR06085",
+  "item_group_id": "345",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175769867617848770248724.jpg",
+    "https://euchelperu.com/images/productos/175769871176702387054001.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 810,
+      "nombre": "Print marrón",
+      "precio": 85.0,
+      "id_color_confirmado": 810,
+      "tallas": [
+        {
+          "id_talla": 1039,
+          "nombre": "Mila Leopard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175769867617848770248724.jpg",
+        "https://euchelperu.com/images/productos/175769871176702387054001.jpg"
+      ]
+    },
+    {
+      "id_color": 811,
+      "nombre": "Print vino",
+      "precio": 85.0,
+      "id_color_confirmado": 811,
+      "tallas": [
+        {
+          "id_talla": 1040,
+          "nombre": "Mila Leopard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175769871176702387054001.jpg",
+        "https://euchelperu.com/images/productos/175769867617848770248724.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:21:54Z"
+}

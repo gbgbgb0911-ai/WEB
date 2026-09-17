@@ -1,0 +1,59 @@
+{
+  "id_original": 349,
+  "url_original": "https://euchelperu.com/producto.php?id=349",
+  "nombre": "Luxe Minimal Tote bag",
+  "descripcion": "Bolsa de cuero premium, elegante y espaciosa. Diseño minimalista, resistente y perfecta para cualquier ocasión.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "3495555",
+  "item_group_id": "349",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175770241948974737475842.jpg",
+    "https://euchelperu.com/images/productos/175770243346804191711421.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 819,
+      "nombre": "Negro",
+      "precio": 95.0,
+      "id_color_confirmado": 819,
+      "tallas": [
+        {
+          "id_talla": 1048,
+          "nombre": "The Tote Bag"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175770241948974737475842.jpg",
+        "https://euchelperu.com/images/productos/175770243346804191711421.jpg"
+      ]
+    },
+    {
+      "id_color": 820,
+      "nombre": "Beige",
+      "precio": 95.0,
+      "id_color_confirmado": 820,
+      "tallas": [
+        {
+          "id_talla": 1049,
+          "nombre": "The Tote Bag"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175770243346804191711421.jpg",
+        "https://euchelperu.com/images/productos/175770241948974737475842.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:24:32Z"
+}

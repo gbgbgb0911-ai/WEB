@@ -1,0 +1,101 @@
+{
+  "id_original": 324,
+  "url_original": "https://euchelperu.com/producto.php?id=324",
+  "nombre": "Set Viena",
+  "descripcion": "Set de dos piezas en silueta suelta. Top con caída pronunciada y mangas amplias, acompañado de una falda corta y relajada. Estilo fresco y effortless.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "324SET34310",
+  "item_group_id": "324",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176264605486234637216112.jpg",
+    "https://euchelperu.com/images/productos/176264613931883120754736.jpg",
+    "https://euchelperu.com/images/productos/17626462349453359138076.jpg",
+    "https://euchelperu.com/images/productos/176547724423805425579185.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Set Viena",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 562,
+      "nombre": "Blanco",
+      "precio": 65.0,
+      "id_color_confirmado": 562,
+      "tallas": [
+        {
+          "id_talla": 505,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17626462349453359138076.jpg",
+        "https://euchelperu.com/images/productos/176264605486234637216112.jpg",
+        "https://euchelperu.com/images/productos/176264613931883120754736.jpg",
+        "https://euchelperu.com/images/productos/176547724423805425579185.jpg"
+      ]
+    },
+    {
+      "id_color": 563,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 563,
+      "tallas": [
+        {
+          "id_talla": 506,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176264613931883120754736.jpg",
+        "https://euchelperu.com/images/productos/176264605486234637216112.jpg",
+        "https://euchelperu.com/images/productos/17626462349453359138076.jpg",
+        "https://euchelperu.com/images/productos/176547724423805425579185.jpg"
+      ]
+    },
+    {
+      "id_color": 988,
+      "nombre": "Beige oscuro",
+      "precio": 65.0,
+      "id_color_confirmado": 988,
+      "tallas": [
+        {
+          "id_talla": 1829,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176264605486234637216112.jpg",
+        "https://euchelperu.com/images/productos/176264613931883120754736.jpg",
+        "https://euchelperu.com/images/productos/17626462349453359138076.jpg",
+        "https://euchelperu.com/images/productos/176547724423805425579185.jpg"
+      ]
+    },
+    {
+      "id_color": 2087,
+      "nombre": "Acero",
+      "precio": 65.0,
+      "id_color_confirmado": 2087,
+      "tallas": [
+        {
+          "id_talla": 2915,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176547724423805425579185.jpg",
+        "https://euchelperu.com/images/productos/176264605486234637216112.jpg",
+        "https://euchelperu.com/images/productos/176264613931883120754736.jpg",
+        "https://euchelperu.com/images/productos/17626462349453359138076.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:12:04Z"
+}

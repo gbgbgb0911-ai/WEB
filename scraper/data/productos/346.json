@@ -1,0 +1,79 @@
+{
+  "id_original": 346,
+  "url_original": "https://euchelperu.com/producto.php?id=346",
+  "nombre": "Leather&key bag",
+  "descripcion": "Este bolso tiene un diseño elegante, funcional y urbano, en color negro con detalles dorados, asa estructurada y colgantes decorativos que le dan un aire distintivo y moderno.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 90.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "346CAR63756",
+  "item_group_id": "346",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175770016612755606575865.jpg",
+    "https://euchelperu.com/images/productos/175770022695918126224328.jpg",
+    "https://euchelperu.com/images/productos/175770024105573978125300.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 812,
+      "nombre": "Negro",
+      "precio": 90.0,
+      "id_color_confirmado": 812,
+      "tallas": [
+        {
+          "id_talla": 1041,
+          "nombre": "Cleo Charm"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175770016612755606575865.jpg",
+        "https://euchelperu.com/images/productos/175770022695918126224328.jpg",
+        "https://euchelperu.com/images/productos/175770024105573978125300.jpg"
+      ]
+    },
+    {
+      "id_color": 813,
+      "nombre": "Marrón",
+      "precio": 90.0,
+      "id_color_confirmado": 813,
+      "tallas": [
+        {
+          "id_talla": 1042,
+          "nombre": "Cleo Charm"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175770022695918126224328.jpg",
+        "https://euchelperu.com/images/productos/175770016612755606575865.jpg",
+        "https://euchelperu.com/images/productos/175770024105573978125300.jpg"
+      ]
+    },
+    {
+      "id_color": 814,
+      "nombre": "Topo",
+      "precio": 90.0,
+      "id_color_confirmado": 814,
+      "tallas": [
+        {
+          "id_talla": 1043,
+          "nombre": "Cleo Charm"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175770024105573978125300.jpg",
+        "https://euchelperu.com/images/productos/175770016612755606575865.jpg",
+        "https://euchelperu.com/images/productos/175770022695918126224328.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:22:30Z"
+}

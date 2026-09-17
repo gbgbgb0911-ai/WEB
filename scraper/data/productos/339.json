@@ -1,0 +1,101 @@
+{
+  "id_original": 339,
+  "url_original": "https://euchelperu.com/producto.php?id=339",
+  "nombre": "Top Medusa Mesh",
+  "descripcion": "Top halter en mesh con escote profundo y ajuste al cuerpo. Diseño semitransparente y sensual, perfecto para looks de noche o salidas con estilo.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 35.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "339TOP25482",
+  "item_group_id": "339",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175829582595466834045506.jpg",
+    "https://euchelperu.com/images/productos/175829585449836245149715.jpg",
+    "https://euchelperu.com/images/productos/176048687428689606423637.jpg",
+    "https://euchelperu.com/images/productos/17629095360645745014497.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 655,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 655,
+      "tallas": [
+        {
+          "id_talla": 879,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176048687428689606423637.jpg",
+        "https://euchelperu.com/images/productos/175829582595466834045506.jpg",
+        "https://euchelperu.com/images/productos/175829585449836245149715.jpg",
+        "https://euchelperu.com/images/productos/17629095360645745014497.png"
+      ]
+    },
+    {
+      "id_color": 656,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 656,
+      "tallas": [
+        {
+          "id_talla": 880,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175829585449836245149715.jpg",
+        "https://euchelperu.com/images/productos/175829582595466834045506.jpg",
+        "https://euchelperu.com/images/productos/176048687428689606423637.jpg",
+        "https://euchelperu.com/images/productos/17629095360645745014497.png"
+      ]
+    },
+    {
+      "id_color": 657,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 657,
+      "tallas": [
+        {
+          "id_talla": 881,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175829582595466834045506.jpg",
+        "https://euchelperu.com/images/productos/175829585449836245149715.jpg",
+        "https://euchelperu.com/images/productos/176048687428689606423637.jpg",
+        "https://euchelperu.com/images/productos/17629095360645745014497.png"
+      ]
+    },
+    {
+      "id_color": 658,
+      "nombre": "Puntos",
+      "precio": 45.0,
+      "id_color_confirmado": 658,
+      "tallas": [
+        {
+          "id_talla": 882,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17629095360645745014497.png",
+        "https://euchelperu.com/images/productos/175829582595466834045506.jpg",
+        "https://euchelperu.com/images/productos/175829585449836245149715.jpg",
+        "https://euchelperu.com/images/productos/176048687428689606423637.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:21:21Z"
+}
