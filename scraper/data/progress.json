@@ -1,12 +1,7 @@
 {
-  "actualizado": "2026-09-17T20:19:22Z",
-  "hechos": 1,
+  "actualizado": "2026-09-17T20:21:40Z",
+  "hechos": 5,
   "total": 5,
-  "pendientes": [
-    28,
-    1102,
-    113,
-    1367
-  ],
+  "pendientes": [],
   "fallidos": []
 }

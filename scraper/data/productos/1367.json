@@ -1,0 +1,41 @@
+{
+  "id_original": 1367,
+  "url_original": "https://euchelperu.com/producto.php?id=1367",
+  "nombre": "TOP RAISA",
+  "descripcion": "Top ajustado con elegante diseño drapeado en diagonal que estiliza la figura con un aire moderno y sofisticado.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1367TO898",
+  "item_group_id": "1367",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178960654289458579451213.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "categoria",
+  "nombre_listado": "TOP RAISA",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3938,
+      "nombre": "Gris",
+      "precio": 45.0,
+      "id_color_confirmado": 3938,
+      "tallas": [
+        {
+          "id_talla": 4210,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178960654289458579451213.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T20:21:40Z"
+}

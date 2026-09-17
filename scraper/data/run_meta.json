@@ -1,0 +1,10 @@
+{
+  "terminado": "2026-09-17T20:21:40Z",
+  "segundos": 341.3,
+  "peticiones_http": 62,
+  "respuestas_desde_cache": 0,
+  "errores_reintentados": 18,
+  "user_agent": "EuchelCatalogMigration/1.0 (extraccion autorizada por los duenos de la tienda; 1 request concurrente, 500ms de pausa)",
+  "pausa_segundos": 0.5,
+  "concurrencia": 1
+}

@@ -1,0 +1,79 @@
+{
+  "id_original": 1102,
+  "url_original": "https://euchelperu.com/producto.php?id=1102",
+  "nombre": "SUPLEX FLARE PANTS",
+  "descripcion": "",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1102SUP53656",
+  "item_group_id": "1102",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177698613645708641868302.jpg",
+    "https://euchelperu.com/images/productos/177716057328282314419462.jpg",
+    "https://euchelperu.com/images/productos/177716086695884936583026.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "categoria",
+  "nombre_listado": "SUPLEX FLARE PANTS",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3344,
+      "nombre": "Marrón",
+      "precio": 55.0,
+      "id_color_confirmado": 3344,
+      "tallas": [
+        {
+          "id_talla": 3708,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177698613645708641868302.jpg",
+        "https://euchelperu.com/images/productos/177716057328282314419462.jpg",
+        "https://euchelperu.com/images/productos/177716086695884936583026.jpg"
+      ]
+    },
+    {
+      "id_color": 3414,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 3414,
+      "tallas": [
+        {
+          "id_talla": 3748,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177716057328282314419462.jpg",
+        "https://euchelperu.com/images/productos/177698613645708641868302.jpg",
+        "https://euchelperu.com/images/productos/177716086695884936583026.jpg"
+      ]
+    },
+    {
+      "id_color": 3416,
+      "nombre": "ROJO",
+      "precio": 55.0,
+      "id_color_confirmado": 3416,
+      "tallas": [
+        {
+          "id_talla": 3749,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177716086695884936583026.jpg",
+        "https://euchelperu.com/images/productos/177698613645708641868302.jpg",
+        "https://euchelperu.com/images/productos/177716057328282314419462.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T20:20:20Z"
+}

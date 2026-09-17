@@ -1,0 +1,45 @@
+{
+  "id_original": 113,
+  "url_original": "https://euchelperu.com/producto.php?id=113",
+  "nombre": "Chompa Polar Valeria",
+  "descripcion": "Ideal para mantenerte abrigada durante las temporadas de frío.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "113CHO60520-S",
+  "item_group_id": "113",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175708831341097106942180.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "categoria",
+  "nombre_listado": "Chompa Polar Valeria",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 322,
+      "nombre": "Único",
+      "precio": 55.0,
+      "id_color_confirmado": 322,
+      "tallas": [
+        {
+          "id_talla": 249,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 250,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175708831341097106942180.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T20:20:52Z"
+}

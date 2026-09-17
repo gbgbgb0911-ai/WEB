@@ -1,0 +1,61 @@
+{
+  "id_original": 28,
+  "url_original": "https://euchelperu.com/producto.php?id=28",
+  "nombre": "Pantalón Jean Wide Leg Vintage",
+  "descripcion": "Este pantalón jean ofrece comodidad, libertad de movimiento y un estilo retro moderno que estiliza y alarga visualmente la figura.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "28PAN68871-24",
+  "item_group_id": "28",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175709222113467341082752.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "categoria",
+  "nombre_listado": "Pantalón Jean Wide Leg Vintage",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 76,
+      "nombre": "Único",
+      "precio": 95.0,
+      "id_color_confirmado": 76,
+      "tallas": [
+        {
+          "id_talla": 62,
+          "nombre": "24"
+        },
+        {
+          "id_talla": 63,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 64,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 65,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 66,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 782,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709222113467341082752.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T20:19:40Z"
+}
