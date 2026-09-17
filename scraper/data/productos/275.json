@@ -1,0 +1,41 @@
+{
+  "id_original": 275,
+  "url_original": "https://euchelperu.com/producto.php?id=275",
+  "nombre": "Cartera Birdy",
+  "descripcion": "Descubre un accesorio que combina refinamiento y versatilidad. Nuestra Cartera Birdy es el complemento perfecto para quien busca estilo clásico con detalles modernos.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 120.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2752085",
+  "item_group_id": "275",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685173431820729222349.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 485,
+      "nombre": "Beige",
+      "precio": 120.0,
+      "id_color_confirmado": 485,
+      "tallas": [
+        {
+          "id_talla": 428,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685173431820729222349.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:44:19Z"
+}

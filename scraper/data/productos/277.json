@@ -1,0 +1,56 @@
+{
+  "id_original": 277,
+  "url_original": "https://euchelperu.com/producto.php?id=277",
+  "nombre": "Cartera Vaine",
+  "descripcion": "Añade un toque de sofisticación vibrante con nuestra Cartera Vaine, un accesorio imprescindible que fusiona elegancia y funcionalidad. Es una pieza ideal tanto para el día a día como para una velada especial.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2772087",
+  "item_group_id": "277",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17568518993584917847156.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 487,
+      "nombre": "Vino",
+      "precio": 99.0,
+      "id_color_confirmado": 487,
+      "tallas": [
+        {
+          "id_talla": 430,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568518993584917847156.jpg"
+      ]
+    },
+    {
+      "id_color": 963,
+      "nombre": "Negro",
+      "precio": 99.0,
+      "id_color_confirmado": 963,
+      "tallas": [
+        {
+          "id_talla": 1211,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568518993584917847156.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:44:55Z"
+}

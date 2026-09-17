@@ -1,0 +1,41 @@
+{
+  "id_original": 276,
+  "url_original": "https://euchelperu.com/producto.php?id=276",
+  "nombre": "Cartera Luxure",
+  "descripcion": "Descubre la sofisticación en cada detalle con nuestra Cartera Luxure, un accesorio refinado que conjuga elegancia clásica y funcionalidad moderna. Realza cualquier conjunto, desde un look casual hasta el más profesional.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 120.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2762086",
+  "item_group_id": "276",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17568519299578989512936.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 486,
+      "nombre": "Negro",
+      "precio": 120.0,
+      "id_color_confirmado": 486,
+      "tallas": [
+        {
+          "id_talla": 429,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568519299578989512936.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:44:22Z"
+}

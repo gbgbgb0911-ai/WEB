@@ -1,0 +1,41 @@
+{
+  "id_original": 268,
+  "url_original": "https://euchelperu.com/producto.php?id=268",
+  "nombre": "Top Zella",
+  "descripcion": "Este top off‑shoulder está diseñado para destacar, su escote revelador y su detalle central crean una silueta sofisticada y femenina. El aliado perfecto para momentos en los que quieres sentirte segura y chic al mismo tiempo.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 29.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "268TOP9978166",
+  "item_group_id": "268",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17602133051654776168678.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 731,
+      "nombre": "Celeste",
+      "precio": 45.0,
+      "id_color_confirmado": 731,
+      "tallas": [
+        {
+          "id_talla": 959,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17602133051654776168678.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:41:56Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 280,
+  "url_original": "https://euchelperu.com/producto.php?id=280",
+  "nombre": "Iconic Tote",
+  "descripcion": "Descubre tu nueva compañera para el día a día, esta tote bag tipo puffer es ideal para tus recorridos diarios, perfecta para ir al trabajo, salir de compras o acompañarte en tus aventuras cotidianas.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2802090",
+  "item_group_id": "280",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685094337679399833726.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 490,
+      "nombre": "Único",
+      "precio": 75.0,
+      "id_color_confirmado": 490,
+      "tallas": [
+        {
+          "id_talla": 433,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685094337679399833726.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:45:33Z"
+}

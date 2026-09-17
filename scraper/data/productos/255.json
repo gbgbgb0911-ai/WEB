@@ -1,0 +1,57 @@
+{
+  "id_original": 255,
+  "url_original": "https://euchelperu.com/producto.php?id=255",
+  "nombre": "Pantalón Shine",
+  "descripcion": "Una propuesta que une la esencia del jean vintage con el lujo discreto de detalles brillantes, ideal para destacar sin dejar de sentirte tú misma.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "255PAN04085",
+  "item_group_id": "255",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703035568574563768814.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 466,
+      "nombre": "Único",
+      "precio": 95.0,
+      "id_color_confirmado": 466,
+      "tallas": [
+        {
+          "id_talla": 409,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 702,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 703,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 704,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 705,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703035568574563768814.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:40:25Z"
+}

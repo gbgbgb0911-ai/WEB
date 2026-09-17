@@ -1,0 +1,56 @@
+{
+  "id_original": 265,
+  "url_original": "https://euchelperu.com/producto.php?id=265",
+  "nombre": "Vestido Kim",
+  "descripcion": "Nuestro vestido largo de hilo y manga larga une elegancia y confort en una sola prenda. Su silueta fluida y su tejido noble lo hacen perfecto para cualquier ocasión.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "265VES76857",
+  "item_group_id": "265",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685787013266697181332.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 475,
+      "nombre": "Negro",
+      "precio": 95.0,
+      "id_color_confirmado": 475,
+      "tallas": [
+        {
+          "id_talla": 418,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685787013266697181332.jpg"
+      ]
+    },
+    {
+      "id_color": 741,
+      "nombre": "Beige",
+      "precio": 95.0,
+      "id_color_confirmado": 741,
+      "tallas": [
+        {
+          "id_talla": 969,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685787013266697181332.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:41:17Z"
+}

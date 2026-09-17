@@ -1,0 +1,41 @@
+{
+  "id_original": 261,
+  "url_original": "https://euchelperu.com/producto.php?id=261",
+  "nombre": "Abrigo Lalesh Paño",
+  "descripcion": "Descubre nuestro abrigo largo de paño, una prenda indispensable en tu armario. Perfecto para enfrentar el frío con estilo, ideal para la oficina, la ciudad o una salida especial.",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": 130.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "261ABR50678-M",
+  "item_group_id": "261",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685792794710836188406.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 499,
+      "nombre": "Negro",
+      "precio": 130.0,
+      "id_color_confirmado": 499,
+      "tallas": [
+        {
+          "id_talla": 443,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685792794710836188406.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:40:31Z"
+}

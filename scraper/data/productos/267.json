@@ -1,0 +1,71 @@
+{
+  "id_original": 267,
+  "url_original": "https://euchelperu.com/producto.php?id=267",
+  "nombre": "Vestido Espalda Tul",
+  "descripcion": "Este vestido fusiona romance y elegancia en una sola prenda. Pensado para momentos especiales donde quieras deslumbrar con sutileza y presencia.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "267VES76415",
+  "item_group_id": "267",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685761852725859227875.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 477,
+      "nombre": "Color 1",
+      "precio": 85.0,
+      "id_color_confirmado": 477,
+      "tallas": [
+        {
+          "id_talla": 420,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685761852725859227875.jpg"
+      ]
+    },
+    {
+      "id_color": 733,
+      "nombre": "Color 2",
+      "precio": 85.0,
+      "id_color_confirmado": 733,
+      "tallas": [
+        {
+          "id_talla": 961,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685761852725859227875.jpg"
+      ]
+    },
+    {
+      "id_color": 734,
+      "nombre": "Color 3",
+      "precio": 85.0,
+      "id_color_confirmado": 734,
+      "tallas": [
+        {
+          "id_talla": 962,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685761852725859227875.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:41:53Z"
+}

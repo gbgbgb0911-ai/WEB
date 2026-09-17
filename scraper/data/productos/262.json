@@ -1,0 +1,69 @@
+{
+  "id_original": 262,
+  "url_original": "https://euchelperu.com/producto.php?id=262",
+  "nombre": "Vestido Coquette",
+  "descripcion": "Nuestro vestido coquette con tirantes gruesos y lazos es la conjunción perfecta entre elegancia estructurada y encanto femenino. Ideal para marcar presencia donde quieras.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "262VES32215",
+  "item_group_id": "262",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685735471176878811727.jpg",
+    "https://euchelperu.com/images/productos/17625671643925551982091.png",
+    "https://euchelperu.com/images/productos/176256807995457275987946.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 472,
+      "nombre": "Azu",
+      "precio": 75.0,
+      "id_color_confirmado": 472,
+      "tallas": [
+        {
+          "id_talla": 415,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685735471176878811727.jpg",
+        "https://euchelperu.com/images/productos/17625671643925551982091.png",
+        "https://euchelperu.com/images/productos/176256807995457275987946.png"
+      ]
+    },
+    {
+      "id_color": 1581,
+      "nombre": "Verde",
+      "precio": null,
+      "id_color_confirmado": 1581,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17625671643925551982091.png",
+        "https://euchelperu.com/images/productos/175685735471176878811727.jpg",
+        "https://euchelperu.com/images/productos/176256807995457275987946.png"
+      ]
+    },
+    {
+      "id_color": 1582,
+      "nombre": "Marrón",
+      "precio": null,
+      "id_color_confirmado": 1582,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176256807995457275987946.png",
+        "https://euchelperu.com/images/productos/175685735471176878811727.jpg",
+        "https://euchelperu.com/images/productos/17625671643925551982091.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:40:41Z"
+}

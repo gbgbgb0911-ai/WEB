@@ -1,0 +1,41 @@
+{
+  "id_original": 256,
+  "url_original": "https://euchelperu.com/producto.php?id=256",
+  "nombre": "Correa Cadena Dorada",
+  "descripcion": "Dale un toque sofisticado a tu look con esta correa única, diseñada para destacar. Su elegante cadena dorada no solo añade un brillo llamativo, sino que también convierte un accesorio básico en una pieza de moda imprescindible.",
+  "categoria": "Correas",
+  "categoria_subid": 14,
+  "precio_base": 30.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2561991",
+  "item_group_id": "256",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175700266486202621714302.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Correa Cadena Dorada",
+  "precio_listado_normal": 30.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 467,
+      "nombre": "Único",
+      "precio": 30.0,
+      "id_color_confirmado": 467,
+      "tallas": [
+        {
+          "id_talla": 410,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700266486202621714302.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:40:28Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 279,
+  "url_original": "https://euchelperu.com/producto.php?id=279",
+  "nombre": "Cartera Gemma",
+  "descripcion": "Añade elegancia funcional a tu día a día con esta cartera, un diseño sofisticado y atemporal que combina versatilidad y estilo minimalista. Perfecta para la mujer moderna que busca comodidad sin sacrificar elegancia.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "279CAR682025",
+  "item_group_id": "279",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685257066699533249477.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 489,
+      "nombre": "Único",
+      "precio": 95.0,
+      "id_color_confirmado": 489,
+      "tallas": [
+        {
+          "id_talla": 432,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685257066699533249477.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:45:30Z"
+}

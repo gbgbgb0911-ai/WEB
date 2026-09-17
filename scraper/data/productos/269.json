@@ -1,0 +1,91 @@
+{
+  "id_original": 269,
+  "url_original": "https://euchelperu.com/producto.php?id=269",
+  "nombre": "Top Ivana Corrugado",
+  "descripcion": "Este top fusiona comodidad y elegancia en una sola pieza. Sublima tu figura de forma natural, para que te veas y sientas increíble en cualquier momento.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 25.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "269TOP47552",
+  "item_group_id": "269",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17568576541216159155133.jpg",
+    "https://euchelperu.com/images/productos/176324968167002421075922.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 479,
+      "nombre": "Jade",
+      "precio": 39.0,
+      "id_color_confirmado": 479,
+      "tallas": [
+        {
+          "id_talla": 422,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568576541216159155133.jpg",
+        "https://euchelperu.com/images/productos/176324968167002421075922.png"
+      ]
+    },
+    {
+      "id_color": 729,
+      "nombre": "Blanco",
+      "precio": 39.0,
+      "id_color_confirmado": 729,
+      "tallas": [
+        {
+          "id_talla": 957,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568576541216159155133.jpg",
+        "https://euchelperu.com/images/productos/176324968167002421075922.png"
+      ]
+    },
+    {
+      "id_color": 906,
+      "nombre": "Rojo",
+      "precio": 39.0,
+      "id_color_confirmado": 906,
+      "tallas": [
+        {
+          "id_talla": 1150,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176324968167002421075922.png",
+        "https://euchelperu.com/images/productos/17568576541216159155133.jpg"
+      ]
+    },
+    {
+      "id_color": 907,
+      "nombre": "Topo",
+      "precio": 39.0,
+      "id_color_confirmado": 907,
+      "tallas": [
+        {
+          "id_talla": 1151,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568576541216159155133.jpg",
+        "https://euchelperu.com/images/productos/176324968167002421075922.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:42:50Z"
+}

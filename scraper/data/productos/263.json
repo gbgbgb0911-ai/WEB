@@ -1,0 +1,41 @@
+{
+  "id_original": 263,
+  "url_original": "https://euchelperu.com/producto.php?id=263",
+  "nombre": "Pullover Bicolor Hilo",
+  "descripcion": "Nuestro pullover de hilo combina confort y estilo en una sola prenda. El cuello tipo camisa le da ese extra chic que necesitas, sin renunciar a la suavidad del hilo. Ideal para tus días de oficina, brunch o escapadas urbanas.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 35.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "263PUL34855",
+  "item_group_id": "263",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703021172282755667799.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 473,
+      "nombre": "Beige/negro",
+      "precio": 45.0,
+      "id_color_confirmado": 473,
+      "tallas": [
+        {
+          "id_talla": 416,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703021172282755667799.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:40:57Z"
+}

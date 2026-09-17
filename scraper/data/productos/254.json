@@ -1,0 +1,57 @@
+{
+  "id_original": 254,
+  "url_original": "https://euchelperu.com/producto.php?id=254",
+  "nombre": "Flare Tres Botones",
+  "descripcion": "Un clásico renovado que combina estilo vintage con comodidad moderna. Con tres botones metálicos, este jean flare define la cintura, alarga las piernas y añade un guiño retro sin perder frescura.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "254FLA482025",
+  "item_group_id": "254",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703045992808336257707.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Flare Tres Botones",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 465,
+      "nombre": "Único",
+      "precio": 95.0,
+      "id_color_confirmado": 465,
+      "tallas": [
+        {
+          "id_talla": 408,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 706,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 707,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 708,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 709,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703045992808336257707.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:40:22Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id_original": 270,
+  "url_original": "https://euchelperu.com/producto.php?id=270",
+  "nombre": "Top Strapless Corrugado Punta",
+  "descripcion": "Este top strapless redefine el estilo con sutileza. El corrugado acaricia la figura, mientras que la forma asimétrica añade audacia. Perfecto para quienes quieren marcar la diferencia con elegancia sutil.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "270TOP74200",
+  "item_group_id": "270",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685769028907451433354.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 480,
+      "nombre": "Celeste",
+      "precio": 39.0,
+      "id_color_confirmado": 480,
+      "tallas": [
+        {
+          "id_talla": 423,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685769028907451433354.jpg"
+      ]
+    },
+    {
+      "id_color": 696,
+      "nombre": "Negro",
+      "precio": 39.0,
+      "id_color_confirmado": 696,
+      "tallas": [
+        {
+          "id_talla": 920,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685769028907451433354.jpg"
+      ]
+    },
+    {
+      "id_color": 697,
+      "nombre": "Blanco",
+      "precio": 39.0,
+      "id_color_confirmado": 697,
+      "tallas": [
+        {
+          "id_talla": 921,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685769028907451433354.jpg"
+      ]
+    },
+    {
+      "id_color": 698,
+      "nombre": "Beige",
+      "precio": 39.0,
+      "id_color_confirmado": 698,
+      "tallas": [
+        {
+          "id_talla": 922,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685769028907451433354.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:43:30Z"
+}

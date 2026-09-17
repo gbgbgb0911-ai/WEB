@@ -1,0 +1,41 @@
+{
+  "id_original": 278,
+  "url_original": "https://euchelperu.com/producto.php?id=278",
+  "nombre": "Cartera Bagway",
+  "descripcion": "Añade un toque bohemio y elegante a tu look con esta cartera, ideal para llevar al hombro con comodidad, combina el estilo romántico con la funcionalidad contemporánea.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2782088",
+  "item_group_id": "278",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685187382836676389234.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 488,
+      "nombre": "Único",
+      "precio": 79.0,
+      "id_color_confirmado": 488,
+      "tallas": [
+        {
+          "id_talla": 431,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685187382836676389234.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:44:58Z"
+}

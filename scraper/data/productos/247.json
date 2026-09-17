@@ -1,0 +1,41 @@
+{
+  "id_original": 247,
+  "url_original": "https://euchelperu.com/producto.php?id=247",
+  "nombre": "Donna Karan - Be Delicius (Dupe)",
+  "descripcion": "",
+  "categoria": "Perfumes",
+  "categoria_subid": 17,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2471942",
+  "item_group_id": "247",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175786924075367307958875.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Donna Karan - Be Delicius (Dupe)",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 458,
+      "nombre": "Único",
+      "precio": 59.0,
+      "id_color_confirmado": 458,
+      "tallas": [
+        {
+          "id_talla": 401,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175786924075367307958875.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:37:38Z"
+}
