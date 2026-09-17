@@ -1,0 +1,41 @@
+{
+  "id_original": 189,
+  "url_original": "https://euchelperu.com/producto.php?id=189",
+  "nombre": "Parche De Ojos",
+  "descripcion": "Descubre nuestros parches para ojos, diseñados para combatir ojeras, bolsas y signos de fatiga, brindando una mirada fresca y revitalizada en minutos.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 9.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "189PAR82193",
+  "item_group_id": "189",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17568596756295987993633.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Parche De Ojos",
+  "precio_listado_normal": 9.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 398,
+      "nombre": "Único",
+      "precio": 9.0,
+      "id_color_confirmado": 398,
+      "tallas": [
+        {
+          "id_talla": 344,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568596756295987993633.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:20:16Z"
+}

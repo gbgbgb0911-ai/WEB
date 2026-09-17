@@ -1,0 +1,41 @@
+{
+  "id_original": 201,
+  "url_original": "https://euchelperu.com/producto.php?id=201",
+  "nombre": "Colet Metalizado",
+  "descripcion": "Look brillante y definido realza tus peinados con un toque de metal que destaca sin sobrecargar.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 5.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "201Whvr",
+  "item_group_id": "201",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175701104372847886639818.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Colet Metalizado",
+  "precio_listado_normal": 5.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 410,
+      "nombre": "Único",
+      "precio": 5.0,
+      "id_color_confirmado": 410,
+      "tallas": [
+        {
+          "id_talla": 356,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175701104372847886639818.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:24:42Z"
+}

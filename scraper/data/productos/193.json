@@ -1,0 +1,41 @@
+{
+  "id_original": 193,
+  "url_original": "https://euchelperu.com/producto.php?id=193",
+  "nombre": "Perfilador",
+  "descripcion": "Logra unas cejas perfectamente definidas y naturales con nuestro perfilador de cejas. Ofrece una aplicación precisa y duradera, este perfilador es ideal para dar forma y resaltar la belleza natural de tus cejas.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 3.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "193PER33874",
+  "item_group_id": "193",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17568597582131539387226.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Perfilador",
+  "precio_listado_normal": 3.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 402,
+      "nombre": "Único",
+      "precio": 3.0,
+      "id_color_confirmado": 402,
+      "tallas": [
+        {
+          "id_talla": 348,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568597582131539387226.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:20:55Z"
+}

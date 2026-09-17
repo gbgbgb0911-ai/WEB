@@ -1,0 +1,41 @@
+{
+  "id_original": 200,
+  "url_original": "https://euchelperu.com/producto.php?id=200",
+  "nombre": "Gancho Media Cola Metalizado",
+  "descripcion": "Dale un toque moderno a tu estilo mientras sujetas tu media cola con firmeza, ofrece un brillo sofisticado que resalta desde el primer vistazo.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 7.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "200GAN24603",
+  "item_group_id": "200",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17570129471909761205793.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Gancho Media Cola Metalizado",
+  "precio_listado_normal": 7.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 409,
+      "nombre": "Único",
+      "precio": 7.0,
+      "id_color_confirmado": 409,
+      "tallas": [
+        {
+          "id_talla": 355,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570129471909761205793.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:23:57Z"
+}

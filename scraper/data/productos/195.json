@@ -1,0 +1,41 @@
+{
+  "id_original": 195,
+  "url_original": "https://euchelperu.com/producto.php?id=195",
+  "nombre": "Set Trio Esponjas",
+  "descripcion": "Descubre la forma perfecta de aplicar tu maquillaje con nuestro set de tres esponjas, ideal para mujeres que buscan un acabado impecable. \\n",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 5.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "195ESP19452",
+  "item_group_id": "195",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685945139073896379218.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Set Trio Esponjas",
+  "precio_listado_normal": 5.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 404,
+      "nombre": "Único",
+      "precio": 5.0,
+      "id_color_confirmado": 404,
+      "tallas": [
+        {
+          "id_talla": 350,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685945139073896379218.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:21:43Z"
+}

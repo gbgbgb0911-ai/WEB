@@ -1,0 +1,41 @@
+{
+  "id_original": 192,
+  "url_original": "https://euchelperu.com/producto.php?id=192",
+  "nombre": "Set De Brochas",
+  "descripcion": "Transforma tu rutina de belleza con nuestro set de brochas de maquillaje, ofrece precisión, versatilidad y un acabado profesional en cada aplicación.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 19.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "192SET20760",
+  "item_group_id": "192",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17570029542698119665227.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 401,
+      "nombre": "Rosado",
+      "precio": 19.0,
+      "id_color_confirmado": 401,
+      "tallas": [
+        {
+          "id_talla": 347,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570029542698119665227.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:20:39Z"
+}

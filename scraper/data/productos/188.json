@@ -1,0 +1,41 @@
+{
+  "id_original": 188,
+  "url_original": "https://euchelperu.com/producto.php?id=188",
+  "nombre": "Pestañas",
+  "descripcion": "Descubre nuestras pestañas postizas que ofrecen volumen, longitud y un acabado natural que resalta tu belleza en cualquier ocasión.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 9.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "188PES25357",
+  "item_group_id": "188",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17568596506831973754007.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pestañas",
+  "precio_listado_normal": 9.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 397,
+      "nombre": "Único",
+      "precio": 9.0,
+      "id_color_confirmado": 397,
+      "tallas": [
+        {
+          "id_talla": 343,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568596506831973754007.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:20:13Z"
+}

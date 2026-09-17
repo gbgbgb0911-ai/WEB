@@ -1,0 +1,41 @@
+{
+  "id_original": 186,
+  "url_original": "https://euchelperu.com/producto.php?id=186",
+  "nombre": "Mascarilla Facial",
+  "descripcion": "Disfruta de una piel suave, luminosa y rejuvenecida con nuestra mascarilla facial hidratante, ofrece una hidratación profunda y duradera.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 5.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "186MAS66987",
+  "item_group_id": "186",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17568596946369034348694.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Mascarilla Facial",
+  "precio_listado_normal": 5.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 395,
+      "nombre": "Único",
+      "precio": 5.0,
+      "id_color_confirmado": 395,
+      "tallas": [
+        {
+          "id_talla": 341,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568596946369034348694.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:19:40Z"
+}

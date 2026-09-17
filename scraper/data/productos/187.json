@@ -1,0 +1,41 @@
+{
+  "id_original": 187,
+  "url_original": "https://euchelperu.com/producto.php?id=187",
+  "nombre": "Cottons Redondo",
+  "descripcion": "Descubre la suavidad y eficacia de nuestros algodones redondos desmaquillantes, diseñados para ofrecer una limpieza profunda y delicada, respetando la piel más sensible.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 8.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "187COT68911",
+  "item_group_id": "187",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685914612107814925308.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Cottons Redondo",
+  "precio_listado_normal": 8.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 396,
+      "nombre": "Único",
+      "precio": 8.0,
+      "id_color_confirmado": 396,
+      "tallas": [
+        {
+          "id_talla": 342,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685914612107814925308.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:20:10Z"
+}

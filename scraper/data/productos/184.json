@@ -1,0 +1,41 @@
+{
+  "id_original": 184,
+  "url_original": "https://euchelperu.com/producto.php?id=184",
+  "nombre": "Pinza",
+  "descripcion": "La herramienta esencial para una depilación precisa y cómoda, diseñada para mantener tu piel suave y libre de vello no deseado.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 6.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "184PIN56108",
+  "item_group_id": "184",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685953653401367871898.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pinza",
+  "precio_listado_normal": 6.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 393,
+      "nombre": "Único",
+      "precio": 6.0,
+      "id_color_confirmado": 393,
+      "tallas": [
+        {
+          "id_talla": 339,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685953653401367871898.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:19:33Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 197,
+  "url_original": "https://euchelperu.com/producto.php?id=197",
+  "nombre": "Gancho Rectangular",
+  "descripcion": "Descubre el accesorio esencial para mantener tu peinado impecable con estilo. Nuestro gancho rectangular para cabello combina funcionalidad y diseño moderno, adaptándose a todo tipo de cabello y ocasiones.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 4.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "197GAN24877",
+  "item_group_id": "197",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686316102763142696921.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Gancho Rectangular",
+  "precio_listado_normal": 4.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 406,
+      "nombre": "Único",
+      "precio": 4.0,
+      "id_color_confirmado": 406,
+      "tallas": [
+        {
+          "id_talla": 352,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686316102763142696921.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:22:03Z"
+}

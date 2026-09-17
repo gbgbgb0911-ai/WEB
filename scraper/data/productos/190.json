@@ -1,0 +1,41 @@
+{
+  "id_original": 190,
+  "url_original": "https://euchelperu.com/producto.php?id=190",
+  "nombre": "Pegamento De Pestañas",
+  "descripcion": "Eleva tu técnica de extensiones con nuestro pegamento que ofrece una adhesión duradera, rápida y segura.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 9.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "190PEG14431",
+  "item_group_id": "190",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685962305714753986647.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pegamento De Pestañas",
+  "precio_listado_normal": 9.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 399,
+      "nombre": "Único",
+      "precio": 9.0,
+      "id_color_confirmado": 399,
+      "tallas": [
+        {
+          "id_talla": 345,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685962305714753986647.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:20:19Z"
+}

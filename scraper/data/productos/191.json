@@ -1,0 +1,41 @@
+{
+  "id_original": 191,
+  "url_original": "https://euchelperu.com/producto.php?id=191",
+  "nombre": "Set De Cepillos",
+  "descripcion": "Transforma tu mirada con nuestro set de cepillos para cejas, ofrece precisión y definición en cada aplicación.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 5.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "191SET64423",
+  "item_group_id": "191",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703152889280211448517.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Set De Cepillos",
+  "precio_listado_normal": 5.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 400,
+      "nombre": "Único",
+      "precio": 5.0,
+      "id_color_confirmado": 400,
+      "tallas": [
+        {
+          "id_talla": 346,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703152889280211448517.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:20:22Z"
+}

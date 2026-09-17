@@ -1,0 +1,41 @@
+{
+  "id_original": 194,
+  "url_original": "https://euchelperu.com/producto.php?id=194",
+  "nombre": "Peine",
+  "descripcion": "Descubre nuestro peine que es perfecto para desenredar, alisar y estilizar tu melena con facilidad.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 8.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "194PEI59092",
+  "item_group_id": "194",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175780961823672937640810.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Peine",
+  "precio_listado_normal": 8.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 403,
+      "nombre": "Único",
+      "precio": 8.0,
+      "id_color_confirmado": 403,
+      "tallas": [
+        {
+          "id_talla": 349,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175780961823672937640810.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:21:12Z"
+}

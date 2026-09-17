@@ -1,0 +1,41 @@
+{
+  "id_original": 198,
+  "url_original": "https://euchelperu.com/producto.php?id=198",
+  "nombre": "Gancho Clásico",
+  "descripcion": "Este gancho clásico combina estética y rendimiento para elevar cualquier peinado con estilo, ideal para recoger tu cabello con completa comodidad todo el día. \\n \\n",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 3.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "198GAN95718",
+  "item_group_id": "198",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686323171910581821209.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Gancho Clásico",
+  "precio_listado_normal": 3.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 407,
+      "nombre": "Único",
+      "precio": 3.0,
+      "id_color_confirmado": 407,
+      "tallas": [
+        {
+          "id_talla": 353,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686323171910581821209.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:22:20Z"
+}
