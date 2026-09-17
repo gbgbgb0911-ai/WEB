@@ -1,0 +1,41 @@
+{
+  "id_original": 428,
+  "url_original": "https://euchelperu.com/producto.php?id=428",
+  "nombre": "Falda Dorada",
+  "descripcion": "Falda indispensable para una noche de drinks, resaltarás y serás el centro de atención.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "428FAL89914",
+  "item_group_id": "428",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1759020663189849312595.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1101,
+      "nombre": "Dorada",
+      "precio": 39.0,
+      "id_color_confirmado": 1101,
+      "tallas": [
+        {
+          "id_talla": 1359,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1759020663189849312595.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:52:31Z"
+}

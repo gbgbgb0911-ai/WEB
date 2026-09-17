@@ -1,0 +1,101 @@
+{
+  "id_original": 425,
+  "url_original": "https://euchelperu.com/producto.php?id=425",
+  "nombre": "Pantalón Meli Buzo",
+  "descripcion": "Comfy pants para que puedas lucir un outfit relajado pero sofisticado.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "425PAN28666",
+  "item_group_id": "425",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175902016387464155628477.jpg",
+    "https://euchelperu.com/images/productos/175902019015278891957199.jpg",
+    "https://euchelperu.com/images/productos/175902019907379320961962.jpg",
+    "https://euchelperu.com/images/productos/17590202098639528040559.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1094,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 1094,
+      "tallas": [
+        {
+          "id_talla": 1352,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175902016387464155628477.jpg",
+        "https://euchelperu.com/images/productos/175902019015278891957199.jpg",
+        "https://euchelperu.com/images/productos/175902019907379320961962.jpg",
+        "https://euchelperu.com/images/productos/17590202098639528040559.jpg"
+      ]
+    },
+    {
+      "id_color": 1095,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 1095,
+      "tallas": [
+        {
+          "id_talla": 1353,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175902019015278891957199.jpg",
+        "https://euchelperu.com/images/productos/175902016387464155628477.jpg",
+        "https://euchelperu.com/images/productos/175902019907379320961962.jpg",
+        "https://euchelperu.com/images/productos/17590202098639528040559.jpg"
+      ]
+    },
+    {
+      "id_color": 1096,
+      "nombre": "Plomo",
+      "precio": 59.0,
+      "id_color_confirmado": 1096,
+      "tallas": [
+        {
+          "id_talla": 1354,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175902019907379320961962.jpg",
+        "https://euchelperu.com/images/productos/175902016387464155628477.jpg",
+        "https://euchelperu.com/images/productos/175902019015278891957199.jpg",
+        "https://euchelperu.com/images/productos/17590202098639528040559.jpg"
+      ]
+    },
+    {
+      "id_color": 1097,
+      "nombre": "Camel",
+      "precio": 59.0,
+      "id_color_confirmado": 1097,
+      "tallas": [
+        {
+          "id_talla": 1355,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17590202098639528040559.jpg",
+        "https://euchelperu.com/images/productos/175902016387464155628477.jpg",
+        "https://euchelperu.com/images/productos/175902019015278891957199.jpg",
+        "https://euchelperu.com/images/productos/175902019907379320961962.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:51:29Z"
+}

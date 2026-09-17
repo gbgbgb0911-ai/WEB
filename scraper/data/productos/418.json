@@ -1,0 +1,83 @@
+{
+  "id_original": 418,
+  "url_original": "https://euchelperu.com/producto.php?id=418",
+  "nombre": "Pantalon Jean Excusas",
+  "descripcion": "Jeans a la cadera, super cómodos y frescos para el cambio de estación.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "418PAN78692",
+  "item_group_id": "418",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175899993846672660134568.jpg",
+    "https://euchelperu.com/images/productos/17589999601863036197331.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pantalon Jean Excusas",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1071,
+      "nombre": "Color 1",
+      "precio": 95.0,
+      "id_color_confirmado": 1071,
+      "tallas": [
+        {
+          "id_talla": 1317,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 1318,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 1319,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 1320,
+          "nombre": "32"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175899993846672660134568.jpg",
+        "https://euchelperu.com/images/productos/17589999601863036197331.jpg"
+      ]
+    },
+    {
+      "id_color": 1072,
+      "nombre": "Color 2",
+      "precio": 95.0,
+      "id_color_confirmado": 1072,
+      "tallas": [
+        {
+          "id_talla": 1321,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 1322,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 1323,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 1324,
+          "nombre": "32"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17589999601863036197331.jpg",
+        "https://euchelperu.com/images/productos/175899993846672660134568.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:49:57Z"
+}

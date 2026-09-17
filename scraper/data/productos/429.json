@@ -1,0 +1,79 @@
+{
+  "id_original": 429,
+  "url_original": "https://euchelperu.com/producto.php?id=429",
+  "nombre": "Mini Vestido Rollete",
+  "descripcion": "Vestido mini asimétrico que marca la silueta con detalle de hombro descubierto. Ideal para noche o eventos especiales.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "429MIN65514",
+  "item_group_id": "429",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175916576026882569169688.jpg",
+    "https://euchelperu.com/images/productos/175916577936998280678361.jpg",
+    "https://euchelperu.com/images/productos/1759165788970071199758.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Mini Vestido Rollete",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1200,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 1200,
+      "tallas": [
+        {
+          "id_talla": 1464,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175916576026882569169688.jpg",
+        "https://euchelperu.com/images/productos/175916577936998280678361.jpg",
+        "https://euchelperu.com/images/productos/1759165788970071199758.jpg"
+      ]
+    },
+    {
+      "id_color": 1201,
+      "nombre": "Beige",
+      "precio": 69.0,
+      "id_color_confirmado": 1201,
+      "tallas": [
+        {
+          "id_talla": 1465,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175916577936998280678361.jpg",
+        "https://euchelperu.com/images/productos/175916576026882569169688.jpg",
+        "https://euchelperu.com/images/productos/1759165788970071199758.jpg"
+      ]
+    },
+    {
+      "id_color": 1202,
+      "nombre": "Palo Rosa",
+      "precio": 69.0,
+      "id_color_confirmado": 1202,
+      "tallas": [
+        {
+          "id_talla": 1466,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1759165788970071199758.jpg",
+        "https://euchelperu.com/images/productos/175916576026882569169688.jpg",
+        "https://euchelperu.com/images/productos/175916577936998280678361.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:53:09Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id_original": 415,
+  "url_original": "https://euchelperu.com/producto.php?id=415",
+  "nombre": "Top Hilary Aro",
+  "descripcion": "Top con escote drapeado y detalle de aro dorado central, ideal para looks de noche con un toque elegante y atrevido.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "415TOP86891",
+  "item_group_id": "415",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175899959661299395944319.jpg",
+    "https://euchelperu.com/images/productos/175901270926161420396711.jpg",
+    "https://euchelperu.com/images/productos/175901271756762789716296.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1067,
+      "nombre": "Azul",
+      "precio": 49.0,
+      "id_color_confirmado": 1067,
+      "tallas": [
+        {
+          "id_talla": 1305,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175899959661299395944319.jpg",
+        "https://euchelperu.com/images/productos/175901270926161420396711.jpg",
+        "https://euchelperu.com/images/productos/175901271756762789716296.jpg"
+      ]
+    },
+    {
+      "id_color": 1088,
+      "nombre": "Vino",
+      "precio": 49.0,
+      "id_color_confirmado": 1088,
+      "tallas": [
+        {
+          "id_talla": 1306,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175901270926161420396711.jpg",
+        "https://euchelperu.com/images/productos/175899959661299395944319.jpg",
+        "https://euchelperu.com/images/productos/175901271756762789716296.jpg"
+      ]
+    },
+    {
+      "id_color": 1089,
+      "nombre": "Marrón",
+      "precio": 49.0,
+      "id_color_confirmado": 1089,
+      "tallas": [
+        {
+          "id_talla": 1307,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175901271756762789716296.jpg",
+        "https://euchelperu.com/images/productos/175899959661299395944319.jpg",
+        "https://euchelperu.com/images/productos/175901270926161420396711.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:48:40Z"
+}

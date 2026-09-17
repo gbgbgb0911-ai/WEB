@@ -1,0 +1,41 @@
+{
+  "id_original": 421,
+  "url_original": "https://euchelperu.com/producto.php?id=421",
+  "nombre": "Vincha diosa",
+  "descripcion": "Accesorio ideal para tu disfraz de halloween.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 6.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "421VIN95958",
+  "item_group_id": "421",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17590005132168199052813.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1081,
+      "nombre": "Dorado",
+      "precio": 6.0,
+      "id_color_confirmado": 1081,
+      "tallas": [
+        {
+          "id_talla": 1328,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17590005132168199052813.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:50:05Z"
+}

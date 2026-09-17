@@ -1,0 +1,59 @@
+{
+  "id_original": 427,
+  "url_original": "https://euchelperu.com/producto.php?id=427",
+  "nombre": "Short Animal Print",
+  "descripcion": "Short en tendencia, perfecto para presumir tu figura y lucir fenomenal.",
+  "categoria": "Shorts",
+  "categoria_subid": 20,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "427SHO17681",
+  "item_group_id": "427",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175902052123426336331016.jpg",
+    "https://euchelperu.com/images/productos/17590205320521155157038.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Short Animal Print",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1099,
+      "nombre": "Marrón",
+      "precio": 69.0,
+      "id_color_confirmado": 1099,
+      "tallas": [
+        {
+          "id_talla": 1357,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175902052123426336331016.jpg",
+        "https://euchelperu.com/images/productos/17590205320521155157038.jpg"
+      ]
+    },
+    {
+      "id_color": 1100,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 1100,
+      "tallas": [
+        {
+          "id_talla": 1358,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17590205320521155157038.jpg",
+        "https://euchelperu.com/images/productos/175902052123426336331016.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:52:15Z"
+}

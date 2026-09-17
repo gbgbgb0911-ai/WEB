@@ -1,0 +1,96 @@
+{
+  "id_original": 414,
+  "url_original": "https://euchelperu.com/producto.php?id=414",
+  "nombre": "Top Fabi Aro",
+  "descripcion": "Top con escote drapeado, espalda descubierta y un dije circular dorado que añade elegancia. Ideal para noches especiales o looks con personalidad.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "414TOP80029",
+  "item_group_id": "414",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175899955589218428836228.jpg",
+    "https://euchelperu.com/images/productos/175934658632011226011153.jpg",
+    "https://euchelperu.com/images/productos/175934661059573549935524.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Fabi Aro",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1066,
+      "nombre": "Turquesa",
+      "precio": 49.0,
+      "id_color_confirmado": 1066,
+      "tallas": [
+        {
+          "id_talla": 1304,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175899955589218428836228.jpg",
+        "https://euchelperu.com/images/productos/175934658632011226011153.jpg",
+        "https://euchelperu.com/images/productos/175934661059573549935524.jpg"
+      ]
+    },
+    {
+      "id_color": 1116,
+      "nombre": "Naranja",
+      "precio": 49.0,
+      "id_color_confirmado": 1116,
+      "tallas": [
+        {
+          "id_talla": 1374,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175899955589218428836228.jpg",
+        "https://euchelperu.com/images/productos/175934658632011226011153.jpg",
+        "https://euchelperu.com/images/productos/175934661059573549935524.jpg"
+      ]
+    },
+    {
+      "id_color": 1117,
+      "nombre": "Rosado",
+      "precio": 49.0,
+      "id_color_confirmado": 1117,
+      "tallas": [
+        {
+          "id_talla": 1375,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175934661059573549935524.jpg",
+        "https://euchelperu.com/images/productos/175899955589218428836228.jpg",
+        "https://euchelperu.com/images/productos/175934658632011226011153.jpg"
+      ]
+    },
+    {
+      "id_color": 1118,
+      "nombre": "Gris",
+      "precio": 49.0,
+      "id_color_confirmado": 1118,
+      "tallas": [
+        {
+          "id_talla": 1376,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175934658632011226011153.jpg",
+        "https://euchelperu.com/images/productos/175899955589218428836228.jpg",
+        "https://euchelperu.com/images/productos/175934661059573549935524.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:48:17Z"
+}

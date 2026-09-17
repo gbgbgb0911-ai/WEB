@@ -1,0 +1,41 @@
+{
+  "id_original": 420,
+  "url_original": "https://euchelperu.com/producto.php?id=420",
+  "nombre": "Sombrero marinero",
+  "descripcion": "Ideal para que armes tu outfit de halloween.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 20.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "420SOM17345",
+  "item_group_id": "420",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175900045388349360712473.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Sombrero marinero",
+  "precio_listado_normal": 20.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1080,
+      "nombre": "Único",
+      "precio": 20.0,
+      "id_color_confirmado": 1080,
+      "tallas": [
+        {
+          "id_talla": 1327,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175900045388349360712473.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:50:00Z"
+}
