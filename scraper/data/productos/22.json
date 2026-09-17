@@ -1,0 +1,41 @@
+{
+  "id_original": 22,
+  "url_original": "https://euchelperu.com/producto.php?id=22",
+  "nombre": "Chompa Qata manga larga",
+  "descripcion": "Este top combina la ligereza del tejido con un diseño clásico y elegante. Cuenta con botones frontales que añaden un toque de distinción. Ideal para ocasiones casuales, salidas diarias o eventos donde desees lucir un estilo relajado pero cuidado.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 29.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "22CHO25167",
+  "item_group_id": "22",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175997691126879349171172.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 53,
+      "nombre": "Celeste",
+      "precio": 49.0,
+      "id_color_confirmado": 53,
+      "tallas": [
+        {
+          "id_talla": 802,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175997691126879349171172.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:42:05Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 16,
+  "url_original": "https://euchelperu.com/producto.php?id=16",
+  "nombre": "Top Karol",
+  "descripcion": "Top con escote pronunciado que deja el pecho sexy y a la vista: diseño sensual y atrevido para lucir con actitud.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 35.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "16TOP534933",
+  "item_group_id": "16",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175997671979939134147281.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 31,
+      "nombre": "Rojo",
+      "precio": 45.0,
+      "id_color_confirmado": 31,
+      "tallas": [
+        {
+          "id_talla": 828,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175997671979939134147281.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:42:02Z"
+}

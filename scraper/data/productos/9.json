@@ -1,0 +1,121 @@
+{
+  "id_original": 9,
+  "url_original": "https://euchelperu.com/producto.php?id=9",
+  "nombre": "Flare Pants Chompero",
+  "descripcion": "Comodidad + estilo en uno solo. Con un fit que estiliza y una tela súper suave, estos flare son perfectos para tu día a día. Lúcelos con zapatillas o botines, ¡van con todo!",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 50.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "9PAN46810-MEDIUM",
+  "item_group_id": "9",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175693478151148691237238.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 119,
+      "nombre": "Verde Pistacho",
+      "precio": 50.0,
+      "id_color_confirmado": 119,
+      "tallas": [
+        {
+          "id_talla": 167,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 168,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693478151148691237238.jpg"
+      ]
+    },
+    {
+      "id_color": 120,
+      "nombre": "Marrón",
+      "precio": 50.0,
+      "id_color_confirmado": 120,
+      "tallas": [
+        {
+          "id_talla": 169,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 170,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693478151148691237238.jpg"
+      ]
+    },
+    {
+      "id_color": 271,
+      "nombre": "Azul",
+      "precio": 0.0,
+      "id_color_confirmado": 271,
+      "tallas": [
+        {
+          "id_talla": 234,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 235,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693478151148691237238.jpg"
+      ]
+    },
+    {
+      "id_color": 272,
+      "nombre": "Negro",
+      "precio": 50.0,
+      "id_color_confirmado": 272,
+      "tallas": [
+        {
+          "id_talla": 237,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 238,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693478151148691237238.jpg"
+      ]
+    },
+    {
+      "id_color": 273,
+      "nombre": "Blanco",
+      "precio": 50.0,
+      "id_color_confirmado": 273,
+      "tallas": [
+        {
+          "id_talla": 240,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 241,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693478151148691237238.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:41:58Z"
+}
