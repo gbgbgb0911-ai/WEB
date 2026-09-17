@@ -1,0 +1,41 @@
+{
+  "id_original": 154,
+  "url_original": "https://euchelperu.com/producto.php?id=154",
+  "nombre": "Bolso Tote Essence",
+  "descripcion": "Perfecto para llevar elementos esenciales con estilo, sus compartimentos permiten mantener todo en orden.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 169.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "154CAR30055",
+  "item_group_id": "154",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703587671656665825217.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bolso Tote Essence",
+  "precio_listado_normal": 169.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 363,
+      "nombre": "Ladrillo",
+      "precio": 169.0,
+      "id_color_confirmado": 363,
+      "tallas": [
+        {
+          "id_talla": 309,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703587671656665825217.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:10:34Z"
+}

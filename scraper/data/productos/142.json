@@ -1,0 +1,103 @@
+{
+  "id_original": 142,
+  "url_original": "https://euchelperu.com/producto.php?id=142",
+  "nombre": "Pantalón Sastre Miranda",
+  "descripcion": "Este pantalón sastre combina estética refinada con funcionalidad. Su diseño clásico cuenta con dos botones horizontales en la cintura, que añaden un detalle chic y aseguran ajuste firme a la vez que estilizan la cintura. Perfecto para ambientes formales o eventos con atuendo business casual.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "142PAN47969-S",
+  "item_group_id": "142",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175693309357796442050727.jpg",
+    "https://euchelperu.com/images/productos/175857189999288734368531.jpg",
+    "https://euchelperu.com/images/productos/17585719081638356258725.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pantalón Sastre Miranda",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 351,
+      "nombre": "Gris",
+      "precio": 89.0,
+      "id_color_confirmado": 351,
+      "tallas": [
+        {
+          "id_talla": 293,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 294,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 710,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693309357796442050727.jpg",
+        "https://euchelperu.com/images/productos/175857189999288734368531.jpg",
+        "https://euchelperu.com/images/productos/17585719081638356258725.jpg"
+      ]
+    },
+    {
+      "id_color": 922,
+      "nombre": "Negro",
+      "precio": 89.0,
+      "id_color_confirmado": 922,
+      "tallas": [
+        {
+          "id_talla": 1194,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1196,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 1197,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175857189999288734368531.jpg",
+        "https://euchelperu.com/images/productos/175693309357796442050727.jpg",
+        "https://euchelperu.com/images/productos/17585719081638356258725.jpg"
+      ]
+    },
+    {
+      "id_color": 923,
+      "nombre": "Beige",
+      "precio": 89.0,
+      "id_color_confirmado": 923,
+      "tallas": [
+        {
+          "id_talla": 1198,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1199,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 1200,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17585719081638356258725.jpg",
+        "https://euchelperu.com/images/productos/175693309357796442050727.jpg",
+        "https://euchelperu.com/images/productos/175857189999288734368531.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:09:18Z"
+}

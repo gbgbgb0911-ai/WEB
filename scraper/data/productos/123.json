@@ -1,0 +1,49 @@
+{
+  "id_original": 123,
+  "url_original": "https://euchelperu.com/producto.php?id=123",
+  "nombre": "Truza Látex",
+  "descripcion": "Prenda interior confeccionada sin costuras laterales, lo que proporciona un ajuste suave como una ''segunda piel''. Ideales para eliminar marcas bajo ropa ajustada y ofrecer gran comodidad.",
+  "categoria": "Complementos",
+  "categoria_subid": 11,
+  "precio_base": 20.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "123TRU74106-M",
+  "item_group_id": "123",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686002885186214560983.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Truza Látex",
+  "precio_listado_normal": 20.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 332,
+      "nombre": "Único",
+      "precio": 20.0,
+      "id_color_confirmado": 332,
+      "tallas": [
+        {
+          "id_talla": 263,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 264,
+          "nombre": "L"
+        },
+        {
+          "id_talla": 265,
+          "nombre": "XL"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686002885186214560983.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:03:44Z"
+}

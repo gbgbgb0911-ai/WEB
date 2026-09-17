@@ -1,0 +1,110 @@
+{
+  "id_original": 137,
+  "url_original": "https://euchelperu.com/producto.php?id=137",
+  "nombre": "Pantalón Jean Wide Leg Bonage",
+  "descripcion": "Descubre un jean con silueta amplia que combina tendencia y elegancia clásica. Este modelo wide leg en azul oscuro uniforme realza cualquier outfit, ideal para quienes buscan un básico versátil con toque contemporáneo.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "137PAN88232-28",
+  "item_group_id": "137",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17569332791406366932762.jpg",
+    "https://euchelperu.com/images/productos/175857079262625313842835.jpg",
+    "https://euchelperu.com/images/productos/17585860944514951745073.jpg",
+    "https://euchelperu.com/images/productos/175858610585464779736089.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pantalón Jean Wide Leg Bonage",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 346,
+      "nombre": "Tono 1",
+      "precio": 95.0,
+      "id_color_confirmado": 346,
+      "tallas": [
+        {
+          "id_talla": 281,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 282,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 283,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 284,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 285,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17569332791406366932762.jpg",
+        "https://euchelperu.com/images/productos/17585860944514951745073.jpg",
+        "https://euchelperu.com/images/productos/175857079262625313842835.jpg",
+        "https://euchelperu.com/images/productos/175858610585464779736089.jpg"
+      ]
+    },
+    {
+      "id_color": 924,
+      "nombre": "Tono 2",
+      "precio": 95.0,
+      "id_color_confirmado": 924,
+      "tallas": [
+        {
+          "id_talla": 1201,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 1202,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 1203,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 1204,
+          "nombre": "34"
+        },
+        {
+          "id_talla": 1205,
+          "nombre": "26"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175857079262625313842835.jpg",
+        "https://euchelperu.com/images/productos/17569332791406366932762.jpg",
+        "https://euchelperu.com/images/productos/17585860944514951745073.jpg",
+        "https://euchelperu.com/images/productos/175858610585464779736089.jpg"
+      ]
+    },
+    {
+      "id_color": 1015,
+      "nombre": "Tono 3",
+      "precio": null,
+      "id_color_confirmado": 1015,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175858610585464779736089.jpg",
+        "https://euchelperu.com/images/productos/17569332791406366932762.jpg",
+        "https://euchelperu.com/images/productos/175857079262625313842835.jpg",
+        "https://euchelperu.com/images/productos/17585860944514951745073.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:07:51Z"
+}

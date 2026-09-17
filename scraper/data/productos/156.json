@@ -1,0 +1,41 @@
+{
+  "id_original": 156,
+  "url_original": "https://euchelperu.com/producto.php?id=156",
+  "nombre": "Cartera UrbanBag",
+  "descripcion": "Un mini bolso funcional y sofisticado para acompañarte con estilo.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 60.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "156CAR37402",
+  "item_group_id": "156",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703543231533990148019.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 365,
+      "nombre": "Único",
+      "precio": 60.0,
+      "id_color_confirmado": 365,
+      "tallas": [
+        {
+          "id_talla": 311,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703543231533990148019.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:10:40Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id_original": 132,
+  "url_original": "https://euchelperu.com/producto.php?id=132",
+  "nombre": "Cafarena Hilo Soft",
+  "descripcion": "Esta cafarena ligera ofrece suavidad al tacto, combina confort y estilo. Pensada para el uso diario, su tejido delicado ofrece una sensación envolvente y natural, perfecta para cualquier ocasión cómoda y relajada.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "132CAF89915",
+  "item_group_id": "132",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175691824676472972443900.jpg",
+    "https://euchelperu.com/images/productos/175858447529136488979693.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 341,
+      "nombre": "Beige",
+      "precio": 49.0,
+      "id_color_confirmado": 341,
+      "tallas": [
+        {
+          "id_talla": 276,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175691824676472972443900.jpg",
+        "https://euchelperu.com/images/productos/175858447529136488979693.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:06:32Z"
+}

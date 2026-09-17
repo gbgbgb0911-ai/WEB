@@ -1,0 +1,49 @@
+{
+  "id_original": 125,
+  "url_original": "https://euchelperu.com/producto.php?id=125",
+  "nombre": "Brasier Escote",
+  "descripcion": "Está diseñado para realzar el busto y combinar con prendas de corte bajo, sin mostrar copas ni tirantes superiores.",
+  "categoria": "Complementos",
+  "categoria_subid": 11,
+  "precio_base": 25.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "125BRA48907-B",
+  "item_group_id": "125",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686025888305269824508.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Brasier Escote",
+  "precio_listado_normal": 25.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 334,
+      "nombre": "Único",
+      "precio": 25.0,
+      "id_color_confirmado": 334,
+      "tallas": [
+        {
+          "id_talla": 267,
+          "nombre": "B"
+        },
+        {
+          "id_talla": 268,
+          "nombre": "C"
+        },
+        {
+          "id_talla": 269,
+          "nombre": "D"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686025888305269824508.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:04:03Z"
+}

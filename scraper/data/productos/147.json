@@ -1,0 +1,45 @@
+{
+  "id_original": 147,
+  "url_original": "https://euchelperu.com/producto.php?id=147",
+  "nombre": "Panty Efecto Piel",
+  "descripcion": "Descubre la fusión perfecta entre estilo sofisticado y funcionalidad térmica. Nuestro panty efecto piel simula la apariencia elegante de una media transparente, mientras su interior te mantiene cálida y cómoda durante todo el día.",
+  "categoria": "Complementos",
+  "categoria_subid": 11,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "147PAN53693-S-M",
+  "item_group_id": "147",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175700250334119728383553.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Panty Efecto Piel",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 357,
+      "nombre": "Único",
+      "precio": 39.0,
+      "id_color_confirmado": 357,
+      "tallas": [
+        {
+          "id_talla": 302,
+          "nombre": "S-M"
+        },
+        {
+          "id_talla": 303,
+          "nombre": "M-L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700250334119728383553.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:09:35Z"
+}

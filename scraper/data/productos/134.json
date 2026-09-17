@@ -1,0 +1,43 @@
+{
+  "id_original": 134,
+  "url_original": "https://euchelperu.com/producto.php?id=134",
+  "nombre": "Top Cuello Corrugado",
+  "descripcion": "Un top femenino y sofisticado con un cuello corrugado de volumen ligero, que añade un toque romántico sin sacrificar modernidad. Las mangas largas equilibran el diseño, creando silueta refinada y comodidad para el día a día o looks formales.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 25.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "134TOP11408",
+  "item_group_id": "134",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17584859954409136463153.jpg",
+    "https://euchelperu.com/images/productos/175866347008350845766371.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 343,
+      "nombre": "Blanco",
+      "precio": 49.0,
+      "id_color_confirmado": 343,
+      "tallas": [
+        {
+          "id_talla": 278,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17584859954409136463153.jpg",
+        "https://euchelperu.com/images/productos/175866347008350845766371.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:06:48Z"
+}

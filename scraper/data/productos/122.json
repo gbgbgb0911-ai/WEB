@@ -1,0 +1,41 @@
+{
+  "id_original": 122,
+  "url_original": "https://euchelperu.com/producto.php?id=122",
+  "nombre": "Shape Short",
+  "descripcion": "Son shorts moldeadores que cubren abdomen, caderas y parte de los muslos, diseñados para estilizar la figura, suavizar líneas y reducir rozaduras en el muslo. Se usan bajo vestidos ajustados, faldas o pantalones .",
+  "categoria": "Complementos",
+  "categoria_subid": 11,
+  "precio_base": 35.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "122560",
+  "item_group_id": "122",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17570040517300661232856.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Shape Short",
+  "precio_listado_normal": 35.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 331,
+      "nombre": "Único",
+      "precio": 35.0,
+      "id_color_confirmado": 331,
+      "tallas": [
+        {
+          "id_talla": 262,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570040517300661232856.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:03:40Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 153,
+  "url_original": "https://euchelperu.com/producto.php?id=153",
+  "nombre": "Cartera Aura Atelier",
+  "descripcion": "Diseño elegante y funcional, combina sobriedad y estilo para tu día a día. Ideal para llevar documentos o elementos de oficina con comodidad y estilo.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "153CAR67641",
+  "item_group_id": "153",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703600203555586039685.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Cartera Aura Atelier",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 362,
+      "nombre": "Ladrillo",
+      "precio": 99.0,
+      "id_color_confirmado": 362,
+      "tallas": [
+        {
+          "id_talla": 308,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703600203555586039685.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:10:17Z"
+}

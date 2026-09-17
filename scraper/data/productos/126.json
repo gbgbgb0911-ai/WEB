@@ -1,0 +1,41 @@
+{
+  "id_original": 126,
+  "url_original": "https://euchelperu.com/producto.php?id=126",
+  "nombre": "Truza Invisible",
+  "descripcion": "Brinda una apariencia completamente invisible ropa ajustada. Su objetivo: evitar marcas y ofrecer una sensación de comodidad.",
+  "categoria": "Complementos",
+  "categoria_subid": 11,
+  "precio_base": 15.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "126568",
+  "item_group_id": "126",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686311448735416379469.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Truza Invisible",
+  "precio_listado_normal": 15.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 335,
+      "nombre": "Único",
+      "precio": 15.0,
+      "id_color_confirmado": 335,
+      "tallas": [
+        {
+          "id_talla": 270,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686311448735416379469.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:05:44Z"
+}

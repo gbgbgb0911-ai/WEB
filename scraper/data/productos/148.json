@@ -1,0 +1,49 @@
+{
+  "id_original": 148,
+  "url_original": "https://euchelperu.com/producto.php?id=148",
+  "nombre": "Calentadores",
+  "descripcion": "Son pantalones ajustados estilo legging, fabricados con forro térmico interno, que actúan como segunda piel para mantener el calor corporal sin renunciar a la movilidad ni el estilo.",
+  "categoria": "Complementos",
+  "categoria_subid": 11,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "148CAL19075-S",
+  "item_group_id": "148",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175718201767880748577767.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Calentadores",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 356,
+      "nombre": "Único",
+      "precio": 45.0,
+      "id_color_confirmado": 356,
+      "tallas": [
+        {
+          "id_talla": 299,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 300,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 301,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175718201767880748577767.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:09:51Z"
+}

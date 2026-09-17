@@ -1,0 +1,41 @@
+{
+  "id_original": 155,
+  "url_original": "https://euchelperu.com/producto.php?id=155",
+  "nombre": "Cartera Purse Palace",
+  "descripcion": "Esta cartera combina líneas estructuradas y elegantes, ofrece seguridad y orden para el día a día.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 90.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "155CAR63756",
+  "item_group_id": "155",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703564037750451949384.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 364,
+      "nombre": "Negro",
+      "precio": 90.0,
+      "id_color_confirmado": 364,
+      "tallas": [
+        {
+          "id_talla": 310,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703564037750451949384.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:10:37Z"
+}

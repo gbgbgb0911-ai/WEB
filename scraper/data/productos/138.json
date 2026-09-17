@@ -1,0 +1,57 @@
+{
+  "id_original": 138,
+  "url_original": "https://euchelperu.com/producto.php?id=138",
+  "nombre": "Pantalón Jean Palazzo Jhozam",
+  "descripcion": "Este pantalón combina la estética fluida del corte palazzo con la resistencia del denim. Posee una cintura alta favorecedora y pernera ancha que fluye desde la cintura hasta el tobillo, creando una silueta moderna y relajada.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "138PAN24567-26",
+  "item_group_id": "138",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175691789337126162757533.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pantalón Jean Palazzo Jhozam",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 347,
+      "nombre": "Único",
+      "precio": 95.0,
+      "id_color_confirmado": 347,
+      "tallas": [
+        {
+          "id_talla": 286,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 287,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 288,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 289,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 711,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175691789337126162757533.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:08:08Z"
+}

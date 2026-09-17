@@ -1,0 +1,41 @@
+{
+  "id_original": 141,
+  "url_original": "https://euchelperu.com/producto.php?id=141",
+  "nombre": "Vestido Copa Andrea",
+  "descripcion": "Este vestido mini combina elegancia y sensualidad en una sola prenda. Su diseño incorpora copa estructurada para dar soporte al busto, mangas largas para cobertura elegante y fruncidos en los laterales que resaltan la cintura y permiten un fit adaptable y favorecedor.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "141VES82929",
+  "item_group_id": "141",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685373587492755810929.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 350,
+      "nombre": "Acero",
+      "precio": 59.0,
+      "id_color_confirmado": 350,
+      "tallas": [
+        {
+          "id_talla": 292,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685373587492755810929.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:09:09Z"
+}

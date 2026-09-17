@@ -1,0 +1,53 @@
+{
+  "id_original": 121,
+  "url_original": "https://euchelperu.com/producto.php?id=121",
+  "nombre": "Brasier Silicona",
+  "descripcion": "Sujetador sin tirantes, sin espalda, hecho de copas de silicona con un adhesivo que se pega directamente al pecho. Perfecto para usar con prendas escotadas, sin espalda o ajustes especiales, ofrece soporte con discreción y sin las marcas de los tirantes.",
+  "categoria": "Complementos",
+  "categoria_subid": 11,
+  "precio_base": 29.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "121BRA78087-A",
+  "item_group_id": "121",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686020032904170036738.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Brasier Silicona",
+  "precio_listado_normal": 29.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 330,
+      "nombre": "Único",
+      "precio": 29.0,
+      "id_color_confirmado": 330,
+      "tallas": [
+        {
+          "id_talla": 258,
+          "nombre": "A"
+        },
+        {
+          "id_talla": 259,
+          "nombre": "B"
+        },
+        {
+          "id_talla": 260,
+          "nombre": "C"
+        },
+        {
+          "id_talla": 261,
+          "nombre": "D"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686020032904170036738.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:03:11Z"
+}

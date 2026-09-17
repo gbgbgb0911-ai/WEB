@@ -1,0 +1,41 @@
+{
+  "id_original": 124,
+  "url_original": "https://euchelperu.com/producto.php?id=124",
+  "nombre": "Conejito Bra",
+  "descripcion": "Es un sujetador sin tirantes, sin espalda, con copas de silicona autoadhesiva y pequeñas “orejitas” en la parte superior. Estas permiten levantar el busto hacia arriba, logrando un escote definido. Son invisibles bajo prendas strapless, escotes profundos y vestidos de fiesta .",
+  "categoria": "Complementos",
+  "categoria_subid": 11,
+  "precio_base": 20.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "124CON37805",
+  "item_group_id": "124",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17568600550924246052554.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Conejito Bra",
+  "precio_listado_normal": 20.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 333,
+      "nombre": "Único",
+      "precio": 20.0,
+      "id_color_confirmado": 333,
+      "tallas": [
+        {
+          "id_talla": 266,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568600550924246052554.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:03:47Z"
+}

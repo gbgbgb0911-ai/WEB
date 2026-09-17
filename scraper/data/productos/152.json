@@ -1,0 +1,41 @@
+{
+  "id_original": 152,
+  "url_original": "https://euchelperu.com/producto.php?id=152",
+  "nombre": "Cartera Prestige Purses",
+  "descripcion": "Esta cartera suma estilo y practicidad en cada uso, es perfecta para mujeres que llevan su vida organizada sin perder el estilo.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 120.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "152CAR93353",
+  "item_group_id": "152",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703613971707239346527.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 361,
+      "nombre": "Beige",
+      "precio": 120.0,
+      "id_color_confirmado": 361,
+      "tallas": [
+        {
+          "id_talla": 307,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703613971707239346527.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:10:14Z"
+}

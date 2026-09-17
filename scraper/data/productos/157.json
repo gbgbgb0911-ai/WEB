@@ -1,0 +1,41 @@
+{
+  "id_original": 157,
+  "url_original": "https://euchelperu.com/producto.php?id=157",
+  "nombre": "Cartera Bag Bliss",
+  "descripcion": "Inspirado en un diseño curvo minimalista brillando con su acabado acharolado, este bolso combina versatilidad y estilo.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "157CAR15367",
+  "item_group_id": "157",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175703529504602185053442.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 366,
+      "nombre": "Único",
+      "precio": 65.0,
+      "id_color_confirmado": 366,
+      "tallas": [
+        {
+          "id_talla": 312,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175703529504602185053442.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:11:12Z"
+}

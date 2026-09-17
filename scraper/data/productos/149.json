@@ -1,0 +1,79 @@
+{
+  "id_original": 149,
+  "url_original": "https://euchelperu.com/producto.php?id=149",
+  "nombre": "Mini Vestido Manga Encaje",
+  "descripcion": "Un mini vestido sofisticado que combina la elegancia del encaje con la modernidad del corte mini. Las mangas largas realzan feminidad con un toque refinado, mientras el escote y el forro interior aseguran comodidad y versatilidad.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "149MIN18075",
+  "item_group_id": "149",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685391098827989048950.jpg",
+    "https://euchelperu.com/images/productos/175856296335908696066855.jpg",
+    "https://euchelperu.com/images/productos/1758580679994886371823.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 358,
+      "nombre": "Blanco",
+      "precio": 69.0,
+      "id_color_confirmado": 358,
+      "tallas": [
+        {
+          "id_talla": 304,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685391098827989048950.jpg",
+        "https://euchelperu.com/images/productos/1758580679994886371823.jpg",
+        "https://euchelperu.com/images/productos/175856296335908696066855.jpg"
+      ]
+    },
+    {
+      "id_color": 942,
+      "nombre": "Vino",
+      "precio": 69.0,
+      "id_color_confirmado": 942,
+      "tallas": [
+        {
+          "id_talla": 1168,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175856296335908696066855.jpg",
+        "https://euchelperu.com/images/productos/175685391098827989048950.jpg",
+        "https://euchelperu.com/images/productos/1758580679994886371823.jpg"
+      ]
+    },
+    {
+      "id_color": 943,
+      "nombre": "Beige",
+      "precio": 69.0,
+      "id_color_confirmado": 943,
+      "tallas": [
+        {
+          "id_talla": 1169,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685391098827989048950.jpg",
+        "https://euchelperu.com/images/productos/175856296335908696066855.jpg",
+        "https://euchelperu.com/images/productos/1758580679994886371823.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:10:01Z"
+}

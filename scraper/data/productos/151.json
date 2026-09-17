@@ -1,0 +1,87 @@
+{
+  "id_original": 151,
+  "url_original": "https://euchelperu.com/producto.php?id=151",
+  "nombre": "Mini Vestido Bobos",
+  "descripcion": "Un mini vestido coqueto y vibrante, diseñado con flecos colgantes que danzan con cada movimiento. Perfecto para destacar en eventos de fiesta, cóctel o salidas nocturnas, combina sensualidad y diversión en un solo diseño.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "151VBSh22",
+  "item_group_id": "151",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17569187912905775371309.jpg",
+    "https://euchelperu.com/images/productos/175953496379766421442246.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 360,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 360,
+      "tallas": [
+        {
+          "id_talla": 306,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 475,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17569187912905775371309.jpg",
+        "https://euchelperu.com/images/productos/175953496379766421442246.jpg"
+      ]
+    },
+    {
+      "id_color": 535,
+      "nombre": "Blanco",
+      "precio": 69.0,
+      "id_color_confirmado": 535,
+      "tallas": [
+        {
+          "id_talla": 476,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 477,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17569187912905775371309.jpg",
+        "https://euchelperu.com/images/productos/175953496379766421442246.jpg"
+      ]
+    },
+    {
+      "id_color": 536,
+      "nombre": "Anaranjado",
+      "precio": 69.0,
+      "id_color_confirmado": 536,
+      "tallas": [
+        {
+          "id_talla": 478,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 479,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175953496379766421442246.jpg",
+        "https://euchelperu.com/images/productos/17569187912905775371309.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:10:11Z"
+}

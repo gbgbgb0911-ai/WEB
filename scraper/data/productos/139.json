@@ -1,0 +1,71 @@
+{
+  "id_original": 139,
+  "url_original": "https://euchelperu.com/producto.php?id=139",
+  "nombre": "Bufanda",
+  "descripcion": "Envuelve tu estilo en calidez y sofisticación con esta bufanda. Pensada como una pieza envolvente más que un simple accesorio, combina textura, suavidad y presencia visual para transformar cualquier outfit con un toque acogedor y elegante.",
+  "categoria": "Complementos",
+  "categoria_subid": 11,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "139BUF11803",
+  "item_group_id": "139",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175700313355203311735275.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bufanda",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 348,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 348,
+      "tallas": [
+        {
+          "id_talla": 290,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700313355203311735275.jpg"
+      ]
+    },
+    {
+      "id_color": 929,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 929,
+      "tallas": [
+        {
+          "id_talla": 1177,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700313355203311735275.jpg"
+      ]
+    },
+    {
+      "id_color": 930,
+      "nombre": "Beige",
+      "precio": 45.0,
+      "id_color_confirmado": 930,
+      "tallas": [
+        {
+          "id_talla": 1178,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700313355203311735275.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:09:06Z"
+}
