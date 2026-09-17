@@ -1,0 +1,121 @@
+{
+  "id_original": 46,
+  "url_original": "https://euchelperu.com/producto.php?id=46",
+  "nombre": "Flare polar Valeria",
+  "descripcion": "Ajustado a la cintura y caderas, se ensancha desde la rodilla para una silueta que estiliza y alarga las piernas, perfectos para uso diario o actividades al aire libre.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "46FLA94619-SMALL",
+  "item_group_id": "46",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17570096152844426392961.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 124,
+      "nombre": "Plomo",
+      "precio": 65.0,
+      "id_color_confirmado": 124,
+      "tallas": [
+        {
+          "id_talla": 171,
+          "nombre": "SMALL"
+        },
+        {
+          "id_talla": 172,
+          "nombre": "MEDIUM"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570096152844426392961.jpg"
+      ]
+    },
+    {
+      "id_color": 125,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 125,
+      "tallas": [
+        {
+          "id_talla": 173,
+          "nombre": "SMALL"
+        },
+        {
+          "id_talla": 174,
+          "nombre": "MEDIUM"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570096152844426392961.jpg"
+      ]
+    },
+    {
+      "id_color": 126,
+      "nombre": "Perla",
+      "precio": 65.0,
+      "id_color_confirmado": 126,
+      "tallas": [
+        {
+          "id_talla": 175,
+          "nombre": "SMALL"
+        },
+        {
+          "id_talla": 176,
+          "nombre": "MEDIUM"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570096152844426392961.jpg"
+      ]
+    },
+    {
+      "id_color": 127,
+      "nombre": "Beige",
+      "precio": 65.0,
+      "id_color_confirmado": 127,
+      "tallas": [
+        {
+          "id_talla": 177,
+          "nombre": "SMALL"
+        },
+        {
+          "id_talla": 178,
+          "nombre": "MEDIUM"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570096152844426392961.jpg"
+      ]
+    },
+    {
+      "id_color": 128,
+      "nombre": "Marrón",
+      "precio": 65.0,
+      "id_color_confirmado": 128,
+      "tallas": [
+        {
+          "id_talla": 179,
+          "nombre": "SMALL"
+        },
+        {
+          "id_talla": 180,
+          "nombre": "MEDIUM"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570096152844426392961.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:43:42Z"
+}

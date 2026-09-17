@@ -1,0 +1,57 @@
+{
+  "id_original": 37,
+  "url_original": "https://euchelperu.com/producto.php?id=37",
+  "nombre": "Wide Leg Jean Verdoso",
+  "descripcion": "Este pantalón jean permite una silueta fluida y relajada, perfecta para quienes buscan comodidad con carácter.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "37PWLV78",
+  "item_group_id": "37",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175709114494293316721051.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Wide Leg Jean Verdoso",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 94,
+      "nombre": "Único",
+      "precio": 79.0,
+      "id_color_confirmado": 94,
+      "tallas": [
+        {
+          "id_talla": 123,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 124,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 749,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 750,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 751,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709114494293316721051.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:43:02Z"
+}

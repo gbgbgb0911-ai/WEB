@@ -1,0 +1,107 @@
+{
+  "id_original": 49,
+  "url_original": "https://euchelperu.com/producto.php?id=49",
+  "nombre": "Falda Cadera Sastre",
+  "descripcion": "Una falda corta diseñada para lucirse justo sobre la cadera, brinda máxima versatilidad para tus outfits del día y la noche.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "49FAL09065-XS",
+  "item_group_id": "49",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175718194945704269761592.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Falda Cadera Sastre",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 136,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 136,
+      "tallas": [
+        {
+          "id_talla": 181,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 182,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 183,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 184,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175718194945704269761592.jpg"
+      ]
+    },
+    {
+      "id_color": 137,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 137,
+      "tallas": [
+        {
+          "id_talla": 185,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 186,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 187,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 188,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175718194945704269761592.jpg"
+      ]
+    },
+    {
+      "id_color": 138,
+      "nombre": "Plomo",
+      "precio": 55.0,
+      "id_color_confirmado": 138,
+      "tallas": [
+        {
+          "id_talla": 189,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 190,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 191,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 192,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175718194945704269761592.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:43:59Z"
+}

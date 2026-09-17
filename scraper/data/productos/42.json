@@ -1,0 +1,118 @@
+{
+  "id_original": 42,
+  "url_original": "https://euchelperu.com/producto.php?id=42",
+  "nombre": "Pantalón Klein Box",
+  "descripcion": "Este pantalón realza la figura y es perfecto para un look profesional o casual-chic con estilo y comodidad durante todo el día.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "42PAN24273",
+  "item_group_id": "42",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175693567828185823164760.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 107,
+      "nombre": "Beige",
+      "precio": 85.0,
+      "id_color_confirmado": 107,
+      "tallas": [
+        {
+          "id_talla": 150,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 731,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 732,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693567828185823164760.jpg"
+      ]
+    },
+    {
+      "id_color": 108,
+      "nombre": "Gris Claro",
+      "precio": 85.0,
+      "id_color_confirmado": 108,
+      "tallas": [
+        {
+          "id_talla": 151,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 733,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 734,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693567828185823164760.jpg"
+      ]
+    },
+    {
+      "id_color": 109,
+      "nombre": "Gris Oscuro",
+      "precio": 85.0,
+      "id_color_confirmado": 109,
+      "tallas": [
+        {
+          "id_talla": 152,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 153,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 735,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693567828185823164760.jpg"
+      ]
+    },
+    {
+      "id_color": 110,
+      "nombre": "Negro",
+      "precio": 85.0,
+      "id_color_confirmado": 110,
+      "tallas": [
+        {
+          "id_talla": 154,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 736,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 737,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693567828185823164760.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:43:22Z"
+}

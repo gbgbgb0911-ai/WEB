@@ -1,0 +1,88 @@
+{
+  "id_original": 33,
+  "url_original": "https://euchelperu.com/producto.php?id=33",
+  "nombre": "Pantalón cadera Ivanna",
+  "descripcion": "Destaca tu estilo con este jean, un color terroso y moderno que aporta personalidad y calidez al look.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "33PAN99135-26",
+  "item_group_id": "33",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175709202608687840388511.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pantalón cadera Ivanna",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 84,
+      "nombre": "1",
+      "precio": 95.0,
+      "id_color_confirmado": 84,
+      "tallas": [
+        {
+          "id_talla": 91,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 92,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 93,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 94,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 769,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709202608687840388511.jpg"
+      ]
+    },
+    {
+      "id_color": 85,
+      "nombre": "2",
+      "precio": 95.0,
+      "id_color_confirmado": 85,
+      "tallas": [
+        {
+          "id_talla": 95,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 96,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 97,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 98,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 770,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709202608687840388511.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:42:42Z"
+}

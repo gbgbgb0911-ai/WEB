@@ -1,0 +1,41 @@
+{
+  "id_original": 57,
+  "url_original": "https://euchelperu.com/producto.php?id=57",
+  "nombre": "Vestido Anna",
+  "descripcion": "Deslumbra en cada paso con este vestido sofisticado. El diseño tiene una espalda descubierta que aporta sensualidad sin perder elegancia. Perfecto para cócteles, graduaciones o eventos nocturnos.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 35.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "57VES37859",
+  "item_group_id": "57",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686275192626731955983.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 164,
+      "nombre": "Anaranjado",
+      "precio": 65.0,
+      "id_color_confirmado": 164,
+      "tallas": [
+        {
+          "id_talla": 850,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686275192626731955983.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:44:39Z"
+}

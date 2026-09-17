@@ -1,0 +1,99 @@
+{
+  "id_original": 35,
+  "url_original": "https://euchelperu.com/producto.php?id=35",
+  "nombre": "Pantalon Jean Cadera Culotte",
+  "descripcion": "‍Destaca tu look con este jean perfecto para quienes buscan impactar con una pieza llena de personalidad, aporta ese híbrido perfecto entre comodidad y presencia visual.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "35PAN57398-24",
+  "item_group_id": "35",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175693561964049418742118.jpg",
+    "https://euchelperu.com/images/productos/17585706423129011242831.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pantalon Jean Cadera Culotte",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 89,
+      "nombre": "tono 1",
+      "precio": 95.0,
+      "id_color_confirmado": 89,
+      "tallas": [
+        {
+          "id_talla": 108,
+          "nombre": "24"
+        },
+        {
+          "id_talla": 109,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 110,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 111,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 112,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 762,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693561964049418742118.jpg",
+        "https://euchelperu.com/images/productos/17585706423129011242831.jpg"
+      ]
+    },
+    {
+      "id_color": 90,
+      "nombre": "tono 2",
+      "precio": 95.0,
+      "id_color_confirmado": 90,
+      "tallas": [
+        {
+          "id_talla": 113,
+          "nombre": "24"
+        },
+        {
+          "id_talla": 114,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 115,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 116,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 117,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 763,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17585706423129011242831.jpg",
+        "https://euchelperu.com/images/productos/175693561964049418742118.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:42:49Z"
+}

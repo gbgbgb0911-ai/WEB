@@ -1,0 +1,119 @@
+{
+  "id_original": 36,
+  "url_original": "https://euchelperu.com/producto.php?id=36",
+  "nombre": "Pantalón Jean Skater",
+  "descripcion": "Hechos para moverse con estilo y comodidad, estos jeans skater combinan silueta amplia con una estética urbana sin esfuerzo.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "36PAN75638",
+  "item_group_id": "36",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17570954578316332384279.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pantalón Jean Skater",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 91,
+      "nombre": "tono 1",
+      "precio": 95.0,
+      "id_color_confirmado": 91,
+      "tallas": [
+        {
+          "id_talla": 118,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 119,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 752,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 753,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 754,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570954578316332384279.jpg"
+      ]
+    },
+    {
+      "id_color": 92,
+      "nombre": "tono 2",
+      "precio": 95.0,
+      "id_color_confirmado": 92,
+      "tallas": [
+        {
+          "id_talla": 120,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 121,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 755,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 756,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 757,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570954578316332384279.jpg"
+      ]
+    },
+    {
+      "id_color": 93,
+      "nombre": "tono 3",
+      "precio": 95.0,
+      "id_color_confirmado": 93,
+      "tallas": [
+        {
+          "id_talla": 122,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 758,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 759,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 760,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 761,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570954578316332384279.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:42:59Z"
+}

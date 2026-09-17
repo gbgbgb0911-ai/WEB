@@ -1,0 +1,49 @@
+{
+  "id_original": 40,
+  "url_original": "https://euchelperu.com/producto.php?id=40",
+  "nombre": "Pantalón Sastre Franja",
+  "descripcion": "Redescubre la elegancia con nuestro pantalón sastre franja que estiliza y da personalidad. Perfecto para oficina, eventos o un look casual-chic.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "401037-Small",
+  "item_group_id": "40",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175717575891346779687659.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 146,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 146,
+      "tallas": [
+        {
+          "id_talla": 212,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 213,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 764,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175717575891346779687659.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:43:05Z"
+}

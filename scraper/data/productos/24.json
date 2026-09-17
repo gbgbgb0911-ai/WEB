@@ -1,0 +1,193 @@
+{
+  "id_original": 24,
+  "url_original": "https://euchelperu.com/producto.php?id=24",
+  "nombre": "Pantalón Jean Baggy",
+  "descripcion": "Relájate sin perder estilo con este jean baggy que ofrece libertad de movimiento y comodidad todo el día.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "24PAN70963-26",
+  "item_group_id": "24",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175693555853876890651383.jpg",
+    "https://euchelperu.com/images/productos/175857058432062661746006.jpg",
+    "https://euchelperu.com/images/productos/17585706055267836793195.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 62,
+      "nombre": "tono 1",
+      "precio": 95.0,
+      "id_color_confirmado": 62,
+      "tallas": [
+        {
+          "id_talla": 8,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 9,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 10,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 11,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 793,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693555853876890651383.jpg",
+        "https://euchelperu.com/images/productos/175857058432062661746006.jpg",
+        "https://euchelperu.com/images/productos/17585706055267836793195.jpg"
+      ]
+    },
+    {
+      "id_color": 63,
+      "nombre": "tono 2",
+      "precio": 95.0,
+      "id_color_confirmado": 63,
+      "tallas": [
+        {
+          "id_talla": 12,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 13,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 14,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 15,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 794,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175857058432062661746006.jpg",
+        "https://euchelperu.com/images/productos/175693555853876890651383.jpg",
+        "https://euchelperu.com/images/productos/17585706055267836793195.jpg"
+      ]
+    },
+    {
+      "id_color": 64,
+      "nombre": "tono 3",
+      "precio": 95.0,
+      "id_color_confirmado": 64,
+      "tallas": [
+        {
+          "id_talla": 16,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 17,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 18,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 19,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 795,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17585706055267836793195.jpg",
+        "https://euchelperu.com/images/productos/175693555853876890651383.jpg",
+        "https://euchelperu.com/images/productos/175857058432062661746006.jpg"
+      ]
+    },
+    {
+      "id_color": 65,
+      "nombre": "tono 4",
+      "precio": 95.0,
+      "id_color_confirmado": 65,
+      "tallas": [
+        {
+          "id_talla": 20,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 21,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 22,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 23,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 796,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693555853876890651383.jpg",
+        "https://euchelperu.com/images/productos/175857058432062661746006.jpg",
+        "https://euchelperu.com/images/productos/17585706055267836793195.jpg"
+      ]
+    },
+    {
+      "id_color": 66,
+      "nombre": "tono 5",
+      "precio": 95.0,
+      "id_color_confirmado": 66,
+      "tallas": [
+        {
+          "id_talla": 24,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 25,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 26,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 27,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 797,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693555853876890651383.jpg",
+        "https://euchelperu.com/images/productos/175857058432062661746006.jpg",
+        "https://euchelperu.com/images/productos/17585706055267836793195.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:42:22Z"
+}

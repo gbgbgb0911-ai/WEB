@@ -1,0 +1,86 @@
+{
+  "id_original": 52,
+  "url_original": "https://euchelperu.com/producto.php?id=52",
+  "nombre": "Falda Larga Basic",
+  "descripcion": "Falda larga básica, corte fluido y cintura elástica, ofrece versatilidad, comodidad y un estilo atemporal para cada temporada.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 35.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "52FAL84630-Standard",
+  "item_group_id": "52",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175709067483694516456390.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 149,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 149,
+      "tallas": [
+        {
+          "id_talla": 216,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709067483694516456390.jpg"
+      ]
+    },
+    {
+      "id_color": 150,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 150,
+      "tallas": [
+        {
+          "id_talla": 217,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709067483694516456390.jpg"
+      ]
+    },
+    {
+      "id_color": 151,
+      "nombre": "Plomo",
+      "precio": 59.0,
+      "id_color_confirmado": 151,
+      "tallas": [
+        {
+          "id_talla": 218,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709067483694516456390.jpg"
+      ]
+    },
+    {
+      "id_color": 152,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 152,
+      "tallas": [
+        {
+          "id_talla": 219,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709067483694516456390.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:44:23Z"
+}

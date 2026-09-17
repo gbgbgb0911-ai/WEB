@@ -1,0 +1,41 @@
+{
+  "id_original": 53,
+  "url_original": "https://euchelperu.com/producto.php?id=53",
+  "nombre": "Vestido Cafarena",
+  "descripcion": "Vestido tejido en hilo ofrece un acabado suave, su corte ceñido al cuerpo realza la figura con un estilo sofisticado y natural.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "53VES66323",
+  "item_group_id": "53",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175709078005037147871493.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 155,
+      "nombre": "Plomo",
+      "precio": 69.0,
+      "id_color_confirmado": 155,
+      "tallas": [
+        {
+          "id_talla": 855,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709078005037147871493.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:44:26Z"
+}

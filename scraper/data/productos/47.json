@@ -1,0 +1,41 @@
+{
+  "id_original": 47,
+  "url_original": "https://euchelperu.com/producto.php?id=47",
+  "nombre": "Flare Lady",
+  "descripcion": "Perfecto para looks desenfadados con botas o tacones, y chaquetas de cuero, suéteres o blazers oversize. Un básico con personalidad, ideal para llevar el estilo retro renovado con un toque urbano.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 29.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "47FLA80772",
+  "item_group_id": "47",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17625581363793998615378.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 893,
+      "nombre": "Piel",
+      "precio": 49.0,
+      "id_color_confirmado": 893,
+      "tallas": [
+        {
+          "id_talla": 1123,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17625581363793998615378.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:43:46Z"
+}

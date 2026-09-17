@@ -1,0 +1,57 @@
+{
+  "id_original": 30,
+  "url_original": "https://euchelperu.com/producto.php?id=30",
+  "nombre": "Pantalón Star Nebula",
+  "descripcion": "Este pantalón jean c ombina comodidad y tendencia urbana con versatilidad, ideal tanto para looks chic y para outfits relajados. \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "30PAN93894",
+  "item_group_id": "30",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175709217149237368457171.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pantalón Star Nebula",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 78,
+      "nombre": "Único",
+      "precio": 95.0,
+      "id_color_confirmado": 78,
+      "tallas": [
+        {
+          "id_talla": 69,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 70,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 779,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 780,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 781,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709217149237368457171.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:42:25Z"
+}

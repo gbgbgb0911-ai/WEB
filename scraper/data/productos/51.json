@@ -1,0 +1,71 @@
+{
+  "id_original": 51,
+  "url_original": "https://euchelperu.com/producto.php?id=51",
+  "nombre": "Falda Cadera Loma",
+  "descripcion": "La falda básica a la cadera es esencial en nuestro armario porque es versátil, cómoda y perfecta para cualquier ocasión. \\n \\n \\n",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "51FAL90106-Standard",
+  "item_group_id": "51",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175693471644096413545906.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Falda Cadera Loma",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 143,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 143,
+      "tallas": [
+        {
+          "id_talla": 209,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693471644096413545906.jpg"
+      ]
+    },
+    {
+      "id_color": 144,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 144,
+      "tallas": [
+        {
+          "id_talla": 210,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693471644096413545906.jpg"
+      ]
+    },
+    {
+      "id_color": 145,
+      "nombre": "Plomo",
+      "precio": 55.0,
+      "id_color_confirmado": 145,
+      "tallas": [
+        {
+          "id_talla": 211,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693471644096413545906.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:44:09Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 58,
+  "url_original": "https://euchelperu.com/producto.php?id=58",
+  "nombre": "Vestido Amanecer",
+  "descripcion": "Deja que el verano te envuelva con este encantador vestido floral. Sus tirantes ajustables y escote favorecedor se combinan con un patrón vibrante de flores rosas sobre blanco. Este vestido te invita a moverte libre y con estilo.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "58VES13998",
+  "item_group_id": "58",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175693633302451259317987.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 165,
+      "nombre": "Rosa",
+      "precio": 79.0,
+      "id_color_confirmado": 165,
+      "tallas": [
+        {
+          "id_talla": 849,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693633302451259317987.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:44:43Z"
+}

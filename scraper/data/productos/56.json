@@ -1,0 +1,41 @@
+{
+  "id_original": 56,
+  "url_original": "https://euchelperu.com/producto.php?id=56",
+  "nombre": "Vestido Tarzán Tul",
+  "descripcion": "Diseñado para deslumbrar, este vestido combina la ligereza del tul con un corte asimétrico moderno, con detalles únicos como escote de un solo hombro y forro interior.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "56VES70355",
+  "item_group_id": "56",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686278639088708181153.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 163,
+      "nombre": "Fucsia",
+      "precio": 65.0,
+      "id_color_confirmado": 163,
+      "tallas": [
+        {
+          "id_talla": 851,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686278639088708181153.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:44:36Z"
+}

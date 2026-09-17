@@ -1,0 +1,36 @@
+{
+  "id_original": 41,
+  "url_original": "https://euchelperu.com/producto.php?id=41",
+  "nombre": "Palazzo Pinzas Loma",
+  "descripcion": "Descubre el pantalón palazzo loma con pinzas, de tiro alto y corte fluido, con múltiples pinzas que realzan la figura, es la opción ideal para un look sofisticado sin esfuerzo.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": null,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "41",
+  "item_group_id": "41",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17654679248588417110408.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2078,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 2078,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17654679248588417110408.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:43:09Z"
+}

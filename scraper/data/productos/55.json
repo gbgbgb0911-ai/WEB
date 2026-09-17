@@ -1,0 +1,56 @@
+{
+  "id_original": 55,
+  "url_original": "https://euchelperu.com/producto.php?id=55",
+  "nombre": "Vestido Tropical",
+  "descripcion": "Vestido largo tropical con corte fluido y estampado fresco, tu opción infalible para lucir veraniega y elegante.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "55VES12124",
+  "item_group_id": "55",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175700759696647425853734.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 161,
+      "nombre": "Rosado",
+      "precio": 59.0,
+      "id_color_confirmado": 161,
+      "tallas": [
+        {
+          "id_talla": 852,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700759696647425853734.jpg"
+      ]
+    },
+    {
+      "id_color": 162,
+      "nombre": "Amarillo",
+      "precio": 59.0,
+      "id_color_confirmado": 162,
+      "tallas": [
+        {
+          "id_talla": 853,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700759696647425853734.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:44:33Z"
+}

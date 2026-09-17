@@ -1,0 +1,41 @@
+{
+  "id_original": 48,
+  "url_original": "https://euchelperu.com/producto.php?id=48",
+  "nombre": "Jass Buzo",
+  "descripcion": "Ideal para looks urbanos o versátiles: combina con sudadera, cazadora casual o camiseta básica. Esencial en cualquier armario moderno.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 50.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "48PAN23867",
+  "item_group_id": "48",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176305645781674424554760.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 132,
+      "nombre": "Plomo",
+      "precio": 50.0,
+      "id_color_confirmado": 132,
+      "tallas": [
+        {
+          "id_talla": 712,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176305645781674424554760.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:43:49Z"
+}
