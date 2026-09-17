@@ -1,0 +1,41 @@
+{
+  "id_original": 214,
+  "url_original": "https://euchelperu.com/producto.php?id=214",
+  "nombre": "Casaca Bolsillos Peluche",
+  "descripcion": "Abrigo suave y esponjoso con bolsillos integrados, ideal para un look casual urbano y confortable.",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": 135.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "214CAS77819",
+  "item_group_id": "214",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17569170617920243562436.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Casaca Bolsillos Peluche",
+  "precio_listado_normal": 135.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 425,
+      "nombre": "Negro",
+      "precio": 135.0,
+      "id_color_confirmado": 425,
+      "tallas": [
+        {
+          "id_talla": 368,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17569170617920243562436.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:27:17Z"
+}

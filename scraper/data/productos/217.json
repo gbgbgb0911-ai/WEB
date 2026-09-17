@@ -1,0 +1,91 @@
+{
+  "id_original": 217,
+  "url_original": "https://euchelperu.com/producto.php?id=217",
+  "nombre": "Vestido Listones Manga Larga",
+  "descripcion": "Aporta romanticismo, corte entallado y falda coqueta para un estilo actual y femenino.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 50.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "217VES7005233",
+  "item_group_id": "217",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175953444459311646730365.jpg",
+    "https://euchelperu.com/images/productos/17595346919664950993190.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 755,
+      "nombre": "Gris",
+      "precio": 79.0,
+      "id_color_confirmado": 755,
+      "tallas": [
+        {
+          "id_talla": 983,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17595346919664950993190.jpg",
+        "https://euchelperu.com/images/productos/175953444459311646730365.jpg"
+      ]
+    },
+    {
+      "id_color": 756,
+      "nombre": "Vino",
+      "precio": 79.0,
+      "id_color_confirmado": 756,
+      "tallas": [
+        {
+          "id_talla": 984,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175953444459311646730365.jpg",
+        "https://euchelperu.com/images/productos/17595346919664950993190.jpg"
+      ]
+    },
+    {
+      "id_color": 757,
+      "nombre": "Verde",
+      "precio": 79.0,
+      "id_color_confirmado": 757,
+      "tallas": [
+        {
+          "id_talla": 985,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175953444459311646730365.jpg",
+        "https://euchelperu.com/images/productos/17595346919664950993190.jpg"
+      ]
+    },
+    {
+      "id_color": 1236,
+      "nombre": "Negro",
+      "precio": 79.0,
+      "id_color_confirmado": 1236,
+      "tallas": [
+        {
+          "id_talla": 1486,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175953444459311646730365.jpg",
+        "https://euchelperu.com/images/productos/17595346919664950993190.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:28:58Z"
+}

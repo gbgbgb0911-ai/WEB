@@ -1,0 +1,116 @@
+{
+  "id_original": 203,
+  "url_original": "https://euchelperu.com/producto.php?id=203",
+  "nombre": "Vincha",
+  "descripcion": "Una vincha cómoda que recoge el cabello con estilo, ideal tanto para un look casual como profesional.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 3.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "203VIN927",
+  "item_group_id": "203",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686030557167308742300.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vincha",
+  "precio_listado_normal": 3.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 412,
+      "nombre": "Negro",
+      "precio": 3.0,
+      "id_color_confirmado": 412,
+      "tallas": [
+        {
+          "id_talla": 358,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686030557167308742300.jpg"
+      ]
+    },
+    {
+      "id_color": 937,
+      "nombre": "Azul noche",
+      "precio": 3.0,
+      "id_color_confirmado": 937,
+      "tallas": [
+        {
+          "id_talla": 1189,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686030557167308742300.jpg"
+      ]
+    },
+    {
+      "id_color": 938,
+      "nombre": "Gris",
+      "precio": 3.0,
+      "id_color_confirmado": 938,
+      "tallas": [
+        {
+          "id_talla": 1190,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686030557167308742300.jpg"
+      ]
+    },
+    {
+      "id_color": 939,
+      "nombre": "Marrón",
+      "precio": 3.0,
+      "id_color_confirmado": 939,
+      "tallas": [
+        {
+          "id_talla": 1191,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686030557167308742300.jpg"
+      ]
+    },
+    {
+      "id_color": 940,
+      "nombre": "Rosado",
+      "precio": 3.0,
+      "id_color_confirmado": 940,
+      "tallas": [
+        {
+          "id_talla": 1192,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686030557167308742300.jpg"
+      ]
+    },
+    {
+      "id_color": 941,
+      "nombre": "Blanco",
+      "precio": 3.0,
+      "id_color_confirmado": 941,
+      "tallas": [
+        {
+          "id_talla": 1193,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686030557167308742300.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:25:27Z"
+}

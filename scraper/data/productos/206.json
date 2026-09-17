@@ -1,0 +1,45 @@
+{
+  "id_original": 206,
+  "url_original": "https://euchelperu.com/producto.php?id=206",
+  "nombre": "Top Jean Botones",
+  "descripcion": "Sus botones frontales aportan estilo y funcionalidad, mientras que el diseño strapless resalta los hombros y el escote con elegancia. Perfecto para combinar con jeans de tiro alto, pantalones sueltos o faldas, ideal para looks casuales o urbanos con un toque sofisticado.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "206TOP46697",
+  "item_group_id": "206",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175691640553908414869094.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 417,
+      "nombre": "Único",
+      "precio": 55.0,
+      "id_color_confirmado": 417,
+      "tallas": [
+        {
+          "id_talla": 360,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 992,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175691640553908414869094.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:26:42Z"
+}

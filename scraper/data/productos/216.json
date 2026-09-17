@@ -1,0 +1,116 @@
+{
+  "id_original": 216,
+  "url_original": "https://euchelperu.com/producto.php?id=216",
+  "nombre": "Vestido Ariel Suplex",
+  "descripcion": "Diseño romántico y sofisticado con movimiento, ideal para eventos formales.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "216VES65642",
+  "item_group_id": "216",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17596114943997884228116.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 427,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 427,
+      "tallas": [
+        {
+          "id_talla": 370,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17596114943997884228116.jpg"
+      ]
+    },
+    {
+      "id_color": 758,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 758,
+      "tallas": [
+        {
+          "id_talla": 986,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17596114943997884228116.jpg"
+      ]
+    },
+    {
+      "id_color": 759,
+      "nombre": "Beige",
+      "precio": 75.0,
+      "id_color_confirmado": 759,
+      "tallas": [
+        {
+          "id_talla": 987,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17596114943997884228116.jpg"
+      ]
+    },
+    {
+      "id_color": 760,
+      "nombre": "Vino",
+      "precio": 75.0,
+      "id_color_confirmado": 760,
+      "tallas": [
+        {
+          "id_talla": 988,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17596114943997884228116.jpg"
+      ]
+    },
+    {
+      "id_color": 761,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 761,
+      "tallas": [
+        {
+          "id_talla": 989,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17596114943997884228116.jpg"
+      ]
+    },
+    {
+      "id_color": 762,
+      "nombre": "Rojo",
+      "precio": 75.0,
+      "id_color_confirmado": 762,
+      "tallas": [
+        {
+          "id_talla": 990,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17596114943997884228116.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:28:45Z"
+}

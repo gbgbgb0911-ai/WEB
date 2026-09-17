@@ -1,0 +1,119 @@
+{
+  "id_original": 204,
+  "url_original": "https://euchelperu.com/producto.php?id=204",
+  "nombre": "Top Bufanda Puntos",
+  "descripcion": "Perfecto para combinaciones frescas y sofisticadas, ideal para usar en climas cálidos o en looks de verano con un estilo romántico y fresco.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "204TOP34386",
+  "item_group_id": "204",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175691654578126629189558.jpg",
+    "https://euchelperu.com/images/productos/176264374151362619836402.jpg",
+    "https://euchelperu.com/images/productos/176264461598961880223982.jpg",
+    "https://euchelperu.com/images/productos/176264480252893220013653.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 413,
+      "nombre": "Azul marino",
+      "precio": 39.0,
+      "id_color_confirmado": 413,
+      "tallas": [
+        {
+          "id_talla": 597,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175691654578126629189558.jpg",
+        "https://euchelperu.com/images/productos/176264374151362619836402.jpg",
+        "https://euchelperu.com/images/productos/176264461598961880223982.jpg",
+        "https://euchelperu.com/images/productos/176264480252893220013653.jpg"
+      ]
+    },
+    {
+      "id_color": 414,
+      "nombre": "Negro",
+      "precio": 39.0,
+      "id_color_confirmado": 414,
+      "tallas": [
+        {
+          "id_talla": 598,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176264480252893220013653.jpg",
+        "https://euchelperu.com/images/productos/175691654578126629189558.jpg",
+        "https://euchelperu.com/images/productos/176264374151362619836402.jpg",
+        "https://euchelperu.com/images/productos/176264461598961880223982.jpg"
+      ]
+    },
+    {
+      "id_color": 415,
+      "nombre": "Blanco",
+      "precio": 39.0,
+      "id_color_confirmado": 415,
+      "tallas": [
+        {
+          "id_talla": 599,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176264461598961880223982.jpg",
+        "https://euchelperu.com/images/productos/175691654578126629189558.jpg",
+        "https://euchelperu.com/images/productos/176264374151362619836402.jpg",
+        "https://euchelperu.com/images/productos/176264480252893220013653.jpg"
+      ]
+    },
+    {
+      "id_color": 1586,
+      "nombre": "Vino",
+      "precio": 39.0,
+      "id_color_confirmado": 1586,
+      "tallas": [
+        {
+          "id_talla": 2333,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176264374151362619836402.jpg",
+        "https://euchelperu.com/images/productos/175691654578126629189558.jpg",
+        "https://euchelperu.com/images/productos/176264461598961880223982.jpg",
+        "https://euchelperu.com/images/productos/176264480252893220013653.jpg"
+      ]
+    },
+    {
+      "id_color": 2001,
+      "nombre": "Celeste",
+      "precio": 39.0,
+      "id_color_confirmado": 2001,
+      "tallas": [
+        {
+          "id_talla": 2334,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175691654578126629189558.jpg",
+        "https://euchelperu.com/images/productos/176264374151362619836402.jpg",
+        "https://euchelperu.com/images/productos/176264461598961880223982.jpg",
+        "https://euchelperu.com/images/productos/176264480252893220013653.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:26:38Z"
+}

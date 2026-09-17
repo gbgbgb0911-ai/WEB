@@ -1,0 +1,41 @@
+{
+  "id_original": 213,
+  "url_original": "https://euchelperu.com/producto.php?id=213",
+  "nombre": "Enterizo Estrella Aro",
+  "descripcion": "Confeccionado para destacar, este enterizo es ideal para combinar con tacones y accesorios minimalistas, o para complementar con chaquetas ligeras en estilos urbanos renovados.",
+  "categoria": "Enterizos",
+  "categoria_subid": 16,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "213ENT39005",
+  "item_group_id": "213",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17568552186779520447005.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Enterizo Estrella Aro",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 424,
+      "nombre": "Azul",
+      "precio": 69.0,
+      "id_color_confirmado": 424,
+      "tallas": [
+        {
+          "id_talla": 367,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17568552186779520447005.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:26:45Z"
+}
