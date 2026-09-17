@@ -1,0 +1,119 @@
+{
+  "id_original": 101,
+  "url_original": "https://euchelperu.com/producto.php?id=101",
+  "nombre": "Top Satín Copa",
+  "descripcion": "Top corto confeccionado en satín, que incluye copa preformada para un soporte cómodo y estilizado. Ideal para cualquier ocasión.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "101TOP47413",
+  "item_group_id": "101",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175691645605411891797195.jpg",
+    "https://euchelperu.com/images/productos/175849721285053599074434.jpg",
+    "https://euchelperu.com/images/productos/175858010645568286990732.jpg",
+    "https://euchelperu.com/images/productos/175858012245822331776680.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 296,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 296,
+      "tallas": [
+        {
+          "id_talla": 614,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175691645605411891797195.jpg",
+        "https://euchelperu.com/images/productos/175849721285053599074434.jpg",
+        "https://euchelperu.com/images/productos/175858010645568286990732.jpg",
+        "https://euchelperu.com/images/productos/175858012245822331776680.jpg"
+      ]
+    },
+    {
+      "id_color": 297,
+      "nombre": "Beige oscuro",
+      "precio": 45.0,
+      "id_color_confirmado": 297,
+      "tallas": [
+        {
+          "id_talla": 615,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175858010645568286990732.jpg",
+        "https://euchelperu.com/images/productos/175691645605411891797195.jpg",
+        "https://euchelperu.com/images/productos/175849721285053599074434.jpg",
+        "https://euchelperu.com/images/productos/175858012245822331776680.jpg"
+      ]
+    },
+    {
+      "id_color": 791,
+      "nombre": "Azul marino",
+      "precio": 45.0,
+      "id_color_confirmado": 791,
+      "tallas": [
+        {
+          "id_talla": 1020,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175849721285053599074434.jpg",
+        "https://euchelperu.com/images/productos/175691645605411891797195.jpg",
+        "https://euchelperu.com/images/productos/175858010645568286990732.jpg",
+        "https://euchelperu.com/images/productos/175858012245822331776680.jpg"
+      ]
+    },
+    {
+      "id_color": 792,
+      "nombre": "Beige claro",
+      "precio": 45.0,
+      "id_color_confirmado": 792,
+      "tallas": [
+        {
+          "id_talla": 1021,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175858012245822331776680.jpg",
+        "https://euchelperu.com/images/productos/175691645605411891797195.jpg",
+        "https://euchelperu.com/images/productos/175849721285053599074434.jpg",
+        "https://euchelperu.com/images/productos/175858010645568286990732.jpg"
+      ]
+    },
+    {
+      "id_color": 793,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 793,
+      "tallas": [
+        {
+          "id_talla": 1022,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175691645605411891797195.jpg",
+        "https://euchelperu.com/images/productos/175849721285053599074434.jpg",
+        "https://euchelperu.com/images/productos/175858010645568286990732.jpg",
+        "https://euchelperu.com/images/productos/175858012245822331776680.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:55:19Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id_original": 106,
+  "url_original": "https://euchelperu.com/producto.php?id=106",
+  "nombre": "Chaleco Cuerina Cierre",
+  "descripcion": "El chaleco puffer es la combinación perfecta entre moda y funcionalidad. Su diseño acolchado aporta volumen, abrigo y le da un toque moderno, urbano y con carácter.",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "106CHA30418",
+  "item_group_id": "106",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17569327191979799789828.jpg",
+    "https://euchelperu.com/images/productos/175875005655552558161226.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 314,
+      "nombre": "Vino",
+      "precio": 89.0,
+      "id_color_confirmado": 314,
+      "tallas": [
+        {
+          "id_talla": 243,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17569327191979799789828.jpg",
+        "https://euchelperu.com/images/productos/175875005655552558161226.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:56:47Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 107,
+  "url_original": "https://euchelperu.com/producto.php?id=107",
+  "nombre": "Chaleco Cuerina Carnero",
+  "descripcion": "Este chaleco de cuerina con corderito combina lo mejor del estilo urbano con la calidez que necesitas para los días fríos. El exterior de cuerina suave y resistente se complementa con un forro de carnero que aporta abrigo y un contraste visual moderno.",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "107CHA14678",
+  "item_group_id": "107",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175700423504968222414473.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 315,
+      "nombre": "Marrón",
+      "precio": 95.0,
+      "id_color_confirmado": 315,
+      "tallas": [
+        {
+          "id_talla": 604,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700423504968222414473.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:57:03Z"
+}

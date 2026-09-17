@@ -1,0 +1,182 @@
+{
+  "id_original": 108,
+  "url_original": "https://euchelperu.com/producto.php?id=108",
+  "nombre": "Off Shoulder Winnie",
+  "descripcion": "Inspirado en tendencias de pasarelas que resaltan un look sexy y desenfadado que va del día a la noche.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "108CHO65580",
+  "item_group_id": "108",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1757089527962865131294.jpg",
+    "https://euchelperu.com/images/productos/17583941931650842178747.jpg",
+    "https://euchelperu.com/images/productos/175839420838209479750758.jpg",
+    "https://euchelperu.com/images/productos/175839422354900990885991.jpg",
+    "https://euchelperu.com/images/productos/17583943180356910699015.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Off Shoulder Winnie",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 317,
+      "nombre": "Marrón",
+      "precio": 69.0,
+      "id_color_confirmado": 317,
+      "tallas": [
+        {
+          "id_talla": 899,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1757089527962865131294.jpg",
+        "https://euchelperu.com/images/productos/17583941931650842178747.jpg",
+        "https://euchelperu.com/images/productos/175839420838209479750758.jpg",
+        "https://euchelperu.com/images/productos/175839422354900990885991.jpg",
+        "https://euchelperu.com/images/productos/17583943180356910699015.jpg"
+      ]
+    },
+    {
+      "id_color": 675,
+      "nombre": "Blanco",
+      "precio": 69.0,
+      "id_color_confirmado": 675,
+      "tallas": [
+        {
+          "id_talla": 900,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175839422354900990885991.jpg",
+        "https://euchelperu.com/images/productos/1757089527962865131294.jpg",
+        "https://euchelperu.com/images/productos/17583941931650842178747.jpg",
+        "https://euchelperu.com/images/productos/175839420838209479750758.jpg",
+        "https://euchelperu.com/images/productos/17583943180356910699015.jpg"
+      ]
+    },
+    {
+      "id_color": 676,
+      "nombre": "Beige",
+      "precio": 69.0,
+      "id_color_confirmado": 676,
+      "tallas": [
+        {
+          "id_talla": 901,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1757089527962865131294.jpg",
+        "https://euchelperu.com/images/productos/17583941931650842178747.jpg",
+        "https://euchelperu.com/images/productos/175839420838209479750758.jpg",
+        "https://euchelperu.com/images/productos/175839422354900990885991.jpg",
+        "https://euchelperu.com/images/productos/17583943180356910699015.jpg"
+      ]
+    },
+    {
+      "id_color": 677,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 677,
+      "tallas": [
+        {
+          "id_talla": 902,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17583943180356910699015.jpg",
+        "https://euchelperu.com/images/productos/1757089527962865131294.jpg",
+        "https://euchelperu.com/images/productos/17583941931650842178747.jpg",
+        "https://euchelperu.com/images/productos/175839420838209479750758.jpg",
+        "https://euchelperu.com/images/productos/175839422354900990885991.jpg"
+      ]
+    },
+    {
+      "id_color": 678,
+      "nombre": "Vino",
+      "precio": 69.0,
+      "id_color_confirmado": 678,
+      "tallas": [
+        {
+          "id_talla": 905,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1757089527962865131294.jpg",
+        "https://euchelperu.com/images/productos/17583941931650842178747.jpg",
+        "https://euchelperu.com/images/productos/175839420838209479750758.jpg",
+        "https://euchelperu.com/images/productos/175839422354900990885991.jpg",
+        "https://euchelperu.com/images/productos/17583943180356910699015.jpg"
+      ]
+    },
+    {
+      "id_color": 679,
+      "nombre": "Verde",
+      "precio": 69.0,
+      "id_color_confirmado": 679,
+      "tallas": [
+        {
+          "id_talla": 907,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1757089527962865131294.jpg",
+        "https://euchelperu.com/images/productos/17583941931650842178747.jpg",
+        "https://euchelperu.com/images/productos/175839420838209479750758.jpg",
+        "https://euchelperu.com/images/productos/175839422354900990885991.jpg",
+        "https://euchelperu.com/images/productos/17583943180356910699015.jpg"
+      ]
+    },
+    {
+      "id_color": 681,
+      "nombre": "Gris",
+      "precio": 69.0,
+      "id_color_confirmado": 681,
+      "tallas": [
+        {
+          "id_talla": 908,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175839420838209479750758.jpg",
+        "https://euchelperu.com/images/productos/1757089527962865131294.jpg",
+        "https://euchelperu.com/images/productos/17583941931650842178747.jpg",
+        "https://euchelperu.com/images/productos/175839422354900990885991.jpg",
+        "https://euchelperu.com/images/productos/17583943180356910699015.jpg"
+      ]
+    },
+    {
+      "id_color": 986,
+      "nombre": "Acero",
+      "precio": 69.0,
+      "id_color_confirmado": 986,
+      "tallas": [
+        {
+          "id_talla": 1237,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17583941931650842178747.jpg",
+        "https://euchelperu.com/images/productos/1757089527962865131294.jpg",
+        "https://euchelperu.com/images/productos/175839420838209479750758.jpg",
+        "https://euchelperu.com/images/productos/175839422354900990885991.jpg",
+        "https://euchelperu.com/images/productos/17583943180356910699015.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:59:25Z"
+}

@@ -1,0 +1,113 @@
+{
+  "id_original": 105,
+  "url_original": "https://euchelperu.com/producto.php?id=105",
+  "nombre": "Cafarena Crop Hilo",
+  "descripcion": "Cafarena de hilo, con corte crop y cuello alto. Su diseño simple y moderno lo convierte en un básico versátil, ideal para looks casuales o atuendos con personalidad.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "105CAF52027",
+  "item_group_id": "105",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17571140913233075013824.jpg",
+    "https://euchelperu.com/images/productos/175829751243311400374233.jpg",
+    "https://euchelperu.com/images/productos/17582975317644966918199.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Cafarena Crop Hilo",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 631,
+      "nombre": "Plomo",
+      "precio": 55.0,
+      "id_color_confirmado": 631,
+      "tallas": [
+        {
+          "id_talla": 606,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17571140913233075013824.jpg",
+        "https://euchelperu.com/images/productos/175829751243311400374233.jpg",
+        "https://euchelperu.com/images/productos/17582975317644966918199.jpg"
+      ]
+    },
+    {
+      "id_color": 787,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 787,
+      "tallas": [
+        {
+          "id_talla": 1016,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17582975317644966918199.jpg",
+        "https://euchelperu.com/images/productos/17571140913233075013824.jpg",
+        "https://euchelperu.com/images/productos/175829751243311400374233.jpg"
+      ]
+    },
+    {
+      "id_color": 788,
+      "nombre": "Beige",
+      "precio": 55.0,
+      "id_color_confirmado": 788,
+      "tallas": [
+        {
+          "id_talla": 1017,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17571140913233075013824.jpg",
+        "https://euchelperu.com/images/productos/175829751243311400374233.jpg",
+        "https://euchelperu.com/images/productos/17582975317644966918199.jpg"
+      ]
+    },
+    {
+      "id_color": 789,
+      "nombre": "Verde Pistacho",
+      "precio": 55.0,
+      "id_color_confirmado": 789,
+      "tallas": [
+        {
+          "id_talla": 1018,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175829751243311400374233.jpg",
+        "https://euchelperu.com/images/productos/17571140913233075013824.jpg",
+        "https://euchelperu.com/images/productos/17582975317644966918199.jpg"
+      ]
+    },
+    {
+      "id_color": 790,
+      "nombre": "Vino",
+      "precio": 55.0,
+      "id_color_confirmado": 790,
+      "tallas": [
+        {
+          "id_talla": 1019,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17571140913233075013824.jpg",
+        "https://euchelperu.com/images/productos/175829751243311400374233.jpg",
+        "https://euchelperu.com/images/productos/17582975317644966918199.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:56:43Z"
+}
