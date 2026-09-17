@@ -1,0 +1,134 @@
+{
+  "id_original": 118,
+  "url_original": "https://euchelperu.com/producto.php?id=118",
+  "nombre": "Set Corazón",
+  "descripcion": "Deslumbra con un look romántico y sofisticado. Nuestro set corazón está diseñado para mujeres que buscan elegancia con un toque coqueto. Perfecto para citas, eventos especiales o para destacar en tu día a día.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "118SET91050",
+  "item_group_id": "118",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175700705665397823455605.jpg",
+    "https://euchelperu.com/images/productos/175997005484580729414530.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 327,
+      "nombre": "Vino",
+      "precio": 75.0,
+      "id_color_confirmado": 327,
+      "tallas": [
+        {
+          "id_talla": 255,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700705665397823455605.jpg",
+        "https://euchelperu.com/images/productos/175997005484580729414530.jpg"
+      ]
+    },
+    {
+      "id_color": 770,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 770,
+      "tallas": [
+        {
+          "id_talla": 999,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175997005484580729414530.jpg",
+        "https://euchelperu.com/images/productos/175700705665397823455605.jpg"
+      ]
+    },
+    {
+      "id_color": 771,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 771,
+      "tallas": [
+        {
+          "id_talla": 1000,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700705665397823455605.jpg",
+        "https://euchelperu.com/images/productos/175997005484580729414530.jpg"
+      ]
+    },
+    {
+      "id_color": 772,
+      "nombre": "Chocolate",
+      "precio": 75.0,
+      "id_color_confirmado": 772,
+      "tallas": [
+        {
+          "id_talla": 1001,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700705665397823455605.jpg",
+        "https://euchelperu.com/images/productos/175997005484580729414530.jpg"
+      ]
+    },
+    {
+      "id_color": 773,
+      "nombre": "Jade",
+      "precio": 75.0,
+      "id_color_confirmado": 773,
+      "tallas": [
+        {
+          "id_talla": 1002,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700705665397823455605.jpg",
+        "https://euchelperu.com/images/productos/175997005484580729414530.jpg"
+      ]
+    },
+    {
+      "id_color": 774,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 774,
+      "tallas": [
+        {
+          "id_talla": 1003,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700705665397823455605.jpg",
+        "https://euchelperu.com/images/productos/175997005484580729414530.jpg"
+      ]
+    },
+    {
+      "id_color": 1242,
+      "nombre": "Azul",
+      "precio": null,
+      "id_color_confirmado": 1242,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175700705665397823455605.jpg",
+        "https://euchelperu.com/images/productos/175997005484580729414530.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:02:21Z"
+}

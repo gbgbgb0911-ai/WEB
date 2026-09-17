@@ -1,0 +1,62 @@
+{
+  "id_original": 116,
+  "url_original": "https://euchelperu.com/producto.php?id=116",
+  "nombre": "Set Corrugado Lateral",
+  "descripcion": "Conjunto elegante compuesto por un top ceñido y una falda larga de talle alto, ambos con fruncidos laterales que estilizan la figura. Ofrece comodidad y sofisticación perfecta para lucir en eventos de día o de noche.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 50.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "116SET47829",
+  "item_group_id": "116",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685541231522244694696.jpg",
+    "https://euchelperu.com/images/productos/17632554266109597269469.png",
+    "https://euchelperu.com/images/productos/176470862412604113056073.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 325,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 325,
+      "tallas": [
+        {
+          "id_talla": 253,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685541231522244694696.jpg",
+        "https://euchelperu.com/images/productos/17632554266109597269469.png",
+        "https://euchelperu.com/images/productos/176470862412604113056073.png"
+      ]
+    },
+    {
+      "id_color": 786,
+      "nombre": "Verde Pistacho",
+      "precio": 69.0,
+      "id_color_confirmado": 786,
+      "tallas": [
+        {
+          "id_talla": 1015,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176470862412604113056073.png",
+        "https://euchelperu.com/images/productos/175685541231522244694696.jpg",
+        "https://euchelperu.com/images/productos/17632554266109597269469.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:00:12Z"
+}

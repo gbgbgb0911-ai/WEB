@@ -1,0 +1,108 @@
+{
+  "id_original": 109,
+  "url_original": "https://euchelperu.com/producto.php?id=109",
+  "nombre": "Puffer Cuerina",
+  "descripcion": "Un look urbano, cálido y sofisticado para inviernos deliciosos.",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1091702",
+  "item_group_id": "109",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175693582308554801810883.jpg",
+    "https://euchelperu.com/images/productos/175864594191732250737534.jpg",
+    "https://euchelperu.com/images/productos/175864616613444666289430.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 318,
+      "nombre": "Beige",
+      "precio": 99.0,
+      "id_color_confirmado": 318,
+      "tallas": [
+        {
+          "id_talla": 245,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693582308554801810883.jpg",
+        "https://euchelperu.com/images/productos/175864594191732250737534.jpg",
+        "https://euchelperu.com/images/productos/175864616613444666289430.jpg"
+      ]
+    },
+    {
+      "id_color": 926,
+      "nombre": "Blanco",
+      "precio": 99.0,
+      "id_color_confirmado": 926,
+      "tallas": [
+        {
+          "id_talla": 1174,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693582308554801810883.jpg",
+        "https://euchelperu.com/images/productos/175864594191732250737534.jpg",
+        "https://euchelperu.com/images/productos/175864616613444666289430.jpg"
+      ]
+    },
+    {
+      "id_color": 927,
+      "nombre": "Marrón",
+      "precio": 99.0,
+      "id_color_confirmado": 927,
+      "tallas": [
+        {
+          "id_talla": 1175,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175864594191732250737534.jpg",
+        "https://euchelperu.com/images/productos/175693582308554801810883.jpg",
+        "https://euchelperu.com/images/productos/175864616613444666289430.jpg"
+      ]
+    },
+    {
+      "id_color": 928,
+      "nombre": "Camel",
+      "precio": 99.0,
+      "id_color_confirmado": 928,
+      "tallas": [
+        {
+          "id_talla": 1176,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175693582308554801810883.jpg",
+        "https://euchelperu.com/images/productos/175864594191732250737534.jpg",
+        "https://euchelperu.com/images/productos/175864616613444666289430.jpg"
+      ]
+    },
+    {
+      "id_color": 1018,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 1018,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175864616613444666289430.jpg",
+        "https://euchelperu.com/images/productos/175693582308554801810883.jpg",
+        "https://euchelperu.com/images/productos/175864594191732250737534.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T21:59:54Z"
+}

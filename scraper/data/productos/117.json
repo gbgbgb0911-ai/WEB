@@ -1,0 +1,101 @@
+{
+  "id_original": 117,
+  "url_original": "https://euchelperu.com/producto.php?id=117",
+  "nombre": "Set Aro Mireya",
+  "descripcion": "Este set cuenta con un crop top con copas y aro metálico central, combinando con falda larga de talle alto y abertura lateral. Estiliza la figura con un toque sofisticado y sensual.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "117SET11598",
+  "item_group_id": "117",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17570035709682283655921.jpg",
+    "https://euchelperu.com/images/productos/176022177641796198356024.jpg",
+    "https://euchelperu.com/images/productos/176022180534269737614704.jpg",
+    "https://euchelperu.com/images/productos/176022195074611550769206.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Set Aro Mireya",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 326,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 326,
+      "tallas": [
+        {
+          "id_talla": 254,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17570035709682283655921.jpg",
+        "https://euchelperu.com/images/productos/176022177641796198356024.jpg",
+        "https://euchelperu.com/images/productos/176022180534269737614704.jpg",
+        "https://euchelperu.com/images/productos/176022195074611550769206.jpg"
+      ]
+    },
+    {
+      "id_color": 775,
+      "nombre": "Uva",
+      "precio": 75.0,
+      "id_color_confirmado": 775,
+      "tallas": [
+        {
+          "id_talla": 1004,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176022177641796198356024.jpg",
+        "https://euchelperu.com/images/productos/17570035709682283655921.jpg",
+        "https://euchelperu.com/images/productos/176022180534269737614704.jpg",
+        "https://euchelperu.com/images/productos/176022195074611550769206.jpg"
+      ]
+    },
+    {
+      "id_color": 776,
+      "nombre": "Verde",
+      "precio": 75.0,
+      "id_color_confirmado": 776,
+      "tallas": [
+        {
+          "id_talla": 1005,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176022195074611550769206.jpg",
+        "https://euchelperu.com/images/productos/17570035709682283655921.jpg",
+        "https://euchelperu.com/images/productos/176022177641796198356024.jpg",
+        "https://euchelperu.com/images/productos/176022180534269737614704.jpg"
+      ]
+    },
+    {
+      "id_color": 778,
+      "nombre": "Beige",
+      "precio": 75.0,
+      "id_color_confirmado": 778,
+      "tallas": [
+        {
+          "id_talla": 1007,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176022180534269737614704.jpg",
+        "https://euchelperu.com/images/productos/17570035709682283655921.jpg",
+        "https://euchelperu.com/images/productos/176022177641796198356024.jpg",
+        "https://euchelperu.com/images/productos/176022195074611550769206.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:00:52Z"
+}

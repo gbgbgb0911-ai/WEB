@@ -1,0 +1,71 @@
+{
+  "id_original": 112,
+  "url_original": "https://euchelperu.com/producto.php?id=112",
+  "nombre": "Casaca Peluche",
+  "descripcion": "Ideal para looks urbanos y cómodos.",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1121716",
+  "item_group_id": "112",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175691829065821506917937.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Casaca Peluche",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 321,
+      "nombre": "Marrón",
+      "precio": 89.0,
+      "id_color_confirmado": 321,
+      "tallas": [
+        {
+          "id_talla": 248,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175691829065821506917937.jpg"
+      ]
+    },
+    {
+      "id_color": 840,
+      "nombre": "Blanco",
+      "precio": 89.0,
+      "id_color_confirmado": 840,
+      "tallas": [
+        {
+          "id_talla": 1068,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175691829065821506917937.jpg"
+      ]
+    },
+    {
+      "id_color": 925,
+      "nombre": "Negro",
+      "precio": 89.0,
+      "id_color_confirmado": 925,
+      "tallas": [
+        {
+          "id_talla": 1173,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175691829065821506917937.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:00:04Z"
+}
