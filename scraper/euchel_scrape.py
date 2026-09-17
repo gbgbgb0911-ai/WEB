@@ -286,7 +286,27 @@ def parse_listado(html: str, url: str) -> list:
 
 # --------------------------------------------------------------------- tarea 1
 
-def descubrir(cli, dirs, hacer_barrido=True, tope_inicial=BARRIDO_INICIAL, refrescar_listados=True):
+def descubrir(cli, dirs, hacer_barrido=True, tope_inicial=BARRIDO_INICIAL,
+              refrescar_listados=True, rehacer=False):
+    """Tarea 1. Si ya hay un descubrimiento en disco se reutiliza.
+
+    Importante para sesiones cloud: el contenedor se recicla por inactividad y
+    `data/html/` se pierde, pero `ids_encontrados.json` y `listados.json` sí se
+    versionan. Reutilizarlos evita repetir el barrido de 1500 IDs (~20 min)
+    cada vez que la sesión revive.
+    """
+    previo = dirs["data"] / "ids_encontrados.json"
+    listados_prev = dirs["data"] / "listados.json"
+    if previo.exists() and listados_prev.exists() and not rehacer:
+        enc = json.loads(previo.read_text("utf-8"))
+        listados = {int(k): v for k, v in json.loads(
+            listados_prev.read_text("utf-8")).items()}
+        ids = [d["id"] for d in enc["detalle"]]
+        print(f"TAREA 1 — reutilizando descubrimiento previo: {len(ids)} IDs "
+              f"(barrido ejecutado: {enc.get('barrido_ejecutado')}). "
+              f"Usa --rehacer-descubrimiento para repetirlo.")
+        return ids, listados, {d["id"]: d["origen"] for d in enc["detalle"]}
+
     print("TAREA 1 — descubrimiento de IDs")
     listados = {}
     por_categoria = {}
@@ -430,7 +450,39 @@ def extraer_producto(cli, id_prod, listado, origen):
     return prod, None
 
 
-def correr(cli, dirs, ids, listados, origenes):
+def checkpoint(dirs, etiqueta):
+    """Commitea y pushea el progreso versionable.
+
+    Sin esto, una sesión cloud reciclada por inactividad pierde el disco y hay
+    que empezar de cero. Falla en silencio (warning): un push roto no debe
+    tumbar una corrida de horas.
+    """
+    import subprocess
+    repo = Path(__file__).resolve().parent.parent
+    try:
+        rama = subprocess.run(["git", "rev-parse", "--abbrev-ref", "HEAD"],
+                              cwd=repo, capture_output=True, text=True,
+                              timeout=30).stdout.strip()
+        subprocess.run(["git", "add", "-A", str(dirs["data"])],
+                       cwd=repo, capture_output=True, timeout=120)
+        r = subprocess.run(
+            ["git", "-c", "user.email=euchel-scraper@local",
+             "-c", "user.name=euchel-scraper",
+             "commit", "-q", "-m", f"Progreso de extracción: {etiqueta}"],
+            cwd=repo, capture_output=True, text=True, timeout=120)
+        if r.returncode != 0 and "nothing to commit" in (r.stdout + r.stderr):
+            return
+        p = subprocess.run(["git", "push", "-u", "origin", rama],
+                           cwd=repo, capture_output=True, text=True, timeout=300)
+        if p.returncode != 0:
+            print(f"  WARN checkpoint: push falló — {p.stderr.strip()[:200]}")
+        else:
+            print(f"  checkpoint guardado en origin/{rama} ({etiqueta})")
+    except Exception as e:
+        print(f"  WARN checkpoint: {type(e).__name__}: {e}")
+
+
+def correr(cli, dirs, ids, listados, origenes, cada=0):
     hechos = {}
     for f in sorted(dirs["prod"].glob("*.json")):
         try:
@@ -444,6 +496,7 @@ def correr(cli, dirs, ids, listados, origenes):
 
     fallidos = []
     total = len(ids)
+    nuevos = 0
     for i, id_prod in enumerate(ids, 1):
         if id_prod in hechos:
             continue
@@ -465,6 +518,9 @@ def correr(cli, dirs, ids, listados, origenes):
             "pendientes": [x for x in ids if x not in hechos],
             "fallidos": fallidos,
         })
+        nuevos += 1
+        if cada and nuevos % cada == 0:
+            checkpoint(dirs, f"{len(hechos)}/{total} productos")
 
     if fallidos:
         escribir_json(dirs["data"] / "errores_productos.json", fallidos)
@@ -530,6 +586,14 @@ def main():
     ap.add_argument("--sin-barrido", action="store_true",
                     help="omite el barrido 1..N de la tarea 1")
     ap.add_argument("--tope-barrido", type=int, default=BARRIDO_INICIAL)
+    ap.add_argument("--rehacer-descubrimiento", action="store_true",
+                    help="repite la tarea 1 aunque ya exista ids_encontrados.json")
+    ap.add_argument("--checkpoint", type=int, default=0, metavar="N",
+                    help="cada N productos, commitea y pushea el progreso "
+                         "(imprescindible en sesiones cloud: el disco se recicla)")
+    ap.add_argument("--compilar", action="store_true",
+                    help="no pide nada al sitio: solo rearma los JSON/CSV finales "
+                         "desde data/productos/")
     args = ap.parse_args()
 
     raiz = Path(args.data).resolve()
@@ -540,6 +604,16 @@ def main():
     cli = Cliente(dirs)
     inicio = time.time()
 
+    if args.compilar:
+        productos = [json.loads(f.read_text("utf-8"))
+                     for f in sorted(dirs["prod"].glob("*.json"),
+                                     key=lambda x: int(x.stem))]
+        escribir_json(raiz / "productos_completo.json", productos)
+        escribir_csv(productos, raiz / "productos_completo.csv")
+        escribir_csv_variantes(productos, raiz / "variantes_completo.csv")
+        print(f"Compilados {len(productos)} productos desde {dirs['prod']}")
+        return
+
     try:
         _, robots = cli.get(urljoin(BASE, "robots.txt"), cache=False)
         (raiz / "robots.txt").write_text(robots or "", encoding="utf-8")
@@ -549,7 +623,8 @@ def main():
             ids = [25, 28, 1102, 113, 1367] if args.prueba else \
                   [int(x) for x in args.ids.split(",") if x.strip()]
             # Se recorren los listados para conocer precio_oferta de esos IDs.
-            _, listados, origenes = descubrir(cli, dirs, hacer_barrido=False)
+            _, listados, origenes = descubrir(
+                cli, dirs, hacer_barrido=False, rehacer=args.rehacer_descubrimiento)
             productos = correr(cli, dirs, ids, listados,
                                {i: origenes.get(i, "barrido") for i in ids})
             salida = raiz / ("muestra_prueba.json" if args.prueba else "seleccion.json")
@@ -559,12 +634,18 @@ def main():
         else:
             ids, listados, origenes = descubrir(
                 cli, dirs, hacer_barrido=not args.sin_barrido,
-                tope_inicial=args.tope_barrido)
-            productos = correr(cli, dirs, ids, listados, origenes)
+                tope_inicial=args.tope_barrido,
+                rehacer=args.rehacer_descubrimiento)
+            if args.checkpoint:
+                checkpoint(dirs, f"descubrimiento: {len(ids)} IDs")
+            productos = correr(cli, dirs, ids, listados, origenes,
+                               cada=args.checkpoint)
             escribir_json(raiz / "productos_completo.json", productos)
             escribir_csv(productos, raiz / "productos_completo.csv")
             escribir_csv_variantes(productos, raiz / "variantes_completo.csv")
             print(f"\nOK — {len(productos)} productos en {raiz}/productos_completo.json")
+            if args.checkpoint:
+                checkpoint(dirs, f"extracción terminada: {len(productos)} productos")
 
     except Detener as e:
         escribir_json(raiz / "errores.json", cli.errores)

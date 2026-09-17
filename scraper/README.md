@@ -14,6 +14,44 @@ tiene bloqueado `euchelperu.com` por política de red
 (`CONNECT euchelperu.com:443 → HTTP 403`). Hay que correrlo desde una máquina con
 salida a internet.
 
+## Correrlo sin terminal, desde una tablet o el móvil
+
+Todo esto se ejecuta dentro de una sesión de Claude Code en la nube. No hace
+falta terminal ni PC. Dos cosas que hay que saber:
+
+**1. Permitir el dominio en el entorno.** Por defecto el entorno cloud está en
+nivel **Trusted**, que solo deja salir a registries de paquetes, GitHub y poco
+más: `euchelperu.com` devuelve `CONNECT → 403`. En el navegador, en
+claude.ai/code → icono de nube (selector de entorno) → engranaje →
+**Network access** → `Custom`, y en **Allowed domains**:
+
+```
+euchelperu.com
+*.euchelperu.com
+```
+
+Marcar también *"Also include default list of common package managers"*, porque
+si no `npm install` (para `sharp`, tarea 3) deja de funcionar. El cambio aplica
+a **sesiones nuevas**, no a la que esté abierta.
+
+**2. El disco de la sesión es temporal.** Una sesión cloud se recicla por
+inactividad y se lleva `data/` con ella. Para una corrida de horas hay que
+guardar el progreso en git:
+
+```bash
+python3 euchel_scrape.py --checkpoint 25
+```
+
+Cada 25 productos hace commit y push del progreso a la rama. Si la sesión
+muere, se abre una nueva y se relanza **el mismo comando**: reutiliza
+`ids_encontrados.json` (no repite el barrido de 20 min) y salta los productos
+que ya están en `data/productos/`. Un push fallido no tumba la corrida, solo
+imprime un warning.
+
+Qué se versiona y qué no: el JSON de cada producto y los WebP finales sí van a
+git; el HTML crudo y los JPG originales no (cientos de MB, y se pueden volver a
+descargar). Ver `.gitignore`.
+
 ## Requisitos
 
 - Python 3.9+ — solo librería estándar, no hay que instalar nada.
@@ -28,8 +66,8 @@ cd scraper
 python3 euchel_scrape.py --prueba
 #    -> imprime el JSON y lo deja en data/muestra_prueba.json
 
-# 2. Corrida completa (tareas 1 y 2)
-python3 euchel_scrape.py
+# 2. Corrida completa (tareas 1 y 2). En sesión cloud, con --checkpoint 25.
+python3 euchel_scrape.py --checkpoint 25
 #    -> data/productos_completo.json, .csv, variantes_completo.csv,
 #       ids_encontrados.json, ids_invalidos.json, html/, progress.json
 
@@ -53,6 +91,8 @@ python3 euchel_scrape.py --ids 25,1102,1367   # solo esos IDs
 python3 euchel_scrape.py --sin-barrido        # omite el barrido 1..1500
 python3 euchel_scrape.py --tope-barrido 2000  # cambia el tope inicial
 python3 euchel_scrape.py --data /otra/ruta    # cambia el directorio de salida
+python3 euchel_scrape.py --compilar           # rearma los JSON/CSV finales, sin red
+python3 euchel_scrape.py --rehacer-descubrimiento   # repite la tarea 1 desde cero
 node imagenes.mjs --pausa 800                 # más lento con las imágenes
 node imagenes.mjs --solo-convertir            # no descarga, solo convierte a WebP
 python3 test_parsers.py                       # tests offline, sin red

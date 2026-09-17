@@ -1,6 +1,12 @@
 .claude/settings.local.json
-scraper/data/
-scraper/node_modules/
-scraper/package-lock.json
 __pycache__/
 *.pyc
+scraper/node_modules/
+scraper/package-lock.json
+
+# Del directorio de datos solo se versiona lo que hay que conservar: una sesión
+# cloud reciclada por inactividad pierde el disco, así que el JSON de cada
+# producto y los WebP finales sí van a git. El HTML crudo y los JPG originales
+# se pueden volver a descargar, pesan cientos de MB y quedan fuera.
+scraper/data/html/
+scraper/data/images/originales/
