@@ -1,0 +1,41 @@
+{
+  "id_original": 284,
+  "url_original": "https://euchelperu.com/producto.php?id=284",
+  "nombre": "Cartera Posh Purse",
+  "descripcion": "Diseñada para quien busca un accesorio ligero, con estilo relajado y un toque contemporáneo. Su forma suave y fruncida evoca ese aspecto acogedor y chic, ideal tanto para el día como para la noche.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "284CAR09061",
+  "item_group_id": "284",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685241446810143193157.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 494,
+      "nombre": "Beige",
+      "precio": 55.0,
+      "id_color_confirmado": 494,
+      "tallas": [
+        {
+          "id_talla": 437,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685241446810143193157.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:46:29Z"
+}

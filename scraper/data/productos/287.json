@@ -1,0 +1,71 @@
+{
+  "id_original": 287,
+  "url_original": "https://euchelperu.com/producto.php?id=287",
+  "nombre": "Cartera Aura Bag",
+  "descripcion": "Un accesorio chic y funcional, diseñado para destacar con sobriedad. Esta cartera de línea curvada es perfecta para aportar un punto de color elegante a tu outfit.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2872098",
+  "item_group_id": "287",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685280616251325625376.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 497,
+      "nombre": "Vino",
+      "precio": 65.0,
+      "id_color_confirmado": 497,
+      "tallas": [
+        {
+          "id_talla": 440,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685280616251325625376.jpg"
+      ]
+    },
+    {
+      "id_color": 961,
+      "nombre": "Marrón",
+      "precio": 65.0,
+      "id_color_confirmado": 961,
+      "tallas": [
+        {
+          "id_talla": 1209,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685280616251325625376.jpg"
+      ]
+    },
+    {
+      "id_color": 962,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 962,
+      "tallas": [
+        {
+          "id_talla": 1210,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685280616251325625376.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:47:37Z"
+}

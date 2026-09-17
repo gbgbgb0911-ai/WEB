@@ -1,0 +1,57 @@
+{
+  "id_original": 291,
+  "url_original": "https://euchelperu.com/producto.php?id=291",
+  "nombre": "Flare dos botones",
+  "descripcion": "Jean flare de tiro alto con diseño de dos botones, realza la figura y estiliza tus piernas con un toque retro y elegante.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "291FLA14825",
+  "item_group_id": "291",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175953862697422113647336.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Flare dos botones",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 502,
+      "nombre": "Único",
+      "precio": 95.0,
+      "id_color_confirmado": 502,
+      "tallas": [
+        {
+          "id_talla": 447,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 696,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 697,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 698,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 699,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175953862697422113647336.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:49:14Z"
+}

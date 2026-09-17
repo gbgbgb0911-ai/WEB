@@ -1,0 +1,41 @@
+{
+  "id_original": 281,
+  "url_original": "https://euchelperu.com/producto.php?id=281",
+  "nombre": "Cartera Style Chic",
+  "descripcion": "Elegancia estructurada en cada detalle, perfecta para quienes buscan un accesorio refinado que combine estilo clásico y utilidad moderna. Esta cartera es un básico chic que eleva cualquier look con sutileza.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "281CAR202586",
+  "item_group_id": "281",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685269501958133096874.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 491,
+      "nombre": "Negro",
+      "precio": 110.0,
+      "id_color_confirmado": 491,
+      "tallas": [
+        {
+          "id_talla": 434,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685269501958133096874.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:46:07Z"
+}

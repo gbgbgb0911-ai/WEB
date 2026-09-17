@@ -1,0 +1,41 @@
+{
+  "id_original": 283,
+  "url_original": "https://euchelperu.com/producto.php?id=283",
+  "nombre": "Billetera Ethos",
+  "descripcion": "Esta billetera combina practicidad y un detalle distintivo que añade un toque encantador a su diseño limpio y elegante.",
+  "categoria": "Billeteras",
+  "categoria_subid": 13,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "283BIL06085",
+  "item_group_id": "283",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685272875767157926898.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Billetera Ethos",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 493,
+      "nombre": "Único",
+      "precio": 39.0,
+      "id_color_confirmado": 493,
+      "tallas": [
+        {
+          "id_talla": 436,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685272875767157926898.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:46:13Z"
+}

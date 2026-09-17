@@ -1,0 +1,86 @@
+{
+  "id_original": 288,
+  "url_original": "https://euchelperu.com/producto.php?id=288",
+  "nombre": "Correa Dorelle",
+  "descripcion": "Esta correa destaca por su diseño sofisticado y moderno, convirtiéndola en el complemento perfecto para cualquier atuendo.",
+  "categoria": "Correas",
+  "categoria_subid": 14,
+  "precio_base": 25.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "2882099",
+  "item_group_id": "288",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175709690518366740162240.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Correa Dorelle",
+  "precio_listado_normal": 25.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 498,
+      "nombre": "Negro",
+      "precio": 25.0,
+      "id_color_confirmado": 498,
+      "tallas": [
+        {
+          "id_talla": 441,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709690518366740162240.jpg"
+      ]
+    },
+    {
+      "id_color": 726,
+      "nombre": "Marrón",
+      "precio": 20.0,
+      "id_color_confirmado": 726,
+      "tallas": [
+        {
+          "id_talla": 954,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709690518366740162240.jpg"
+      ]
+    },
+    {
+      "id_color": 727,
+      "nombre": "Ladrillo",
+      "precio": 20.0,
+      "id_color_confirmado": 727,
+      "tallas": [
+        {
+          "id_talla": 955,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709690518366740162240.jpg"
+      ]
+    },
+    {
+      "id_color": 728,
+      "nombre": "Beige",
+      "precio": 20.0,
+      "id_color_confirmado": 728,
+      "tallas": [
+        {
+          "id_talla": 956,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175709690518366740162240.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:49:11Z"
+}

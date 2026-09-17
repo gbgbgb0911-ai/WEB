@@ -1,0 +1,41 @@
+{
+  "id_original": 286,
+  "url_original": "https://euchelperu.com/producto.php?id=286",
+  "nombre": "Trendy Tote",
+  "descripcion": "Con un diseño moderno y textura acolchada, este bolso tote combina elegancia urbana con funcionalidad superior. Su acabado mullido transforma cualquier look con un toque chic y práctico.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "286CAR06085",
+  "item_group_id": "286",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175685101282082833617247.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 496,
+      "nombre": "Único",
+      "precio": 85.0,
+      "id_color_confirmado": 496,
+      "tallas": [
+        {
+          "id_talla": 439,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175685101282082833617247.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:46:46Z"
+}

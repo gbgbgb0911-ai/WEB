@@ -1,0 +1,137 @@
+{
+  "id_original": 292,
+  "url_original": "https://euchelperu.com/producto.php?id=292",
+  "nombre": "Chaleco Zenit",
+  "descripcion": "\"Chaleco sastre de corte entallado, ideal para complementar tus looks con un toque clásico y sofisticado.\"",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "292CHA16825",
+  "item_group_id": "292",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175686253513878993239478.jpg",
+    "https://euchelperu.com/images/productos/176299392831060809618174.png",
+    "https://euchelperu.com/images/productos/176299672005355868056113.png",
+    "https://euchelperu.com/images/productos/176299678343362157217064.png",
+    "https://euchelperu.com/images/productos/176299774524572494317975.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Chaleco Zenit",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 503,
+      "nombre": "Marrón",
+      "precio": 65.0,
+      "id_color_confirmado": 503,
+      "tallas": [
+        {
+          "id_talla": 448,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175686253513878993239478.jpg",
+        "https://euchelperu.com/images/productos/176299392831060809618174.png",
+        "https://euchelperu.com/images/productos/176299672005355868056113.png",
+        "https://euchelperu.com/images/productos/176299678343362157217064.png",
+        "https://euchelperu.com/images/productos/176299774524572494317975.png"
+      ]
+    },
+    {
+      "id_color": 721,
+      "nombre": "Blanco",
+      "precio": 65.0,
+      "id_color_confirmado": 721,
+      "tallas": [
+        {
+          "id_talla": 947,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176299672005355868056113.png",
+        "https://euchelperu.com/images/productos/175686253513878993239478.jpg",
+        "https://euchelperu.com/images/productos/176299392831060809618174.png",
+        "https://euchelperu.com/images/productos/176299678343362157217064.png",
+        "https://euchelperu.com/images/productos/176299774524572494317975.png"
+      ]
+    },
+    {
+      "id_color": 722,
+      "nombre": "Gris",
+      "precio": 65.0,
+      "id_color_confirmado": 722,
+      "tallas": [
+        {
+          "id_talla": 948,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 949,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176299774524572494317975.png",
+        "https://euchelperu.com/images/productos/175686253513878993239478.jpg",
+        "https://euchelperu.com/images/productos/176299392831060809618174.png",
+        "https://euchelperu.com/images/productos/176299672005355868056113.png",
+        "https://euchelperu.com/images/productos/176299678343362157217064.png"
+      ]
+    },
+    {
+      "id_color": 723,
+      "nombre": "Beige",
+      "precio": 65.0,
+      "id_color_confirmado": 723,
+      "tallas": [
+        {
+          "id_talla": 950,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 951,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176299678343362157217064.png",
+        "https://euchelperu.com/images/productos/175686253513878993239478.jpg",
+        "https://euchelperu.com/images/productos/176299392831060809618174.png",
+        "https://euchelperu.com/images/productos/176299672005355868056113.png",
+        "https://euchelperu.com/images/productos/176299774524572494317975.png"
+      ]
+    },
+    {
+      "id_color": 1006,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 1006,
+      "tallas": [
+        {
+          "id_talla": 1263,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1264,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176299392831060809618174.png",
+        "https://euchelperu.com/images/productos/175686253513878993239478.jpg",
+        "https://euchelperu.com/images/productos/176299672005355868056113.png",
+        "https://euchelperu.com/images/productos/176299678343362157217064.png",
+        "https://euchelperu.com/images/productos/176299774524572494317975.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T22:50:27Z"
+}
