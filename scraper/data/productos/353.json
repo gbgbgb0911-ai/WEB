@@ -1,0 +1,79 @@
+{
+  "id_original": 353,
+  "url_original": "https://euchelperu.com/producto.php?id=353",
+  "nombre": "Buzo Sayuri cierre",
+  "descripcion": "Conjunto cómodo y moderno de dos piezas. Incluye hoodie con cierre frontal y pantalón amplio de cintura elástica. Ideal para un look casual y relajado.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "353BUZ24642",
+  "item_group_id": "353",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176005818439825865348206.jpg",
+    "https://euchelperu.com/images/productos/176005820482213286450364.jpg",
+    "https://euchelperu.com/images/productos/176005822478973474428020.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 889,
+      "nombre": "Verde",
+      "precio": 110.0,
+      "id_color_confirmado": 889,
+      "tallas": [
+        {
+          "id_talla": 1117,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176005818439825865348206.jpg",
+        "https://euchelperu.com/images/productos/176005820482213286450364.jpg",
+        "https://euchelperu.com/images/productos/176005822478973474428020.jpg"
+      ]
+    },
+    {
+      "id_color": 890,
+      "nombre": "Negro",
+      "precio": 110.0,
+      "id_color_confirmado": 890,
+      "tallas": [
+        {
+          "id_talla": 1118,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176005820482213286450364.jpg",
+        "https://euchelperu.com/images/productos/176005818439825865348206.jpg",
+        "https://euchelperu.com/images/productos/176005822478973474428020.jpg"
+      ]
+    },
+    {
+      "id_color": 892,
+      "nombre": "Beige",
+      "precio": 110.0,
+      "id_color_confirmado": 892,
+      "tallas": [
+        {
+          "id_talla": 1121,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176005822478973474428020.jpg",
+        "https://euchelperu.com/images/productos/176005818439825865348206.jpg",
+        "https://euchelperu.com/images/productos/176005820482213286450364.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:27:17Z"
+}

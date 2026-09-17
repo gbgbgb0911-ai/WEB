@@ -1,0 +1,41 @@
+{
+  "id_original": 362,
+  "url_original": "https://euchelperu.com/producto.php?id=362",
+  "nombre": "Banda Anti Imperfecciones",
+  "descripcion": "Parches transparentes para espinillas y granos que actúan día y noche. Absorben impurezas, cubren imperfecciones y son prácticamente invisibles sobre la piel. Incluye 24 unidades en 3 tamaños (8mm, 10mm y 12mm). Fáciles de usar y perfectos para un tratamiento localizado discreto y eficaz.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 6.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "362BAN58594",
+  "item_group_id": "362",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17578012137581151811057.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Banda Anti Imperfecciones",
+  "precio_listado_normal": 6.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 862,
+      "nombre": "Único",
+      "precio": 6.0,
+      "id_color_confirmado": 862,
+      "tallas": [
+        {
+          "id_talla": 1090,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17578012137581151811057.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:30:22Z"
+}

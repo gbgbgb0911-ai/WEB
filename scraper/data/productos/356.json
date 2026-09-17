@@ -1,0 +1,83 @@
+{
+  "id_original": 356,
+  "url_original": "https://euchelperu.com/producto.php?id=356",
+  "nombre": "Top Leila espalda",
+  "descripcion": "Top de manga corta con espalda completamente descubierta y detalle cruzado en la parte baja. Un diseño atrevido y moderno que resalta tu estilo y personalidad. Ideal para looks de noche o eventos especiales.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 20.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "356TOP33357",
+  "item_group_id": "356",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175778965019352346690441.jpg",
+    "https://euchelperu.com/images/productos/175778965733852579496905.jpg",
+    "https://euchelperu.com/images/productos/17582969788333634555901.jpg",
+    "https://euchelperu.com/images/productos/175829702004884567772247.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 856,
+      "nombre": "Rojo",
+      "precio": 45.0,
+      "id_color_confirmado": 856,
+      "tallas": [
+        {
+          "id_talla": 1084,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175778965019352346690441.jpg",
+        "https://euchelperu.com/images/productos/175778965733852579496905.jpg",
+        "https://euchelperu.com/images/productos/17582969788333634555901.jpg",
+        "https://euchelperu.com/images/productos/175829702004884567772247.jpg"
+      ]
+    },
+    {
+      "id_color": 887,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 887,
+      "tallas": [
+        {
+          "id_talla": 1115,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17582969788333634555901.jpg",
+        "https://euchelperu.com/images/productos/175778965019352346690441.jpg",
+        "https://euchelperu.com/images/productos/175778965733852579496905.jpg",
+        "https://euchelperu.com/images/productos/175829702004884567772247.jpg"
+      ]
+    },
+    {
+      "id_color": 888,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 888,
+      "tallas": [
+        {
+          "id_talla": 1116,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175829702004884567772247.jpg",
+        "https://euchelperu.com/images/productos/175778965019352346690441.jpg",
+        "https://euchelperu.com/images/productos/175778965733852579496905.jpg",
+        "https://euchelperu.com/images/productos/17582969788333634555901.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:28:08Z"
+}

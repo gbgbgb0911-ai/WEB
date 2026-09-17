@@ -1,0 +1,101 @@
+{
+  "id_original": 354,
+  "url_original": "https://euchelperu.com/producto.php?id=354",
+  "nombre": "Buzo Kaori",
+  "descripcion": "Conjunto de dos piezas. Incluye hoodie sin cierre y pantalón ancho con cintura elástica. Perfecto para estar cómoda y con estilo en cualquier momento del día.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "354BUZ68687",
+  "item_group_id": "354",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175778632421740149240304.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 854,
+      "nombre": "Verde Pistacho",
+      "precio": 99.0,
+      "id_color_confirmado": 854,
+      "tallas": [
+        {
+          "id_talla": 1082,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175778632421740149240304.jpg"
+      ]
+    },
+    {
+      "id_color": 876,
+      "nombre": "Vino",
+      "precio": 99.0,
+      "id_color_confirmado": 876,
+      "tallas": [
+        {
+          "id_talla": 1104,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175778632421740149240304.jpg"
+      ]
+    },
+    {
+      "id_color": 877,
+      "nombre": "Negro",
+      "precio": 99.0,
+      "id_color_confirmado": 877,
+      "tallas": [
+        {
+          "id_talla": 1105,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175778632421740149240304.jpg"
+      ]
+    },
+    {
+      "id_color": 878,
+      "nombre": "Beige",
+      "precio": 99.0,
+      "id_color_confirmado": 878,
+      "tallas": [
+        {
+          "id_talla": 1106,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175778632421740149240304.jpg"
+      ]
+    },
+    {
+      "id_color": 879,
+      "nombre": "Camel",
+      "precio": 99.0,
+      "id_color_confirmado": 879,
+      "tallas": [
+        {
+          "id_talla": 1107,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175778632421740149240304.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:27:46Z"
+}

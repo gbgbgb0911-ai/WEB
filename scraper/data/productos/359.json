@@ -1,0 +1,107 @@
+{
+  "id_original": 359,
+  "url_original": "https://euchelperu.com/producto.php?id=359",
+  "nombre": "Polera Dalessa",
+  "descripcion": "Sudadera con cuello alto y cierre medio. Diseño bordado frontal “Dalessa Collection” con escudo decorativo. Estilo clásico con un toque sofisticado, ideal para outfits casuales y modernos.",
+  "categoria": "Poleras",
+  "categoria_subid": 5,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "359POL60853",
+  "item_group_id": "359",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175779010134619590947788.jpg",
+    "https://euchelperu.com/images/productos/176325656021064295239638.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Polera Dalessa",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 859,
+      "nombre": "Marrón",
+      "precio": 65.0,
+      "id_color_confirmado": 859,
+      "tallas": [
+        {
+          "id_talla": 1087,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175779010134619590947788.jpg",
+        "https://euchelperu.com/images/productos/176325656021064295239638.png"
+      ]
+    },
+    {
+      "id_color": 880,
+      "nombre": "Gris",
+      "precio": 65.0,
+      "id_color_confirmado": 880,
+      "tallas": [
+        {
+          "id_talla": 1108,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175779010134619590947788.jpg",
+        "https://euchelperu.com/images/productos/176325656021064295239638.png"
+      ]
+    },
+    {
+      "id_color": 881,
+      "nombre": "Blanco",
+      "precio": 65.0,
+      "id_color_confirmado": 881,
+      "tallas": [
+        {
+          "id_talla": 1109,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175779010134619590947788.jpg",
+        "https://euchelperu.com/images/productos/176325656021064295239638.png"
+      ]
+    },
+    {
+      "id_color": 882,
+      "nombre": "Verde Botella",
+      "precio": 65.0,
+      "id_color_confirmado": 882,
+      "tallas": [
+        {
+          "id_talla": 1110,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175779010134619590947788.jpg",
+        "https://euchelperu.com/images/productos/176325656021064295239638.png"
+      ]
+    },
+    {
+      "id_color": 883,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 883,
+      "tallas": [
+        {
+          "id_talla": 1111,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176325656021064295239638.png",
+        "https://euchelperu.com/images/productos/175779010134619590947788.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:30:01Z"
+}

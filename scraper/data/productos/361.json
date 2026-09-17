@@ -1,0 +1,41 @@
+{
+  "id_original": 361,
+  "url_original": "https://euchelperu.com/producto.php?id=361",
+  "nombre": "Mascarilla Peel-Off",
+  "descripcion": "Mascarilla facial negra tipo peel-off con extractos de granos naturales. Ayuda a eliminar impurezas, puntos negros y células muertas dejando la piel suave y renovada. Ideal para una limpieza profunda con ingredientes de origen vegetal.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 3.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "361MAS26129",
+  "item_group_id": "361",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/175780108358252763451016.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Mascarilla Peel-Off",
+  "precio_listado_normal": 3.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 860,
+      "nombre": "Único",
+      "precio": 3.0,
+      "id_color_confirmado": 860,
+      "tallas": [
+        {
+          "id_talla": 1088,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/175780108358252763451016.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:30:06Z"
+}
