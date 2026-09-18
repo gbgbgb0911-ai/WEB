@@ -12,3 +12,4 @@ scraper/data/html/
 scraper/data/images/originales/
 sitio/publico/
 dist/
+deploy-*.zip
