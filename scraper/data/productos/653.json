@@ -1,0 +1,59 @@
+{
+  "id_original": 653,
+  "url_original": "https://euchelperu.com/producto.php?id=653",
+  "nombre": "BOLSO LIA",
+  "descripcion": "Es una cartera de mano de color negro con un diseño rectangular alargado. La solapa superior tiene una textura de punto o tejido, mientras que el cuerpo principal parece ser de un material liso.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "653CAR09061",
+  "item_group_id": "653",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176496587211670292959496.jpg",
+    "https://euchelperu.com/images/productos/176497296842279196956734.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2068,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 2068,
+      "tallas": [
+        {
+          "id_talla": 2442,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176496587211670292959496.jpg",
+        "https://euchelperu.com/images/productos/176497296842279196956734.jpg"
+      ]
+    },
+    {
+      "id_color": 2069,
+      "nombre": "Plateado",
+      "precio": 55.0,
+      "id_color_confirmado": 2069,
+      "tallas": [
+        {
+          "id_talla": 2443,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176497296842279196956734.jpg",
+        "https://euchelperu.com/images/productos/176496587211670292959496.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:21:18Z"
+}

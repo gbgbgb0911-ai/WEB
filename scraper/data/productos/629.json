@@ -1,0 +1,41 @@
+{
+  "id_original": 629,
+  "url_original": "https://euchelperu.com/producto.php?id=629",
+  "nombre": "BIKINI BRISA",
+  "descripcion": "Diseño favorecedor con acabado suave y ajuste perfecto.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "629BKN152",
+  "item_group_id": "629",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176446524511208495186944.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI BRISA",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2019,
+      "nombre": "Negro c/ blanco",
+      "precio": 99.0,
+      "id_color_confirmado": 2019,
+      "tallas": [
+        {
+          "id_talla": 2352,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176446524511208495186944.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:14:43Z"
+}

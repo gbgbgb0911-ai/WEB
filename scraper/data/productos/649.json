@@ -1,0 +1,41 @@
+{
+  "id_original": 649,
+  "url_original": "https://euchelperu.com/producto.php?id=649",
+  "nombre": "BOHO SEQUIN BAG",
+  "descripcion": "El cuerpo principal es de color blanco o crema y está cubierto con lentejuelas discretas que le dan un brillo suave.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "6490026",
+  "item_group_id": "649",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176496004352115768562526.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2064,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 2064,
+      "tallas": [
+        {
+          "id_talla": 2438,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176496004352115768562526.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:19:01Z"
+}

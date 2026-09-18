@@ -1,0 +1,67 @@
+{
+  "id_original": 631,
+  "url_original": "https://euchelperu.com/producto.php?id=631",
+  "nombre": "SANDALIA LOVE",
+  "descripcion": "Estas elegantes sandalias love son el complemento perfecto para cualquier atuendo de clima cálido, desde un look casual hasta uno más sofisticado.",
+  "categoria": "Calzado",
+  "categoria_subid": 22,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "631SAN559106",
+  "item_group_id": "631",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176486812359037776985745.jpg",
+    "https://euchelperu.com/images/productos/17648693988519420099091.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SANDALIA LOVE",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2021,
+      "nombre": "Blanco",
+      "precio": 85.0,
+      "id_color_confirmado": 2021,
+      "tallas": [
+        {
+          "id_talla": 2355,
+          "nombre": "35"
+        },
+        {
+          "id_talla": 2371,
+          "nombre": "37"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176486812359037776985745.jpg",
+        "https://euchelperu.com/images/productos/17648693988519420099091.jpg"
+      ]
+    },
+    {
+      "id_color": 2022,
+      "nombre": "Negro",
+      "precio": 85.0,
+      "id_color_confirmado": 2022,
+      "tallas": [
+        {
+          "id_talla": 2356,
+          "nombre": "35"
+        },
+        {
+          "id_talla": 2372,
+          "nombre": "38"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17648693988519420099091.jpg",
+        "https://euchelperu.com/images/productos/176486812359037776985745.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:14:52Z"
+}

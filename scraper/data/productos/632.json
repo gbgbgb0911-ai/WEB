@@ -1,0 +1,141 @@
+{
+  "id_original": 632,
+  "url_original": "https://euchelperu.com/producto.php?id=632",
+  "nombre": "SANDALIA LADY",
+  "descripcion": "Estas sandalias son un accesorio de impacto, perfectas para eventos elegantes, fiestas o cualquier ocasión donde se busque un toque de glamour y sofisticación.",
+  "categoria": "Calzado",
+  "categoria_subid": 22,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "632LADY8884",
+  "item_group_id": "632",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176486990887431886494173.jpg",
+    "https://euchelperu.com/images/productos/17648706228976593279616.jpg",
+    "https://euchelperu.com/images/productos/17648708759648300741150.jpg",
+    "https://euchelperu.com/images/productos/176487161784667821080351.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SANDALIA LADY",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2023,
+      "nombre": "Dorado",
+      "precio": 95.0,
+      "id_color_confirmado": 2023,
+      "tallas": [
+        {
+          "id_talla": 2357,
+          "nombre": "36"
+        },
+        {
+          "id_talla": 2373,
+          "nombre": "37"
+        },
+        {
+          "id_talla": 2374,
+          "nombre": "38"
+        },
+        {
+          "id_talla": 2375,
+          "nombre": "39"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176486990887431886494173.jpg",
+        "https://euchelperu.com/images/productos/17648706228976593279616.jpg",
+        "https://euchelperu.com/images/productos/17648708759648300741150.jpg",
+        "https://euchelperu.com/images/productos/176487161784667821080351.jpg"
+      ]
+    },
+    {
+      "id_color": 2024,
+      "nombre": "Blanco",
+      "precio": 95.0,
+      "id_color_confirmado": 2024,
+      "tallas": [
+        {
+          "id_talla": 2358,
+          "nombre": "36"
+        },
+        {
+          "id_talla": 2376,
+          "nombre": "37"
+        },
+        {
+          "id_talla": 2377,
+          "nombre": "38"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17648706228976593279616.jpg",
+        "https://euchelperu.com/images/productos/176486990887431886494173.jpg",
+        "https://euchelperu.com/images/productos/17648708759648300741150.jpg",
+        "https://euchelperu.com/images/productos/176487161784667821080351.jpg"
+      ]
+    },
+    {
+      "id_color": 2025,
+      "nombre": "Negro",
+      "precio": 95.0,
+      "id_color_confirmado": 2025,
+      "tallas": [
+        {
+          "id_talla": 2359,
+          "nombre": "36"
+        },
+        {
+          "id_talla": 2378,
+          "nombre": "37"
+        },
+        {
+          "id_talla": 2379,
+          "nombre": "38"
+        },
+        {
+          "id_talla": 2380,
+          "nombre": "39"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17648708759648300741150.jpg",
+        "https://euchelperu.com/images/productos/176486990887431886494173.jpg",
+        "https://euchelperu.com/images/productos/17648706228976593279616.jpg",
+        "https://euchelperu.com/images/productos/176487161784667821080351.jpg"
+      ]
+    },
+    {
+      "id_color": 2026,
+      "nombre": "Plateado",
+      "precio": 95.0,
+      "id_color_confirmado": 2026,
+      "tallas": [
+        {
+          "id_talla": 2360,
+          "nombre": "37"
+        },
+        {
+          "id_talla": 2381,
+          "nombre": "38"
+        },
+        {
+          "id_talla": 2382,
+          "nombre": "39"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176487161784667821080351.jpg",
+        "https://euchelperu.com/images/productos/176486990887431886494173.jpg",
+        "https://euchelperu.com/images/productos/17648706228976593279616.jpg",
+        "https://euchelperu.com/images/productos/17648708759648300741150.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:15:40Z"
+}

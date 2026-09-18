@@ -1,0 +1,91 @@
+{
+  "id_original": 633,
+  "url_original": "https://euchelperu.com/producto.php?id=633",
+  "nombre": "SANDALIA SHINE",
+  "descripcion": "Estas sandalias son perfectas para quienes buscan un calzado que combine comodidad con un toque de glamour y brillo. Son ideales para fiestas, bodas o cualquier evento que requiera un estilo festivo.",
+  "categoria": "Calzado",
+  "categoria_subid": 22,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "633SAN4471065",
+  "item_group_id": "633",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176487206371605124497050.jpg",
+    "https://euchelperu.com/images/productos/17648721645139665480920.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SANDALIA SHINE",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2027,
+      "nombre": "Dorado",
+      "precio": 85.0,
+      "id_color_confirmado": 2027,
+      "tallas": [
+        {
+          "id_talla": 2361,
+          "nombre": "35"
+        },
+        {
+          "id_talla": 2363,
+          "nombre": "36"
+        },
+        {
+          "id_talla": 2364,
+          "nombre": "37"
+        },
+        {
+          "id_talla": 2365,
+          "nombre": "38"
+        },
+        {
+          "id_talla": 2366,
+          "nombre": "39"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176487206371605124497050.jpg",
+        "https://euchelperu.com/images/productos/17648721645139665480920.jpg"
+      ]
+    },
+    {
+      "id_color": 2028,
+      "nombre": "Plateado",
+      "precio": 85.0,
+      "id_color_confirmado": 2028,
+      "tallas": [
+        {
+          "id_talla": 2362,
+          "nombre": "35"
+        },
+        {
+          "id_talla": 2367,
+          "nombre": "36"
+        },
+        {
+          "id_talla": 2368,
+          "nombre": "37"
+        },
+        {
+          "id_talla": 2369,
+          "nombre": "38"
+        },
+        {
+          "id_talla": 2370,
+          "nombre": "39"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17648721645139665480920.jpg",
+        "https://euchelperu.com/images/productos/176487206371605124497050.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:16:11Z"
+}

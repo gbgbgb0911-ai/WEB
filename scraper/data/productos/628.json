@@ -1,0 +1,41 @@
+{
+  "id_original": 628,
+  "url_original": "https://euchelperu.com/producto.php?id=628",
+  "nombre": "BIKINI STAR",
+  "descripcion": "Perfecto para lucir fresca, segura y con estilo.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "628BKN15227",
+  "item_group_id": "628",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17644642026927236880251.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI STAR",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2018,
+      "nombre": "Beige",
+      "precio": 99.0,
+      "id_color_confirmado": 2018,
+      "tallas": [
+        {
+          "id_talla": 2351,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17644642026927236880251.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:14:03Z"
+}

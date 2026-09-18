@@ -1,0 +1,41 @@
+{
+  "id_original": 652,
+  "url_original": "https://euchelperu.com/producto.php?id=652",
+  "nombre": "Siena glam",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "6520029",
+  "item_group_id": "652",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176496147655444952715008.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2067,
+      "nombre": "plateado",
+      "precio": 55.0,
+      "id_color_confirmado": 2067,
+      "tallas": [
+        {
+          "id_talla": 2441,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176496147655444952715008.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:20:49Z"
+}

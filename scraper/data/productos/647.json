@@ -1,0 +1,41 @@
+{
+  "id_original": 647,
+  "url_original": "https://euchelperu.com/producto.php?id=647",
+  "nombre": "PERLA BOW BAG",
+  "descripcion": "Es una cartera de hombro de color beige muy claro con un estilo clásico y elegante. Las hebillas y el encantador detalle de encaje con perlas la hacen una pieza única y versátil.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "6470025",
+  "item_group_id": "647",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176495931237240844393557.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2061,
+      "nombre": "Hueso",
+      "precio": 75.0,
+      "id_color_confirmado": 2061,
+      "tallas": [
+        {
+          "id_talla": 2435,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176495931237240844393557.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:18:58Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id_original": 644,
+  "url_original": "https://euchelperu.com/producto.php?id=644",
+  "nombre": "BOLSO CHERRY CLASSIC",
+  "descripcion": "Es una cartera de hombro con un estilo tote o bandolera. Se distingue por su material suave y su diseño practico con los bolsillos laterales lo hacen ideal para llevar lo esencial con un toque dulce y elegante.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "6440019",
+  "item_group_id": "644",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17649576066681136089396.jpg",
+    "https://euchelperu.com/images/productos/17649576332468248506196.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2055,
+      "nombre": "Vino",
+      "precio": 75.0,
+      "id_color_confirmado": 2055,
+      "tallas": [
+        {
+          "id_talla": 2429,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17649576066681136089396.jpg",
+        "https://euchelperu.com/images/productos/17649576332468248506196.jpg"
+      ]
+    },
+    {
+      "id_color": 2056,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 2056,
+      "tallas": [
+        {
+          "id_talla": 2430,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17649576332468248506196.jpg",
+        "https://euchelperu.com/images/productos/17649576066681136089396.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:18:38Z"
+}

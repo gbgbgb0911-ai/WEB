@@ -1,0 +1,41 @@
+{
+  "id_original": 642,
+  "url_original": "https://euchelperu.com/producto.php?id=642",
+  "nombre": "Diva Animal Print",
+  "descripcion": "Un bolso de personalidad fuerte y estilo moderno. Su diseño estructurado y su asa cómoda la convierten en la pieza ideal para quienes quieren destacar con un look atrevido y fashion.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "6420017",
+  "item_group_id": "642",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17649556902827070954466.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2052,
+      "nombre": "animal print",
+      "precio": 65.0,
+      "id_color_confirmado": 2052,
+      "tallas": [
+        {
+          "id_talla": 2426,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17649556902827070954466.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:18:31Z"
+}

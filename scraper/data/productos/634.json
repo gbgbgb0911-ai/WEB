@@ -1,0 +1,71 @@
+{
+  "id_original": 634,
+  "url_original": "https://euchelperu.com/producto.php?id=634",
+  "nombre": "SANDALIA CLEXIA",
+  "descripcion": "",
+  "categoria": "Calzado",
+  "categoria_subid": 22,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "634SAN99387",
+  "item_group_id": "634",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176489666022542668145426.jpg",
+    "https://euchelperu.com/images/productos/17648967357331204025284.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SANDALIA CLEXIA",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2029,
+      "nombre": "Hueso",
+      "precio": 85.0,
+      "id_color_confirmado": 2029,
+      "tallas": [
+        {
+          "id_talla": 2383,
+          "nombre": "35"
+        },
+        {
+          "id_talla": 2384,
+          "nombre": "36"
+        },
+        {
+          "id_talla": 2385,
+          "nombre": "37"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176489666022542668145426.jpg",
+        "https://euchelperu.com/images/productos/17648967357331204025284.png"
+      ]
+    },
+    {
+      "id_color": 2030,
+      "nombre": "Negro",
+      "precio": 85.0,
+      "id_color_confirmado": 2030,
+      "tallas": [
+        {
+          "id_talla": 2386,
+          "nombre": "35"
+        },
+        {
+          "id_talla": 2387,
+          "nombre": "39"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17648967357331204025284.png",
+        "https://euchelperu.com/images/productos/176489666022542668145426.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:16:42Z"
+}

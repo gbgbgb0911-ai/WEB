@@ -1,0 +1,54 @@
+{
+  "id_original": 646,
+  "url_original": "https://euchelperu.com/producto.php?id=646",
+  "nombre": "ATHENA BAG",
+  "descripcion": "Presenta un efecto que parece ser de terciopelo o pana con rayas verticales y tiene detalles de ribetes de material liso. El material es semimate con un aspecto desgastado o texturizado.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "6460024",
+  "item_group_id": "646",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17649589139712680602914.jpg",
+    "https://euchelperu.com/images/productos/17654783546281890824756.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2060,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 2060,
+      "tallas": [
+        {
+          "id_talla": 2434,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17649589139712680602914.jpg",
+        "https://euchelperu.com/images/productos/17654783546281890824756.jpg"
+      ]
+    },
+    {
+      "id_color": 2089,
+      "nombre": "Marrón",
+      "precio": null,
+      "id_color_confirmado": 2089,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17654783546281890824756.jpg",
+        "https://euchelperu.com/images/productos/17649589139712680602914.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:18:55Z"
+}

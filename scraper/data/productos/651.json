@@ -1,0 +1,41 @@
+{
+  "id_original": 651,
+  "url_original": "https://euchelperu.com/producto.php?id=651",
+  "nombre": "ÁMBAR SHINE",
+  "descripcion": "La cartera está completamente cubierta de brillantina o pedrería en un deslumbrante color dorado cobrizo. Es el accesorio imprescindible para la mujer que ama destacar en la oscuridad.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "6510028",
+  "item_group_id": "651",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176496122381320754356889.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2066,
+      "nombre": "dorado",
+      "precio": 49.0,
+      "id_color_confirmado": 2066,
+      "tallas": [
+        {
+          "id_talla": 2440,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176496122381320754356889.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:20:10Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 656,
+  "url_original": "https://euchelperu.com/producto.php?id=656",
+  "nombre": "CARTERA SUMMER",
+  "descripcion": "Es una cartera de hombro grande (estilo hobo o bucket bag) con un diseño de verano. Su diseño espacioso y sus cómodas asas de cuerda la convierten en la compañera ideal para tus dias de sol y arena.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "656CAR9472",
+  "item_group_id": "656",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176498580986544952145303.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2073,
+      "nombre": "Beige",
+      "precio": 59.0,
+      "id_color_confirmado": 2073,
+      "tallas": [
+        {
+          "id_talla": 2446,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176498580986544952145303.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:21:36Z"
+}

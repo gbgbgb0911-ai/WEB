@@ -1,0 +1,91 @@
+{
+  "id_original": 636,
+  "url_original": "https://euchelperu.com/producto.php?id=636",
+  "nombre": "SANDALIA CHAROL",
+  "descripcion": "",
+  "categoria": "Calzado",
+  "categoria_subid": 22,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "636SAN46403",
+  "item_group_id": "636",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2033,
+      "nombre": "Vino",
+      "precio": 95.0,
+      "id_color_confirmado": 2033,
+      "tallas": [
+        {
+          "id_talla": 2392,
+          "nombre": "36"
+        },
+        {
+          "id_talla": 2393,
+          "nombre": "37"
+        },
+        {
+          "id_talla": 2394,
+          "nombre": "38"
+        },
+        {
+          "id_talla": 2395,
+          "nombre": "39"
+        }
+      ],
+      "imagenes": []
+    },
+    {
+      "id_color": 2034,
+      "nombre": "Negro",
+      "precio": 95.0,
+      "id_color_confirmado": 2034,
+      "tallas": [
+        {
+          "id_talla": 2396,
+          "nombre": "35"
+        },
+        {
+          "id_talla": 2397,
+          "nombre": "36"
+        },
+        {
+          "id_talla": 2398,
+          "nombre": "39"
+        }
+      ],
+      "imagenes": []
+    },
+    {
+      "id_color": 2035,
+      "nombre": "Blanco",
+      "precio": 95.0,
+      "id_color_confirmado": 2035,
+      "tallas": [
+        {
+          "id_talla": 2399,
+          "nombre": "35"
+        },
+        {
+          "id_talla": 2400,
+          "nombre": "36"
+        },
+        {
+          "id_talla": 2401,
+          "nombre": "37"
+        }
+      ],
+      "imagenes": []
+    }
+  ],
+  "scraped_at": "2026-09-18T01:17:34Z"
+}

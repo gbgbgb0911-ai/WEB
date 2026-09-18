@@ -1,0 +1,111 @@
+{
+  "id_original": 637,
+  "url_original": "https://euchelperu.com/producto.php?id=637",
+  "nombre": "SANDALIA EQUIS",
+  "descripcion": "",
+  "categoria": "Calzado",
+  "categoria_subid": 22,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "637SAN041225",
+  "item_group_id": "637",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176524063484771746089134.jpg",
+    "https://euchelperu.com/images/productos/176524229373229343276305.jpg",
+    "https://euchelperu.com/images/productos/176524246993097384678759.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SANDALIA EQUIS",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2036,
+      "nombre": "Vino",
+      "precio": 95.0,
+      "id_color_confirmado": 2036,
+      "tallas": [
+        {
+          "id_talla": 2402,
+          "nombre": "36"
+        },
+        {
+          "id_talla": 2403,
+          "nombre": "37"
+        },
+        {
+          "id_talla": 2404,
+          "nombre": "39"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176524063484771746089134.jpg",
+        "https://euchelperu.com/images/productos/176524229373229343276305.jpg",
+        "https://euchelperu.com/images/productos/176524246993097384678759.jpg"
+      ]
+    },
+    {
+      "id_color": 2037,
+      "nombre": "Negro",
+      "precio": 95.0,
+      "id_color_confirmado": 2037,
+      "tallas": [
+        {
+          "id_talla": 2405,
+          "nombre": "35"
+        },
+        {
+          "id_talla": 2406,
+          "nombre": "36"
+        },
+        {
+          "id_talla": 2407,
+          "nombre": "37"
+        },
+        {
+          "id_talla": 2408,
+          "nombre": "38"
+        },
+        {
+          "id_talla": 2409,
+          "nombre": "39"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176524229373229343276305.jpg",
+        "https://euchelperu.com/images/productos/176524063484771746089134.jpg",
+        "https://euchelperu.com/images/productos/176524246993097384678759.jpg"
+      ]
+    },
+    {
+      "id_color": 2038,
+      "nombre": "Blanco",
+      "precio": 95.0,
+      "id_color_confirmado": 2038,
+      "tallas": [
+        {
+          "id_talla": 2410,
+          "nombre": "35"
+        },
+        {
+          "id_talla": 2411,
+          "nombre": "37"
+        },
+        {
+          "id_talla": 2412,
+          "nombre": "39"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176524246993097384678759.jpg",
+        "https://euchelperu.com/images/productos/176524063484771746089134.jpg",
+        "https://euchelperu.com/images/productos/176524229373229343276305.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:17:44Z"
+}

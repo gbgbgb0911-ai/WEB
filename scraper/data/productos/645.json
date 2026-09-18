@@ -1,0 +1,79 @@
+{
+  "id_original": 645,
+  "url_original": "https://euchelperu.com/producto.php?id=645",
+  "nombre": "BOLSO GOLDEN LINK",
+  "descripcion": "Es una cartera de hombro tipo hobo con un estilo moderno y suave. Su forma curva y su diseño minimalista lo convierten en una pieza elegante para elevar looks casuales o más formales.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "6450021",
+  "item_group_id": "645",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17649584933762943542479.jpg",
+    "https://euchelperu.com/images/productos/176495856553031672374899.jpg",
+    "https://euchelperu.com/images/productos/176495858216829462785153.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BOLSO GOLDEN LINK",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2057,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 2057,
+      "tallas": [
+        {
+          "id_talla": 2431,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17649584933762943542479.jpg",
+        "https://euchelperu.com/images/productos/176495856553031672374899.jpg",
+        "https://euchelperu.com/images/productos/176495858216829462785153.jpg"
+      ]
+    },
+    {
+      "id_color": 2058,
+      "nombre": "Hueso",
+      "precio": 75.0,
+      "id_color_confirmado": 2058,
+      "tallas": [
+        {
+          "id_talla": 2432,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176495856553031672374899.jpg",
+        "https://euchelperu.com/images/productos/17649584933762943542479.jpg",
+        "https://euchelperu.com/images/productos/176495858216829462785153.jpg"
+      ]
+    },
+    {
+      "id_color": 2059,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 2059,
+      "tallas": [
+        {
+          "id_talla": 2433,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176495858216829462785153.jpg",
+        "https://euchelperu.com/images/productos/17649584933762943542479.jpg",
+        "https://euchelperu.com/images/productos/176495856553031672374899.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:18:48Z"
+}

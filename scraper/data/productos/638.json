@@ -1,0 +1,101 @@
+{
+  "id_original": 638,
+  "url_original": "https://euchelperu.com/producto.php?id=638",
+  "nombre": "TOTE NUDO CLASICO",
+  "descripcion": "Esta cartera tote es la compañera ideal para el día a día. Material resistente y ligero, combinado con el detalle del nudo escultural, la convierte en un clásico moderno que no querrás dejar de usar.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "6380007",
+  "item_group_id": "638",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17649519951256917536953.jpg",
+    "https://euchelperu.com/images/productos/17649521928903791312116.jpg",
+    "https://euchelperu.com/images/productos/17649523755665771683894.jpg",
+    "https://euchelperu.com/images/productos/176495404044500273736573.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2040,
+      "nombre": "Negro",
+      "precio": 85.0,
+      "id_color_confirmado": 2040,
+      "tallas": [
+        {
+          "id_talla": 2413,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17649519951256917536953.jpg",
+        "https://euchelperu.com/images/productos/17649521928903791312116.jpg",
+        "https://euchelperu.com/images/productos/17649523755665771683894.jpg",
+        "https://euchelperu.com/images/productos/176495404044500273736573.jpg"
+      ]
+    },
+    {
+      "id_color": 2041,
+      "nombre": "Vino",
+      "precio": 85.0,
+      "id_color_confirmado": 2041,
+      "tallas": [
+        {
+          "id_talla": 2415,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17649521928903791312116.jpg",
+        "https://euchelperu.com/images/productos/17649519951256917536953.jpg",
+        "https://euchelperu.com/images/productos/17649523755665771683894.jpg",
+        "https://euchelperu.com/images/productos/176495404044500273736573.jpg"
+      ]
+    },
+    {
+      "id_color": 2042,
+      "nombre": "Marrón",
+      "precio": 85.0,
+      "id_color_confirmado": 2042,
+      "tallas": [
+        {
+          "id_talla": 2416,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17649523755665771683894.jpg",
+        "https://euchelperu.com/images/productos/17649519951256917536953.jpg",
+        "https://euchelperu.com/images/productos/17649521928903791312116.jpg",
+        "https://euchelperu.com/images/productos/176495404044500273736573.jpg"
+      ]
+    },
+    {
+      "id_color": 2043,
+      "nombre": "Beige",
+      "precio": 85.0,
+      "id_color_confirmado": 2043,
+      "tallas": [
+        {
+          "id_talla": 2414,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176495404044500273736573.jpg",
+        "https://euchelperu.com/images/productos/17649519951256917536953.jpg",
+        "https://euchelperu.com/images/productos/17649521928903791312116.jpg",
+        "https://euchelperu.com/images/productos/17649523755665771683894.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:18:10Z"
+}

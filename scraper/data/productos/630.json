@@ -1,0 +1,41 @@
+{
+  "id_original": 630,
+  "url_original": "https://euchelperu.com/producto.php?id=630",
+  "nombre": "BIKINI LARA",
+  "descripcion": "Detalles únicos que hacen la diferencia en tu look.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "630BKN152",
+  "item_group_id": "630",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176446566653926343079967.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI LARA",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2020,
+      "nombre": "Marrón rayado",
+      "precio": 99.0,
+      "id_color_confirmado": 2020,
+      "tallas": [
+        {
+          "id_talla": 2353,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176446566653926343079967.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:14:46Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 650,
+  "url_original": "https://euchelperu.com/producto.php?id=650",
+  "nombre": "MINI CESTA BOHO",
+  "descripcion": "Está hecha de paja o rafia trenzada en un color natural",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "6500027",
+  "item_group_id": "650",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176496093574293159329558.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI CESTA BOHO",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2065,
+      "nombre": "crema",
+      "precio": 75.0,
+      "id_color_confirmado": 2065,
+      "tallas": [
+        {
+          "id_talla": 2439,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176496093574293159329558.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:19:28Z"
+}

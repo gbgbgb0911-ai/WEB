@@ -1,0 +1,59 @@
+{
+  "id_original": 641,
+  "url_original": "https://euchelperu.com/producto.php?id=641",
+  "nombre": "BOLSO NOVA",
+  "descripcion": "Es una cartera de hombro pequeña (estilo baguette) con un acabado brillante. El acabado es charol liso. Una cartera elegante y sofisticada, perfecta para realzar cualquier oufit. Su acabado brillante la hacen ideal para ocasiones especiales.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "6410017",
+  "item_group_id": "641",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176495512563852442155194.jpg",
+    "https://euchelperu.com/images/productos/176495515307599715539794.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2050,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 2050,
+      "tallas": [
+        {
+          "id_talla": 2423,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176495512563852442155194.jpg",
+        "https://euchelperu.com/images/productos/176495515307599715539794.jpg"
+      ]
+    },
+    {
+      "id_color": 2051,
+      "nombre": "Vino",
+      "precio": 69.0,
+      "id_color_confirmado": 2051,
+      "tallas": [
+        {
+          "id_talla": 2424,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176495515307599715539794.jpg",
+        "https://euchelperu.com/images/productos/176495512563852442155194.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:18:28Z"
+}
