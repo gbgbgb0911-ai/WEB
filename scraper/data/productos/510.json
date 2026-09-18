@@ -1,0 +1,79 @@
+{
+  "id_original": 510,
+  "url_original": "https://euchelperu.com/producto.php?id=510",
+  "nombre": "Falda Lentejuela 2.0",
+  "descripcion": "",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "510FAL97660",
+  "item_group_id": "510",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17609251063923027618083.jpg",
+    "https://euchelperu.com/images/productos/176092511288831448378470.jpg",
+    "https://euchelperu.com/images/productos/176092511904485917785305.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Falda Lentejuela 2.0",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1367,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 1367,
+      "tallas": [
+        {
+          "id_talla": 1611,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17609251063923027618083.jpg",
+        "https://euchelperu.com/images/productos/176092511288831448378470.jpg",
+        "https://euchelperu.com/images/productos/176092511904485917785305.jpg"
+      ]
+    },
+    {
+      "id_color": 1368,
+      "nombre": "Plateado",
+      "precio": 75.0,
+      "id_color_confirmado": 1368,
+      "tallas": [
+        {
+          "id_talla": 1612,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176092511288831448378470.jpg",
+        "https://euchelperu.com/images/productos/17609251063923027618083.jpg",
+        "https://euchelperu.com/images/productos/176092511904485917785305.jpg"
+      ]
+    },
+    {
+      "id_color": 1369,
+      "nombre": "Rosa",
+      "precio": 75.0,
+      "id_color_confirmado": 1369,
+      "tallas": [
+        {
+          "id_talla": 1613,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176092511904485917785305.jpg",
+        "https://euchelperu.com/images/productos/17609251063923027618083.jpg",
+        "https://euchelperu.com/images/productos/176092511288831448378470.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:27:37Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id_original": 515,
+  "url_original": "https://euchelperu.com/producto.php?id=515",
+  "nombre": "Top Caroline Escote",
+  "descripcion": "Este top asimétrico combina un corte moderno que resalta tu figura con estilo. Perfecto para outfits de noche o looks urbanos con un toque de tendencia.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "515TOP70295",
+  "item_group_id": "515",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17623900856442652056618.jpg",
+    "https://euchelperu.com/images/productos/176239017958933676818306.jpg",
+    "https://euchelperu.com/images/productos/176239040814202249726972.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1507,
+      "nombre": "Negro",
+      "precio": 39.0,
+      "id_color_confirmado": 1507,
+      "tallas": [
+        {
+          "id_talla": 1799,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17623900856442652056618.jpg",
+        "https://euchelperu.com/images/productos/176239017958933676818306.jpg",
+        "https://euchelperu.com/images/productos/176239040814202249726972.jpg"
+      ]
+    },
+    {
+      "id_color": 1509,
+      "nombre": "Blanco",
+      "precio": 39.0,
+      "id_color_confirmado": 1509,
+      "tallas": [
+        {
+          "id_talla": 1801,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176239040814202249726972.jpg",
+        "https://euchelperu.com/images/productos/17623900856442652056618.jpg",
+        "https://euchelperu.com/images/productos/176239017958933676818306.jpg"
+      ]
+    },
+    {
+      "id_color": 1510,
+      "nombre": "Beige",
+      "precio": 39.0,
+      "id_color_confirmado": 1510,
+      "tallas": [
+        {
+          "id_talla": 1802,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176239017958933676818306.jpg",
+        "https://euchelperu.com/images/productos/17623900856442652056618.jpg",
+        "https://euchelperu.com/images/productos/176239040814202249726972.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:28:51Z"
+}

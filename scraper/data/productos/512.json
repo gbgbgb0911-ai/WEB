@@ -1,0 +1,79 @@
+{
+  "id_original": 512,
+  "url_original": "https://euchelperu.com/producto.php?id=512",
+  "nombre": "Set Isabella Hilo",
+  "descripcion": "Este set combina un top strapless con una falda larga de hilo, creando un look sofisticado y fresco, perfecto para ocasiones casuales o veraniegas.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "512SET67688",
+  "item_group_id": "512",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17621314436893334444099.jpg",
+    "https://euchelperu.com/images/productos/17624040543289543979835.png",
+    "https://euchelperu.com/images/productos/176290288615868833585827.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1495,
+      "nombre": "Palo Rosa",
+      "precio": 59.0,
+      "id_color_confirmado": 1495,
+      "tallas": [
+        {
+          "id_talla": 1819,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17621314436893334444099.jpg",
+        "https://euchelperu.com/images/productos/17624040543289543979835.png",
+        "https://euchelperu.com/images/productos/176290288615868833585827.png"
+      ]
+    },
+    {
+      "id_color": 1496,
+      "nombre": "Celeste",
+      "precio": 59.0,
+      "id_color_confirmado": 1496,
+      "tallas": [
+        {
+          "id_talla": 1820,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17624040543289543979835.png",
+        "https://euchelperu.com/images/productos/17621314436893334444099.jpg",
+        "https://euchelperu.com/images/productos/176290288615868833585827.png"
+      ]
+    },
+    {
+      "id_color": 1497,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 1497,
+      "tallas": [
+        {
+          "id_talla": 1821,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176290288615868833585827.png",
+        "https://euchelperu.com/images/productos/17621314436893334444099.jpg",
+        "https://euchelperu.com/images/productos/17624040543289543979835.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:28:42Z"
+}

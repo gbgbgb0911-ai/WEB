@@ -1,0 +1,59 @@
+{
+  "id_original": 505,
+  "url_original": "https://euchelperu.com/producto.php?id=505",
+  "nombre": "Olivia bag",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "5051",
+  "item_group_id": "505",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176085224223793845084429.jpg",
+    "https://euchelperu.com/images/productos/17608522498943078054131.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1351,
+      "nombre": "Blanco",
+      "precio": 85.0,
+      "id_color_confirmado": 1351,
+      "tallas": [
+        {
+          "id_talla": 1580,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176085224223793845084429.jpg",
+        "https://euchelperu.com/images/productos/17608522498943078054131.jpg"
+      ]
+    },
+    {
+      "id_color": 1352,
+      "nombre": "Negro",
+      "precio": 85.0,
+      "id_color_confirmado": 1352,
+      "tallas": [
+        {
+          "id_talla": 1581,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608522498943078054131.jpg",
+        "https://euchelperu.com/images/productos/176085224223793845084429.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:25:47Z"
+}

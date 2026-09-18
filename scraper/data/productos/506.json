@@ -1,0 +1,59 @@
+{
+  "id_original": 506,
+  "url_original": "https://euchelperu.com/producto.php?id=506",
+  "nombre": "Camile bag",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "5061",
+  "item_group_id": "506",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17608523871749948569698.jpg",
+    "https://euchelperu.com/images/productos/176085239471915215265939.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1353,
+      "nombre": "Negro",
+      "precio": 85.0,
+      "id_color_confirmado": 1353,
+      "tallas": [
+        {
+          "id_talla": 1582,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608523871749948569698.jpg",
+        "https://euchelperu.com/images/productos/176085239471915215265939.jpg"
+      ]
+    },
+    {
+      "id_color": 1354,
+      "nombre": "Blanco",
+      "precio": 85.0,
+      "id_color_confirmado": 1354,
+      "tallas": [
+        {
+          "id_talla": 1583,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176085239471915215265939.jpg",
+        "https://euchelperu.com/images/productos/17608523871749948569698.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:25:54Z"
+}

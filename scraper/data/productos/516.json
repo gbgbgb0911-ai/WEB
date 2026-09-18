@@ -1,0 +1,59 @@
+{
+  "id_original": 516,
+  "url_original": "https://euchelperu.com/producto.php?id=516",
+  "nombre": "Top Allison Aro",
+  "descripcion": "Este top asimétrico destaca por su diseño único con aro metálico en el hombro, ideal para combinar con faldas o pantalones de tiro alto y crear un look de impacto.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "516TOP74949",
+  "item_group_id": "516",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176238616199484408315057.png",
+    "https://euchelperu.com/images/productos/176238751553046223383272.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Allison Aro",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1511,
+      "nombre": "Verde",
+      "precio": 39.0,
+      "id_color_confirmado": 1511,
+      "tallas": [
+        {
+          "id_talla": 1794,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176238751553046223383272.jpg",
+        "https://euchelperu.com/images/productos/176238616199484408315057.png"
+      ]
+    },
+    {
+      "id_color": 1513,
+      "nombre": "Blanco",
+      "precio": 39.0,
+      "id_color_confirmado": 1513,
+      "tallas": [
+        {
+          "id_talla": 1796,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176238616199484408315057.png",
+        "https://euchelperu.com/images/productos/176238751553046223383272.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:29:39Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id_original": 508,
+  "url_original": "https://euchelperu.com/producto.php?id=508",
+  "nombre": "Kassy bag",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "5081",
+  "item_group_id": "508",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17608525820436298138285.jpg",
+    "https://euchelperu.com/images/productos/176085259403466797057814.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1356,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 1356,
+      "tallas": [
+        {
+          "id_talla": 1585,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608525820436298138285.jpg",
+        "https://euchelperu.com/images/productos/176085259403466797057814.jpg"
+      ]
+    },
+    {
+      "id_color": 1357,
+      "nombre": "Beige",
+      "precio": 75.0,
+      "id_color_confirmado": 1357,
+      "tallas": [
+        {
+          "id_talla": 1586,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176085259403466797057814.jpg",
+        "https://euchelperu.com/images/productos/17608525820436298138285.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:27:02Z"
+}

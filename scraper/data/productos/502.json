@@ -1,0 +1,79 @@
+{
+  "id_original": 502,
+  "url_original": "https://euchelperu.com/producto.php?id=502",
+  "nombre": "Antonella bag",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "5021",
+  "item_group_id": "502",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176085179275491487147144.jpg",
+    "https://euchelperu.com/images/productos/176085180442889302427671.jpg",
+    "https://euchelperu.com/images/productos/17608518101104137427856.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Antonella bag",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1341,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 1341,
+      "tallas": [
+        {
+          "id_talla": 1570,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176085179275491487147144.jpg",
+        "https://euchelperu.com/images/productos/176085180442889302427671.jpg",
+        "https://euchelperu.com/images/productos/17608518101104137427856.jpg"
+      ]
+    },
+    {
+      "id_color": 1342,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 1342,
+      "tallas": [
+        {
+          "id_talla": 1571,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176085180442889302427671.jpg",
+        "https://euchelperu.com/images/productos/176085179275491487147144.jpg",
+        "https://euchelperu.com/images/productos/17608518101104137427856.jpg"
+      ]
+    },
+    {
+      "id_color": 1343,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 1343,
+      "tallas": [
+        {
+          "id_talla": 1572,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608518101104137427856.jpg",
+        "https://euchelperu.com/images/productos/176085179275491487147144.jpg",
+        "https://euchelperu.com/images/productos/176085180442889302427671.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:25:15Z"
+}
