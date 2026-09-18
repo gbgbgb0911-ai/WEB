@@ -1,0 +1,41 @@
+{
+  "id_original": 848,
+  "url_original": "https://euchelperu.com/producto.php?id=848",
+  "nombre": "TOALLAS HUMEDAS",
+  "descripcion": "Estas toallitas húmedas para desmaquillar, presentadas en un práctico empaque portátil de 25 unidades, están especialmente formuladas para ofrecer una limpieza profunda y eficaz que remueve el maquillaje e impurezas del rostro de manera suave, dejando la piel fresca e hidratada gracias a su textura resistente y amigable con el cutis, ideal para llevar siempre contigo en tu bolso o kit de viaje.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 4.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "848TOA76319",
+  "item_group_id": "848",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176843384688803190919186.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOALLAS HUMEDAS",
+  "precio_listado_normal": 4.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2545,
+      "nombre": "Rosado",
+      "precio": 4.0,
+      "id_color_confirmado": 2545,
+      "tallas": [
+        {
+          "id_talla": 2966,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176843384688803190919186.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:37:32Z"
+}

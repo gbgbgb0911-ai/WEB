@@ -1,0 +1,41 @@
+{
+  "id_original": 849,
+  "url_original": "https://euchelperu.com/producto.php?id=849",
+  "nombre": "SET COLET CORAZON",
+  "descripcion": "Este set de tres ligas para el cabello en tonos tierra (chocolate, café y beige) presenta un sofisticado diseño de tejido texturizado de alta resistencia, adornado cada uno con un delicado dije en forma de corazón con detalles de strass brillantes, combinando funcionalidad y estilo para sujetar tu melena con suavidad mientras añades un toque romántico y femenino a cualquier peinado diario.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 3.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "849SET55424",
+  "item_group_id": "849",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176843452752073573526368.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SET COLET CORAZON",
+  "precio_listado_normal": 3.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2548,
+      "nombre": "Marrón",
+      "precio": 3.0,
+      "id_color_confirmado": 2548,
+      "tallas": [
+        {
+          "id_talla": 2967,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176843452752073573526368.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:37:35Z"
+}
