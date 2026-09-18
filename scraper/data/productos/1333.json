@@ -1,0 +1,41 @@
+{
+  "id_original": 1333,
+  "url_original": "https://euchelperu.com/producto.php?id=1333",
+  "nombre": "TOP EVORA",
+  "descripcion": "\"Top azul marino de estilo halter con cuello alto drapeado, diseñado para realzar la figura con un toque de sofisticación y elegancia minimalista.\"",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1333TOP90634",
+  "item_group_id": "1333",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17891610228908455045448.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP EVORA",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3906,
+      "nombre": "Azul",
+      "precio": 39.0,
+      "id_color_confirmado": 3906,
+      "tallas": [
+        {
+          "id_talla": 4181,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17891610228908455045448.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:58:49Z"
+}

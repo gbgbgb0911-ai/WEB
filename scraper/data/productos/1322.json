@@ -1,0 +1,41 @@
+{
+  "id_original": 1322,
+  "url_original": "https://euchelperu.com/producto.php?id=1322",
+  "nombre": "TOP DULCE",
+  "descripcion": "Top strapless con detalle de flor central y volantes escalonados.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "13227K1J4H6G",
+  "item_group_id": "1322",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178820118334841263689219.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP DULCE",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3895,
+      "nombre": "Negro",
+      "precio": 39.0,
+      "id_color_confirmado": 3895,
+      "tallas": [
+        {
+          "id_talla": 4171,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178820118334841263689219.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:58:17Z"
+}

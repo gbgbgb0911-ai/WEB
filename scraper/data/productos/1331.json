@@ -1,0 +1,41 @@
+{
+  "id_original": 1331,
+  "url_original": "https://euchelperu.com/producto.php?id=1331",
+  "nombre": "TOP AVELINA",
+  "descripcion": "Top de encaje azul con tirantes finos, delicado fruncido en el pecho y un elegante diseño asimétrico con caída fluida. Femenino, versátil y perfecto para elevar cualquier look de día o de noche.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1331TOP21197",
+  "item_group_id": "1331",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178916015733927583981119.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP AVELINA",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3904,
+      "nombre": "Azul acero",
+      "precio": 45.0,
+      "id_color_confirmado": 3904,
+      "tallas": [
+        {
+          "id_talla": 4179,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178916015733927583981119.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:58:43Z"
+}

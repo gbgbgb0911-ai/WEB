@@ -1,0 +1,41 @@
+{
+  "id_original": 1330,
+  "url_original": "https://euchelperu.com/producto.php?id=1330",
+  "nombre": "CONJUNTO NARELLA",
+  "descripcion": "Set tejido en tono crema con un delicado diseño calado y silueta moderna. Un look femenino, sofisticado y effortless, perfecto para destacar con elegancia.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1330CON55521",
+  "item_group_id": "1330",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178915960461111370927529.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CONJUNTO NARELLA",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3903,
+      "nombre": "CREMA",
+      "precio": 65.0,
+      "id_color_confirmado": 3903,
+      "tallas": [
+        {
+          "id_talla": 4178,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178915960461111370927529.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:58:40Z"
+}

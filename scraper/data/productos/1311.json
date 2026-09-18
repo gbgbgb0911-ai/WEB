@@ -1,0 +1,51 @@
+{
+  "id_original": 1311,
+  "url_original": "https://euchelperu.com/producto.php?id=1311",
+  "nombre": "TOP CAMI",
+  "descripcion": "Top de encaje floral con diseño strapless, de silueta entallada y femenina. Su delicada textura floral y el detalle de drapeado con lazo lateral aportan un toque romántico y sofisticado, mientras que su corte favorece la figura. Una pieza versátil y elegante, perfecta para combinar con pantalones o faldas y crear looks modernos y distinguidos.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "13119Q3W7E1R",
+  "item_group_id": "1311",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178803255453163743271569.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP CAMI",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3854,
+      "nombre": "Rosado pastel",
+      "precio": 45.0,
+      "id_color_confirmado": 3854,
+      "tallas": [
+        {
+          "id_talla": 4145,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803255453163743271569.jpg"
+      ]
+    },
+    {
+      "id_color": 3882,
+      "nombre": "Beige",
+      "precio": null,
+      "id_color_confirmado": 3882,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803255453163743271569.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:56:48Z"
+}

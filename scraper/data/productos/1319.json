@@ -1,0 +1,71 @@
+{
+  "id_original": 1319,
+  "url_original": "https://euchelperu.com/producto.php?id=1319",
+  "nombre": "VESTIDO ROMA",
+  "descripcion": "Vestido corto de encaje con un diseño femenino y sofisticado. Cuenta con mangas largas acampanadas, cuello alto y un delicado escote en forma de lágrima. Su silueta entallada realza la figura, ideal para ocasiones especiales y looks elegantes.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1319VES18396",
+  "item_group_id": "1319",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178804123738899280533970.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ROMA",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3862,
+      "nombre": "Vino",
+      "precio": 75.0,
+      "id_color_confirmado": 3862,
+      "tallas": [
+        {
+          "id_talla": 4153,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178804123738899280533970.jpg"
+      ]
+    },
+    {
+      "id_color": 3863,
+      "nombre": "Beige",
+      "precio": 75.0,
+      "id_color_confirmado": 3863,
+      "tallas": [
+        {
+          "id_talla": 4154,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178804123738899280533970.jpg"
+      ]
+    },
+    {
+      "id_color": 3864,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 3864,
+      "tallas": [
+        {
+          "id_talla": 4155,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178804123738899280533970.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:58:06Z"
+}

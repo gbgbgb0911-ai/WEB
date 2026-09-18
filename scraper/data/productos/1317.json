@@ -1,0 +1,86 @@
+{
+  "id_original": 1317,
+  "url_original": "https://euchelperu.com/producto.php?id=1317",
+  "nombre": "VESTIDO DALIA",
+  "descripcion": "Vestido corto de encaje floral con un diseño elegante y femenino. Su corte entallado realza la silueta, mientras que el cuello estilo oriental y los delicados detalles en el escote le dan un toque sofisticado y único. Perfecto para ocasiones especiales o looks con un estilo romántico y chic.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "13176N2M8B4V",
+  "item_group_id": "1317",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178803483306500244760935.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO DALIA",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3860,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 3860,
+      "tallas": [
+        {
+          "id_talla": 4151,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803483306500244760935.jpg"
+      ]
+    },
+    {
+      "id_color": 3866,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 3866,
+      "tallas": [
+        {
+          "id_talla": 4156,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803483306500244760935.jpg"
+      ]
+    },
+    {
+      "id_color": 3867,
+      "nombre": "Guinda",
+      "precio": 75.0,
+      "id_color_confirmado": 3867,
+      "tallas": [
+        {
+          "id_talla": 4157,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803483306500244760935.jpg"
+      ]
+    },
+    {
+      "id_color": 3868,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 3868,
+      "tallas": [
+        {
+          "id_talla": 4158,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803483306500244760935.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:57:49Z"
+}

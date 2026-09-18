@@ -1,0 +1,41 @@
+{
+  "id_original": 1326,
+  "url_original": "https://euchelperu.com/producto.php?id=1326",
+  "nombre": "VESTIDO IRENE",
+  "descripcion": "Vestido corto de manga larga con pedrería, abertura frontal y puños con volantes.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1326VEST126",
+  "item_group_id": "1326",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178820261397852101658611.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO IRENE",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3899,
+      "nombre": "VINO",
+      "precio": 59.0,
+      "id_color_confirmado": 3899,
+      "tallas": [
+        {
+          "id_talla": 4174,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178820261397852101658611.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:58:26Z"
+}

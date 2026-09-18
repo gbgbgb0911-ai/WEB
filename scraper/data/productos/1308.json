@@ -1,0 +1,61 @@
+{
+  "id_original": 1308,
+  "url_original": "https://euchelperu.com/producto.php?id=1308",
+  "nombre": "VESTIDO ADELL",
+  "descripcion": "Vestido corto de manga larga, con un diseño elegante que realza la silueta. Su corte entallado y los delicados frunces en la cintura aportan una caída favorecedora, mientras que las mangas ligeramente acampanadas le dan un toque moderno y femenino. Una pieza versátil y chic, perfecta para una salida especial o una noche elegante.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "13085G9F1D3S",
+  "item_group_id": "1308",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178803112883715979855906.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ADELL",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3851,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 3851,
+      "tallas": [
+        {
+          "id_talla": 4140,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803112883715979855906.jpg"
+      ]
+    },
+    {
+      "id_color": 3883,
+      "nombre": "Marrón",
+      "precio": null,
+      "id_color_confirmado": 3883,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803112883715979855906.jpg"
+      ]
+    },
+    {
+      "id_color": 3884,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 3884,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803112883715979855906.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:56:18Z"
+}

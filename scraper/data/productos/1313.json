@@ -1,0 +1,101 @@
+{
+  "id_original": 1313,
+  "url_original": "https://euchelperu.com/producto.php?id=1313",
+  "nombre": "TOP ANNY",
+  "descripcion": "Top de hombro descubierto con elegante diseño asimétrico y delicados drapeados que realzan la silueta. Su corte entallado y tejido de caída suave aportan un acabado femenino, moderno y sofisticado. Una pieza versátil y chic, perfecta para elevar tus looks de día o de noche.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1313R1P9S3F7",
+  "item_group_id": "1313",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17880333074886973436581.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ANNY",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3856,
+      "nombre": "Amarillo pastel",
+      "precio": 45.0,
+      "id_color_confirmado": 3856,
+      "tallas": [
+        {
+          "id_talla": 4147,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17880333074886973436581.jpg"
+      ]
+    },
+    {
+      "id_color": 3871,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 3871,
+      "tallas": [
+        {
+          "id_talla": 4163,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17880333074886973436581.jpg"
+      ]
+    },
+    {
+      "id_color": 3872,
+      "nombre": "Azul",
+      "precio": 45.0,
+      "id_color_confirmado": 3872,
+      "tallas": [
+        {
+          "id_talla": 4164,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17880333074886973436581.jpg"
+      ]
+    },
+    {
+      "id_color": 3873,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3873,
+      "tallas": [
+        {
+          "id_talla": 4165,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17880333074886973436581.jpg"
+      ]
+    },
+    {
+      "id_color": 3874,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 3874,
+      "tallas": [
+        {
+          "id_talla": 4166,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17880333074886973436581.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:57:17Z"
+}

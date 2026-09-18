@@ -1,0 +1,61 @@
+{
+  "id_original": 1309,
+  "url_original": "https://euchelperu.com/producto.php?id=1309",
+  "nombre": "PANTALON SASTRE MAJU",
+  "descripcion": "Pantalón de corte palazzo con silueta amplia y caída fluida, ideal para crear un look elegante y sofisticado. Su diseño de líneas limpias y cintura estructurada aporta un acabado moderno y favorecedor. Una pieza versátil y atemporal, perfecta para combinar con blusas, tops o camisas y elevar cualquier outfit.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1309PAN16871",
+  "item_group_id": "1309",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178803172596820991538188.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "PANTALON SASTRE MAJU",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3852,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 3852,
+      "tallas": [
+        {
+          "id_talla": 4143,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803172596820991538188.jpg"
+      ]
+    },
+    {
+      "id_color": 3891,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 3891,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803172596820991538188.jpg"
+      ]
+    },
+    {
+      "id_color": 3892,
+      "nombre": "Marrón",
+      "precio": null,
+      "id_color_confirmado": 3892,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803172596820991538188.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:56:28Z"
+}

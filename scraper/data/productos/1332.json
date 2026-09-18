@@ -1,0 +1,41 @@
+{
+  "id_original": 1332,
+  "url_original": "https://euchelperu.com/producto.php?id=1332",
+  "nombre": "TOP NEREA",
+  "descripcion": "Top burdeos tipo pañuelo con detalle de flor dorada, elegante y femenino. Perfecto para un look sofisticado con jeans.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1332NER12107",
+  "item_group_id": "1332",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178916046529320887250447.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP NEREA",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3905,
+      "nombre": "VINO",
+      "precio": 39.0,
+      "id_color_confirmado": 3905,
+      "tallas": [
+        {
+          "id_talla": 4180,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178916046529320887250447.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:58:46Z"
+}

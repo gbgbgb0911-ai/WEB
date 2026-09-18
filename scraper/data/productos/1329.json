@@ -1,0 +1,41 @@
+{
+  "id_original": 1329,
+  "url_original": "https://euchelperu.com/producto.php?id=1329",
+  "nombre": "CONJUNTO ARLET",
+  "descripcion": "Set tejido de dos piezas con diseño sofisticado en blanco y negro. Su acabado tejido y elegante contraste crean un look moderno, chic y lleno de estilo.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1329CON96242",
+  "item_group_id": "1329",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178915402897146359772384.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CONJUNTO ARLET",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3902,
+      "nombre": "CREMA Y NEGRO",
+      "precio": 65.0,
+      "id_color_confirmado": 3902,
+      "tallas": [
+        {
+          "id_talla": 4177,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178915402897146359772384.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:58:36Z"
+}

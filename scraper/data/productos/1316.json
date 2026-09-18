@@ -1,0 +1,41 @@
+{
+  "id_original": 1316,
+  "url_original": "https://euchelperu.com/producto.php?id=1316",
+  "nombre": "FALDA SHORT ORIGAMI",
+  "descripcion": "Falda corta de silueta elegante y minimalista, con un diseño limpio y favorecedor que aporta un toque moderno y sofisticado. Su cintura estructurada y delicado detalle metálico completan una pieza versátil, ideal para combinar con tops, blusas o camisas. Perfecta para crear looks femeninos, chic y atemporales",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1316M5N1B9V2",
+  "item_group_id": "1316",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178803450759831442088115.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA SHORT ORIGAMI",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3859,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 3859,
+      "tallas": [
+        {
+          "id_talla": 4150,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803450759831442088115.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:57:37Z"
+}

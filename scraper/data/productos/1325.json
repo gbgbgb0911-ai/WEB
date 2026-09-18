@@ -1,0 +1,41 @@
+{
+  "id_original": 1325,
+  "url_original": "https://euchelperu.com/producto.php?id=1325",
+  "nombre": "CARTERA 79",
+  "descripcion": "Bolso de hombro estructurado con textura tipo tweed y detalle de pañuelo decorativo.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1325CAR48873",
+  "item_group_id": "1325",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17882022536916624534954.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CARTERA 79",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3898,
+      "nombre": "Marrón",
+      "precio": 79.0,
+      "id_color_confirmado": 3898,
+      "tallas": [
+        {
+          "id_talla": 4173,
+          "nombre": "-"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17882022536916624534954.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:58:23Z"
+}

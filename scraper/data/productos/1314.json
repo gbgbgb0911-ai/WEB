@@ -1,0 +1,56 @@
+{
+  "id_original": 1314,
+  "url_original": "https://euchelperu.com/producto.php?id=1314",
+  "nombre": "TOP AMELIA",
+  "descripcion": "Top de manga larga con delicado diseño floral y transparencias en las mangas, que aporta un aire femenino y sofisticado. Su cuello alto y abertura en forma de lágrima en el escote añaden un detalle elegante y distintivo. Una pieza versátil y refinada, perfecta para elevar cualquier look de día o de noche.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "13142D6F8G4H",
+  "item_group_id": "1314",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178803350716452376615469.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP AMELIA",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3857,
+      "nombre": "Negro",
+      "precio": 49.0,
+      "id_color_confirmado": 3857,
+      "tallas": [
+        {
+          "id_talla": 4148,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803350716452376615469.jpg"
+      ]
+    },
+    {
+      "id_color": 3875,
+      "nombre": "Beige",
+      "precio": 49.0,
+      "id_color_confirmado": 3875,
+      "tallas": [
+        {
+          "id_talla": 4162,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803350716452376615469.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:57:24Z"
+}

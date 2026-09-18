@@ -1,0 +1,56 @@
+{
+  "id_original": 1318,
+  "url_original": "https://euchelperu.com/producto.php?id=1318",
+  "nombre": "VESTIDO AMBAR",
+  "descripcion": "Vestido corto elegante y femenino, confeccionado en tela suave y ajustada que realza la silueta. Su diseño off shoulder con drapeado en la cintura aporta un toque sofisticado y moderno, perfecto para destacar en cualquier ocasión.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "13183L7K1J5H",
+  "item_group_id": "1318",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178803494032315441165033.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO AMBAR",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3861,
+      "nombre": "Azul",
+      "precio": 55.0,
+      "id_color_confirmado": 3861,
+      "tallas": [
+        {
+          "id_talla": 4152,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803494032315441165033.jpg"
+      ]
+    },
+    {
+      "id_color": 3865,
+      "nombre": "Marrón",
+      "precio": 55.0,
+      "id_color_confirmado": 3865,
+      "tallas": [
+        {
+          "id_talla": 4159,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803494032315441165033.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:57:56Z"
+}

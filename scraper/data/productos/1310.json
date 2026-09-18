@@ -1,0 +1,71 @@
+{
+  "id_original": 1310,
+  "url_original": "https://euchelperu.com/producto.php?id=1310",
+  "nombre": "TOP HANNA MANGA LARGA",
+  "descripcion": "Blusa de manga larga con escote off shoulder, diseñada para realzar los hombros y estilizar la silueta. Su corte entallado y tejido de acabado suave aportan una apariencia elegante y femenina, mientras que el diseño minimalista la convierte en una pieza versátil y sofisticada. Perfecta para crear looks modernos, delicados y con un toque de distinción.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "13102A8S4D6F",
+  "item_group_id": "1310",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178803229948504308146156.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP HANNA MANGA LARGA",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3853,
+      "nombre": "Azul",
+      "precio": 45.0,
+      "id_color_confirmado": 3853,
+      "tallas": [
+        {
+          "id_talla": 4144,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803229948504308146156.jpg"
+      ]
+    },
+    {
+      "id_color": 3879,
+      "nombre": "Beige",
+      "precio": null,
+      "id_color_confirmado": 3879,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803229948504308146156.jpg"
+      ]
+    },
+    {
+      "id_color": 3880,
+      "nombre": "Vino",
+      "precio": null,
+      "id_color_confirmado": 3880,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803229948504308146156.jpg"
+      ]
+    },
+    {
+      "id_color": 3881,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 3881,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803229948504308146156.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:56:41Z"
+}

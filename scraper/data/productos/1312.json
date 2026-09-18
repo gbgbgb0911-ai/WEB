@@ -1,0 +1,86 @@
+{
+  "id_original": 1312,
+  "url_original": "https://euchelperu.com/producto.php?id=1312",
+  "nombre": "TOP MILA",
+  "descripcion": "Top de manga corta con cuello alto, de silueta entallada que realza delicadamente la figura. Su diseño minimalista y cierre frontal aportan un toque moderno y sofisticado, convirtiéndolo en una pieza versátil y elegante. Ideal para crear looks pulidos y femeninos, tanto para el día como para una ocasión especial.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1312TOP 321",
+  "item_group_id": "1312",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178803286131489527023054.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP MILA",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3855,
+      "nombre": "rojo",
+      "precio": 45.0,
+      "id_color_confirmado": 3855,
+      "tallas": [
+        {
+          "id_talla": 4146,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803286131489527023054.jpg"
+      ]
+    },
+    {
+      "id_color": 3876,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 3876,
+      "tallas": [
+        {
+          "id_talla": 4167,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803286131489527023054.jpg"
+      ]
+    },
+    {
+      "id_color": 3877,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3877,
+      "tallas": [
+        {
+          "id_talla": 4168,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803286131489527023054.jpg"
+      ]
+    },
+    {
+      "id_color": 3878,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 3878,
+      "tallas": [
+        {
+          "id_talla": 4169,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803286131489527023054.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:57:01Z"
+}

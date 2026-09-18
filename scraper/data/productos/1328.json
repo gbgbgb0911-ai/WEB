@@ -1,0 +1,41 @@
+{
+  "id_original": 1328,
+  "url_original": "https://euchelperu.com/producto.php?id=1328",
+  "nombre": "PALAZZO CHRITIAN",
+  "descripcion": "Pantalón palazzo cómodo de talle alto y corte relajado.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1328PAL494",
+  "item_group_id": "1328",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178820459785958833642069.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "PALAZZO CHRITIAN",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3901,
+      "nombre": "Plomo",
+      "precio": 59.0,
+      "id_color_confirmado": 3901,
+      "tallas": [
+        {
+          "id_talla": 4176,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178820459785958833642069.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:58:33Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id_original": 1315,
+  "url_original": "https://euchelperu.com/producto.php?id=1315",
+  "nombre": "TOP ROUS",
+  "descripcion": "Top de cuello alto con diseño halter y una elegante caída fluida que aporta movimiento y sofisticación. Su corte asimétrico añade un toque moderno y distintivo, creando una silueta femenina y estilizada. Una pieza ideal para destacar con elegancia en ocasiones especiales o elevar cualquier look.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "13154T8Y2U6I",
+  "item_group_id": "1315",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17880337824162118129369.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ROUS",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3858,
+      "nombre": "Borgoña",
+      "precio": 45.0,
+      "id_color_confirmado": 3858,
+      "tallas": [
+        {
+          "id_talla": 4149,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17880337824162118129369.jpg"
+      ]
+    },
+    {
+      "id_color": 3869,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3869,
+      "tallas": [
+        {
+          "id_talla": 4160,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17880337824162118129369.jpg"
+      ]
+    },
+    {
+      "id_color": 3870,
+      "nombre": "Rosado",
+      "precio": 45.0,
+      "id_color_confirmado": 3870,
+      "tallas": [
+        {
+          "id_talla": 4161,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17880337824162118129369.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:57:33Z"
+}

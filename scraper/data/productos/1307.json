@@ -1,0 +1,101 @@
+{
+  "id_original": 1307,
+  "url_original": "https://euchelperu.com/producto.php?id=1307",
+  "nombre": "VESTIDO LOLA",
+  "descripcion": "Vestido corto de silueta entallada que combina sensualidad y sofisticación. Su top con delicados tirantes, abertura frontal y detalles de encaje con brillo aporta un toque femenino y glamuroso, mientras que el drapeado de la falda realza la figura con elegancia. Una pieza ideal para una noche especial, perfecta para destacar con un estilo moderno y sofisticado.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1307Lolabunny",
+  "item_group_id": "1307",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178803070056907925071049.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO LOLA",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3850,
+      "nombre": "Rojo",
+      "precio": 69.0,
+      "id_color_confirmado": 3850,
+      "tallas": [
+        {
+          "id_talla": 4139,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803070056907925071049.jpg"
+      ]
+    },
+    {
+      "id_color": 3885,
+      "nombre": "Rosado",
+      "precio": null,
+      "id_color_confirmado": 3885,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803070056907925071049.jpg"
+      ]
+    },
+    {
+      "id_color": 3886,
+      "nombre": "Azul",
+      "precio": null,
+      "id_color_confirmado": 3886,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803070056907925071049.jpg"
+      ]
+    },
+    {
+      "id_color": 3887,
+      "nombre": "verde claro",
+      "precio": null,
+      "id_color_confirmado": 3887,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803070056907925071049.jpg"
+      ]
+    },
+    {
+      "id_color": 3888,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 3888,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803070056907925071049.jpg"
+      ]
+    },
+    {
+      "id_color": 3889,
+      "nombre": "Marrón",
+      "precio": null,
+      "id_color_confirmado": 3889,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803070056907925071049.jpg"
+      ]
+    },
+    {
+      "id_color": 3890,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 3890,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178803070056907925071049.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:56:09Z"
+}
