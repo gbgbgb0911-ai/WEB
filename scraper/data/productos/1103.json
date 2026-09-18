@@ -1,0 +1,103 @@
+{
+  "id_original": 1103,
+  "url_original": "https://euchelperu.com/producto.php?id=1103",
+  "nombre": "CHAQUETA BERLIN",
+  "descripcion": "",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1103CHA94222",
+  "item_group_id": "1103",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177698643849331818139543.jpg",
+    "https://euchelperu.com/images/productos/177800376358350716594284.jpg",
+    "https://euchelperu.com/images/productos/177800387066393842734014.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CHAQUETA BERLIN",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3345,
+      "nombre": "Marron",
+      "precio": 75.0,
+      "id_color_confirmado": 3345,
+      "tallas": [
+        {
+          "id_talla": 3718,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177698643849331818139543.jpg",
+        "https://euchelperu.com/images/productos/177800376358350716594284.jpg",
+        "https://euchelperu.com/images/productos/177800387066393842734014.jpg"
+      ]
+    },
+    {
+      "id_color": 3410,
+      "nombre": "Rojo",
+      "precio": 75.0,
+      "id_color_confirmado": 3410,
+      "tallas": [
+        {
+          "id_talla": 3744,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177800387066393842734014.jpg",
+        "https://euchelperu.com/images/productos/177698643849331818139543.jpg",
+        "https://euchelperu.com/images/productos/177800376358350716594284.jpg"
+      ]
+    },
+    {
+      "id_color": 3411,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 3411,
+      "tallas": [
+        {
+          "id_talla": 3745,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177800376358350716594284.jpg",
+        "https://euchelperu.com/images/productos/177698643849331818139543.jpg",
+        "https://euchelperu.com/images/productos/177800387066393842734014.jpg"
+      ]
+    },
+    {
+      "id_color": 3707,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 3707,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177698643849331818139543.jpg",
+        "https://euchelperu.com/images/productos/177800376358350716594284.jpg",
+        "https://euchelperu.com/images/productos/177800387066393842734014.jpg"
+      ]
+    },
+    {
+      "id_color": 3708,
+      "nombre": "Beige",
+      "precio": null,
+      "id_color_confirmado": 3708,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177698643849331818139543.jpg",
+        "https://euchelperu.com/images/productos/177800376358350716594284.jpg",
+        "https://euchelperu.com/images/productos/177800387066393842734014.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:28:19Z"
+}

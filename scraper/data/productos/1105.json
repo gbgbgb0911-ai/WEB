@@ -1,0 +1,101 @@
+{
+  "id_original": 1105,
+  "url_original": "https://euchelperu.com/producto.php?id=1105",
+  "nombre": "CARDIGAN EVY",
+  "descripcion": "",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1105CAR69945",
+  "item_group_id": "1105",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17769886083997933816166.jpg",
+    "https://euchelperu.com/images/productos/17771553829812790544883.jpg",
+    "https://euchelperu.com/images/productos/177715552852599177422434.jpg",
+    "https://euchelperu.com/images/productos/177715563314670887615566.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CARDIGAN EVY",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3347,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 3347,
+      "tallas": [
+        {
+          "id_talla": 3716,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17769886083997933816166.jpg",
+        "https://euchelperu.com/images/productos/17771553829812790544883.jpg",
+        "https://euchelperu.com/images/productos/177715552852599177422434.jpg",
+        "https://euchelperu.com/images/productos/177715563314670887615566.jpg"
+      ]
+    },
+    {
+      "id_color": 3397,
+      "nombre": "marron",
+      "precio": 59.0,
+      "id_color_confirmado": 3397,
+      "tallas": [
+        {
+          "id_talla": 3731,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17771553829812790544883.jpg",
+        "https://euchelperu.com/images/productos/17769886083997933816166.jpg",
+        "https://euchelperu.com/images/productos/177715552852599177422434.jpg",
+        "https://euchelperu.com/images/productos/177715563314670887615566.jpg"
+      ]
+    },
+    {
+      "id_color": 3398,
+      "nombre": "negro",
+      "precio": 59.0,
+      "id_color_confirmado": 3398,
+      "tallas": [
+        {
+          "id_talla": 3732,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177715552852599177422434.jpg",
+        "https://euchelperu.com/images/productos/17769886083997933816166.jpg",
+        "https://euchelperu.com/images/productos/17771553829812790544883.jpg",
+        "https://euchelperu.com/images/productos/177715563314670887615566.jpg"
+      ]
+    },
+    {
+      "id_color": 3399,
+      "nombre": "vino",
+      "precio": 59.0,
+      "id_color_confirmado": 3399,
+      "tallas": [
+        {
+          "id_talla": 3733,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177715563314670887615566.jpg",
+        "https://euchelperu.com/images/productos/17769886083997933816166.jpg",
+        "https://euchelperu.com/images/productos/17771553829812790544883.jpg",
+        "https://euchelperu.com/images/productos/177715552852599177422434.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:30:10Z"
+}
