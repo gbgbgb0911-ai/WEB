@@ -1,0 +1,101 @@
+{
+  "id_original": 470,
+  "url_original": "https://euchelperu.com/producto.php?id=470",
+  "nombre": "Vestido Ruby",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "470VES44677",
+  "item_group_id": "470",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176092412264646276595308.jpg",
+    "https://euchelperu.com/images/productos/176254075296141346197897.jpg",
+    "https://euchelperu.com/images/productos/17625410867415819984057.jpg",
+    "https://euchelperu.com/images/productos/176255539411699645568724.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Ruby",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1290,
+      "nombre": "Rosado",
+      "precio": 85.0,
+      "id_color_confirmado": 1290,
+      "tallas": [
+        {
+          "id_talla": 1598,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176092412264646276595308.jpg",
+        "https://euchelperu.com/images/productos/176254075296141346197897.jpg",
+        "https://euchelperu.com/images/productos/17625410867415819984057.jpg",
+        "https://euchelperu.com/images/productos/176255539411699645568724.jpg"
+      ]
+    },
+    {
+      "id_color": 1489,
+      "nombre": "Beige",
+      "precio": 79.0,
+      "id_color_confirmado": 1489,
+      "tallas": [
+        {
+          "id_talla": 1739,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176255539411699645568724.jpg",
+        "https://euchelperu.com/images/productos/176092412264646276595308.jpg",
+        "https://euchelperu.com/images/productos/176254075296141346197897.jpg",
+        "https://euchelperu.com/images/productos/17625410867415819984057.jpg"
+      ]
+    },
+    {
+      "id_color": 1490,
+      "nombre": "Negro",
+      "precio": 79.0,
+      "id_color_confirmado": 1490,
+      "tallas": [
+        {
+          "id_talla": 1740,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176254075296141346197897.jpg",
+        "https://euchelperu.com/images/productos/176092412264646276595308.jpg",
+        "https://euchelperu.com/images/productos/17625410867415819984057.jpg",
+        "https://euchelperu.com/images/productos/176255539411699645568724.jpg"
+      ]
+    },
+    {
+      "id_color": 1491,
+      "nombre": "Blanco",
+      "precio": 79.0,
+      "id_color_confirmado": 1491,
+      "tallas": [
+        {
+          "id_talla": 1741,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17625410867415819984057.jpg",
+        "https://euchelperu.com/images/productos/176092412264646276595308.jpg",
+        "https://euchelperu.com/images/productos/176254075296141346197897.jpg",
+        "https://euchelperu.com/images/productos/176255539411699645568724.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:09:13Z"
+}

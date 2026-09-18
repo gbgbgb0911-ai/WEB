@@ -1,0 +1,91 @@
+{
+  "id_original": 489,
+  "url_original": "https://euchelperu.com/producto.php?id=489",
+  "nombre": "Vestido Sandra Hilo",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "489VES67439",
+  "item_group_id": "489",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17608453018938796263402.jpg",
+    "https://euchelperu.com/images/productos/17623669422631446471548.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Sandra Hilo",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1311,
+      "nombre": "Marrón",
+      "precio": 69.0,
+      "id_color_confirmado": 1311,
+      "tallas": [
+        {
+          "id_talla": 1557,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608453018938796263402.jpg",
+        "https://euchelperu.com/images/productos/17623669422631446471548.jpg"
+      ]
+    },
+    {
+      "id_color": 1562,
+      "nombre": "Rosado",
+      "precio": 69.0,
+      "id_color_confirmado": 1562,
+      "tallas": [
+        {
+          "id_talla": 1822,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17623669422631446471548.jpg",
+        "https://euchelperu.com/images/productos/17608453018938796263402.jpg"
+      ]
+    },
+    {
+      "id_color": 1563,
+      "nombre": "Amarillo",
+      "precio": 69.0,
+      "id_color_confirmado": 1563,
+      "tallas": [
+        {
+          "id_talla": 1823,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608453018938796263402.jpg",
+        "https://euchelperu.com/images/productos/17623669422631446471548.jpg"
+      ]
+    },
+    {
+      "id_color": 1564,
+      "nombre": "Lila",
+      "precio": 69.0,
+      "id_color_confirmado": 1564,
+      "tallas": [
+        {
+          "id_talla": 1824,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608453018938796263402.jpg",
+        "https://euchelperu.com/images/productos/17623669422631446471548.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:17:49Z"
+}

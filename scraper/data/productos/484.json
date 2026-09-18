@@ -1,0 +1,41 @@
+{
+  "id_original": 484,
+  "url_original": "https://euchelperu.com/producto.php?id=484",
+  "nombre": "Boina Emily",
+  "descripcion": "",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 35.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "484BOI36413",
+  "item_group_id": "484",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176084520206538353215482.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Boina Emily",
+  "precio_listado_normal": 35.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1305,
+      "nombre": "Beige",
+      "precio": 35.0,
+      "id_color_confirmado": 1305,
+      "tallas": [
+        {
+          "id_talla": 1548,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084520206538353215482.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:16:44Z"
+}

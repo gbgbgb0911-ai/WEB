@@ -1,0 +1,79 @@
+{
+  "id_original": 468,
+  "url_original": "https://euchelperu.com/producto.php?id=468",
+  "nombre": "Short Rayas",
+  "descripcion": "",
+  "categoria": "Shorts",
+  "categoria_subid": 20,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "468SHO75187",
+  "item_group_id": "468",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176084563906195433479668.jpg",
+    "https://euchelperu.com/images/productos/17608456568360615941839.jpg",
+    "https://euchelperu.com/images/productos/17608456704462246352098.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Short Rayas",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1287,
+      "nombre": "Rayas Rosadas",
+      "precio": 39.0,
+      "id_color_confirmado": 1287,
+      "tallas": [
+        {
+          "id_talla": 1530,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084563906195433479668.jpg",
+        "https://euchelperu.com/images/productos/17608456568360615941839.jpg",
+        "https://euchelperu.com/images/productos/17608456704462246352098.jpg"
+      ]
+    },
+    {
+      "id_color": 1329,
+      "nombre": "Rayas Beige",
+      "precio": 39.0,
+      "id_color_confirmado": 1329,
+      "tallas": [
+        {
+          "id_talla": 1531,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608456568360615941839.jpg",
+        "https://euchelperu.com/images/productos/176084563906195433479668.jpg",
+        "https://euchelperu.com/images/productos/17608456704462246352098.jpg"
+      ]
+    },
+    {
+      "id_color": 1330,
+      "nombre": "Rayas Negras",
+      "precio": 39.0,
+      "id_color_confirmado": 1330,
+      "tallas": [
+        {
+          "id_talla": 1532,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608456704462246352098.jpg",
+        "https://euchelperu.com/images/productos/176084563906195433479668.jpg",
+        "https://euchelperu.com/images/productos/17608456568360615941839.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:08:02Z"
+}

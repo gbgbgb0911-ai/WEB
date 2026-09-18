@@ -1,0 +1,139 @@
+{
+  "id_original": 471,
+  "url_original": "https://euchelperu.com/producto.php?id=471",
+  "nombre": "Pantalón Lina",
+  "descripcion": "Fresco, ligero y con caída suave. Es ideal para días cálidos y looks relajados con estilo.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "471PAN56645",
+  "item_group_id": "471",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176247922635107350759995.jpg",
+    "https://euchelperu.com/images/productos/176247925894294775894448.jpg",
+    "https://euchelperu.com/images/productos/176429291287911459553333.jpg",
+    "https://euchelperu.com/images/productos/176429302243304833216274.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pantalón Lina",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1291,
+      "nombre": "Blanco con rayas",
+      "precio": 55.0,
+      "id_color_confirmado": 1291,
+      "tallas": [
+        {
+          "id_talla": 1535,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2270,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176429291287911459553333.jpg",
+        "https://euchelperu.com/images/productos/176247922635107350759995.jpg",
+        "https://euchelperu.com/images/productos/176247925894294775894448.jpg",
+        "https://euchelperu.com/images/productos/176429302243304833216274.jpg"
+      ]
+    },
+    {
+      "id_color": 1486,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 1486,
+      "tallas": [
+        {
+          "id_talla": 1736,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2272,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176247922635107350759995.jpg",
+        "https://euchelperu.com/images/productos/176247925894294775894448.jpg",
+        "https://euchelperu.com/images/productos/176429291287911459553333.jpg",
+        "https://euchelperu.com/images/productos/176429302243304833216274.jpg"
+      ]
+    },
+    {
+      "id_color": 1573,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 1573,
+      "tallas": [
+        {
+          "id_talla": 1867,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176247925894294775894448.jpg",
+        "https://euchelperu.com/images/productos/176247922635107350759995.jpg",
+        "https://euchelperu.com/images/productos/176429291287911459553333.jpg",
+        "https://euchelperu.com/images/productos/176429302243304833216274.jpg"
+      ]
+    },
+    {
+      "id_color": 1574,
+      "nombre": "Marrón",
+      "precio": 55.0,
+      "id_color_confirmado": 1574,
+      "tallas": [
+        {
+          "id_talla": 1868,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2271,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176429302243304833216274.jpg",
+        "https://euchelperu.com/images/productos/176247922635107350759995.jpg",
+        "https://euchelperu.com/images/productos/176247925894294775894448.jpg",
+        "https://euchelperu.com/images/productos/176429291287911459553333.jpg"
+      ]
+    },
+    {
+      "id_color": 2764,
+      "nombre": "Amarillo",
+      "precio": null,
+      "id_color_confirmado": 2764,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176247922635107350759995.jpg",
+        "https://euchelperu.com/images/productos/176247925894294775894448.jpg",
+        "https://euchelperu.com/images/productos/176429291287911459553333.jpg",
+        "https://euchelperu.com/images/productos/176429302243304833216274.jpg"
+      ]
+    },
+    {
+      "id_color": 2765,
+      "nombre": "Negro con rayas",
+      "precio": null,
+      "id_color_confirmado": 2765,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176247922635107350759995.jpg",
+        "https://euchelperu.com/images/productos/176247925894294775894448.jpg",
+        "https://euchelperu.com/images/productos/176429291287911459553333.jpg",
+        "https://euchelperu.com/images/productos/176429302243304833216274.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:10:27Z"
+}

@@ -1,0 +1,151 @@
+{
+  "id_original": 472,
+  "url_original": "https://euchelperu.com/producto.php?id=472",
+  "nombre": "Polo Oversize",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "472POL53043",
+  "item_group_id": "472",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176084543448313981547961.jpg",
+    "https://euchelperu.com/images/productos/176084545454720702356489.jpg",
+    "https://euchelperu.com/images/productos/176084547507973169496318.jpg",
+    "https://euchelperu.com/images/productos/176084549003124749748497.jpg",
+    "https://euchelperu.com/images/productos/17608455064954982502250.jpg",
+    "https://euchelperu.com/images/productos/17608455249905430094805.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Polo Oversize",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1292,
+      "nombre": "Martini",
+      "precio": 49.0,
+      "id_color_confirmado": 1292,
+      "tallas": [
+        {
+          "id_talla": 1536,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084543448313981547961.jpg",
+        "https://euchelperu.com/images/productos/176084545454720702356489.jpg",
+        "https://euchelperu.com/images/productos/176084547507973169496318.jpg",
+        "https://euchelperu.com/images/productos/176084549003124749748497.jpg",
+        "https://euchelperu.com/images/productos/17608455064954982502250.jpg",
+        "https://euchelperu.com/images/productos/17608455249905430094805.jpg"
+      ]
+    },
+    {
+      "id_color": 1324,
+      "nombre": "Cherrie",
+      "precio": 49.0,
+      "id_color_confirmado": 1324,
+      "tallas": [
+        {
+          "id_talla": 1537,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084545454720702356489.jpg",
+        "https://euchelperu.com/images/productos/176084543448313981547961.jpg",
+        "https://euchelperu.com/images/productos/176084547507973169496318.jpg",
+        "https://euchelperu.com/images/productos/176084549003124749748497.jpg",
+        "https://euchelperu.com/images/productos/17608455064954982502250.jpg",
+        "https://euchelperu.com/images/productos/17608455249905430094805.jpg"
+      ]
+    },
+    {
+      "id_color": 1325,
+      "nombre": "Cocktail",
+      "precio": 49.0,
+      "id_color_confirmado": 1325,
+      "tallas": [
+        {
+          "id_talla": 1538,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084547507973169496318.jpg",
+        "https://euchelperu.com/images/productos/176084543448313981547961.jpg",
+        "https://euchelperu.com/images/productos/176084545454720702356489.jpg",
+        "https://euchelperu.com/images/productos/176084549003124749748497.jpg",
+        "https://euchelperu.com/images/productos/17608455064954982502250.jpg",
+        "https://euchelperu.com/images/productos/17608455249905430094805.jpg"
+      ]
+    },
+    {
+      "id_color": 1326,
+      "nombre": "Sol",
+      "precio": 49.0,
+      "id_color_confirmado": 1326,
+      "tallas": [
+        {
+          "id_talla": 1539,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084549003124749748497.jpg",
+        "https://euchelperu.com/images/productos/176084543448313981547961.jpg",
+        "https://euchelperu.com/images/productos/176084545454720702356489.jpg",
+        "https://euchelperu.com/images/productos/176084547507973169496318.jpg",
+        "https://euchelperu.com/images/productos/17608455064954982502250.jpg",
+        "https://euchelperu.com/images/productos/17608455249905430094805.jpg"
+      ]
+    },
+    {
+      "id_color": 1327,
+      "nombre": "Lemon",
+      "precio": 49.0,
+      "id_color_confirmado": 1327,
+      "tallas": [
+        {
+          "id_talla": 1540,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608455064954982502250.jpg",
+        "https://euchelperu.com/images/productos/176084543448313981547961.jpg",
+        "https://euchelperu.com/images/productos/176084545454720702356489.jpg",
+        "https://euchelperu.com/images/productos/176084547507973169496318.jpg",
+        "https://euchelperu.com/images/productos/176084549003124749748497.jpg",
+        "https://euchelperu.com/images/productos/17608455249905430094805.jpg"
+      ]
+    },
+    {
+      "id_color": 1328,
+      "nombre": "Cool life",
+      "precio": 49.0,
+      "id_color_confirmado": 1328,
+      "tallas": [
+        {
+          "id_talla": 1541,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608455249905430094805.jpg",
+        "https://euchelperu.com/images/productos/176084543448313981547961.jpg",
+        "https://euchelperu.com/images/productos/176084545454720702356489.jpg",
+        "https://euchelperu.com/images/productos/176084547507973169496318.jpg",
+        "https://euchelperu.com/images/productos/176084549003124749748497.jpg",
+        "https://euchelperu.com/images/productos/17608455064954982502250.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:13:25Z"
+}

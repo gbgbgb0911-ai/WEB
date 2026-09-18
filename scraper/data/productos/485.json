@@ -1,0 +1,101 @@
+{
+  "id_original": 485,
+  "url_original": "https://euchelperu.com/producto.php?id=485",
+  "nombre": "Gorro Vintage",
+  "descripcion": "",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 29.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "485554",
+  "item_group_id": "485",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176084512707119661033966.jpg",
+    "https://euchelperu.com/images/productos/176084515351224569952267.jpg",
+    "https://euchelperu.com/images/productos/176084516034894180952007.jpg",
+    "https://euchelperu.com/images/productos/176084517477113477435555.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Gorro Vintage",
+  "precio_listado_normal": 29.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1306,
+      "nombre": "Negro",
+      "precio": 29.0,
+      "id_color_confirmado": 1306,
+      "tallas": [
+        {
+          "id_talla": 1549,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084512707119661033966.jpg",
+        "https://euchelperu.com/images/productos/176084515351224569952267.jpg",
+        "https://euchelperu.com/images/productos/176084516034894180952007.jpg",
+        "https://euchelperu.com/images/productos/176084517477113477435555.jpg"
+      ]
+    },
+    {
+      "id_color": 1321,
+      "nombre": "Azul",
+      "precio": 29.0,
+      "id_color_confirmado": 1321,
+      "tallas": [
+        {
+          "id_talla": 1550,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084515351224569952267.jpg",
+        "https://euchelperu.com/images/productos/176084512707119661033966.jpg",
+        "https://euchelperu.com/images/productos/176084516034894180952007.jpg",
+        "https://euchelperu.com/images/productos/176084517477113477435555.jpg"
+      ]
+    },
+    {
+      "id_color": 1322,
+      "nombre": "Beige",
+      "precio": 29.0,
+      "id_color_confirmado": 1322,
+      "tallas": [
+        {
+          "id_talla": 1551,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084516034894180952007.jpg",
+        "https://euchelperu.com/images/productos/176084512707119661033966.jpg",
+        "https://euchelperu.com/images/productos/176084515351224569952267.jpg",
+        "https://euchelperu.com/images/productos/176084517477113477435555.jpg"
+      ]
+    },
+    {
+      "id_color": 1323,
+      "nombre": "Marrón",
+      "precio": 29.0,
+      "id_color_confirmado": 1323,
+      "tallas": [
+        {
+          "id_talla": 1552,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084517477113477435555.jpg",
+        "https://euchelperu.com/images/productos/176084512707119661033966.jpg",
+        "https://euchelperu.com/images/productos/176084515351224569952267.jpg",
+        "https://euchelperu.com/images/productos/176084516034894180952007.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:17:10Z"
+}

@@ -1,0 +1,86 @@
+{
+  "id_original": 486,
+  "url_original": "https://euchelperu.com/producto.php?id=486",
+  "nombre": "Corset Sabrina",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "486COR97198",
+  "item_group_id": "486",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176084113019295788242878.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1307,
+      "nombre": "Rojo",
+      "precio": 55.0,
+      "id_color_confirmado": 1307,
+      "tallas": [
+        {
+          "id_talla": 1553,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084113019295788242878.jpg"
+      ]
+    },
+    {
+      "id_color": 1397,
+      "nombre": "Beige",
+      "precio": 55.0,
+      "id_color_confirmado": 1397,
+      "tallas": [
+        {
+          "id_talla": 1647,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084113019295788242878.jpg"
+      ]
+    },
+    {
+      "id_color": 1398,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 1398,
+      "tallas": [
+        {
+          "id_talla": 1648,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084113019295788242878.jpg"
+      ]
+    },
+    {
+      "id_color": 1399,
+      "nombre": "Vino",
+      "precio": 55.0,
+      "id_color_confirmado": 1399,
+      "tallas": [
+        {
+          "id_talla": 1649,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084113019295788242878.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:17:36Z"
+}

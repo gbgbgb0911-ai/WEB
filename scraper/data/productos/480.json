@@ -1,0 +1,96 @@
+{
+  "id_original": 480,
+  "url_original": "https://euchelperu.com/producto.php?id=480",
+  "nombre": "Mini Vestido Dannie",
+  "descripcion": "Corto y con estilo. Tiene un detalle corrugado en la parte baja que le da movimiento y un toque coqueto. Perfecto para destacar sin esfuerzo.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "480MIN50755",
+  "item_group_id": "480",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17608463362709474513397.jpg",
+    "https://euchelperu.com/images/productos/17626216532725749852327.jpg",
+    "https://euchelperu.com/images/productos/176262193939124620318852.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Mini Vestido Dannie",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1301,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 1301,
+      "tallas": [
+        {
+          "id_talla": 1546,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608463362709474513397.jpg",
+        "https://euchelperu.com/images/productos/17626216532725749852327.jpg",
+        "https://euchelperu.com/images/productos/176262193939124620318852.jpg"
+      ]
+    },
+    {
+      "id_color": 1410,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 1410,
+      "tallas": [
+        {
+          "id_talla": 1660,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176262193939124620318852.jpg",
+        "https://euchelperu.com/images/productos/17608463362709474513397.jpg",
+        "https://euchelperu.com/images/productos/17626216532725749852327.jpg"
+      ]
+    },
+    {
+      "id_color": 1411,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 1411,
+      "tallas": [
+        {
+          "id_talla": 1661,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17626216532725749852327.jpg",
+        "https://euchelperu.com/images/productos/17608463362709474513397.jpg",
+        "https://euchelperu.com/images/productos/176262193939124620318852.jpg"
+      ]
+    },
+    {
+      "id_color": 1412,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 1412,
+      "tallas": [
+        {
+          "id_talla": 1662,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608463362709474513397.jpg",
+        "https://euchelperu.com/images/productos/17626216532725749852327.jpg",
+        "https://euchelperu.com/images/productos/176262193939124620318852.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:16:41Z"
+}
