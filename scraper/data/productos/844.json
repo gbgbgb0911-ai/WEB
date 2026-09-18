@@ -1,0 +1,69 @@
+{
+  "id_original": 844,
+  "url_original": "https://euchelperu.com/producto.php?id=844",
+  "nombre": "TOP MARY LAZOS",
+  "descripcion": "Este encantador top de tirantes con estampado de rayas verticales en azul y blanco destaca por su diseño fresco y juvenil, presentando un pronunciado escote en V realzado por dos delicados lazos frontales ajustables que crean aberturas estratégicas (cut-outs), logrando una silueta romántica y ligera que es ideal para combinar con prendas de denim en un look veraniego impecable.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "844TOP96281",
+  "item_group_id": "844",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176834372385351794128129.jpg",
+    "https://euchelperu.com/images/productos/177007180651520459967696.png",
+    "https://euchelperu.com/images/productos/177007222799582836056410.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP MARY LAZOS",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2541,
+      "nombre": "Celeste",
+      "precio": 49.0,
+      "id_color_confirmado": 2541,
+      "tallas": [
+        {
+          "id_talla": 2962,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176834372385351794128129.jpg",
+        "https://euchelperu.com/images/productos/177007180651520459967696.png",
+        "https://euchelperu.com/images/productos/177007222799582836056410.png"
+      ]
+    },
+    {
+      "id_color": 2746,
+      "nombre": "negro",
+      "precio": null,
+      "id_color_confirmado": 2746,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177007222799582836056410.png",
+        "https://euchelperu.com/images/productos/176834372385351794128129.jpg",
+        "https://euchelperu.com/images/productos/177007180651520459967696.png"
+      ]
+    },
+    {
+      "id_color": 2747,
+      "nombre": "Beige",
+      "precio": null,
+      "id_color_confirmado": 2747,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177007180651520459967696.png",
+        "https://euchelperu.com/images/productos/176834372385351794128129.jpg",
+        "https://euchelperu.com/images/productos/177007222799582836056410.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:34:35Z"
+}

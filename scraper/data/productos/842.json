@@ -1,0 +1,101 @@
+{
+  "id_original": 842,
+  "url_original": "https://euchelperu.com/producto.php?id=842",
+  "nombre": "SET ISABELLA HILO",
+  "descripcion": "Este espectacular conjunto de dos piezas confeccionado en tejido de punto calado destaca por su vibrante diseño de ondas horizontales en tonos azul cielo, verde musgo y blanco marfil, compuesto por un top estilo bandeau de corte recto y una falda maxi de talle alto que abraza la silueta, ofreciendo una textura artesanal rica en detalles que combina la frescura del estilo bohemio con una estética moderna y sofisticada, ideal para lucir impecable en destinos de playa o eventos veraniegos exclusivos.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "842SET67688",
+  "item_group_id": "842",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176834256672385243097784.jpg",
+    "https://euchelperu.com/images/productos/176857869284672543285902.png",
+    "https://euchelperu.com/images/productos/177437370649645920171198.png",
+    "https://euchelperu.com/images/productos/177437396908933278332140.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SET ISABELLA HILO",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2539,
+      "nombre": "Celeste/Verde",
+      "precio": 79.0,
+      "id_color_confirmado": 2539,
+      "tallas": [
+        {
+          "id_talla": 2960,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176834256672385243097784.jpg",
+        "https://euchelperu.com/images/productos/176857869284672543285902.png",
+        "https://euchelperu.com/images/productos/177437370649645920171198.png",
+        "https://euchelperu.com/images/productos/177437396908933278332140.png"
+      ]
+    },
+    {
+      "id_color": 2587,
+      "nombre": "Negro/Plomo",
+      "precio": 79.0,
+      "id_color_confirmado": 2587,
+      "tallas": [
+        {
+          "id_talla": 3009,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176857869284672543285902.png",
+        "https://euchelperu.com/images/productos/176834256672385243097784.jpg",
+        "https://euchelperu.com/images/productos/177437370649645920171198.png",
+        "https://euchelperu.com/images/productos/177437396908933278332140.png"
+      ]
+    },
+    {
+      "id_color": 3136,
+      "nombre": "Marrón/Crema",
+      "precio": 79.0,
+      "id_color_confirmado": 3136,
+      "tallas": [
+        {
+          "id_talla": 3420,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177437370649645920171198.png",
+        "https://euchelperu.com/images/productos/176834256672385243097784.jpg",
+        "https://euchelperu.com/images/productos/176857869284672543285902.png",
+        "https://euchelperu.com/images/productos/177437396908933278332140.png"
+      ]
+    },
+    {
+      "id_color": 3137,
+      "nombre": "Negro/Beige",
+      "precio": 79.0,
+      "id_color_confirmado": 3137,
+      "tallas": [
+        {
+          "id_talla": 3421,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177437396908933278332140.png",
+        "https://euchelperu.com/images/productos/176834256672385243097784.jpg",
+        "https://euchelperu.com/images/productos/176857869284672543285902.png",
+        "https://euchelperu.com/images/productos/177437370649645920171198.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:33:34Z"
+}

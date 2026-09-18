@@ -1,0 +1,41 @@
+{
+  "id_original": 845,
+  "url_original": "https://euchelperu.com/producto.php?id=845",
+  "nombre": "COTTON (PEQUEÑO)",
+  "descripcion": "Estos discos de algodón absorbentes, presentados en un práctico paquete cilíndrico de 70 unidades, están fabricados con algodón 100% natural para ofrecer una textura suave y delicada sobre la piel, convirtiéndose en el aliado esencial para una rutina de belleza impecable al facilitar la aplicación de tónicos o la remoción suave de maquillaje y esmalte de uñas sin dejar residuos.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 8.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "845COT16534",
+  "item_group_id": "845",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176843185644717625755075.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "COTTON (PEQUEÑO)",
+  "precio_listado_normal": 8.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2542,
+      "nombre": "Blanco",
+      "precio": 8.0,
+      "id_color_confirmado": 2542,
+      "tallas": [
+        {
+          "id_talla": 2963,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176843185644717625755075.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:35:02Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id_original": 841,
+  "url_original": "https://euchelperu.com/producto.php?id=841",
+  "nombre": "MINI VESTIDO KYLIE HILO BLONDA",
+  "descripcion": "Este vibrante vestido corto de tejido de punto en color amarillo brillante destaca por su diseño de inspiración artesanal y femenina, presentando un delicado escote en V con tirantes finos que dan paso a una silueta entallada, la cual se transforma en la parte inferior con una llamativa falda de tres niveles de volantes texturizados que aportan volumen, movimiento y un toque lúdico ideal para eventos veraniegos o cócteles al aire libre.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "841MIN16745",
+  "item_group_id": "841",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176834159398669364777423.jpg",
+    "https://euchelperu.com/images/productos/17685784083867949195969.png",
+    "https://euchelperu.com/images/productos/176857842933705894470887.png",
+    "https://euchelperu.com/images/productos/176990108976050314854809.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2537,
+      "nombre": "Amarillo",
+      "precio": 55.0,
+      "id_color_confirmado": 2537,
+      "tallas": [
+        {
+          "id_talla": 2958,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176834159398669364777423.jpg",
+        "https://euchelperu.com/images/productos/17685784083867949195969.png",
+        "https://euchelperu.com/images/productos/176857842933705894470887.png",
+        "https://euchelperu.com/images/productos/176990108976050314854809.jpg"
+      ]
+    },
+    {
+      "id_color": 2584,
+      "nombre": "Verde olivo",
+      "precio": 55.0,
+      "id_color_confirmado": 2584,
+      "tallas": [
+        {
+          "id_talla": 3006,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176990108976050314854809.jpg",
+        "https://euchelperu.com/images/productos/176834159398669364777423.jpg",
+        "https://euchelperu.com/images/productos/17685784083867949195969.png",
+        "https://euchelperu.com/images/productos/176857842933705894470887.png"
+      ]
+    },
+    {
+      "id_color": 2585,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 2585,
+      "tallas": [
+        {
+          "id_talla": 3007,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17685784083867949195969.png",
+        "https://euchelperu.com/images/productos/176834159398669364777423.jpg",
+        "https://euchelperu.com/images/productos/176857842933705894470887.png",
+        "https://euchelperu.com/images/productos/176990108976050314854809.jpg"
+      ]
+    },
+    {
+      "id_color": 2586,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 2586,
+      "tallas": [
+        {
+          "id_talla": 3008,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176857842933705894470887.png",
+        "https://euchelperu.com/images/productos/176834159398669364777423.jpg",
+        "https://euchelperu.com/images/productos/17685784083867949195969.png",
+        "https://euchelperu.com/images/productos/176990108976050314854809.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:33:22Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id_original": 843,
+  "url_original": "https://euchelperu.com/producto.php?id=843",
+  "nombre": "BLUSA LEONOR AMARRABLE",
+  "descripcion": "Este delicado top estilo halter en color azul cielo destaca por su diseño audaz y femenino, presentando un escote en V profundo que se extiende hasta la cintura, donde se ajusta mediante un cordón funcional que crea un favorecedor efecto de fruncido y una caída fluida tipo peplum, ideal para combinar con prendas de tiro alto y lograr un look veraniego fresco y sofisticado.",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "843BLU76430",
+  "item_group_id": "843",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17683432725271476831648.jpg",
+    "https://euchelperu.com/images/productos/176912480463620667182290.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BLUSA LEONOR AMARRABLE",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2540,
+      "nombre": "Celeste",
+      "precio": 45.0,
+      "id_color_confirmado": 2540,
+      "tallas": [
+        {
+          "id_talla": 2961,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17683432725271476831648.jpg",
+        "https://euchelperu.com/images/productos/176912480463620667182290.jpg"
+      ]
+    },
+    {
+      "id_color": 2613,
+      "nombre": "Celeste rayitas",
+      "precio": 45.0,
+      "id_color_confirmado": 2613,
+      "tallas": [
+        {
+          "id_talla": 3041,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176912480463620667182290.jpg",
+        "https://euchelperu.com/images/productos/17683432725271476831648.jpg"
+      ]
+    },
+    {
+      "id_color": 3146,
+      "nombre": "Beige c/ rayas blancas",
+      "precio": 45.0,
+      "id_color_confirmado": 3146,
+      "tallas": [
+        {
+          "id_talla": 3425,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17683432725271476831648.jpg",
+        "https://euchelperu.com/images/productos/176912480463620667182290.jpg"
+      ]
+    },
+    {
+      "id_color": 3147,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 3147,
+      "tallas": [
+        {
+          "id_talla": 3426,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17683432725271476831648.jpg",
+        "https://euchelperu.com/images/productos/176912480463620667182290.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:34:23Z"
+}

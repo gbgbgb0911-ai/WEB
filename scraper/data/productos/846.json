@@ -1,0 +1,41 @@
+{
+  "id_original": 846,
+  "url_original": "https://euchelperu.com/producto.php?id=846",
+  "nombre": "COTTON (GRANDE)",
+  "descripcion": "Estos discos de algodón súper absorbentes, presentados en un conveniente paquete de 120 unidades, están elaborados con algodón 100% natural para garantizar una textura suave y libre de impurezas, siendo el complemento perfecto para tu rutina diaria de cuidado facial al permitir una limpieza profunda, la aplicación precisa de lociones o la remoción eficaz de maquillaje y esmalte de uñas sin irritar la piel.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 11.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "846COT68911",
+  "item_group_id": "846",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176843351676256787210216.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "COTTON (GRANDE)",
+  "precio_listado_normal": 11.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2543,
+      "nombre": "Blanco",
+      "precio": 11.0,
+      "id_color_confirmado": 2543,
+      "tallas": [
+        {
+          "id_talla": 2964,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176843351676256787210216.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:36:38Z"
+}

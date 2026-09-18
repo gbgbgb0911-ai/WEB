@@ -1,0 +1,41 @@
+{
+  "id_original": 847,
+  "url_original": "https://euchelperu.com/producto.php?id=847",
+  "nombre": "PEINE",
+  "descripcion": "Este cepillo para el cabello de diseño ergonómico está confeccionado en madera natural con un acabado pulido que resalta sus vetas orgánicas, incorporando una base de almohadilla flexible con cerdas de madera de punta redondeada que proporcionan un suave masaje al cuero cabelludo mientras desenredan eficazmente el cabello, reduciendo el frizz y la estática para un acabado sedoso y saludable.",
+  "categoria": "Cuidado personal",
+  "categoria_subid": 15,
+  "precio_base": 9.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "847PEI59092",
+  "item_group_id": "847",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176843367866884709349427.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "PEINE",
+  "precio_listado_normal": 9.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2544,
+      "nombre": "Beige",
+      "precio": 9.0,
+      "id_color_confirmado": 2544,
+      "tallas": [
+        {
+          "id_talla": 2965,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176843367866884709349427.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:36:41Z"
+}

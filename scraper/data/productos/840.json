@@ -1,0 +1,79 @@
+{
+  "id_original": 840,
+  "url_original": "https://euchelperu.com/producto.php?id=840",
+  "nombre": "VESTIDO RENATA ALGODON",
+  "descripcion": "Esta sofisticada prenda de una sola pieza en color vino tinto destaca por su moderno diseño de escote asimétrico \"off-the-shoulder\", que combina una parte superior de silueta holgada y drapeada con mangas largas ajustadas, contrastando perfectamente con una falda mini de acabado fruncido que se ciñe al cuerpo para resaltar la figura, logrando un equilibrio ideal entre elegancia relajada y sensualidad contemporánea para un evento de noche.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "840VES32373",
+  "item_group_id": "840",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176834126598401923141012.jpg",
+    "https://euchelperu.com/images/productos/176857779487012231280445.png",
+    "https://euchelperu.com/images/productos/176857780894698215920836.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO RENATA ALGODON",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2536,
+      "nombre": "Vino",
+      "precio": 89.0,
+      "id_color_confirmado": 2536,
+      "tallas": [
+        {
+          "id_talla": 2957,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176834126598401923141012.jpg",
+        "https://euchelperu.com/images/productos/176857779487012231280445.png",
+        "https://euchelperu.com/images/productos/176857780894698215920836.png"
+      ]
+    },
+    {
+      "id_color": 2582,
+      "nombre": "Marrón",
+      "precio": 89.0,
+      "id_color_confirmado": 2582,
+      "tallas": [
+        {
+          "id_talla": 3004,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176857779487012231280445.png",
+        "https://euchelperu.com/images/productos/176834126598401923141012.jpg",
+        "https://euchelperu.com/images/productos/176857780894698215920836.png"
+      ]
+    },
+    {
+      "id_color": 2583,
+      "nombre": "Negro",
+      "precio": 89.0,
+      "id_color_confirmado": 2583,
+      "tallas": [
+        {
+          "id_talla": 3005,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176857780894698215920836.png",
+        "https://euchelperu.com/images/productos/176834126598401923141012.jpg",
+        "https://euchelperu.com/images/productos/176857779487012231280445.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:33:10Z"
+}
