@@ -1,0 +1,79 @@
+{
+  "id_original": 1211,
+  "url_original": "https://euchelperu.com/producto.php?id=1211",
+  "nombre": "CHAQUETA CUERO URBAN",
+  "descripcion": "Casaca de cuero clásica: Diseño versátil y elegante con cierre frontal y ajuste cómodo, perfecta para un look sofisticado y moderno.",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": 145.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1211E1R7T5Y3",
+  "item_group_id": "1211",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178174772309720753279297.jpg",
+    "https://euchelperu.com/images/productos/17817477782183977569674.jpg",
+    "https://euchelperu.com/images/productos/178174846038141333970130.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CHAQUETA CUERO URBAN",
+  "precio_listado_normal": 145.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3580,
+      "nombre": "Marrón",
+      "precio": 145.0,
+      "id_color_confirmado": 3580,
+      "tallas": [
+        {
+          "id_talla": 3924,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178174772309720753279297.jpg",
+        "https://euchelperu.com/images/productos/17817477782183977569674.jpg",
+        "https://euchelperu.com/images/productos/178174846038141333970130.jpg"
+      ]
+    },
+    {
+      "id_color": 3581,
+      "nombre": "Negro",
+      "precio": 145.0,
+      "id_color_confirmado": 3581,
+      "tallas": [
+        {
+          "id_talla": 3925,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17817477782183977569674.jpg",
+        "https://euchelperu.com/images/productos/178174772309720753279297.jpg",
+        "https://euchelperu.com/images/productos/178174846038141333970130.jpg"
+      ]
+    },
+    {
+      "id_color": 3582,
+      "nombre": "Vino",
+      "precio": 145.0,
+      "id_color_confirmado": 3582,
+      "tallas": [
+        {
+          "id_talla": 3926,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178174846038141333970130.jpg",
+        "https://euchelperu.com/images/productos/178174772309720753279297.jpg",
+        "https://euchelperu.com/images/productos/17817477782183977569674.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:17:41Z"
+}

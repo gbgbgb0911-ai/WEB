@@ -1,0 +1,101 @@
+{
+  "id_original": 1217,
+  "url_original": "https://euchelperu.com/producto.php?id=1217",
+  "nombre": "top aura manga larga",
+  "descripcion": "Un básico elegante con un toque sofisticado. Este top de manga larga acampanada destaca por su silueta entallada que realza la figura y su diseño minimalista que combina fácilmente con cualquier outfit. Perfecto para crear looks modernos, versátiles y llenos de estilo, tanto de día como de noche.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1217a9s3d2f6",
+  "item_group_id": "1217",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178216731018049883028831.jpg",
+    "https://euchelperu.com/images/productos/178232618725794221645169.jpg",
+    "https://euchelperu.com/images/productos/178232626637045272858043.jpg",
+    "https://euchelperu.com/images/productos/178232635475775330213608.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "top aura manga larga",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3646,
+      "nombre": "Negro",
+      "precio": 49.0,
+      "id_color_confirmado": 3646,
+      "tallas": [
+        {
+          "id_talla": 3927,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178216731018049883028831.jpg",
+        "https://euchelperu.com/images/productos/178232618725794221645169.jpg",
+        "https://euchelperu.com/images/productos/178232626637045272858043.jpg",
+        "https://euchelperu.com/images/productos/178232635475775330213608.jpg"
+      ]
+    },
+    {
+      "id_color": 3683,
+      "nombre": "Rosado pastel",
+      "precio": 49.0,
+      "id_color_confirmado": 3683,
+      "tallas": [
+        {
+          "id_talla": 3962,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178232618725794221645169.jpg",
+        "https://euchelperu.com/images/productos/178216731018049883028831.jpg",
+        "https://euchelperu.com/images/productos/178232626637045272858043.jpg",
+        "https://euchelperu.com/images/productos/178232635475775330213608.jpg"
+      ]
+    },
+    {
+      "id_color": 3684,
+      "nombre": "Vino",
+      "precio": 49.0,
+      "id_color_confirmado": 3684,
+      "tallas": [
+        {
+          "id_talla": 3963,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178232626637045272858043.jpg",
+        "https://euchelperu.com/images/productos/178216731018049883028831.jpg",
+        "https://euchelperu.com/images/productos/178232618725794221645169.jpg",
+        "https://euchelperu.com/images/productos/178232635475775330213608.jpg"
+      ]
+    },
+    {
+      "id_color": 3685,
+      "nombre": "Blanco",
+      "precio": 49.0,
+      "id_color_confirmado": 3685,
+      "tallas": [
+        {
+          "id_talla": 3964,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178232635475775330213608.jpg",
+        "https://euchelperu.com/images/productos/178216731018049883028831.jpg",
+        "https://euchelperu.com/images/productos/178232618725794221645169.jpg",
+        "https://euchelperu.com/images/productos/178232626637045272858043.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:19:40Z"
+}

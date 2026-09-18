@@ -1,0 +1,79 @@
+{
+  "id_original": 1209,
+  "url_original": "https://euchelperu.com/producto.php?id=1209",
+  "nombre": "TOP ENCAJE BRIANA",
+  "descripcion": "Este top no es solo una prenda, es un statement de moda. Gracias a la combinación del encaje clásico con la modernidad de las transparencias, obtendrás un look distinguido que no pasará desapercibido. Es la elección perfecta para quienes buscan elevar sus básicos de armario con un toque de sofisticación.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1209L5K9J2H6",
+  "item_group_id": "1209",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178164883575628475814885.jpg",
+    "https://euchelperu.com/images/productos/17817494704704780737626.jpg",
+    "https://euchelperu.com/images/productos/17817494942649557447602.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ENCAJE BRIANA",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3578,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3578,
+      "tallas": [
+        {
+          "id_talla": 3895,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178164883575628475814885.jpg",
+        "https://euchelperu.com/images/productos/17817494704704780737626.jpg",
+        "https://euchelperu.com/images/productos/17817494942649557447602.jpg"
+      ]
+    },
+    {
+      "id_color": 3583,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 3583,
+      "tallas": [
+        {
+          "id_talla": 3919,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17817494704704780737626.jpg",
+        "https://euchelperu.com/images/productos/178164883575628475814885.jpg",
+        "https://euchelperu.com/images/productos/17817494942649557447602.jpg"
+      ]
+    },
+    {
+      "id_color": 3584,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 3584,
+      "tallas": [
+        {
+          "id_talla": 3920,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17817494942649557447602.jpg",
+        "https://euchelperu.com/images/productos/178164883575628475814885.jpg",
+        "https://euchelperu.com/images/productos/17817494704704780737626.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:16:19Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id_original": 1214,
+  "url_original": "https://euchelperu.com/producto.php?id=1214",
+  "nombre": "top capri",
+  "descripcion": "Luce sofisticada y moderna con este hermoso top strapless de corte estructurado. Su diseño estiliza la silueta gracias a sus costuras definidas, mientras que el delicado detalle tipo bufanda al cuello aporta un toque único y elegante. Ideal para combinar con jeans o prendas de vestir para cualquier ocasión especial o casual chic.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1214D2F8G3H6",
+  "item_group_id": "1214",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178216685698042802885770.jpg",
+    "https://euchelperu.com/images/productos/178232515404385751269605.jpg",
+    "https://euchelperu.com/images/productos/17823252232814121002437.jpg",
+    "https://euchelperu.com/images/productos/178232532015252556965619.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "top capri",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3644,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 3644,
+      "tallas": [
+        {
+          "id_talla": 3965,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178216685698042802885770.jpg",
+        "https://euchelperu.com/images/productos/178232515404385751269605.jpg",
+        "https://euchelperu.com/images/productos/17823252232814121002437.jpg",
+        "https://euchelperu.com/images/productos/178232532015252556965619.jpg"
+      ]
+    },
+    {
+      "id_color": 3671,
+      "nombre": "Vino",
+      "precio": 55.0,
+      "id_color_confirmado": 3671,
+      "tallas": [
+        {
+          "id_talla": 3966,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178232515404385751269605.jpg",
+        "https://euchelperu.com/images/productos/178216685698042802885770.jpg",
+        "https://euchelperu.com/images/productos/17823252232814121002437.jpg",
+        "https://euchelperu.com/images/productos/178232532015252556965619.jpg"
+      ]
+    },
+    {
+      "id_color": 3672,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 3672,
+      "tallas": [
+        {
+          "id_talla": 3967,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17823252232814121002437.jpg",
+        "https://euchelperu.com/images/productos/178216685698042802885770.jpg",
+        "https://euchelperu.com/images/productos/178232515404385751269605.jpg",
+        "https://euchelperu.com/images/productos/178232532015252556965619.jpg"
+      ]
+    },
+    {
+      "id_color": 3673,
+      "nombre": "Marrón",
+      "precio": 55.0,
+      "id_color_confirmado": 3673,
+      "tallas": [
+        {
+          "id_talla": 3968,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178232532015252556965619.jpg",
+        "https://euchelperu.com/images/productos/178216685698042802885770.jpg",
+        "https://euchelperu.com/images/productos/178232515404385751269605.jpg",
+        "https://euchelperu.com/images/productos/17823252232814121002437.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:18:53Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id_original": 1210,
+  "url_original": "https://euchelperu.com/producto.php?id=1210",
+  "nombre": "TOP POLLY",
+  "descripcion": "Es la pieza clave para lograr el equilibrio perfecto entre comodidad y estilo. Gracias a su diseño limpio y su tono neutro, este top te permite crear múltiples combinaciones, convirtiéndose rápidamente en uno de tus favoritos para lucir impecable sin esfuerzo.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "121012QW",
+  "item_group_id": "1210",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17816497015234621722397.jpg",
+    "https://euchelperu.com/images/productos/178174984689532940196100.jpg",
+    "https://euchelperu.com/images/productos/178174988066059858419145.jpg",
+    "https://euchelperu.com/images/productos/17817499127886964596545.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP POLLY",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3579,
+      "nombre": "Beige",
+      "precio": 45.0,
+      "id_color_confirmado": 3579,
+      "tallas": [
+        {
+          "id_talla": 3896,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17816497015234621722397.jpg",
+        "https://euchelperu.com/images/productos/178174984689532940196100.jpg",
+        "https://euchelperu.com/images/productos/178174988066059858419145.jpg",
+        "https://euchelperu.com/images/productos/17817499127886964596545.jpg"
+      ]
+    },
+    {
+      "id_color": 3585,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3585,
+      "tallas": [
+        {
+          "id_talla": 3921,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178174988066059858419145.jpg",
+        "https://euchelperu.com/images/productos/17816497015234621722397.jpg",
+        "https://euchelperu.com/images/productos/178174984689532940196100.jpg",
+        "https://euchelperu.com/images/productos/17817499127886964596545.jpg"
+      ]
+    },
+    {
+      "id_color": 3586,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 3586,
+      "tallas": [
+        {
+          "id_talla": 3922,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178174984689532940196100.jpg",
+        "https://euchelperu.com/images/productos/17816497015234621722397.jpg",
+        "https://euchelperu.com/images/productos/178174988066059858419145.jpg",
+        "https://euchelperu.com/images/productos/17817499127886964596545.jpg"
+      ]
+    },
+    {
+      "id_color": 3587,
+      "nombre": "Lila",
+      "precio": 45.0,
+      "id_color_confirmado": 3587,
+      "tallas": [
+        {
+          "id_talla": 3923,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17817499127886964596545.jpg",
+        "https://euchelperu.com/images/productos/17816497015234621722397.jpg",
+        "https://euchelperu.com/images/productos/178174984689532940196100.jpg",
+        "https://euchelperu.com/images/productos/178174988066059858419145.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:16:56Z"
+}
