@@ -1,0 +1,56 @@
+{
+  "id_original": 575,
+  "url_original": "https://euchelperu.com/producto.php?id=575",
+  "nombre": "VESTIDO NADIA CORSET",
+  "descripcion": "Minivestido strapless estilo corsé. Un diseño audaz y texturizado para un look de impacto. Presenta un corte tipo corsé con varillas visibles que estructuran la figura. La tela tiene una sutil textura jaspeada en tonos gris y blanco. Se complementa con una banda/lazo de encaje que se anuda a la cintura. Ideal para fiestas y eventos de moda.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "575MAX7335787",
+  "item_group_id": "575",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176348705566885866568966.jpg",
+    "https://euchelperu.com/images/productos/17652968461219587114945.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO NADIA CORSET",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1778,
+      "nombre": "Blanco",
+      "precio": 99.0,
+      "id_color_confirmado": 1778,
+      "tallas": [
+        {
+          "id_talla": 2047,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176348705566885866568966.jpg",
+        "https://euchelperu.com/images/productos/17652968461219587114945.jpg"
+      ]
+    },
+    {
+      "id_color": 1852,
+      "nombre": "Negro",
+      "precio": 99.0,
+      "id_color_confirmado": 1852,
+      "tallas": [
+        {
+          "id_talla": 2136,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": []
+    }
+  ],
+  "scraped_at": "2026-09-18T00:55:52Z"
+}
