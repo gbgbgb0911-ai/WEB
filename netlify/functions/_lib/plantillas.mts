@@ -72,6 +72,26 @@ const ARMAR_REVELADO =
   `<script>(function(d){var h=d.documentElement;h.setAttribute("data-revelar","");`
   + `setTimeout(function(){if(h.getAttribute("data-js")!=="1")h.removeAttribute("data-revelar")},2500)})(document)</script>`;
 
+/* Rescate de fotos.
+ *
+ * Netlify contesta 404 de vez en cuando para un archivo que está: seis
+ * peticiones seguidas a la misma foto dieron cinco veces la imagen y una vez
+ * un 404. Con 750 fotos en la portada, eso son decenas de huecos grises en
+ * cada visita, y el archivo intacto en el servidor.
+ *
+ * No se puede arreglar desde aquí, pero sí se puede volver a pedir. Tres
+ * intentos, cada uno un poco más tarde, con la dirección cambiada para que no
+ * valga ninguna copia guardada del fallo. Va en la cabeza y sin esperar a
+ * nada: los errores de carga no suben por el árbol, así que hay que estar
+ * escuchando antes de que empiecen las fotos. */
+const RESCATE_FOTOS =
+  `<script>addEventListener("error",function(ev){var i=ev.target;`
+  + `if(!i||i.tagName!=="IMG")return;var n=+(i.getAttribute("data-reintento")||0);if(n>2)return;`
+  + `i.setAttribute("data-reintento",n+1);`
+  + `var u=i.getAttribute("data-url");`
+  + `if(!u){u=i.getAttribute("src")||"";i.setAttribute("data-url",u)}`
+  + `setTimeout(function(){i.src=u+(u.indexOf("?")<0?"?":"&")+"r="+n+Date.now()},300*(n+1))},true)</script>`;
+
 export const WHATSAPP = "51986630221";
 export const TIENDA = "Euchel Perú";
 export const ANUNCIO = "Envíos a todo el Perú";
@@ -159,6 +179,7 @@ ${og}<link rel="icon" href="/favicon.png" type="image/png">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap">
 ${bloqueEstilos()}
+${RESCATE_FOTOS}
 ${ARMAR_REVELADO}
 </head>
 <body>
@@ -311,7 +332,7 @@ export function paginaFicha(base: string, original: Producto, categorias: Catego
       </div>` : "";
 
   const principal = foto
-    ? `<img data-foto-principal src="${rutaImg(foto, "full")}" alt="${e(p.nombre)}" width="1400" height="1867" decoding="async" onerror="if(!this.dataset.r){this.dataset.r=1;this.src=this.src+(this.src.indexOf('?')<0?'?':'&')+'r='+Date.now()}">`
+    ? `<img data-foto-principal src="${rutaImg(foto, "full")}" alt="${e(p.nombre)}" width="1400" height="1867" decoding="async">`
     : '<div style="width:100%;height:100%"></div>';
 
   // Agotado: el botón sale ya desactivado. Mismo aspecto que pone app.js

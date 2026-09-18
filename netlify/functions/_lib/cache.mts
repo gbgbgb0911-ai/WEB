@@ -1,4 +1,5 @@
 import { purgeCache } from "@netlify/functions";
+import { getStore } from "@netlify/blobs";
 
 /* Caché de las páginas públicas.
  *
@@ -26,6 +27,49 @@ export function cabecerasCache(extra: string[] = []) {
     "netlify-cdn-cache-control": "public, durable, s-maxage=31536000, stale-while-revalidate=60",
     "netlify-cache-tag": [ETIQUETA, ...extra].join(","),
   };
+}
+
+/* Cabeceras para un "no encontrado". No se guarda en ningún sitio.
+ *
+ * Un 404 guardado es una ruta que se queda rota mientras dure. Mientras hubo
+ * una regla comodín mandando aquí cualquier dirección, las URLs de las fotos
+ * caían dentro y se guardaban con un año de vida: más de cien fotos del
+ * catálogo desaparecieron así, con los archivos intactos en el servidor. La
+ * regla ya no está, pero esto tampoco se guarda: un 404 es siempre una
+ * respuesta sobre este instante, no sobre el año que viene.
+ *
+ * Cuesta una llamada a la función por cada 404. Es barato al lado de dejar
+ * una dirección rota por haberla guardado. */
+export function cabecerasNoEncontrada() {
+  return {
+    "content-type": "text/html; charset=utf-8",
+    "cache-control": "no-store",
+    "netlify-cdn-cache-control": "no-store",
+  };
+}
+
+/* Un despliegue nuevo también tiene que tirar lo guardado.
+ *
+ * Las páginas llevan dentro el CSS y el guion, así que una página guardada es
+ * también una copia del diseño de ese momento. Sin esto, tras desplegar
+ * seguía sirviéndose el diseño viejo hasta que alguien guardara algo en el
+ * panel. Se comprueba una vez por instancia, con una lectura de un cuaderno
+ * compartido: si el despliegue no es el que quedó anotado, se purga y se
+ * anota. Que dos instancias purguen a la vez no hace daño. */
+let comprobado = false;
+
+export async function purgarSiHayDespliegueNuevo(despliegue: string | undefined) {
+  if (comprobado || !despliegue) return;
+  comprobado = true;
+  try {
+    const cuaderno = getStore({ name: "despliegues", consistency: "strong" });
+    if (await cuaderno.get("ultimo", { type: "text" }) === despliegue) return;
+    await cuaderno.set("ultimo", despliegue);
+    await purgeCache({ tags: [ETIQUETA] });
+    console.log("purga: despliegue nuevo", despliegue);
+  } catch (e) {
+    console.error("purga por despliegue:", e instanceof Error ? e.message : e);
+  }
 }
 
 /** Tira las páginas cacheadas. Nunca hace fallar la operación que lo llama. */

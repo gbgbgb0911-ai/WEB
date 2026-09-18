@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es-PE">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Página no encontrada · Euchel Perú</title>
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#ffffff">
+<!-- Esta página la sirve Netlify sola para cualquier dirección que no exista:
+     es la forma estándar y no hace falta ninguna regla de redirección.
+     Antes había una (`/*  /404  404`) que mandaba esas direcciones a la
+     función del catálogo, y se metía por medio de archivos que sí estaban:
+     fotos del catálogo devolvían esta página en vez de la imagen.
+
+     Se dibuja sola, con sus estilos dentro: si alguien llega aquí es porque
+     algo ya no fue como debía, así que no depende de ningún otro archivo. -->
+<style>
+  :root { --tinta: #111; --gris: #6b6b6b; --linea: #e6e6e6; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; min-height: 100vh; display: grid; place-items: center;
+    padding: 32px 16px; background: #fff; color: var(--tinta);
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  main { width: 100%; max-width: 420px; text-align: center; }
+  img { width: 180px; height: auto; margin: 0 auto 32px; display: block; }
+  h1 { margin: 0 0 12px; font-size: 18px; letter-spacing: .14em; text-transform: uppercase; }
+  p { margin: 0 auto 28px; max-width: 32ch; color: var(--gris); font-size: 14px; line-height: 1.6; }
+  a.cta {
+    display: block; padding: 15px 20px; background: var(--tinta); color: #fff;
+    text-decoration: none; font-size: 12px; letter-spacing: .16em; text-transform: uppercase;
+  }
+  a.cta:hover { opacity: .85; }
+  a.suave { display: inline-block; margin-top: 20px; color: var(--gris); font-size: 12px; letter-spacing: .1em; }
+</style>
+</head>
+<body>
+<main>
+  <img src="/logo.svg" alt="Euchel Perú" width="180" height="34">
+  <h1>No encontramos esta página</h1>
+  <p>Puede que el enlace esté viejo o que el producto ya no esté en el catálogo.</p>
+  <a class="cta" href="/">Ver el catálogo</a>
+  <a class="suave" href="https://wa.me/51986630221?text=Hola%20Euchel%2C%20quiero%20hacer%20una%20consulta%20sobre%20el%20cat%C3%A1logo.">Escribirnos por WhatsApp</a>
+</main>
+</body>
+</html>

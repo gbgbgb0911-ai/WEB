@@ -17,10 +17,14 @@ const EXTENSIONES: Record<string, string> = {
 export default async (req: Request, _ctx: Context) => {
   const clave = decodeURIComponent(new URL(req.url).pathname.replace(/^\/img\/subidas\//, ""));
 
+  // Un 404 aquí no se guarda nunca: la foto puede estar subiéndose en este
+  // instante, y una foto rota guardada en el borde dura más que el problema.
+  const SIN_GUARDAR = { "cache-control": "no-store", "netlify-cdn-cache-control": "no-store" };
+
   // Sin barras ni puntos dobles: la clave es un nombre plano dentro del
   // almacén y no tiene por qué poder salirse de él.
   if (!/^[0-9a-f]{32}\.(jpg|png|webp)$/.test(clave)) {
-    return new Response("No encontrada", { status: 404 });
+    return new Response("No encontrada", { status: 404, headers: SIN_GUARDAR });
   }
 
   let cuerpo: ArrayBuffer | null = null;
@@ -28,9 +32,9 @@ export default async (req: Request, _ctx: Context) => {
     cuerpo = await almacen().get(clave, { type: "arrayBuffer" });
   } catch (e) {
     console.error("foto:", e instanceof Error ? e.message : e);
-    return new Response("No se pudo leer la foto", { status: 502 });
+    return new Response("No se pudo leer la foto", { status: 502, headers: SIN_GUARDAR });
   }
-  if (!cuerpo) return new Response("No encontrada", { status: 404 });
+  if (!cuerpo) return new Response("No encontrada", { status: 404, headers: SIN_GUARDAR });
 
   const extension = clave.split(".").pop() as string;
   return new Response(cuerpo, {

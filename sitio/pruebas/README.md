@@ -11,6 +11,7 @@ petición, sin desplegar.
 | `propagacion.mjs` | 34 pasos: crear, fotos, colores, tallas, agotar, precio, nombre, categoría, ocultar, archivar, borrar, bitácora | API + HTML público |
 | `flujos.mjs` | 30 pasos en navegador: entrar, filtros, paginar, buscar, hoja, clave, sesión, tablero, equipo, bitácora, ficha pública, WhatsApp | Playwright |
 | `activos.mts` | 10 casos: el CSS y el JS dentro del HTML (se leen una vez, respaldo si fallan, el catálogo se ve aunque el guion no llegue) | npx tsx |
+| `rescate.mjs` | falla a propósito la primera petición de cada foto de la portada y comprueba que no queda ni un hueco | Playwright |
 | `render.mts` | arma páginas con el código de la función para compararlas | node --experimental-strip-types |
 | `proxy.mjs` | arnés local: sirve los paneles en http y reenvía todo lo demás a producción | node |
 

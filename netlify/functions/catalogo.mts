@@ -4,7 +4,7 @@ import { categorias, productos, producto } from "./_lib/catalogo.mts";
 import { paginaListado, paginaFicha, pagina404, indiceBusqueda, sitemap, TIENDA, css, fijarVersion, fijarHoja, fijarGuion }
   from "./_lib/plantillas.mts";
 import { hoja, guion } from "./_lib/activos.mts";
-import { cabecerasCache } from "./_lib/cache.mts";
+import { cabecerasCache, cabecerasNoEncontrada, purgarSiHayDespliegueNuevo } from "./_lib/cache.mts";
 
 /* El catálogo público, armado al momento desde la base.
  *
@@ -36,7 +36,13 @@ export default async (req: Request, ctx: Context) => {
 
   // La hoja de estilos y el guion se meten dentro del HTML. Se leen una vez
   // por instancia; si no se puede, la plantilla los enlaza como antes.
-  const [css1, js1] = await Promise.all([hoja(base), guion(base)]);
+  const [css1, js1] = await Promise.all([
+    hoja(base),
+    guion(base),
+    // Un despliegue nuevo cambia el CSS y el guion, que viajan dentro de las
+    // páginas guardadas: hay que tirarlas.
+    purgarSiHayDespliegueNuevo(ctx.deploy?.id),
+  ]);
   fijarHoja(css1);
   fijarGuion(js1);
 
@@ -88,8 +94,9 @@ export default async (req: Request, ctx: Context) => {
       });
     }
 
-    if (ruta === "/404") return noEncontrada(base, await categorias(sql));
-
+    // Una dirección del catálogo que no existe: /c/loquesea/, /p/loquesea/.
+    // Lo que no es del catálogo ni un archivo lo contesta 404.html, que
+    // Netlify sirve solo, sin pasar por aquí (ver _redirects).
     return noEncontrada(base, await categorias(sql));
   } catch (e) {
     console.error("catalogo:", ruta, e instanceof Error ? e.message : e);
@@ -97,12 +104,16 @@ export default async (req: Request, ctx: Context) => {
   }
 };
 
-function html(cuerpo: string, etiquetas: string[] = [], estado = 200) {
-  return new Response(cuerpo, { status: estado, headers: cabecerasCache(etiquetas) });
+function html(cuerpo: string, etiquetas: string[] = []) {
+  return new Response(cuerpo, { headers: cabecerasCache(etiquetas) });
 }
 
+/* Ojo: aquí llega cualquier ruta que no sea un archivo ni una función, por la
+ * regla `/*  /404  404`. Incluida la URL de una imagen que en ese instante no
+ * estuviera disponible. Por eso esta respuesta no se guarda más de un minuto:
+ * ver cabecerasNoEncontrada(). */
 function noEncontrada(base: string, cats: Awaited<ReturnType<typeof categorias>>) {
-  return html(pagina404(base, cats), [], 404);
+  return new Response(pagina404(base, cats), { status: 404, headers: cabecerasNoEncontrada() });
 }
 
 /** Sin base no hay catálogo. Se pide reintentar, y no se cachea. */
@@ -114,5 +125,5 @@ function sinBase() {
 }
 
 export const config: Config = {
-  path: ["/", "/c/:slug", "/c/:slug/", "/p/:slug", "/p/:slug/", "/buscar.json", "/sitemap.xml", "/404"],
+  path: ["/", "/c/:slug", "/c/:slug/", "/p/:slug", "/p/:slug/", "/buscar.json", "/sitemap.xml"],
 };
