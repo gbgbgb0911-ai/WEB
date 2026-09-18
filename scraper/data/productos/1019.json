@@ -1,0 +1,53 @@
+{
+  "id_original": 1019,
+  "url_original": "https://euchelperu.com/producto.php?id=1019",
+  "nombre": "FALDA LENTEJUELA NOIR",
+  "descripcion": "",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1019NNN11",
+  "item_group_id": "1019",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177440059019390451631853.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA LENTEJUELA NOIR",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3149,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 3149,
+      "tallas": [
+        {
+          "id_talla": 3429,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 3430,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3431,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 3432,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177440059019390451631853.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:34:47Z"
+}

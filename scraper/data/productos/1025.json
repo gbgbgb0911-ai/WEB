@@ -1,0 +1,56 @@
+{
+  "id_original": 1025,
+  "url_original": "https://euchelperu.com/producto.php?id=1025",
+  "nombre": "BRAZALETE AURA DORADA",
+  "descripcion": "Ligeros, versátiles y elegantes, son el accesorio ideal para el día a día o para ocasiones especiales. Diseñados para quienes aprecian la simplicidad, la estética limpia y la belleza discreta.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 29.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1025Dor66",
+  "item_group_id": "1025",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177455510376403896882108.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BRAZALETE AURA DORADA",
+  "precio_listado_normal": 29.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3173,
+      "nombre": "Marrón c/ dorado",
+      "precio": 29.0,
+      "id_color_confirmado": 3173,
+      "tallas": [
+        {
+          "id_talla": 3461,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177455510376403896882108.jpg"
+      ]
+    },
+    {
+      "id_color": 3174,
+      "nombre": "Verde c/ dorado",
+      "precio": 29.0,
+      "id_color_confirmado": 3174,
+      "tallas": [
+        {
+          "id_talla": 3462,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177455510376403896882108.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:38:28Z"
+}

@@ -1,0 +1,66 @@
+{
+  "id_original": 1020,
+  "url_original": "https://euchelperu.com/producto.php?id=1020",
+  "nombre": "FALDA LENTEJUELA STELLAR",
+  "descripcion": "",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1020BAREY555",
+  "item_group_id": "1020",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17744009053891272363889.jpg",
+    "https://euchelperu.com/images/productos/17821498800729710536635.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA LENTEJUELA STELLAR",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3150,
+      "nombre": "Beige",
+      "precio": 75.0,
+      "id_color_confirmado": 3150,
+      "tallas": [
+        {
+          "id_talla": 3433,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 3434,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3435,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 3436,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17744009053891272363889.jpg",
+        "https://euchelperu.com/images/productos/17821498800729710536635.jpg"
+      ]
+    },
+    {
+      "id_color": 3630,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 3630,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17821498800729710536635.jpg",
+        "https://euchelperu.com/images/productos/17744009053891272363889.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:35:55Z"
+}

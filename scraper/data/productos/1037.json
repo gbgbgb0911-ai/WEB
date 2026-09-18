@@ -1,0 +1,125 @@
+{
+  "id_original": 1037,
+  "url_original": "https://euchelperu.com/producto.php?id=1037",
+  "nombre": "TOP BRAVE M/LARGA",
+  "descripcion": "Atrévete a destacar con el Top Brave, una pieza de diseño asimétrico que combina sofisticación y vanguardia. Su detalle de drapeado frontal crea una textura única que favorece la silueta, mientras que el escote caído hacia un hombro le otorga un aire irresistiblemente chic.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1037L3Q7P1V9",
+  "item_group_id": "1037",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177507296462464421374240.jpg",
+    "https://euchelperu.com/images/productos/177507331753123764341032.png",
+    "https://euchelperu.com/images/productos/17750734295204011193783.png",
+    "https://euchelperu.com/images/productos/177514686928899632768595.jpg",
+    "https://euchelperu.com/images/productos/177514698503359115673666.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP BRAVE M/LARGA",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3188,
+      "nombre": "Guinda",
+      "precio": 49.0,
+      "id_color_confirmado": 3188,
+      "tallas": [
+        {
+          "id_talla": 3476,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17750734295204011193783.png",
+        "https://euchelperu.com/images/productos/177507296462464421374240.jpg",
+        "https://euchelperu.com/images/productos/177507331753123764341032.png",
+        "https://euchelperu.com/images/productos/177514686928899632768595.jpg",
+        "https://euchelperu.com/images/productos/177514698503359115673666.jpg"
+      ]
+    },
+    {
+      "id_color": 3189,
+      "nombre": "Marrón",
+      "precio": 49.0,
+      "id_color_confirmado": 3189,
+      "tallas": [
+        {
+          "id_talla": 3477,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177507296462464421374240.jpg",
+        "https://euchelperu.com/images/productos/177507331753123764341032.png",
+        "https://euchelperu.com/images/productos/17750734295204011193783.png",
+        "https://euchelperu.com/images/productos/177514686928899632768595.jpg",
+        "https://euchelperu.com/images/productos/177514698503359115673666.jpg"
+      ]
+    },
+    {
+      "id_color": 3190,
+      "nombre": "Verde",
+      "precio": 49.0,
+      "id_color_confirmado": 3190,
+      "tallas": [
+        {
+          "id_talla": 3478,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177514698503359115673666.jpg",
+        "https://euchelperu.com/images/productos/177507296462464421374240.jpg",
+        "https://euchelperu.com/images/productos/177507331753123764341032.png",
+        "https://euchelperu.com/images/productos/17750734295204011193783.png",
+        "https://euchelperu.com/images/productos/177514686928899632768595.jpg"
+      ]
+    },
+    {
+      "id_color": 3191,
+      "nombre": "Blanco",
+      "precio": 49.0,
+      "id_color_confirmado": 3191,
+      "tallas": [
+        {
+          "id_talla": 3479,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177514686928899632768595.jpg",
+        "https://euchelperu.com/images/productos/177507296462464421374240.jpg",
+        "https://euchelperu.com/images/productos/177507331753123764341032.png",
+        "https://euchelperu.com/images/productos/17750734295204011193783.png",
+        "https://euchelperu.com/images/productos/177514698503359115673666.jpg"
+      ]
+    },
+    {
+      "id_color": 3192,
+      "nombre": "Café",
+      "precio": 49.0,
+      "id_color_confirmado": 3192,
+      "tallas": [
+        {
+          "id_talla": 3480,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177507331753123764341032.png",
+        "https://euchelperu.com/images/productos/177507296462464421374240.jpg",
+        "https://euchelperu.com/images/productos/17750734295204011193783.png",
+        "https://euchelperu.com/images/productos/177514686928899632768595.jpg",
+        "https://euchelperu.com/images/productos/177514698503359115673666.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:47:08Z"
+}

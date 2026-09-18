@@ -1,0 +1,41 @@
+{
+  "id_original": 1026,
+  "url_original": "https://euchelperu.com/producto.php?id=1026",
+  "nombre": "BRAZALETE AURA NACAR",
+  "descripcion": "Este brazalete de eslabones ondulados combina la suavidad de la resina pulida con la fuerza del dorado, Creando un juego de texturas y reflejos que captura la luz con elegancia. Un accesorio escultural para la mujer que aprecia el arte en los detalles.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 35.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1026Nacar22",
+  "item_group_id": "1026",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177455527928707306840089.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BRAZALETE AURA NACAR",
+  "precio_listado_normal": 35.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3175,
+      "nombre": "Nácar",
+      "precio": 35.0,
+      "id_color_confirmado": 3175,
+      "tallas": [
+        {
+          "id_talla": 3463,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177455527928707306840089.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:38:31Z"
+}

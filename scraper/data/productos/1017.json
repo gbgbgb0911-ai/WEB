@@ -1,0 +1,101 @@
+{
+  "id_original": 1017,
+  "url_original": "https://euchelperu.com/producto.php?id=1017",
+  "nombre": "BLUSA LAZO",
+  "descripcion": "",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1017B9W2M5Q3",
+  "item_group_id": "1017",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177431548602735844755274.jpg",
+    "https://euchelperu.com/images/productos/17743158445180943951458.jpg",
+    "https://euchelperu.com/images/productos/177431599318899152644999.jpg",
+    "https://euchelperu.com/images/productos/1774317026826086267773.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BLUSA LAZO",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3131,
+      "nombre": "Blanco c/ fores beige",
+      "precio": 55.0,
+      "id_color_confirmado": 3131,
+      "tallas": [
+        {
+          "id_talla": 3415,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177431548602735844755274.jpg",
+        "https://euchelperu.com/images/productos/17743158445180943951458.jpg",
+        "https://euchelperu.com/images/productos/177431599318899152644999.jpg",
+        "https://euchelperu.com/images/productos/1774317026826086267773.jpg"
+      ]
+    },
+    {
+      "id_color": 3132,
+      "nombre": "Blanco c/ fores negras",
+      "precio": 55.0,
+      "id_color_confirmado": 3132,
+      "tallas": [
+        {
+          "id_talla": 3416,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17743158445180943951458.jpg",
+        "https://euchelperu.com/images/productos/177431548602735844755274.jpg",
+        "https://euchelperu.com/images/productos/177431599318899152644999.jpg",
+        "https://euchelperu.com/images/productos/1774317026826086267773.jpg"
+      ]
+    },
+    {
+      "id_color": 3133,
+      "nombre": "Negro c/ flores beige",
+      "precio": 55.0,
+      "id_color_confirmado": 3133,
+      "tallas": [
+        {
+          "id_talla": 3417,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177431599318899152644999.jpg",
+        "https://euchelperu.com/images/productos/177431548602735844755274.jpg",
+        "https://euchelperu.com/images/productos/17743158445180943951458.jpg",
+        "https://euchelperu.com/images/productos/1774317026826086267773.jpg"
+      ]
+    },
+    {
+      "id_color": 3134,
+      "nombre": "Marron c/ fores beige",
+      "precio": 55.0,
+      "id_color_confirmado": 3134,
+      "tallas": [
+        {
+          "id_talla": 3418,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1774317026826086267773.jpg",
+        "https://euchelperu.com/images/productos/177431548602735844755274.jpg",
+        "https://euchelperu.com/images/productos/17743158445180943951458.jpg",
+        "https://euchelperu.com/images/productos/177431599318899152644999.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:34:40Z"
+}

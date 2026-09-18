@@ -1,0 +1,41 @@
+{
+  "id_original": 1032,
+  "url_original": "https://euchelperu.com/producto.php?id=1032",
+  "nombre": "Cardigan Bicolor Hilo",
+  "descripcion": "Chompa tejida en tono blanco con detalles en líneas negras que aportan un estilo elegante y moderno. Su diseño de manga larga y corte recto la hace cómoda y fácil de combinar, ideal para looks casuales o formales. Cuenta con un diseño frontal abierto con acabado decorativo en contraste, cuello redondo y terminaciones acanaladas en mangas y cintura que brindan un mejor ajuste. Es una prenda versátil, perfecta para usar con jeans, pantalones de vestir o faldas.",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1032S2A8K4J6",
+  "item_group_id": "1032",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17749803589181333028638.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Cardigan Bicolor Hilo",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3180,
+      "nombre": "Beige",
+      "precio": 65.0,
+      "id_color_confirmado": 3180,
+      "tallas": [
+        {
+          "id_talla": 3468,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17749803589181333028638.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:43:22Z"
+}

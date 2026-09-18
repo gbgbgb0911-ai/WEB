@@ -1,0 +1,96 @@
+{
+  "id_original": 1039,
+  "url_original": "https://euchelperu.com/producto.php?id=1039",
+  "nombre": "GABARDINA",
+  "descripcion": "Eleva tu estilo con la sofisticación atemporal de nuestra gabardina clásica. Una prenda esencial en cualquier armario, diseñada para ofrecer elegancia funcional temporada tras temporada.",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": 130.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1039GAB36485",
+  "item_group_id": "1039",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177508616721694617581808.jpg",
+    "https://euchelperu.com/images/productos/177508668978939328067350.png",
+    "https://euchelperu.com/images/productos/17750871432956764914188.png",
+    "https://euchelperu.com/images/productos/178241244334699609370732.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "GABARDINA",
+  "precio_listado_normal": 130.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3197,
+      "nombre": "Beige",
+      "precio": 130.0,
+      "id_color_confirmado": 3197,
+      "tallas": [
+        {
+          "id_talla": 3492,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177508616721694617581808.jpg",
+        "https://euchelperu.com/images/productos/177508668978939328067350.png",
+        "https://euchelperu.com/images/productos/17750871432956764914188.png",
+        "https://euchelperu.com/images/productos/178241244334699609370732.jpg"
+      ]
+    },
+    {
+      "id_color": 3198,
+      "nombre": "Blanco",
+      "precio": 130.0,
+      "id_color_confirmado": 3198,
+      "tallas": [
+        {
+          "id_talla": 3493,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177508668978939328067350.png",
+        "https://euchelperu.com/images/productos/177508616721694617581808.jpg",
+        "https://euchelperu.com/images/productos/17750871432956764914188.png",
+        "https://euchelperu.com/images/productos/178241244334699609370732.jpg"
+      ]
+    },
+    {
+      "id_color": 3199,
+      "nombre": "Negro",
+      "precio": 130.0,
+      "id_color_confirmado": 3199,
+      "tallas": [
+        {
+          "id_talla": 3494,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17750871432956764914188.png",
+        "https://euchelperu.com/images/productos/177508616721694617581808.jpg",
+        "https://euchelperu.com/images/productos/177508668978939328067350.png",
+        "https://euchelperu.com/images/productos/178241244334699609370732.jpg"
+      ]
+    },
+    {
+      "id_color": 3705,
+      "nombre": "Marrón",
+      "precio": null,
+      "id_color_confirmado": 3705,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178241244334699609370732.jpg",
+        "https://euchelperu.com/images/productos/177508616721694617581808.jpg",
+        "https://euchelperu.com/images/productos/177508668978939328067350.png",
+        "https://euchelperu.com/images/productos/17750871432956764914188.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:47:32Z"
+}

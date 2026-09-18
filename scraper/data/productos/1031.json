@@ -1,0 +1,79 @@
+{
+  "id_original": 1031,
+  "url_original": "https://euchelperu.com/producto.php?id=1031",
+  "nombre": "Vestido Vichy",
+  "descripcion": "Luce femenina y elegante con este vestido corto en tono rojo, diseñado para resaltar la silueta con un ajuste cómodo y favorecedor. Cuenta con tirantes delgados y escote recto que aportan un estilo delicado y moderno. Su caída suave y ligera le da movimiento al vestido, creando un look fresco y sofisticado. Ideal para salidas, cenas, eventos o cualquier ocasión especial donde quieras destacar con un estilo sencillo pero llamativo. Combínalo con tacones, sandalias o chaqueta para diferentes estilos.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1031U3I5O2P9",
+  "item_group_id": "1031",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177497892621425516031292.jpg",
+    "https://euchelperu.com/images/productos/17753513121187994295323.jpg",
+    "https://euchelperu.com/images/productos/177535133714243553362226.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Vichy",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3179,
+      "nombre": "Vino",
+      "precio": 55.0,
+      "id_color_confirmado": 3179,
+      "tallas": [
+        {
+          "id_talla": 3467,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177497892621425516031292.jpg",
+        "https://euchelperu.com/images/productos/17753513121187994295323.jpg",
+        "https://euchelperu.com/images/productos/177535133714243553362226.jpg"
+      ]
+    },
+    {
+      "id_color": 3238,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 3238,
+      "tallas": [
+        {
+          "id_talla": 3560,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17753513121187994295323.jpg",
+        "https://euchelperu.com/images/productos/177497892621425516031292.jpg",
+        "https://euchelperu.com/images/productos/177535133714243553362226.jpg"
+      ]
+    },
+    {
+      "id_color": 3239,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 3239,
+      "tallas": [
+        {
+          "id_talla": 3561,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177535133714243553362226.jpg",
+        "https://euchelperu.com/images/productos/177497892621425516031292.jpg",
+        "https://euchelperu.com/images/productos/17753513121187994295323.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:43:19Z"
+}

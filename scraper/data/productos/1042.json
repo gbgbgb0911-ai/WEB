@@ -1,0 +1,101 @@
+{
+  "id_original": 1042,
+  "url_original": "https://euchelperu.com/producto.php?id=1042",
+  "nombre": "PANTALON SASTRE MIA",
+  "descripcion": "Eleva tu look ejecutivo con nuestro pantalón de corte amplio y caída impecable. Diseñado con pinzas frontales que aportan estructura y un cinturón fino con detalle dorado que enmarca la cintura con total delicadeza.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1042B2V7X3Q6",
+  "item_group_id": "1042",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177509051917884792240238.jpg",
+    "https://euchelperu.com/images/productos/177509109335245522990235.jpg",
+    "https://euchelperu.com/images/productos/177509123978960676774065.jpg",
+    "https://euchelperu.com/images/productos/177509138098954711010304.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "PANTALON SASTRE MIA",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3205,
+      "nombre": "Beige",
+      "precio": 89.0,
+      "id_color_confirmado": 3205,
+      "tallas": [
+        {
+          "id_talla": 3500,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177509051917884792240238.jpg",
+        "https://euchelperu.com/images/productos/177509109335245522990235.jpg",
+        "https://euchelperu.com/images/productos/177509123978960676774065.jpg",
+        "https://euchelperu.com/images/productos/177509138098954711010304.jpg"
+      ]
+    },
+    {
+      "id_color": 3206,
+      "nombre": "Negro",
+      "precio": 89.0,
+      "id_color_confirmado": 3206,
+      "tallas": [
+        {
+          "id_talla": 3501,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177509109335245522990235.jpg",
+        "https://euchelperu.com/images/productos/177509051917884792240238.jpg",
+        "https://euchelperu.com/images/productos/177509123978960676774065.jpg",
+        "https://euchelperu.com/images/productos/177509138098954711010304.jpg"
+      ]
+    },
+    {
+      "id_color": 3207,
+      "nombre": "Blanco",
+      "precio": 89.0,
+      "id_color_confirmado": 3207,
+      "tallas": [
+        {
+          "id_talla": 3503,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177509123978960676774065.jpg",
+        "https://euchelperu.com/images/productos/177509051917884792240238.jpg",
+        "https://euchelperu.com/images/productos/177509109335245522990235.jpg",
+        "https://euchelperu.com/images/productos/177509138098954711010304.jpg"
+      ]
+    },
+    {
+      "id_color": 3208,
+      "nombre": "gris",
+      "precio": 89.0,
+      "id_color_confirmado": 3208,
+      "tallas": [
+        {
+          "id_talla": 3502,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177509138098954711010304.jpg",
+        "https://euchelperu.com/images/productos/177509051917884792240238.jpg",
+        "https://euchelperu.com/images/productos/177509109335245522990235.jpg",
+        "https://euchelperu.com/images/productos/177509123978960676774065.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:49:03Z"
+}

@@ -1,0 +1,275 @@
+{
+  "id_original": 1022,
+  "url_original": "https://euchelperu.com/producto.php?id=1022",
+  "nombre": "RELOJES DE 59",
+  "descripcion": "Esta colección de relojes con diseño minimalista y estética vintage atemporal, creando piezas sutiles, femeninas y sofisticadas. Sus cajas delicadas complementan con correas de cuero genuino, logrando un equilibrio perfecto entre lo clásico y lo moderno. Ligeros, versátiles y elegantes, son el accesorio ideal para el día a día o para ocasiones especiales. Diseñados para quienes aprecian la simplicidad, la estética limpia y la belleza discreta. ¡La elegancia está en los detalles!",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "102259reloj ",
+  "item_group_id": "1022",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177454510427473641565523.jpg",
+    "https://euchelperu.com/images/productos/177454516469314707972930.jpg",
+    "https://euchelperu.com/images/productos/177454544377682351952476.jpg",
+    "https://euchelperu.com/images/productos/1774545653282712388229.jpg",
+    "https://euchelperu.com/images/productos/17745457613944846686775.jpg",
+    "https://euchelperu.com/images/productos/177454605946467974027216.jpg",
+    "https://euchelperu.com/images/productos/177454615189341380077155.jpg",
+    "https://euchelperu.com/images/productos/177454631981246760186172.jpg",
+    "https://euchelperu.com/images/productos/177454639447852465226676.jpg",
+    "https://euchelperu.com/images/productos/177454659517300214461711.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "RELOJES DE 59",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3152,
+      "nombre": "Marrón circular",
+      "precio": 59.0,
+      "id_color_confirmado": 3152,
+      "tallas": [
+        {
+          "id_talla": 3440,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177454510427473641565523.jpg",
+        "https://euchelperu.com/images/productos/177454516469314707972930.jpg",
+        "https://euchelperu.com/images/productos/177454544377682351952476.jpg",
+        "https://euchelperu.com/images/productos/1774545653282712388229.jpg",
+        "https://euchelperu.com/images/productos/17745457613944846686775.jpg",
+        "https://euchelperu.com/images/productos/177454605946467974027216.jpg",
+        "https://euchelperu.com/images/productos/177454615189341380077155.jpg",
+        "https://euchelperu.com/images/productos/177454631981246760186172.jpg",
+        "https://euchelperu.com/images/productos/177454639447852465226676.jpg",
+        "https://euchelperu.com/images/productos/177454659517300214461711.jpg"
+      ]
+    },
+    {
+      "id_color": 3153,
+      "nombre": "Negro ovalado",
+      "precio": 59.0,
+      "id_color_confirmado": 3153,
+      "tallas": [
+        {
+          "id_talla": 3441,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177454516469314707972930.jpg",
+        "https://euchelperu.com/images/productos/177454510427473641565523.jpg",
+        "https://euchelperu.com/images/productos/177454544377682351952476.jpg",
+        "https://euchelperu.com/images/productos/1774545653282712388229.jpg",
+        "https://euchelperu.com/images/productos/17745457613944846686775.jpg",
+        "https://euchelperu.com/images/productos/177454605946467974027216.jpg",
+        "https://euchelperu.com/images/productos/177454615189341380077155.jpg",
+        "https://euchelperu.com/images/productos/177454631981246760186172.jpg",
+        "https://euchelperu.com/images/productos/177454639447852465226676.jpg",
+        "https://euchelperu.com/images/productos/177454659517300214461711.jpg"
+      ]
+    },
+    {
+      "id_color": 3154,
+      "nombre": "Negro siglas",
+      "precio": 59.0,
+      "id_color_confirmado": 3154,
+      "tallas": [
+        {
+          "id_talla": 3442,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177454544377682351952476.jpg",
+        "https://euchelperu.com/images/productos/177454510427473641565523.jpg",
+        "https://euchelperu.com/images/productos/177454516469314707972930.jpg",
+        "https://euchelperu.com/images/productos/1774545653282712388229.jpg",
+        "https://euchelperu.com/images/productos/17745457613944846686775.jpg",
+        "https://euchelperu.com/images/productos/177454605946467974027216.jpg",
+        "https://euchelperu.com/images/productos/177454615189341380077155.jpg",
+        "https://euchelperu.com/images/productos/177454631981246760186172.jpg",
+        "https://euchelperu.com/images/productos/177454639447852465226676.jpg",
+        "https://euchelperu.com/images/productos/177454659517300214461711.jpg"
+      ]
+    },
+    {
+      "id_color": 3155,
+      "nombre": "Marrón c/ destellos",
+      "precio": 59.0,
+      "id_color_confirmado": 3155,
+      "tallas": [
+        {
+          "id_talla": 3443,
+          "nombre": "Regulable"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1774545653282712388229.jpg",
+        "https://euchelperu.com/images/productos/177454510427473641565523.jpg",
+        "https://euchelperu.com/images/productos/177454516469314707972930.jpg",
+        "https://euchelperu.com/images/productos/177454544377682351952476.jpg",
+        "https://euchelperu.com/images/productos/17745457613944846686775.jpg",
+        "https://euchelperu.com/images/productos/177454605946467974027216.jpg",
+        "https://euchelperu.com/images/productos/177454615189341380077155.jpg",
+        "https://euchelperu.com/images/productos/177454631981246760186172.jpg",
+        "https://euchelperu.com/images/productos/177454639447852465226676.jpg",
+        "https://euchelperu.com/images/productos/177454659517300214461711.jpg"
+      ]
+    },
+    {
+      "id_color": 3156,
+      "nombre": "Negro c/ dorado",
+      "precio": 59.0,
+      "id_color_confirmado": 3156,
+      "tallas": [
+        {
+          "id_talla": 3444,
+          "nombre": "Regulable"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17745457613944846686775.jpg",
+        "https://euchelperu.com/images/productos/177454510427473641565523.jpg",
+        "https://euchelperu.com/images/productos/177454516469314707972930.jpg",
+        "https://euchelperu.com/images/productos/177454544377682351952476.jpg",
+        "https://euchelperu.com/images/productos/1774545653282712388229.jpg",
+        "https://euchelperu.com/images/productos/177454605946467974027216.jpg",
+        "https://euchelperu.com/images/productos/177454615189341380077155.jpg",
+        "https://euchelperu.com/images/productos/177454631981246760186172.jpg",
+        "https://euchelperu.com/images/productos/177454639447852465226676.jpg",
+        "https://euchelperu.com/images/productos/177454659517300214461711.jpg"
+      ]
+    },
+    {
+      "id_color": 3157,
+      "nombre": "Marrón c/ plateado",
+      "precio": 59.0,
+      "id_color_confirmado": 3157,
+      "tallas": [
+        {
+          "id_talla": 3445,
+          "nombre": "Regulable"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177454605946467974027216.jpg",
+        "https://euchelperu.com/images/productos/177454510427473641565523.jpg",
+        "https://euchelperu.com/images/productos/177454516469314707972930.jpg",
+        "https://euchelperu.com/images/productos/177454544377682351952476.jpg",
+        "https://euchelperu.com/images/productos/1774545653282712388229.jpg",
+        "https://euchelperu.com/images/productos/17745457613944846686775.jpg",
+        "https://euchelperu.com/images/productos/177454615189341380077155.jpg",
+        "https://euchelperu.com/images/productos/177454631981246760186172.jpg",
+        "https://euchelperu.com/images/productos/177454639447852465226676.jpg",
+        "https://euchelperu.com/images/productos/177454659517300214461711.jpg"
+      ]
+    },
+    {
+      "id_color": 3158,
+      "nombre": "Marón c/ oro rosa",
+      "precio": 59.0,
+      "id_color_confirmado": 3158,
+      "tallas": [
+        {
+          "id_talla": 3448,
+          "nombre": "Regulable"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177454615189341380077155.jpg",
+        "https://euchelperu.com/images/productos/177454510427473641565523.jpg",
+        "https://euchelperu.com/images/productos/177454516469314707972930.jpg",
+        "https://euchelperu.com/images/productos/177454544377682351952476.jpg",
+        "https://euchelperu.com/images/productos/1774545653282712388229.jpg",
+        "https://euchelperu.com/images/productos/17745457613944846686775.jpg",
+        "https://euchelperu.com/images/productos/177454605946467974027216.jpg",
+        "https://euchelperu.com/images/productos/177454631981246760186172.jpg",
+        "https://euchelperu.com/images/productos/177454639447852465226676.jpg",
+        "https://euchelperu.com/images/productos/177454659517300214461711.jpg"
+      ]
+    },
+    {
+      "id_color": 3159,
+      "nombre": "Marrón c/ dorado",
+      "precio": 59.0,
+      "id_color_confirmado": 3159,
+      "tallas": [
+        {
+          "id_talla": 3446,
+          "nombre": "Regulable"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177454631981246760186172.jpg",
+        "https://euchelperu.com/images/productos/177454510427473641565523.jpg",
+        "https://euchelperu.com/images/productos/177454516469314707972930.jpg",
+        "https://euchelperu.com/images/productos/177454544377682351952476.jpg",
+        "https://euchelperu.com/images/productos/1774545653282712388229.jpg",
+        "https://euchelperu.com/images/productos/17745457613944846686775.jpg",
+        "https://euchelperu.com/images/productos/177454605946467974027216.jpg",
+        "https://euchelperu.com/images/productos/177454615189341380077155.jpg",
+        "https://euchelperu.com/images/productos/177454639447852465226676.jpg",
+        "https://euchelperu.com/images/productos/177454659517300214461711.jpg"
+      ]
+    },
+    {
+      "id_color": 3160,
+      "nombre": "Blanco c/ dorado",
+      "precio": 59.0,
+      "id_color_confirmado": 3160,
+      "tallas": [
+        {
+          "id_talla": 3447,
+          "nombre": "Regulable"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177454639447852465226676.jpg",
+        "https://euchelperu.com/images/productos/177454510427473641565523.jpg",
+        "https://euchelperu.com/images/productos/177454516469314707972930.jpg",
+        "https://euchelperu.com/images/productos/177454544377682351952476.jpg",
+        "https://euchelperu.com/images/productos/1774545653282712388229.jpg",
+        "https://euchelperu.com/images/productos/17745457613944846686775.jpg",
+        "https://euchelperu.com/images/productos/177454605946467974027216.jpg",
+        "https://euchelperu.com/images/productos/177454615189341380077155.jpg",
+        "https://euchelperu.com/images/productos/177454631981246760186172.jpg",
+        "https://euchelperu.com/images/productos/177454659517300214461711.jpg"
+      ]
+    },
+    {
+      "id_color": 3161,
+      "nombre": "Plateado",
+      "precio": 59.0,
+      "id_color_confirmado": 3161,
+      "tallas": [
+        {
+          "id_talla": 3449,
+          "nombre": "Regulable"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177454659517300214461711.jpg",
+        "https://euchelperu.com/images/productos/177454510427473641565523.jpg",
+        "https://euchelperu.com/images/productos/177454516469314707972930.jpg",
+        "https://euchelperu.com/images/productos/177454544377682351952476.jpg",
+        "https://euchelperu.com/images/productos/1774545653282712388229.jpg",
+        "https://euchelperu.com/images/productos/17745457613944846686775.jpg",
+        "https://euchelperu.com/images/productos/177454605946467974027216.jpg",
+        "https://euchelperu.com/images/productos/177454615189341380077155.jpg",
+        "https://euchelperu.com/images/productos/177454631981246760186172.jpg",
+        "https://euchelperu.com/images/productos/177454639447852465226676.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:37:40Z"
+}

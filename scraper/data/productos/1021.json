@@ -1,0 +1,49 @@
+{
+  "id_original": 1021,
+  "url_original": "https://euchelperu.com/producto.php?id=1021",
+  "nombre": "FALDA LENTEJUELA DARCY",
+  "descripcion": "",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1021FLD222",
+  "item_group_id": "1021",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177440151402977754546948.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA LENTEJUELA DARCY",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3151,
+      "nombre": "MORADO",
+      "precio": 75.0,
+      "id_color_confirmado": 3151,
+      "tallas": [
+        {
+          "id_talla": 3437,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 3438,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3439,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177440151402977754546948.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:36:34Z"
+}

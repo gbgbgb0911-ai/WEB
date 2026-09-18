@@ -1,0 +1,56 @@
+{
+  "id_original": 1033,
+  "url_original": "https://euchelperu.com/producto.php?id=1033",
+  "nombre": "TOP BICOLOR HILO",
+  "descripcion": "Top tejido en tono blanco con detalles en líneas negras que le dan un estilo moderno y elegante. Su diseño de tirantes anchos y cuello recto brinda un ajuste cómodo y favorecedor, ideal para usar en climas cálidos o para combinar con chaquetas y chompas. El acabado acanalado en la parte inferior permite que el top se ajuste mejor al cuerpo, resaltando la silueta sin perder comodidad. Es una prenda versátil que puedes combinar fácilmente con jeans, faldas o pantalones de vestir para lograr looks casuales o más elegantes.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1033S2A8K4J2",
+  "item_group_id": "1033",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177498084759421260068158.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP BICOLOR HILO",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3181,
+      "nombre": "Beige",
+      "precio": 39.0,
+      "id_color_confirmado": 3181,
+      "tallas": [
+        {
+          "id_talla": 3469,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177498084759421260068158.jpg"
+      ]
+    },
+    {
+      "id_color": 3246,
+      "nombre": "Negro",
+      "precio": 39.0,
+      "id_color_confirmado": 3246,
+      "tallas": [
+        {
+          "id_talla": 3570,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177498084759421260068158.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:43:28Z"
+}

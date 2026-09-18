@@ -1,0 +1,56 @@
+{
+  "id_original": 1023,
+  "url_original": "https://euchelperu.com/producto.php?id=1023",
+  "nombre": "BRAZAETE HADE",
+  "descripcion": "Elegancia simple, diseño atemporal. Estos brazaletes destacan por sus tonos neutros y acabados marmoleados en marfil y ámbar, creando piezas sofisticadas y fáciles de combinar. Su diseño limpio y moderno los convierte en el complemento perfecto para cualquier ocasión, ya sea para un look casual o más elegante. Ideales para usar solos o combinados entre sí para un estilo más llamativo y contemporáneo. Un accesorio minimalista que aporta personalidad y estilo sin esfuerzo.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 25.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1023BraHa34",
+  "item_group_id": "1023",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177455316431439623821293.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BRAZAETE HADE",
+  "precio_listado_normal": 25.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3168,
+      "nombre": "MÁRMOL MÁRFIL",
+      "precio": 25.0,
+      "id_color_confirmado": 3168,
+      "tallas": [
+        {
+          "id_talla": 3456,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177455316431439623821293.jpg"
+      ]
+    },
+    {
+      "id_color": 3170,
+      "nombre": "MÁRMOL ÁMBAR",
+      "precio": 25.0,
+      "id_color_confirmado": 3170,
+      "tallas": [
+        {
+          "id_talla": 3457,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177455316431439623821293.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:38:10Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1027,
+  "url_original": "https://euchelperu.com/producto.php?id=1027",
+  "nombre": "chaqueta demin bolsillos",
+  "descripcion": "Chaqueta Denim Clásica Un esencial que nunca pasa de moda. Esta chaqueta en denim combina un diseño relajado con un acabado ligeramente desgastado que aporta carácter y autenticidad. Su silueta cómoda y versátil la convierte en la prenda perfecta para cualquier temporada. Ideal para llevar sobre básicos y crear looks casuales con un toque moderno y desenfadado. Un clásico reinventado que eleva tu estilo con naturalidad.",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": 105.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1027A4S1D7F9",
+  "item_group_id": "1027",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17747242458249765212463.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "chaqueta demin bolsillos",
+  "precio_listado_normal": 105.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3176,
+      "nombre": "azul denim",
+      "precio": 105.0,
+      "id_color_confirmado": 3176,
+      "tallas": [
+        {
+          "id_talla": 3464,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17747242458249765212463.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:38:34Z"
+}
