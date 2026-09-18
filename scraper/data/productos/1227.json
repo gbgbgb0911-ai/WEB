@@ -1,0 +1,125 @@
+{
+  "id_original": 1227,
+  "url_original": "https://euchelperu.com/producto.php?id=1227",
+  "nombre": "TOP TENTEN",
+  "descripcion": "El toque sofisticado que tu look necesita Eleva tu estilo diario con nuestro nuevo top de encaje en un elegante tono verde oliva. Esta pieza combina un diseño clásico con detalles modernos, ofreciendo un equilibrio perfecto entre lo romántico y lo chic. Con un cuello alto tipo mandarín y delicados botones frontales, este top resalta por su textura trabajada y su corte impecable. Es la opción versátil que necesitas: combínalo con tus jeans favoritos para un look casual-elevado o con una falda para una ocasión más formal.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1227TOP874",
+  "item_group_id": "1227",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178285809942439370510706.jpg",
+    "https://euchelperu.com/images/productos/178293382565733612914544.jpg",
+    "https://euchelperu.com/images/productos/178293395151026507465684.jpg",
+    "https://euchelperu.com/images/productos/178293420764822263110372.jpg",
+    "https://euchelperu.com/images/productos/178293441182863969065144.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP TENTEN",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3710,
+      "nombre": "verde olivo",
+      "precio": 45.0,
+      "id_color_confirmado": 3710,
+      "tallas": [
+        {
+          "id_talla": 3943,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178285809942439370510706.jpg",
+        "https://euchelperu.com/images/productos/178293382565733612914544.jpg",
+        "https://euchelperu.com/images/productos/178293395151026507465684.jpg",
+        "https://euchelperu.com/images/productos/178293420764822263110372.jpg",
+        "https://euchelperu.com/images/productos/178293441182863969065144.jpg"
+      ]
+    },
+    {
+      "id_color": 3732,
+      "nombre": "Beige",
+      "precio": 45.0,
+      "id_color_confirmado": 3732,
+      "tallas": [
+        {
+          "id_talla": 4039,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293382565733612914544.jpg",
+        "https://euchelperu.com/images/productos/178285809942439370510706.jpg",
+        "https://euchelperu.com/images/productos/178293395151026507465684.jpg",
+        "https://euchelperu.com/images/productos/178293420764822263110372.jpg",
+        "https://euchelperu.com/images/productos/178293441182863969065144.jpg"
+      ]
+    },
+    {
+      "id_color": 3733,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 3733,
+      "tallas": [
+        {
+          "id_talla": 4040,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293395151026507465684.jpg",
+        "https://euchelperu.com/images/productos/178285809942439370510706.jpg",
+        "https://euchelperu.com/images/productos/178293382565733612914544.jpg",
+        "https://euchelperu.com/images/productos/178293420764822263110372.jpg",
+        "https://euchelperu.com/images/productos/178293441182863969065144.jpg"
+      ]
+    },
+    {
+      "id_color": 3734,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3734,
+      "tallas": [
+        {
+          "id_talla": 4041,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293420764822263110372.jpg",
+        "https://euchelperu.com/images/productos/178285809942439370510706.jpg",
+        "https://euchelperu.com/images/productos/178293382565733612914544.jpg",
+        "https://euchelperu.com/images/productos/178293395151026507465684.jpg",
+        "https://euchelperu.com/images/productos/178293441182863969065144.jpg"
+      ]
+    },
+    {
+      "id_color": 3735,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 3735,
+      "tallas": [
+        {
+          "id_talla": 4042,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293441182863969065144.jpg",
+        "https://euchelperu.com/images/productos/178285809942439370510706.jpg",
+        "https://euchelperu.com/images/productos/178293382565733612914544.jpg",
+        "https://euchelperu.com/images/productos/178293395151026507465684.jpg",
+        "https://euchelperu.com/images/productos/178293420764822263110372.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:27:26Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id_original": 1226,
+  "url_original": "https://euchelperu.com/producto.php?id=1226",
+  "nombre": "VESTIDO TUNDRA",
+  "descripcion": "Este vestido largo en tono chocolate es la pieza que define la elegancia moderna. Con un diseño sofisticado de cuello halter que estiliza la figura y un detalle central distintivo que aporta un toque único, este modelo es un básico elevado que no puede faltar en tu clóset. Su tejido ligero y fluido con caída suave garantiza comodidad y estilo, mientras que su corte favorecedor resalta la silueta con sutileza.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1226VES547",
+  "item_group_id": "1226",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178285715419380321742394.jpg",
+    "https://euchelperu.com/images/productos/178293461808728806987376.jpg",
+    "https://euchelperu.com/images/productos/178293503899500950135254.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO TUNDRA",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3709,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 3709,
+      "tallas": [
+        {
+          "id_talla": 3942,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178285715419380321742394.jpg",
+        "https://euchelperu.com/images/productos/178293461808728806987376.jpg",
+        "https://euchelperu.com/images/productos/178293503899500950135254.jpg"
+      ]
+    },
+    {
+      "id_color": 3736,
+      "nombre": "Vino",
+      "precio": 75.0,
+      "id_color_confirmado": 3736,
+      "tallas": [
+        {
+          "id_talla": 4043,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293461808728806987376.jpg",
+        "https://euchelperu.com/images/productos/178285715419380321742394.jpg",
+        "https://euchelperu.com/images/productos/178293503899500950135254.jpg"
+      ]
+    },
+    {
+      "id_color": 3737,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 3737,
+      "tallas": [
+        {
+          "id_talla": 4044,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293503899500950135254.jpg",
+        "https://euchelperu.com/images/productos/178285715419380321742394.jpg",
+        "https://euchelperu.com/images/productos/178293461808728806987376.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:26:59Z"
+}

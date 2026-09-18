@@ -1,0 +1,79 @@
+{
+  "id_original": 1228,
+  "url_original": "https://euchelperu.com/producto.php?id=1228",
+  "nombre": "TOP SIFRAH",
+  "descripcion": "Esta prenda es sumamente versátil, ideal para transformar un outfit casual en uno memorable. Ya sea para una salida nocturna o un evento especial, su color profundo y diseño fluido te harán destacar. Atrévete a resaltar con nuestro nuevo top en color vino, diseñado para quienes buscan un look moderno y con mucha personalidad. Su corte asimétrico de un solo hombro ofrece una silueta elegante y actual, mientras que el detalle de encaje en el bajo añade un toque romántico y distintivo.",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1228TOP219",
+  "item_group_id": "1228",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17828586985449446872789.jpg",
+    "https://euchelperu.com/images/productos/178293305468511204740967.jpg",
+    "https://euchelperu.com/images/productos/178293316035344823994245.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP SIFRAH",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3711,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 3711,
+      "tallas": [
+        {
+          "id_talla": 3944,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17828586985449446872789.jpg",
+        "https://euchelperu.com/images/productos/178293305468511204740967.jpg",
+        "https://euchelperu.com/images/productos/178293316035344823994245.jpg"
+      ]
+    },
+    {
+      "id_color": 3729,
+      "nombre": "Plata",
+      "precio": 45.0,
+      "id_color_confirmado": 3729,
+      "tallas": [
+        {
+          "id_talla": 4037,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293305468511204740967.jpg",
+        "https://euchelperu.com/images/productos/17828586985449446872789.jpg",
+        "https://euchelperu.com/images/productos/178293316035344823994245.jpg"
+      ]
+    },
+    {
+      "id_color": 3730,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 3730,
+      "tallas": [
+        {
+          "id_talla": 4038,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293316035344823994245.jpg",
+        "https://euchelperu.com/images/productos/17828586985449446872789.jpg",
+        "https://euchelperu.com/images/productos/178293305468511204740967.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:27:47Z"
+}

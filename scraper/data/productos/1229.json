@@ -1,0 +1,79 @@
+{
+  "id_original": 1229,
+  "url_original": "https://euchelperu.com/producto.php?id=1229",
+  "nombre": "TOP DUBAI",
+  "descripcion": "Dale un giro a tu estilo con este elegante top en tono claro, una pieza diseñada para quienes buscan resaltar con sutileza y glamour. Su diseño de escote drapeado aporta volumen y movimiento, mientras que los detalles metálicos en el cuello le dan un toque moderno y exclusivo, eliminando la necesidad de accesorios adicionales. Su corte favorecedor y caída suave lo convierten en el complemento ideal para elevar cualquier outfit, ya sea que lo combines con jeans para un look casual-chic o con pantalones de vestir para una ocasión especial.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1229TOP843",
+  "item_group_id": "1229",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178285907744675101874833.jpg",
+    "https://euchelperu.com/images/productos/17829318091706948980600.jpg",
+    "https://euchelperu.com/images/productos/178293188037433471275740.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP DUBAI",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3712,
+      "nombre": "Beige",
+      "precio": 49.0,
+      "id_color_confirmado": 3712,
+      "tallas": [
+        {
+          "id_talla": 3945,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178285907744675101874833.jpg",
+        "https://euchelperu.com/images/productos/17829318091706948980600.jpg",
+        "https://euchelperu.com/images/productos/178293188037433471275740.jpg"
+      ]
+    },
+    {
+      "id_color": 3727,
+      "nombre": "Negro",
+      "precio": 49.0,
+      "id_color_confirmado": 3727,
+      "tallas": [
+        {
+          "id_talla": 4035,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17829318091706948980600.jpg",
+        "https://euchelperu.com/images/productos/178285907744675101874833.jpg",
+        "https://euchelperu.com/images/productos/178293188037433471275740.jpg"
+      ]
+    },
+    {
+      "id_color": 3728,
+      "nombre": "Marrón",
+      "precio": 49.0,
+      "id_color_confirmado": 3728,
+      "tallas": [
+        {
+          "id_talla": 4036,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293188037433471275740.jpg",
+        "https://euchelperu.com/images/productos/178285907744675101874833.jpg",
+        "https://euchelperu.com/images/productos/17829318091706948980600.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:27:57Z"
+}

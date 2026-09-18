@@ -1,0 +1,151 @@
+{
+  "id_original": 1224,
+  "url_original": "https://euchelperu.com/producto.php?id=1224",
+  "nombre": "BILETERA DE MUJER",
+  "descripcion": "Billetera Elegante con Textura en Relieve Añade un toque de distinción a tus accesorios con esta billetera diseñada para quienes buscan estilo y funcionalidad en una sola pieza. Su profundo tono vino y su cuidadoso diseño la convierten en un complemento sofisticado para cualquier ocasión.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1224M1V8R5Q33",
+  "item_group_id": "1224",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17821725030615062787958.jpg",
+    "https://euchelperu.com/images/productos/178217262286330604133031.jpg",
+    "https://euchelperu.com/images/productos/178217328476258659522506.jpg",
+    "https://euchelperu.com/images/productos/178217346579725697625875.jpg",
+    "https://euchelperu.com/images/productos/178217356531477180475529.jpg",
+    "https://euchelperu.com/images/productos/178217393027518910717574.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BILETERA DE MUJER",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3654,
+      "nombre": "VINO",
+      "precio": 69.0,
+      "id_color_confirmado": 3654,
+      "tallas": [
+        {
+          "id_talla": 3935,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17821725030615062787958.jpg",
+        "https://euchelperu.com/images/productos/178217262286330604133031.jpg",
+        "https://euchelperu.com/images/productos/178217328476258659522506.jpg",
+        "https://euchelperu.com/images/productos/178217346579725697625875.jpg",
+        "https://euchelperu.com/images/productos/178217356531477180475529.jpg",
+        "https://euchelperu.com/images/productos/178217393027518910717574.jpg"
+      ]
+    },
+    {
+      "id_color": 3655,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 3655,
+      "tallas": [
+        {
+          "id_talla": 3936,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178217262286330604133031.jpg",
+        "https://euchelperu.com/images/productos/17821725030615062787958.jpg",
+        "https://euchelperu.com/images/productos/178217328476258659522506.jpg",
+        "https://euchelperu.com/images/productos/178217346579725697625875.jpg",
+        "https://euchelperu.com/images/productos/178217356531477180475529.jpg",
+        "https://euchelperu.com/images/productos/178217393027518910717574.jpg"
+      ]
+    },
+    {
+      "id_color": 3656,
+      "nombre": "Borgoña",
+      "precio": 69.0,
+      "id_color_confirmado": 3656,
+      "tallas": [
+        {
+          "id_talla": 3937,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178217328476258659522506.jpg",
+        "https://euchelperu.com/images/productos/17821725030615062787958.jpg",
+        "https://euchelperu.com/images/productos/178217262286330604133031.jpg",
+        "https://euchelperu.com/images/productos/178217346579725697625875.jpg",
+        "https://euchelperu.com/images/productos/178217356531477180475529.jpg",
+        "https://euchelperu.com/images/productos/178217393027518910717574.jpg"
+      ]
+    },
+    {
+      "id_color": 3657,
+      "nombre": "NEGRO CON RELIEVE",
+      "precio": 69.0,
+      "id_color_confirmado": 3657,
+      "tallas": [
+        {
+          "id_talla": 3938,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178217346579725697625875.jpg",
+        "https://euchelperu.com/images/productos/17821725030615062787958.jpg",
+        "https://euchelperu.com/images/productos/178217262286330604133031.jpg",
+        "https://euchelperu.com/images/productos/178217328476258659522506.jpg",
+        "https://euchelperu.com/images/productos/178217356531477180475529.jpg",
+        "https://euchelperu.com/images/productos/178217393027518910717574.jpg"
+      ]
+    },
+    {
+      "id_color": 3658,
+      "nombre": "Vino CON RELIEVE",
+      "precio": 69.0,
+      "id_color_confirmado": 3658,
+      "tallas": [
+        {
+          "id_talla": 3939,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178217356531477180475529.jpg",
+        "https://euchelperu.com/images/productos/17821725030615062787958.jpg",
+        "https://euchelperu.com/images/productos/178217262286330604133031.jpg",
+        "https://euchelperu.com/images/productos/178217328476258659522506.jpg",
+        "https://euchelperu.com/images/productos/178217346579725697625875.jpg",
+        "https://euchelperu.com/images/productos/178217393027518910717574.jpg"
+      ]
+    },
+    {
+      "id_color": 3660,
+      "nombre": "Negro c/ TOQUES IISO",
+      "precio": 69.0,
+      "id_color_confirmado": 3660,
+      "tallas": [
+        {
+          "id_talla": 3940,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178217393027518910717574.jpg",
+        "https://euchelperu.com/images/productos/17821725030615062787958.jpg",
+        "https://euchelperu.com/images/productos/178217262286330604133031.jpg",
+        "https://euchelperu.com/images/productos/178217328476258659522506.jpg",
+        "https://euchelperu.com/images/productos/178217346579725697625875.jpg",
+        "https://euchelperu.com/images/productos/178217356531477180475529.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:26:11Z"
+}
