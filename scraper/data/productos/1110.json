@@ -1,0 +1,41 @@
+{
+  "id_original": 1110,
+  "url_original": "https://euchelperu.com/producto.php?id=1110",
+  "nombre": "FLARE SARA",
+  "descripcion": "",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1110FLA83993",
+  "item_group_id": "1110",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1776990481277213198941.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FLARE SARA",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3352,
+      "nombre": "Azul",
+      "precio": 95.0,
+      "id_color_confirmado": 3352,
+      "tallas": [
+        {
+          "id_talla": 3711,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1776990481277213198941.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:33:13Z"
+}

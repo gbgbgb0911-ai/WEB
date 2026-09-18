@@ -1,0 +1,76 @@
+{
+  "id_original": 1116,
+  "url_original": "https://euchelperu.com/producto.php?id=1116",
+  "nombre": "TOP JACKY",
+  "descripcion": "El equilibrio perfecto entre comodidad y estilo. Este top de manga larga destaca por su cuello amplio que añade volumen visual en los puntos clave. Es la alternativa ideal para esta temporada.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1116ASDX",
+  "item_group_id": "1116",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3442,
+      "nombre": "Negro",
+      "precio": 49.0,
+      "id_color_confirmado": 3442,
+      "tallas": [
+        {
+          "id_talla": 3768,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": []
+    },
+    {
+      "id_color": 3443,
+      "nombre": "Marrón",
+      "precio": 49.0,
+      "id_color_confirmado": 3443,
+      "tallas": [
+        {
+          "id_talla": 3769,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": []
+    },
+    {
+      "id_color": 3444,
+      "nombre": "Azul",
+      "precio": 49.0,
+      "id_color_confirmado": 3444,
+      "tallas": [
+        {
+          "id_talla": 3770,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": []
+    },
+    {
+      "id_color": 3445,
+      "nombre": "Guinda",
+      "precio": 49.0,
+      "id_color_confirmado": 3445,
+      "tallas": [
+        {
+          "id_talla": 3771,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": []
+    }
+  ],
+  "scraped_at": "2026-09-18T04:37:34Z"
+}

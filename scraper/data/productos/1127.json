@@ -1,0 +1,33 @@
+{
+  "id_original": 1127,
+  "url_original": "https://euchelperu.com/producto.php?id=1127",
+  "nombre": "STRAIGHT JEANS BLUE",
+  "descripcion": "Eleva tu básico diario con este jean de corte impecable. Su diseño de pierna ancha y fluida en azul oscuro ofrece una elegancia sutil, ideal tanto para la oficina como para una salida especial.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": null,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1127",
+  "item_group_id": "1127",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": null,
+      "nombre": "Único",
+      "precio": null,
+      "id_color_confirmado": null,
+      "tallas": [],
+      "imagenes": [],
+      "nota": "producto sin select#clickfoto; tratado como color único"
+    }
+  ],
+  "scraped_at": "2026-09-18T04:37:49Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1113,
+  "url_original": "https://euchelperu.com/producto.php?id=1113",
+  "nombre": "FLARE SEMI CADERA",
+  "descripcion": "",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1113FLA20233",
+  "item_group_id": "1113",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177699158275997670865862.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FLARE SEMI CADERA",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3355,
+      "nombre": "AZUL OXIDO",
+      "precio": 95.0,
+      "id_color_confirmado": 3355,
+      "tallas": [
+        {
+          "id_talla": 3709,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177699158275997670865862.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:35:43Z"
+}

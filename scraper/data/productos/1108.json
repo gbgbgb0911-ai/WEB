@@ -1,0 +1,41 @@
+{
+  "id_original": 1108,
+  "url_original": "https://euchelperu.com/producto.php?id=1108",
+  "nombre": "PANTAON ZENIT",
+  "descripcion": "",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1108PAN11575",
+  "item_group_id": "1108",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177699012162873935664570.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "PANTAON ZENIT",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3350,
+      "nombre": "Negro",
+      "precio": 95.0,
+      "id_color_confirmado": 3350,
+      "tallas": [
+        {
+          "id_talla": 3713,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177699012162873935664570.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:32:19Z"
+}

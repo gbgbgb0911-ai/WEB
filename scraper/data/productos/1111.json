@@ -1,0 +1,79 @@
+{
+  "id_original": 1111,
+  "url_original": "https://euchelperu.com/producto.php?id=1111",
+  "nombre": "OFF SHOULDER LINES HILO",
+  "descripcion": "",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1111OFF19965",
+  "item_group_id": "1111",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17769906786977495387404.jpg",
+    "https://euchelperu.com/images/productos/177713268517914283815565.jpg",
+    "https://euchelperu.com/images/productos/177715135352304385432985.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "OFF SHOULDER LINES HILO",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3353,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 3353,
+      "tallas": [
+        {
+          "id_talla": 3710,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17769906786977495387404.jpg",
+        "https://euchelperu.com/images/productos/177713268517914283815565.jpg",
+        "https://euchelperu.com/images/productos/177715135352304385432985.jpg"
+      ]
+    },
+    {
+      "id_color": 3388,
+      "nombre": "Vino con rayas blancas",
+      "precio": 59.0,
+      "id_color_confirmado": 3388,
+      "tallas": [
+        {
+          "id_talla": 3724,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177713268517914283815565.jpg",
+        "https://euchelperu.com/images/productos/17769906786977495387404.jpg",
+        "https://euchelperu.com/images/productos/177715135352304385432985.jpg"
+      ]
+    },
+    {
+      "id_color": 3389,
+      "nombre": "Azul con rayas blancas",
+      "precio": 59.0,
+      "id_color_confirmado": 3389,
+      "tallas": [
+        {
+          "id_talla": 3723,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177715135352304385432985.jpg",
+        "https://euchelperu.com/images/productos/17769906786977495387404.jpg",
+        "https://euchelperu.com/images/productos/177713268517914283815565.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:34:22Z"
+}

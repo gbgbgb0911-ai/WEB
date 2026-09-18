@@ -1,0 +1,33 @@
+{
+  "id_original": 1128,
+  "url_original": "https://euchelperu.com/producto.php?id=1128",
+  "nombre": "PANTAON BONAGE",
+  "descripcion": "Eleva tu estilo diario con nuestros jean Bonage, es la base ideal para cualquier outfit, desde un top básico hasta una chaqueta estructurada.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": null,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1128",
+  "item_group_id": "1128",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": null,
+      "nombre": "Único",
+      "precio": null,
+      "id_color_confirmado": null,
+      "tallas": [],
+      "imagenes": [],
+      "nota": "producto sin select#clickfoto; tratado como color único"
+    }
+  ],
+  "scraped_at": "2026-09-18T04:37:49Z"
+}

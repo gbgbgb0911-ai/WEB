@@ -1,0 +1,33 @@
+{
+  "id_original": 1129,
+  "url_original": "https://euchelperu.com/producto.php?id=1129",
+  "nombre": "FALDA SHORT DENIM CADERA",
+  "descripcion": "Vuelve la tendencia a la cadera con esta falda short de denim. Con un lavado vintage desgastado y un corte mini súper favorecedor, es la prenda clave para un look auténtico.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": null,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1129",
+  "item_group_id": "1129",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": null,
+      "nombre": "Único",
+      "precio": null,
+      "id_color_confirmado": null,
+      "tallas": [],
+      "imagenes": [],
+      "nota": "producto sin select#clickfoto; tratado como color único"
+    }
+  ],
+  "scraped_at": "2026-09-18T04:37:49Z"
+}

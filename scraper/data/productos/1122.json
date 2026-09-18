@@ -1,0 +1,33 @@
+{
+  "id_original": 1122,
+  "url_original": "https://euchelperu.com/producto.php?id=1122",
+  "nombre": "TOP ASIMÉTRICO MAGNOLIA",
+  "descripcion": "Eleva tu básico al siguiente nivel con este top de manga larga asimétrico. El detalle \"cut-out\" en el hombro es el toque moderno y sofisticado que necesitas, y combínalo con tus jeans favoritos!!!",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": null,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1122",
+  "item_group_id": "1122",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": null,
+      "nombre": "Único",
+      "precio": null,
+      "id_color_confirmado": null,
+      "tallas": [],
+      "imagenes": [],
+      "nota": "producto sin select#clickfoto; tratado como color único"
+    }
+  ],
+  "scraped_at": "2026-09-18T04:37:34Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id_original": 1130,
+  "url_original": "https://euchelperu.com/producto.php?id=1130",
+  "nombre": "TOP ARI ASIMÉTRICO",
+  "descripcion": "Sofisticación en un solo hombro. Este top destaca por su diseño asimétrico y un drapeado frontal que realza tu silueta. El básico elevado que necesitas esta temporada.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": null,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1130",
+  "item_group_id": "1130",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": null,
+      "nombre": "Único",
+      "precio": null,
+      "id_color_confirmado": null,
+      "tallas": [],
+      "imagenes": [],
+      "nota": "producto sin select#clickfoto; tratado como color único"
+    }
+  ],
+  "scraped_at": "2026-09-18T04:37:49Z"
+}

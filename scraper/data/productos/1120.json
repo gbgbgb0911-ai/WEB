@@ -1,0 +1,33 @@
+{
+  "id_original": 1120,
+  "url_original": "https://euchelperu.com/producto.php?id=1120",
+  "nombre": "CARDIGAN CAMISERO ISABELLE",
+  "descripcion": "Eleva cualquier look con este cárdigan. Un diseño clásico que nunca pasa de moda. ¡Tu nuevo básico favorito!",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": null,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1120",
+  "item_group_id": "1120",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": null,
+      "nombre": "Único",
+      "precio": null,
+      "id_color_confirmado": null,
+      "tallas": [],
+      "imagenes": [],
+      "nota": "producto sin select#clickfoto; tratado como color único"
+    }
+  ],
+  "scraped_at": "2026-09-18T04:37:34Z"
+}

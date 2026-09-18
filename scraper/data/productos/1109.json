@@ -1,0 +1,41 @@
+{
+  "id_original": 1109,
+  "url_original": "https://euchelperu.com/producto.php?id=1109",
+  "nombre": "BAGGY SARA",
+  "descripcion": "",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1109BCS33",
+  "item_group_id": "1109",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177699038808466846431473.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BAGGY SARA",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3351,
+      "nombre": "Azul",
+      "precio": 95.0,
+      "id_color_confirmado": 3351,
+      "tallas": [
+        {
+          "id_talla": 3712,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177699038808466846431473.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:32:46Z"
+}

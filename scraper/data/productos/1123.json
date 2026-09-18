@@ -1,0 +1,36 @@
+{
+  "id_original": 1123,
+  "url_original": "https://euchelperu.com/producto.php?id=1123",
+  "nombre": "SWEATER TORTUGA HILO",
+  "descripcion": "Destaca por su tejido de punto acanalado vertical que estiliza la figura, cuello de tortuga protector y una silueta corta moderna con hombros ligeramente caídos.",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": null,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1123",
+  "item_group_id": "1123",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178215093668542411383225.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3640,
+      "nombre": "verde oscuro",
+      "precio": null,
+      "id_color_confirmado": 3640,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178215093668542411383225.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:37:49Z"
+}

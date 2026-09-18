@@ -1,0 +1,33 @@
+{
+  "id_original": 1118,
+  "url_original": "https://euchelperu.com/producto.php?id=1118",
+  "nombre": "CASACA DUP",
+  "descripcion": "Eleva tu look al instante con esta pieza clave de la temporada. Nuestra chaqueta en un profundo tono chocolate es la mezcla perfecta entre lo clásico y lo moderno. Su diseño cropped estiliza la figura, mientras que el detalle del cinturón con hebilla en la base aporta ese toque lindo que tanto nos gusta.",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": null,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1118",
+  "item_group_id": "1118",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": null,
+      "nombre": "Único",
+      "precio": null,
+      "id_color_confirmado": null,
+      "tallas": [],
+      "imagenes": [],
+      "nota": "producto sin select#clickfoto; tratado como color único"
+    }
+  ],
+  "scraped_at": "2026-09-18T04:37:34Z"
+}
