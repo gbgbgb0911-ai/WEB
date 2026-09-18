@@ -1,0 +1,41 @@
+{
+  "id_original": 660,
+  "url_original": "https://euchelperu.com/producto.php?id=660",
+  "nombre": "MINI VESTIDO FRANCESCA",
+  "descripcion": "Presenta un diseño drapeado en el cuerpo y los laterales, y una capa inferior transparente con un volante en el bajo. Destaca un panel de tela de malla que cae desde el lateral, añadiendo un toque dramático y sensual.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 70.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "660MIN95376",
+  "item_group_id": "660",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176584766367834158383742.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO FRANCESCA",
+  "precio_listado_normal": 70.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2094,
+      "nombre": "Verde",
+      "precio": 70.0,
+      "id_color_confirmado": 2094,
+      "tallas": [
+        {
+          "id_talla": 2452,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176584766367834158383742.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:22:00Z"
+}

@@ -1,0 +1,105 @@
+{
+  "id_original": 661,
+  "url_original": "https://euchelperu.com/producto.php?id=661",
+  "nombre": "TOP GIGI BROCHE",
+  "descripcion": "Presenta una banda ancha con efecto smock o fruncido en la cintura para definir la silueta, creando una forma ajustada y favorecedora.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "661TOP70590",
+  "item_group_id": "661",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17658478419529890420090.jpg",
+    "https://euchelperu.com/images/productos/176591251761024218459309.jpg",
+    "https://euchelperu.com/images/productos/1765912558748315236468.jpg",
+    "https://euchelperu.com/images/productos/176591262387596693630461.jpg",
+    "https://euchelperu.com/images/productos/176591299105392635695446.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP GIGI BROCHE",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2095,
+      "nombre": "Azul",
+      "precio": 45.0,
+      "id_color_confirmado": 2095,
+      "tallas": [
+        {
+          "id_talla": 2453,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17658478419529890420090.jpg",
+        "https://euchelperu.com/images/productos/176591251761024218459309.jpg",
+        "https://euchelperu.com/images/productos/1765912558748315236468.jpg",
+        "https://euchelperu.com/images/productos/176591262387596693630461.jpg",
+        "https://euchelperu.com/images/productos/176591299105392635695446.jpg"
+      ]
+    },
+    {
+      "id_color": 2111,
+      "nombre": "Marrón",
+      "precio": null,
+      "id_color_confirmado": 2111,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176591262387596693630461.jpg",
+        "https://euchelperu.com/images/productos/17658478419529890420090.jpg",
+        "https://euchelperu.com/images/productos/176591251761024218459309.jpg",
+        "https://euchelperu.com/images/productos/1765912558748315236468.jpg",
+        "https://euchelperu.com/images/productos/176591299105392635695446.jpg"
+      ]
+    },
+    {
+      "id_color": 2112,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 2112,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1765912558748315236468.jpg",
+        "https://euchelperu.com/images/productos/17658478419529890420090.jpg",
+        "https://euchelperu.com/images/productos/176591251761024218459309.jpg",
+        "https://euchelperu.com/images/productos/176591262387596693630461.jpg",
+        "https://euchelperu.com/images/productos/176591299105392635695446.jpg"
+      ]
+    },
+    {
+      "id_color": 2113,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 2113,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176591251761024218459309.jpg",
+        "https://euchelperu.com/images/productos/17658478419529890420090.jpg",
+        "https://euchelperu.com/images/productos/1765912558748315236468.jpg",
+        "https://euchelperu.com/images/productos/176591262387596693630461.jpg",
+        "https://euchelperu.com/images/productos/176591299105392635695446.jpg"
+      ]
+    },
+    {
+      "id_color": 2114,
+      "nombre": "Amarillo",
+      "precio": null,
+      "id_color_confirmado": 2114,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176591299105392635695446.jpg",
+        "https://euchelperu.com/images/productos/17658478419529890420090.jpg",
+        "https://euchelperu.com/images/productos/176591251761024218459309.jpg",
+        "https://euchelperu.com/images/productos/1765912558748315236468.jpg",
+        "https://euchelperu.com/images/productos/176591262387596693630461.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:22:39Z"
+}
