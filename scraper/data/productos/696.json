@@ -1,0 +1,71 @@
+{
+  "id_original": 696,
+  "url_original": "https://euchelperu.com/producto.php?id=696",
+  "nombre": "MINI VESTIDO KATH COPA",
+  "descripcion": "Este vestido corto en un vibrante tono amarillo es perfección para quienes buscan un look fresco, sensual y lleno de estilo. Con escote en V suave, tirantes finos y una silueta ajustada que realza la figura, este diseño se complementa con tiras largas laterales tipo cascada que le dan movimiento y un toque único con cada paso. Ideal para eventos especiales, salidas nocturnas o momentos donde quieras destacar con elegancia y personalidad, este vestido combina feminidad y tendencia en una sola pieza.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 70.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "696MIN24621",
+  "item_group_id": "696",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176635762049380826359829.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2180,
+      "nombre": "Amarillo",
+      "precio": 70.0,
+      "id_color_confirmado": 2180,
+      "tallas": [
+        {
+          "id_talla": 2569,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176635762049380826359829.jpg"
+      ]
+    },
+    {
+      "id_color": 2181,
+      "nombre": "Negro",
+      "precio": 70.0,
+      "id_color_confirmado": 2181,
+      "tallas": [
+        {
+          "id_talla": 2571,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176635762049380826359829.jpg"
+      ]
+    },
+    {
+      "id_color": 2182,
+      "nombre": "Blanco",
+      "precio": 70.0,
+      "id_color_confirmado": 2182,
+      "tallas": [
+        {
+          "id_talla": 2572,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176635762049380826359829.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:32:03Z"
+}

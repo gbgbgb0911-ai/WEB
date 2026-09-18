@@ -1,0 +1,79 @@
+{
+  "id_original": 697,
+  "url_original": "https://euchelperu.com/producto.php?id=697",
+  "nombre": "VESTIDO CANDICE TORTUGA",
+  "descripcion": "Haz una entrada inolvidable con este vestido largo en un vibrante tono rojo, diseñado para resaltar tu figura con elegancia y sofisticación. Su escote profundo drapeado aporta un toque sensual y moderno, mientras que la silueta estilizada y fluida alarga visualmente la figura y ofrece un look femenino y distintivo. Ideal para eventos especiales, celebraciones nocturnas o cualquier ocasión en la que quieras destacar con estilo y confianza.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "697VES50873",
+  "item_group_id": "697",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177335186225025799579768.jpg",
+    "https://euchelperu.com/images/productos/177335193265453473983868.jpg",
+    "https://euchelperu.com/images/productos/177335221693580502930495.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO CANDICE TORTUGA",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2183,
+      "nombre": "blanco",
+      "precio": 85.0,
+      "id_color_confirmado": 2183,
+      "tallas": [
+        {
+          "id_talla": 2573,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177335186225025799579768.jpg",
+        "https://euchelperu.com/images/productos/177335193265453473983868.jpg",
+        "https://euchelperu.com/images/productos/177335221693580502930495.jpg"
+      ]
+    },
+    {
+      "id_color": 2184,
+      "nombre": "Amarillo",
+      "precio": 85.0,
+      "id_color_confirmado": 2184,
+      "tallas": [
+        {
+          "id_talla": 2574,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177335221693580502930495.jpg",
+        "https://euchelperu.com/images/productos/177335186225025799579768.jpg",
+        "https://euchelperu.com/images/productos/177335193265453473983868.jpg"
+      ]
+    },
+    {
+      "id_color": 3053,
+      "nombre": "verde agua",
+      "precio": 85.0,
+      "id_color_confirmado": 3053,
+      "tallas": [
+        {
+          "id_talla": 3380,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177335193265453473983868.jpg",
+        "https://euchelperu.com/images/productos/177335186225025799579768.jpg",
+        "https://euchelperu.com/images/productos/177335221693580502930495.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:32:24Z"
+}

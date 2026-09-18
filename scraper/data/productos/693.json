@@ -1,0 +1,55 @@
+{
+  "id_original": 693,
+  "url_original": "https://euchelperu.com/producto.php?id=693",
+  "nombre": "Bikini Meredith",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "693BKN15276",
+  "item_group_id": "693",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17662558964853985379206.jpg",
+    "https://euchelperu.com/images/productos/176625590606171420436519.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Meredith",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2175,
+      "nombre": "Verde Pistacho",
+      "precio": 99.0,
+      "id_color_confirmado": 2175,
+      "tallas": [
+        {
+          "id_talla": 2559,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2560,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2561,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2562,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17662558964853985379206.jpg",
+        "https://euchelperu.com/images/productos/176625590606171420436519.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:30:51Z"
+}

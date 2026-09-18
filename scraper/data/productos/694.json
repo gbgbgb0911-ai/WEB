@@ -1,0 +1,41 @@
+{
+  "id_original": 694,
+  "url_original": "https://euchelperu.com/producto.php?id=694",
+  "nombre": "VESTIDO CARIBE FLOR",
+  "descripcion": "Descubre nuestro vestido largo con un estampado floral impactante en rojo sobre fondo negro, diseñado para resaltar con sofisticación y estilo. Con tirantes finos y silueta ceñida, este vestido combina elegancia y feminidad para ocasiones especiales, eventos nocturnos o salidas donde quieras lucir espectacular. Su tejido fluido y el diseño moderno hacen que sea fácil de llevar y favorecedor para distintas figuras. Un must-have en tu guardarropa si buscas una pieza que mezcle arte y moda con un toque atrevido.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "694VES54448",
+  "item_group_id": "694",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17663541292504470752879.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO CARIBE FLOR",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2176,
+      "nombre": "NEGRO",
+      "precio": 69.0,
+      "id_color_confirmado": 2176,
+      "tallas": [
+        {
+          "id_talla": 2563,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17663541292504470752879.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:30:54Z"
+}

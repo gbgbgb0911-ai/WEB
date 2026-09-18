@@ -1,0 +1,59 @@
+{
+  "id_original": 692,
+  "url_original": "https://euchelperu.com/producto.php?id=692",
+  "nombre": "Bikini Cristina",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "692BKN152098",
+  "item_group_id": "692",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176625556004194370615835.jpg",
+    "https://euchelperu.com/images/productos/176625556854533767328687.jpg",
+    "https://euchelperu.com/images/productos/176625559277738251446542.jpg",
+    "https://euchelperu.com/images/productos/176625559268902555293305.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Cristina",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2174,
+      "nombre": "Rojo",
+      "precio": 99.0,
+      "id_color_confirmado": 2174,
+      "tallas": [
+        {
+          "id_talla": 2555,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2556,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2557,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2558,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176625556004194370615835.jpg",
+        "https://euchelperu.com/images/productos/176625556854533767328687.jpg",
+        "https://euchelperu.com/images/productos/176625559277738251446542.jpg",
+        "https://euchelperu.com/images/productos/176625559268902555293305.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:30:48Z"
+}
