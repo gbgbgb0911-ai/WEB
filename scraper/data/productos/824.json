@@ -1,0 +1,101 @@
+{
+  "id_original": 824,
+  "url_original": "https://euchelperu.com/producto.php?id=824",
+  "nombre": "STRAPLESS SOF ENCAJE",
+  "descripcion": "Este delicado crop top de encaje floral en tono rosa pastel presenta un diseño tipo bandeau con un elegante drapeado central que realza el busto y bordes festoneados elásticos, convirtiéndolo en la pieza romántica y versátil ideal para crear looks femeninos de tendencia.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 29.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "824STR72325",
+  "item_group_id": "824",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176824086846136910817282.jpg",
+    "https://euchelperu.com/images/productos/176824116517783920261960.png",
+    "https://euchelperu.com/images/productos/176824205881270313697891.png",
+    "https://euchelperu.com/images/productos/17682421160285891068851.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "STRAPLESS SOF ENCAJE",
+  "precio_listado_normal": 29.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2489,
+      "nombre": "Rosado",
+      "precio": 29.0,
+      "id_color_confirmado": 2489,
+      "tallas": [
+        {
+          "id_talla": 2905,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176824086846136910817282.jpg",
+        "https://euchelperu.com/images/productos/176824116517783920261960.png",
+        "https://euchelperu.com/images/productos/176824205881270313697891.png",
+        "https://euchelperu.com/images/productos/17682421160285891068851.png"
+      ]
+    },
+    {
+      "id_color": 2490,
+      "nombre": "celeste",
+      "precio": 29.0,
+      "id_color_confirmado": 2490,
+      "tallas": [
+        {
+          "id_talla": 2906,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176824116517783920261960.png",
+        "https://euchelperu.com/images/productos/176824086846136910817282.jpg",
+        "https://euchelperu.com/images/productos/176824205881270313697891.png",
+        "https://euchelperu.com/images/productos/17682421160285891068851.png"
+      ]
+    },
+    {
+      "id_color": 2491,
+      "nombre": "Vino",
+      "precio": 29.0,
+      "id_color_confirmado": 2491,
+      "tallas": [
+        {
+          "id_talla": 2907,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176824205881270313697891.png",
+        "https://euchelperu.com/images/productos/176824086846136910817282.jpg",
+        "https://euchelperu.com/images/productos/176824116517783920261960.png",
+        "https://euchelperu.com/images/productos/17682421160285891068851.png"
+      ]
+    },
+    {
+      "id_color": 2492,
+      "nombre": "Blanco",
+      "precio": 29.0,
+      "id_color_confirmado": 2492,
+      "tallas": [
+        {
+          "id_talla": 2908,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17682421160285891068851.png",
+        "https://euchelperu.com/images/productos/176824086846136910817282.jpg",
+        "https://euchelperu.com/images/productos/176824116517783920261960.png",
+        "https://euchelperu.com/images/productos/176824205881270313697891.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:24:20Z"
+}

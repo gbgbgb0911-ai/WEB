@@ -1,0 +1,79 @@
+{
+  "id_original": 823,
+  "url_original": "https://euchelperu.com/producto.php?id=823",
+  "nombre": "Corset greicy cadena",
+  "descripcion": "Esta pieza no es simplemente una prenda de vestir; es una joya arquitectónica diseñada para la mujer que busca ser el centro de todas las miradas. Inspirado en el lujo de las noches de gala y la estética vibrante del vintage glam, este top redefine el concepto de brillo y sofisticación.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 50.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "823TOP31686",
+  "item_group_id": "823",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17682384444530215240039.png",
+    "https://euchelperu.com/images/productos/176823936995670408649907.jpg",
+    "https://euchelperu.com/images/productos/176823937937612245042445.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2485,
+      "nombre": "Dorado",
+      "precio": 50.0,
+      "id_color_confirmado": 2485,
+      "tallas": [
+        {
+          "id_talla": 2901,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176823936995670408649907.jpg",
+        "https://euchelperu.com/images/productos/17682384444530215240039.png",
+        "https://euchelperu.com/images/productos/176823937937612245042445.png"
+      ]
+    },
+    {
+      "id_color": 2486,
+      "nombre": "Plateado",
+      "precio": 50.0,
+      "id_color_confirmado": 2486,
+      "tallas": [
+        {
+          "id_talla": 2902,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17682384444530215240039.png",
+        "https://euchelperu.com/images/productos/176823936995670408649907.jpg",
+        "https://euchelperu.com/images/productos/176823937937612245042445.png"
+      ]
+    },
+    {
+      "id_color": 2487,
+      "nombre": "Negro",
+      "precio": 50.0,
+      "id_color_confirmado": 2487,
+      "tallas": [
+        {
+          "id_talla": 2903,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176823937937612245042445.png",
+        "https://euchelperu.com/images/productos/17682384444530215240039.png",
+        "https://euchelperu.com/images/productos/176823936995670408649907.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:22:54Z"
+}

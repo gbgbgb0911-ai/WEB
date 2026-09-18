@@ -23,7 +23,13 @@ const UA = "EuchelCatalogMigration/1.0 (extraccion autorizada por los duenos de 
 const TAMANOS = { thumb: 500, full: 1400 };
 const CALIDAD = 82;
 const TIMEOUT = 45_000;
-const REINTENTOS = 3;
+// La sesión cloud corta ~1 de cada 3 conexiones (ECONNRESET) por su proxy de
+// salida, nunca del servidor: 403/429/5xx ya cortan aparte, sin reintentar.
+// Medido en el scraper Python con el mismo patrón: 6 intentos y backoff
+// 0,5s -> 4s (en vez de 2s -> 8s con 3 intentos) ganó ~25% sin perder datos.
+const REINTENTOS = 6;
+const BACKOFF_INICIAL = 500;
+const BACKOFF_TOPE = 4000;
 
 const args = process.argv.slice(2);
 const opt = (n, def) => {
@@ -75,7 +81,7 @@ async function indexar() {
 }
 
 async function descargar(url, destino) {
-  let espera = 2000;
+  let espera = BACKOFF_INICIAL;
   for (let intento = 1; intento <= REINTENTOS; intento++) {
     const ctrl = new AbortController();
     const t = setTimeout(() => ctrl.abort(), TIMEOUT);
@@ -95,7 +101,7 @@ async function descargar(url, destino) {
       if (e.detener) throw e;
       if (intento === REINTENTOS) return { ok: false, motivo: String(e.message || e) };
       await dormir(espera);
-      espera *= 2;
+      espera = Math.min(espera * 2, BACKOFF_TOPE);
     }
   }
 }
