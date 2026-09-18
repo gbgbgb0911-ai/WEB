@@ -1,0 +1,41 @@
+{
+  "id_original": 778,
+  "url_original": "https://euchelperu.com/producto.php?id=778",
+  "nombre": "Top Bri Shine",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7780048",
+  "item_group_id": "778",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17674606583847454497473.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Bri Shine",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2341,
+      "nombre": "Dorado",
+      "precio": 55.0,
+      "id_color_confirmado": 2341,
+      "tallas": [
+        {
+          "id_talla": 2751,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17674606583847454497473.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:03:13Z"
+}

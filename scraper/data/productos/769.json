@@ -1,0 +1,101 @@
+{
+  "id_original": 769,
+  "url_original": "https://euchelperu.com/producto.php?id=769",
+  "nombre": "Top Moana",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7690034",
+  "item_group_id": "769",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176745968094173580762001.jpg",
+    "https://euchelperu.com/images/productos/176771874053843570516659.jpg",
+    "https://euchelperu.com/images/productos/17677187733562323833259.jpg",
+    "https://euchelperu.com/images/productos/176771887869327952633142.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Moana",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2332,
+      "nombre": "Verde",
+      "precio": 45.0,
+      "id_color_confirmado": 2332,
+      "tallas": [
+        {
+          "id_talla": 2742,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176745968094173580762001.jpg",
+        "https://euchelperu.com/images/productos/176771874053843570516659.jpg",
+        "https://euchelperu.com/images/productos/17677187733562323833259.jpg",
+        "https://euchelperu.com/images/productos/176771887869327952633142.jpg"
+      ]
+    },
+    {
+      "id_color": 2382,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 2382,
+      "tallas": [
+        {
+          "id_talla": 2890,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176771874053843570516659.jpg",
+        "https://euchelperu.com/images/productos/176745968094173580762001.jpg",
+        "https://euchelperu.com/images/productos/17677187733562323833259.jpg",
+        "https://euchelperu.com/images/productos/176771887869327952633142.jpg"
+      ]
+    },
+    {
+      "id_color": 2383,
+      "nombre": "Celeste",
+      "precio": 45.0,
+      "id_color_confirmado": 2383,
+      "tallas": [
+        {
+          "id_talla": 2891,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17677187733562323833259.jpg",
+        "https://euchelperu.com/images/productos/176745968094173580762001.jpg",
+        "https://euchelperu.com/images/productos/176771874053843570516659.jpg",
+        "https://euchelperu.com/images/productos/176771887869327952633142.jpg"
+      ]
+    },
+    {
+      "id_color": 2384,
+      "nombre": "Borgoña",
+      "precio": 45.0,
+      "id_color_confirmado": 2384,
+      "tallas": [
+        {
+          "id_talla": 2892,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176771887869327952633142.jpg",
+        "https://euchelperu.com/images/productos/176745968094173580762001.jpg",
+        "https://euchelperu.com/images/productos/176771874053843570516659.jpg",
+        "https://euchelperu.com/images/productos/17677187733562323833259.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:56:54Z"
+}

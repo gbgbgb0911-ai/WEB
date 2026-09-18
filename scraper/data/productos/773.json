@@ -1,0 +1,79 @@
+{
+  "id_original": 773,
+  "url_original": "https://euchelperu.com/producto.php?id=773",
+  "nombre": "Vestido Esther Shine",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7730038",
+  "item_group_id": "773",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176746009055983691467322.jpg",
+    "https://euchelperu.com/images/productos/176791969535548596947571.png",
+    "https://euchelperu.com/images/productos/176791976856283516515506.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Esther Shine",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2336,
+      "nombre": "Negro",
+      "precio": 85.0,
+      "id_color_confirmado": 2336,
+      "tallas": [
+        {
+          "id_talla": 2746,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176746009055983691467322.jpg",
+        "https://euchelperu.com/images/productos/176791969535548596947571.png",
+        "https://euchelperu.com/images/productos/176791976856283516515506.png"
+      ]
+    },
+    {
+      "id_color": 2472,
+      "nombre": "Beige",
+      "precio": 85.0,
+      "id_color_confirmado": 2472,
+      "tallas": [
+        {
+          "id_talla": 2888,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176791969535548596947571.png",
+        "https://euchelperu.com/images/productos/176746009055983691467322.jpg",
+        "https://euchelperu.com/images/productos/176791976856283516515506.png"
+      ]
+    },
+    {
+      "id_color": 2473,
+      "nombre": "Rojo",
+      "precio": 85.0,
+      "id_color_confirmado": 2473,
+      "tallas": [
+        {
+          "id_talla": 2889,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176791976856283516515506.png",
+        "https://euchelperu.com/images/productos/176746009055983691467322.jpg",
+        "https://euchelperu.com/images/productos/176791969535548596947571.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:00:37Z"
+}

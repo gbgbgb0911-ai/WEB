@@ -1,0 +1,101 @@
+{
+  "id_original": 770,
+  "url_original": "https://euchelperu.com/producto.php?id=770",
+  "nombre": "Top Luciana amarrable",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7700035",
+  "item_group_id": "770",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1767459793334643677936.jpg",
+    "https://euchelperu.com/images/productos/176772724664868615242266.jpg",
+    "https://euchelperu.com/images/productos/176772731446588127684249.jpg",
+    "https://euchelperu.com/images/productos/176772905385112883991573.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Luciana amarrable",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2333,
+      "nombre": "Plateado",
+      "precio": 45.0,
+      "id_color_confirmado": 2333,
+      "tallas": [
+        {
+          "id_talla": 2743,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1767459793334643677936.jpg",
+        "https://euchelperu.com/images/productos/176772724664868615242266.jpg",
+        "https://euchelperu.com/images/productos/176772731446588127684249.jpg",
+        "https://euchelperu.com/images/productos/176772905385112883991573.jpg"
+      ]
+    },
+    {
+      "id_color": 2409,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 2409,
+      "tallas": [
+        {
+          "id_talla": 2815,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772724664868615242266.jpg",
+        "https://euchelperu.com/images/productos/1767459793334643677936.jpg",
+        "https://euchelperu.com/images/productos/176772731446588127684249.jpg",
+        "https://euchelperu.com/images/productos/176772905385112883991573.jpg"
+      ]
+    },
+    {
+      "id_color": 2410,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 2410,
+      "tallas": [
+        {
+          "id_talla": 2816,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772905385112883991573.jpg",
+        "https://euchelperu.com/images/productos/1767459793334643677936.jpg",
+        "https://euchelperu.com/images/productos/176772724664868615242266.jpg",
+        "https://euchelperu.com/images/productos/176772731446588127684249.jpg"
+      ]
+    },
+    {
+      "id_color": 2411,
+      "nombre": "Rojo",
+      "precio": 45.0,
+      "id_color_confirmado": 2411,
+      "tallas": [
+        {
+          "id_talla": 2817,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772731446588127684249.jpg",
+        "https://euchelperu.com/images/productos/1767459793334643677936.jpg",
+        "https://euchelperu.com/images/productos/176772724664868615242266.jpg",
+        "https://euchelperu.com/images/productos/176772905385112883991573.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:57:18Z"
+}

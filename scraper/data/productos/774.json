@@ -1,0 +1,41 @@
+{
+  "id_original": 774,
+  "url_original": "https://euchelperu.com/producto.php?id=774",
+  "nombre": "Top broche lazo",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7740039",
+  "item_group_id": "774",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176746016045384402572273.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top broche lazo",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2337,
+      "nombre": "Amarillo",
+      "precio": 45.0,
+      "id_color_confirmado": 2337,
+      "tallas": [
+        {
+          "id_talla": 2747,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176746016045384402572273.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:00:52Z"
+}

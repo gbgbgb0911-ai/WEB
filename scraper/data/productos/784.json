@@ -1,0 +1,59 @@
+{
+  "id_original": 784,
+  "url_original": "https://euchelperu.com/producto.php?id=784",
+  "nombre": "Vestido Xiomara blonda",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7840051",
+  "item_group_id": "784",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176746724736489530466058.jpg",
+    "https://euchelperu.com/images/productos/176791704961446619832159.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2347,
+      "nombre": "Rojo terracota",
+      "precio": 89.0,
+      "id_color_confirmado": 2347,
+      "tallas": [
+        {
+          "id_talla": 2757,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176746724736489530466058.jpg",
+        "https://euchelperu.com/images/productos/176791704961446619832159.png"
+      ]
+    },
+    {
+      "id_color": 2462,
+      "nombre": "Azul Marino",
+      "precio": 89.0,
+      "id_color_confirmado": 2462,
+      "tallas": [
+        {
+          "id_talla": 2876,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176791704961446619832159.png",
+        "https://euchelperu.com/images/productos/176746724736489530466058.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:07:10Z"
+}

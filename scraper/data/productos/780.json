@@ -1,0 +1,125 @@
+{
+  "id_original": 780,
+  "url_original": "https://euchelperu.com/producto.php?id=780",
+  "nombre": "Top Lucero asimetrico",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7800047",
+  "item_group_id": "780",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176746653572608491155287.jpg",
+    "https://euchelperu.com/images/productos/17679182876748964861361.png",
+    "https://euchelperu.com/images/productos/176791830163911488591328.png",
+    "https://euchelperu.com/images/productos/176791831322645782218507.png",
+    "https://euchelperu.com/images/productos/176791832761763366822209.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Lucero asimetrico",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2343,
+      "nombre": "Acero",
+      "precio": 45.0,
+      "id_color_confirmado": 2343,
+      "tallas": [
+        {
+          "id_talla": 2753,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176746653572608491155287.jpg",
+        "https://euchelperu.com/images/productos/17679182876748964861361.png",
+        "https://euchelperu.com/images/productos/176791830163911488591328.png",
+        "https://euchelperu.com/images/productos/176791831322645782218507.png",
+        "https://euchelperu.com/images/productos/176791832761763366822209.png"
+      ]
+    },
+    {
+      "id_color": 2466,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 2466,
+      "tallas": [
+        {
+          "id_talla": 2880,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17679182876748964861361.png",
+        "https://euchelperu.com/images/productos/176746653572608491155287.jpg",
+        "https://euchelperu.com/images/productos/176791830163911488591328.png",
+        "https://euchelperu.com/images/productos/176791831322645782218507.png",
+        "https://euchelperu.com/images/productos/176791832761763366822209.png"
+      ]
+    },
+    {
+      "id_color": 2467,
+      "nombre": "Rojo",
+      "precio": 45.0,
+      "id_color_confirmado": 2467,
+      "tallas": [
+        {
+          "id_talla": 2881,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176791830163911488591328.png",
+        "https://euchelperu.com/images/productos/176746653572608491155287.jpg",
+        "https://euchelperu.com/images/productos/17679182876748964861361.png",
+        "https://euchelperu.com/images/productos/176791831322645782218507.png",
+        "https://euchelperu.com/images/productos/176791832761763366822209.png"
+      ]
+    },
+    {
+      "id_color": 2468,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 2468,
+      "tallas": [
+        {
+          "id_talla": 2882,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176791831322645782218507.png",
+        "https://euchelperu.com/images/productos/176746653572608491155287.jpg",
+        "https://euchelperu.com/images/productos/17679182876748964861361.png",
+        "https://euchelperu.com/images/productos/176791830163911488591328.png",
+        "https://euchelperu.com/images/productos/176791832761763366822209.png"
+      ]
+    },
+    {
+      "id_color": 2469,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 2469,
+      "tallas": [
+        {
+          "id_talla": 2883,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176791832761763366822209.png",
+        "https://euchelperu.com/images/productos/176746653572608491155287.jpg",
+        "https://euchelperu.com/images/productos/17679182876748964861361.png",
+        "https://euchelperu.com/images/productos/176791830163911488591328.png",
+        "https://euchelperu.com/images/productos/176791831322645782218507.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:04:35Z"
+}

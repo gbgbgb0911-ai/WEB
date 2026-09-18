@@ -1,0 +1,79 @@
+{
+  "id_original": 771,
+  "url_original": "https://euchelperu.com/producto.php?id=771",
+  "nombre": "Set Martina",
+  "descripcion": "",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7710036",
+  "item_group_id": "771",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17674599129307945899694.jpg",
+    "https://euchelperu.com/images/productos/17682456945871918374970.png",
+    "https://euchelperu.com/images/productos/176824572078060668010182.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Set Martina",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2334,
+      "nombre": "Camel",
+      "precio": 110.0,
+      "id_color_confirmado": 2334,
+      "tallas": [
+        {
+          "id_talla": 2744,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17674599129307945899694.jpg",
+        "https://euchelperu.com/images/productos/17682456945871918374970.png",
+        "https://euchelperu.com/images/productos/176824572078060668010182.png"
+      ]
+    },
+    {
+      "id_color": 2502,
+      "nombre": "Negro",
+      "precio": 110.0,
+      "id_color_confirmado": 2502,
+      "tallas": [
+        {
+          "id_talla": 2918,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17682456945871918374970.png",
+        "https://euchelperu.com/images/productos/17674599129307945899694.jpg",
+        "https://euchelperu.com/images/productos/176824572078060668010182.png"
+      ]
+    },
+    {
+      "id_color": 2503,
+      "nombre": "Beige",
+      "precio": 110.0,
+      "id_color_confirmado": 2503,
+      "tallas": [
+        {
+          "id_talla": 2919,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176824572078060668010182.png",
+        "https://euchelperu.com/images/productos/17674599129307945899694.jpg",
+        "https://euchelperu.com/images/productos/17682456945871918374970.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:58:17Z"
+}

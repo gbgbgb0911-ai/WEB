@@ -1,0 +1,59 @@
+{
+  "id_original": 772,
+  "url_original": "https://euchelperu.com/producto.php?id=772",
+  "nombre": "Corset Victoria",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7720037",
+  "item_group_id": "772",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176746000039527626118888.jpg",
+    "https://euchelperu.com/images/productos/17677476094533567058487.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2335,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 2335,
+      "tallas": [
+        {
+          "id_talla": 2745,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176746000039527626118888.jpg",
+        "https://euchelperu.com/images/productos/17677476094533567058487.png"
+      ]
+    },
+    {
+      "id_color": 2439,
+      "nombre": "Blanco",
+      "precio": 65.0,
+      "id_color_confirmado": 2439,
+      "tallas": [
+        {
+          "id_talla": 2833,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17677476094533567058487.png",
+        "https://euchelperu.com/images/productos/176746000039527626118888.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:59:12Z"
+}

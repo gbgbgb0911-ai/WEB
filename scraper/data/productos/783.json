@@ -1,0 +1,101 @@
+{
+  "id_original": 783,
+  "url_original": "https://euchelperu.com/producto.php?id=783",
+  "nombre": "Vestido Hellen blonda",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7830050",
+  "item_group_id": "783",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176746692578764319769739.jpg",
+    "https://euchelperu.com/images/productos/17679177473938040965208.png",
+    "https://euchelperu.com/images/productos/176791776643336649277737.png",
+    "https://euchelperu.com/images/productos/176791786523506840621128.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2346,
+      "nombre": "Amarillo",
+      "precio": 95.0,
+      "id_color_confirmado": 2346,
+      "tallas": [
+        {
+          "id_talla": 2756,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176746692578764319769739.jpg",
+        "https://euchelperu.com/images/productos/17679177473938040965208.png",
+        "https://euchelperu.com/images/productos/176791776643336649277737.png",
+        "https://euchelperu.com/images/productos/176791786523506840621128.png"
+      ]
+    },
+    {
+      "id_color": 2463,
+      "nombre": "Moca",
+      "precio": 95.0,
+      "id_color_confirmado": 2463,
+      "tallas": [
+        {
+          "id_talla": 2877,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176791786523506840621128.png",
+        "https://euchelperu.com/images/productos/176746692578764319769739.jpg",
+        "https://euchelperu.com/images/productos/17679177473938040965208.png",
+        "https://euchelperu.com/images/productos/176791776643336649277737.png"
+      ]
+    },
+    {
+      "id_color": 2464,
+      "nombre": "Negro",
+      "precio": 95.0,
+      "id_color_confirmado": 2464,
+      "tallas": [
+        {
+          "id_talla": 2878,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17679177473938040965208.png",
+        "https://euchelperu.com/images/productos/176746692578764319769739.jpg",
+        "https://euchelperu.com/images/productos/176791776643336649277737.png",
+        "https://euchelperu.com/images/productos/176791786523506840621128.png"
+      ]
+    },
+    {
+      "id_color": 2465,
+      "nombre": "Anaranjado",
+      "precio": 95.0,
+      "id_color_confirmado": 2465,
+      "tallas": [
+        {
+          "id_talla": 2879,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176791776643336649277737.png",
+        "https://euchelperu.com/images/productos/176746692578764319769739.jpg",
+        "https://euchelperu.com/images/productos/17679177473938040965208.png",
+        "https://euchelperu.com/images/productos/176791786523506840621128.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:06:16Z"
+}

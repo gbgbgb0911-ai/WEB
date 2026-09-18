@@ -1,0 +1,96 @@
+{
+  "id_original": 777,
+  "url_original": "https://euchelperu.com/producto.php?id=777",
+  "nombre": "Top lina",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7770041",
+  "item_group_id": "777",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17674604767907853145272.jpg",
+    "https://euchelperu.com/images/productos/176771981406190381495193.jpg",
+    "https://euchelperu.com/images/productos/17683379262363535777907.jpg",
+    "https://euchelperu.com/images/productos/177411855532679591047295.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top lina",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2340,
+      "nombre": "Beige",
+      "precio": 45.0,
+      "id_color_confirmado": 2340,
+      "tallas": [
+        {
+          "id_talla": 2750,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17674604767907853145272.jpg",
+        "https://euchelperu.com/images/productos/176771981406190381495193.jpg",
+        "https://euchelperu.com/images/productos/17683379262363535777907.jpg",
+        "https://euchelperu.com/images/productos/177411855532679591047295.png"
+      ]
+    },
+    {
+      "id_color": 2392,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 2392,
+      "tallas": [
+        {
+          "id_talla": 2885,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176771981406190381495193.jpg",
+        "https://euchelperu.com/images/productos/17674604767907853145272.jpg",
+        "https://euchelperu.com/images/productos/17683379262363535777907.jpg",
+        "https://euchelperu.com/images/productos/177411855532679591047295.png"
+      ]
+    },
+    {
+      "id_color": 2529,
+      "nombre": "Rosado",
+      "precio": 45.0,
+      "id_color_confirmado": 2529,
+      "tallas": [
+        {
+          "id_talla": 2950,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17683379262363535777907.jpg",
+        "https://euchelperu.com/images/productos/17674604767907853145272.jpg",
+        "https://euchelperu.com/images/productos/176771981406190381495193.jpg",
+        "https://euchelperu.com/images/productos/177411855532679591047295.png"
+      ]
+    },
+    {
+      "id_color": 3078,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 3078,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177411855532679591047295.png",
+        "https://euchelperu.com/images/productos/17674604767907853145272.jpg",
+        "https://euchelperu.com/images/productos/176771981406190381495193.jpg",
+        "https://euchelperu.com/images/productos/17683379262363535777907.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:03:10Z"
+}

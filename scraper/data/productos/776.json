@@ -1,0 +1,59 @@
+{
+  "id_original": 776,
+  "url_original": "https://euchelperu.com/producto.php?id=776",
+  "nombre": "Body Corset Satin",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7760040",
+  "item_group_id": "776",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176746037668616807318443.jpg",
+    "https://euchelperu.com/images/productos/176791889564061753461023.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Body Corset Satin",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2339,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 2339,
+      "tallas": [
+        {
+          "id_talla": 2749,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176746037668616807318443.jpg",
+        "https://euchelperu.com/images/productos/176791889564061753461023.png"
+      ]
+    },
+    {
+      "id_color": 2470,
+      "nombre": "Blanco",
+      "precio": 65.0,
+      "id_color_confirmado": 2470,
+      "tallas": [
+        {
+          "id_talla": 2886,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176791889564061753461023.png",
+        "https://euchelperu.com/images/productos/176746037668616807318443.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:01:34Z"
+}

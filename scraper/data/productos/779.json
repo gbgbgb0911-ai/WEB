@@ -1,0 +1,59 @@
+{
+  "id_original": 779,
+  "url_original": "https://euchelperu.com/producto.php?id=779",
+  "nombre": "Top Zoe broche",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7790046",
+  "item_group_id": "779",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176746642623502492322236.jpg",
+    "https://euchelperu.com/images/productos/176780698276514573683817.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Zoe broche",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2342,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 2342,
+      "tallas": [
+        {
+          "id_talla": 2752,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176746642623502492322236.jpg",
+        "https://euchelperu.com/images/productos/176780698276514573683817.jpg"
+      ]
+    },
+    {
+      "id_color": 2440,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 2440,
+      "tallas": [
+        {
+          "id_talla": 2884,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176780698276514573683817.jpg",
+        "https://euchelperu.com/images/productos/176746642623502492322236.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:04:19Z"
+}
