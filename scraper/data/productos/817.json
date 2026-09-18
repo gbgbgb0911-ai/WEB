@@ -1,0 +1,59 @@
+{
+  "id_original": 817,
+  "url_original": "https://euchelperu.com/producto.php?id=817",
+  "nombre": "Sandalia summer",
+  "descripcion": "",
+  "categoria": "Calzado",
+  "categoria_subid": 22,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "8170075",
+  "item_group_id": "817",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176772268131855259395497.jpg",
+    "https://euchelperu.com/images/productos/176772270738418666340721.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Sandalia summer",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2402,
+      "nombre": "Marrón",
+      "precio": 85.0,
+      "id_color_confirmado": 2402,
+      "tallas": [
+        {
+          "id_talla": 2794,
+          "nombre": "36-37"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772268131855259395497.jpg",
+        "https://euchelperu.com/images/productos/176772270738418666340721.jpg"
+      ]
+    },
+    {
+      "id_color": 2403,
+      "nombre": "Blanco",
+      "precio": 85.0,
+      "id_color_confirmado": 2403,
+      "tallas": [
+        {
+          "id_talla": 2795,
+          "nombre": "35-37"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772270738418666340721.jpg",
+        "https://euchelperu.com/images/productos/176772268131855259395497.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:20:22Z"
+}

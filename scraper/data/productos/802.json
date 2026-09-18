@@ -1,0 +1,59 @@
+{
+  "id_original": 802,
+  "url_original": "https://euchelperu.com/producto.php?id=802",
+  "nombre": "Mini vestido Olenka",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "8029583",
+  "item_group_id": "802",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1767742192250662144875.png",
+    "https://euchelperu.com/images/productos/176774290462635447184586.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2433,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 2433,
+      "tallas": [
+        {
+          "id_talla": 2821,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1767742192250662144875.png",
+        "https://euchelperu.com/images/productos/176774290462635447184586.png"
+      ]
+    },
+    {
+      "id_color": 2434,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 2434,
+      "tallas": [
+        {
+          "id_talla": 2822,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176774290462635447184586.png",
+        "https://euchelperu.com/images/productos/1767742192250662144875.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:14:52Z"
+}

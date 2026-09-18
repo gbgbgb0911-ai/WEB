@@ -1,0 +1,96 @@
+{
+  "id_original": 805,
+  "url_original": "https://euchelperu.com/producto.php?id=805",
+  "nombre": "Falda Zendaya lentejuela",
+  "descripcion": "",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "8050064",
+  "item_group_id": "805",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176771612329041284595576.jpg",
+    "https://euchelperu.com/images/productos/17678105167259520480056.jpg",
+    "https://euchelperu.com/images/productos/176781069271885687152366.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Falda Zendaya lentejuela",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2372,
+      "nombre": "Azul",
+      "precio": 49.0,
+      "id_color_confirmado": 2372,
+      "tallas": [
+        {
+          "id_talla": 2782,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176771612329041284595576.jpg",
+        "https://euchelperu.com/images/productos/17678105167259520480056.jpg",
+        "https://euchelperu.com/images/productos/176781069271885687152366.jpg"
+      ]
+    },
+    {
+      "id_color": 2444,
+      "nombre": "Negro",
+      "precio": 49.0,
+      "id_color_confirmado": 2444,
+      "tallas": [
+        {
+          "id_talla": 2845,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17678105167259520480056.jpg",
+        "https://euchelperu.com/images/productos/176771612329041284595576.jpg",
+        "https://euchelperu.com/images/productos/176781069271885687152366.jpg"
+      ]
+    },
+    {
+      "id_color": 2445,
+      "nombre": "Dorado",
+      "precio": 49.0,
+      "id_color_confirmado": 2445,
+      "tallas": [
+        {
+          "id_talla": 2846,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176771612329041284595576.jpg",
+        "https://euchelperu.com/images/productos/17678105167259520480056.jpg",
+        "https://euchelperu.com/images/productos/176781069271885687152366.jpg"
+      ]
+    },
+    {
+      "id_color": 2446,
+      "nombre": "Beige",
+      "precio": 49.0,
+      "id_color_confirmado": 2446,
+      "tallas": [
+        {
+          "id_talla": 2847,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176781069271885687152366.jpg",
+        "https://euchelperu.com/images/productos/176771612329041284595576.jpg",
+        "https://euchelperu.com/images/productos/17678105167259520480056.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:16:31Z"
+}

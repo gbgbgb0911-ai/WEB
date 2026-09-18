@@ -1,0 +1,41 @@
+{
+  "id_original": 814,
+  "url_original": "https://euchelperu.com/producto.php?id=814",
+  "nombre": "Falda short bolsillo BL",
+  "descripcion": "",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "8140072",
+  "item_group_id": "814",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176772155923512536154193.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2399,
+      "nombre": "Azul",
+      "precio": 95.0,
+      "id_color_confirmado": 2399,
+      "tallas": [
+        {
+          "id_talla": 2791,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772155923512536154193.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:18:55Z"
+}

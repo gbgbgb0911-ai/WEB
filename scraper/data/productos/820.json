@@ -1,0 +1,79 @@
+{
+  "id_original": 820,
+  "url_original": "https://euchelperu.com/producto.php?id=820",
+  "nombre": "MAXI VESTIDO MICAELA HILO",
+  "descripcion": "Eleva tu estilo de verano con este espectacular vestido largo de punto calado. Diseñado con un cautivador patrón de ondas en degradé. Su diseño entallado realza la silueta, mientras que el escote pronunciado con detalle de herraje dorado añade un toque de lujo sofisticado. Ideal para un día de beach club o una cena frente al mar.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "820MAX070126",
+  "item_group_id": "820",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176790905957246277399144.jpg",
+    "https://euchelperu.com/images/productos/17679092933485415614435.png",
+    "https://euchelperu.com/images/productos/176790935756476522443735.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MAXI VESTIDO MICAELA HILO",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2449,
+      "nombre": "Azul",
+      "precio": 85.0,
+      "id_color_confirmado": 2449,
+      "tallas": [
+        {
+          "id_talla": 2850,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176790905957246277399144.jpg",
+        "https://euchelperu.com/images/productos/17679092933485415614435.png",
+        "https://euchelperu.com/images/productos/176790935756476522443735.png"
+      ]
+    },
+    {
+      "id_color": 2450,
+      "nombre": "Marrón",
+      "precio": 85.0,
+      "id_color_confirmado": 2450,
+      "tallas": [
+        {
+          "id_talla": 2851,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17679092933485415614435.png",
+        "https://euchelperu.com/images/productos/176790905957246277399144.jpg",
+        "https://euchelperu.com/images/productos/176790935756476522443735.png"
+      ]
+    },
+    {
+      "id_color": 2451,
+      "nombre": "Negro",
+      "precio": 85.0,
+      "id_color_confirmado": 2451,
+      "tallas": [
+        {
+          "id_talla": 2852,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176790935756476522443735.png",
+        "https://euchelperu.com/images/productos/176790905957246277399144.jpg",
+        "https://euchelperu.com/images/productos/17679092933485415614435.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:21:14Z"
+}

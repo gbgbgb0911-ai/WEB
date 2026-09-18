@@ -1,0 +1,79 @@
+{
+  "id_original": 810,
+  "url_original": "https://euchelperu.com/producto.php?id=810",
+  "nombre": "Vestido Margaret corrugado",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "8100068",
+  "item_group_id": "810",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176771764129672476931591.jpg",
+    "https://euchelperu.com/images/productos/176773864482450148098581.png",
+    "https://euchelperu.com/images/productos/176790883867479286454814.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Margaret corrugado",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2377,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 2377,
+      "tallas": [
+        {
+          "id_talla": 2787,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176771764129672476931591.jpg",
+        "https://euchelperu.com/images/productos/176773864482450148098581.png",
+        "https://euchelperu.com/images/productos/176790883867479286454814.png"
+      ]
+    },
+    {
+      "id_color": 2427,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 2427,
+      "tallas": [
+        {
+          "id_talla": 2809,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176773864482450148098581.png",
+        "https://euchelperu.com/images/productos/176771764129672476931591.jpg",
+        "https://euchelperu.com/images/productos/176790883867479286454814.png"
+      ]
+    },
+    {
+      "id_color": 2448,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 2448,
+      "tallas": [
+        {
+          "id_talla": 2849,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176790883867479286454814.png",
+        "https://euchelperu.com/images/productos/176771764129672476931591.jpg",
+        "https://euchelperu.com/images/productos/176773864482450148098581.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:17:46Z"
+}

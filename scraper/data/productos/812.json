@@ -1,0 +1,59 @@
+{
+  "id_original": 812,
+  "url_original": "https://euchelperu.com/producto.php?id=812",
+  "nombre": "Salida de playa Michelly",
+  "descripcion": "",
+  "categoria": "Enterizos",
+  "categoria_subid": 16,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "8120070",
+  "item_group_id": "812",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176772073215604321828718.jpg",
+    "https://euchelperu.com/images/productos/176773630574415692027475.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Salida de playa Michelly",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2397,
+      "nombre": "Blanco",
+      "precio": 65.0,
+      "id_color_confirmado": 2397,
+      "tallas": [
+        {
+          "id_talla": 2789,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772073215604321828718.jpg",
+        "https://euchelperu.com/images/productos/176773630574415692027475.png"
+      ]
+    },
+    {
+      "id_color": 2423,
+      "nombre": "Beige",
+      "precio": 65.0,
+      "id_color_confirmado": 2423,
+      "tallas": [
+        {
+          "id_talla": 2805,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176773630574415692027475.png",
+        "https://euchelperu.com/images/productos/176772073215604321828718.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:18:52Z"
+}

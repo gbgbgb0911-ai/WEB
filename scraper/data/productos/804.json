@@ -1,0 +1,41 @@
+{
+  "id_original": 804,
+  "url_original": "https://euchelperu.com/producto.php?id=804",
+  "nombre": "Falda nudo suplex",
+  "descripcion": "",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 50.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "8040063",
+  "item_group_id": "804",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176771590328445670477346.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Falda nudo suplex",
+  "precio_listado_normal": 50.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2371,
+      "nombre": "Negro",
+      "precio": 50.0,
+      "id_color_confirmado": 2371,
+      "tallas": [
+        {
+          "id_talla": 2781,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176771590328445670477346.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:15:07Z"
+}

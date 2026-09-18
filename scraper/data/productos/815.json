@@ -1,0 +1,79 @@
+{
+  "id_original": 815,
+  "url_original": "https://euchelperu.com/producto.php?id=815",
+  "nombre": "Top Claudia bobos",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "8150073",
+  "item_group_id": "815",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176772168041281588835597.jpg",
+    "https://euchelperu.com/images/productos/176772335335057162544780.jpg",
+    "https://euchelperu.com/images/productos/176772341798244861213768.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Claudia bobos",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2400,
+      "nombre": "Vino",
+      "precio": 49.0,
+      "id_color_confirmado": 2400,
+      "tallas": [
+        {
+          "id_talla": 2792,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772168041281588835597.jpg",
+        "https://euchelperu.com/images/productos/176772335335057162544780.jpg",
+        "https://euchelperu.com/images/productos/176772341798244861213768.jpg"
+      ]
+    },
+    {
+      "id_color": 2406,
+      "nombre": "Negro",
+      "precio": 49.0,
+      "id_color_confirmado": 2406,
+      "tallas": [
+        {
+          "id_talla": 2802,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772335335057162544780.jpg",
+        "https://euchelperu.com/images/productos/176772168041281588835597.jpg",
+        "https://euchelperu.com/images/productos/176772341798244861213768.jpg"
+      ]
+    },
+    {
+      "id_color": 2407,
+      "nombre": "Beige",
+      "precio": 49.0,
+      "id_color_confirmado": 2407,
+      "tallas": [
+        {
+          "id_talla": 2803,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772341798244861213768.jpg",
+        "https://euchelperu.com/images/productos/176772168041281588835597.jpg",
+        "https://euchelperu.com/images/productos/176772335335057162544780.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:20:04Z"
+}

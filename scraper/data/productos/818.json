@@ -1,0 +1,59 @@
+{
+  "id_original": 818,
+  "url_original": "https://euchelperu.com/producto.php?id=818",
+  "nombre": "Sandalia Angely",
+  "descripcion": "",
+  "categoria": "Calzado",
+  "categoria_subid": 22,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "8180076",
+  "item_group_id": "818",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176772301232596199095380.jpg",
+    "https://euchelperu.com/images/productos/176772302283516380891509.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Sandalia Angely",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2404,
+      "nombre": "Animal print",
+      "precio": 85.0,
+      "id_color_confirmado": 2404,
+      "tallas": [
+        {
+          "id_talla": 2796,
+          "nombre": "36-37-39"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772301232596199095380.jpg",
+        "https://euchelperu.com/images/productos/176772302283516380891509.jpg"
+      ]
+    },
+    {
+      "id_color": 2405,
+      "nombre": "Vino",
+      "precio": 85.0,
+      "id_color_confirmado": 2405,
+      "tallas": [
+        {
+          "id_talla": 2797,
+          "nombre": "36-37"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772302283516380891509.jpg",
+        "https://euchelperu.com/images/productos/176772301232596199095380.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:20:29Z"
+}
