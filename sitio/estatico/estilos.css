@@ -254,8 +254,11 @@ a { color: inherit; text-decoration: none; }
 .precio--antes { font-size: 12px; font-weight: 400; color: var(--acento); text-decoration: line-through; }
 .tarjeta__meta { font-size: 11px; color: var(--gris); }
 
-/* aparición al entrar en pantalla */
-.revelar { opacity: 0; transform: translateY(16px); }
+/* Aparición al entrar en pantalla.
+   Solo se esconden si el documento está marcado (lo marca un trozo de guion
+   que va dentro del HTML y se desmarca solo si app.js no llega). Sin esa
+   marca las tarjetas se ven siempre: un catálogo vacío no es una opción. */
+[data-revelar] .revelar { opacity: 0; transform: translateY(16px); }
 .revelar.visible {
   opacity: 1; transform: translateY(0);
   transition: opacity var(--lento) var(--curva), transform var(--lento) var(--curva);
@@ -409,5 +412,5 @@ a { color: inherit; text-decoration: none; }
     animation-duration: .001ms !important;
     transition-duration: .001ms !important;
   }
-  .revelar { opacity: 1; transform: none; }
+  [data-revelar] .revelar { opacity: 1; transform: none; }
 }

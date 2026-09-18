@@ -29,11 +29,13 @@ export function fijarVersion(id: string | undefined) {
 export const css = () => `/estilos.css?v=${version}`;
 export const js = () => `/app.js?v=${version}`;
 
-/* La hoja de estilos va dentro del HTML (ver _lib/estilos.mts): si llega la
- * página, llega el diseño. Mientras no se haya podido leer, se enlaza como
- * antes. */
+/* La hoja de estilos y el guion van dentro del HTML (ver _lib/activos.mts):
+ * si llega la página, llega el diseño y llega la interacción. Mientras no se
+ * hayan podido leer, se enlazan como antes. */
 let hoja: string | null = null;
+let guion: string | null = null;
 export function fijarHoja(texto: string | null) { hoja = texto; }
+export function fijarGuion(texto: string | null) { guion = texto; }
 
 function bloqueEstilos(): string {
   if (hoja) return `<style>${hoja}</style>`;
@@ -42,6 +44,33 @@ function bloqueEstilos(): string {
   return `<link rel="stylesheet" href="${css()}"`
     + ` onerror="if(!this.dataset.r){this.dataset.r=1;this.href='/estilos.css?r='+Date.now()}">`;
 }
+
+function bloqueGuion(): string {
+  // Sin `defer` no hay: un <script> suelto corre donde está, y este va en el
+  // pie, pero la ficha escribe sus datos después. Se espera a que el
+  // documento esté armado, que es justo lo que hacía `defer`.
+  if (guion) {
+    return `<script>(function(){function arranca(){${guion}\n}`
+      + `if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",arranca);`
+      + `else arranca();})()</script>`;
+  }
+  return `<script src="${js()}" defer></script>`;
+}
+
+/* El catálogo no puede depender del guion para verse.
+ *
+ * Las tarjetas aparecen al entrar en pantalla: nacen con opacity 0 y el guion
+ * les pone la clase `visible`. Si el guion no llegaba, el catálogo salía
+ * perfecto y vacío —cabecera, menú, "752 productos" y nada debajo—, que es lo
+ * que vio quien administra la tienda.
+ *
+ * Ahora esa regla del CSS solo se aplica si este trozo, que va dentro del
+ * HTML y por tanto siempre corre, marca el documento. Y si a los 2,5 segundos
+ * el guion no ha dado señales, se desmarca: sin animación, pero con
+ * productos. Sin JavaScript en el navegador, nunca se marca. */
+const ARMAR_REVELADO =
+  `<script>(function(d){var h=d.documentElement;h.setAttribute("data-revelar","");`
+  + `setTimeout(function(){if(h.getAttribute("data-js")!=="1")h.removeAttribute("data-revelar")},2500)})(document)</script>`;
 
 export const WHATSAPP = "51986630221";
 export const TIENDA = "Euchel Perú";
@@ -130,6 +159,7 @@ ${og}<link rel="icon" href="/favicon.png" type="image/png">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap">
 ${bloqueEstilos()}
+${ARMAR_REVELADO}
 </head>
 <body>
 <a class="oculto-visual" href="#principal">Saltar al contenido</a>
@@ -179,7 +209,7 @@ export function pie(): string {
   </div>
 </footer>
 <a class="flotante" href="https://wa.me/${WHATSAPP}?text=${consulta}" target="_blank" rel="noopener" aria-label="Escríbenos por WhatsApp">${ICONOS.whatsapp}</a>
-<script src="${js()}" defer></script>
+${bloqueGuion()}
 </body>
 </html>
 `;

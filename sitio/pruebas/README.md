@@ -10,7 +10,7 @@ petición, sin desplegar.
 | `permisos.sh` | 13 rutas × 4 roles (sin sesión, sin acceso, equipo, admin) | curl |
 | `propagacion.mjs` | 34 pasos: crear, fotos, colores, tallas, agotar, precio, nombre, categoría, ocultar, archivar, borrar, bitácora | API + HTML público |
 | `flujos.mjs` | 30 pasos en navegador: entrar, filtros, paginar, buscar, hoja, clave, sesión, tablero, equipo, bitácora, ficha pública, WhatsApp | Playwright |
-| `hoja.mts` | 8 casos: la hoja de estilos dentro del HTML (se lee una vez, respaldo si falla, nada de `</style>` suelto) | npx tsx |
+| `activos.mts` | 10 casos: el CSS y el JS dentro del HTML (se leen una vez, respaldo si fallan, el catálogo se ve aunque el guion no llegue) | npx tsx |
 | `render.mts` | arma páginas con el código de la función para compararlas | node --experimental-strip-types |
 | `proxy.mjs` | arnés local: sirve los paneles en http y reenvía todo lo demás a producción | node |
 
@@ -36,7 +36,7 @@ petición, sin desplegar.
 ## Correr
 
 ```sh
-npx tsx sitio/pruebas/hoja.mts   # sin cuentas ni red
+npx tsx sitio/pruebas/activos.mts   # sin cuentas ni red
 
 export $(cat qa.env | xargs)
 sh permisos.sh

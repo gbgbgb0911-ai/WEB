@@ -17,6 +17,11 @@
   /* --------------------------------------------- revelado al hacer scroll */
 
   function revelar() {
+    // Señal para el trozo de guion que va en el HTML: el revelado está en
+    // marcha, que no desmarque el documento. Si esto no llega a correr, a los
+    // 2,5 s las tarjetas se muestran igual, sin animación.
+    document.documentElement.setAttribute('data-js', '1');
+
     var items = document.querySelectorAll('.revelar');
     if (!items.length) return;
 

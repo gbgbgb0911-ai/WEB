@@ -1,9 +1,9 @@
 import type { Config, Context } from "@netlify/functions";
 import { neon } from "@neondatabase/serverless";
 import { categorias, productos, producto } from "./_lib/catalogo.mts";
-import { paginaListado, paginaFicha, pagina404, indiceBusqueda, sitemap, TIENDA, css, fijarVersion, fijarHoja }
+import { paginaListado, paginaFicha, pagina404, indiceBusqueda, sitemap, TIENDA, css, fijarVersion, fijarHoja, fijarGuion }
   from "./_lib/plantillas.mts";
-import { estilos } from "./_lib/estilos.mts";
+import { hoja, guion } from "./_lib/activos.mts";
 import { cabecerasCache } from "./_lib/cache.mts";
 
 /* El catálogo público, armado al momento desde la base.
@@ -34,9 +34,11 @@ export default async (req: Request, ctx: Context) => {
   if (!conexion) return sinBase();
   const sql = neon(conexion);
 
-  // La hoja de estilos se mete dentro del HTML. Se lee una vez por instancia;
-  // si no se puede, la plantilla la enlaza como antes.
-  fijarHoja(await estilos(base));
+  // La hoja de estilos y el guion se meten dentro del HTML. Se leen una vez
+  // por instancia; si no se puede, la plantilla los enlaza como antes.
+  const [css1, js1] = await Promise.all([hoja(base), guion(base)]);
+  fijarHoja(css1);
+  fijarGuion(js1);
 
   try {
     // Una sola URL por página: sin barra final se manda a la que la lleva.
