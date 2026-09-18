@@ -4,7 +4,8 @@
 Cliente autorizado (dueños de euchelperu.com). Reglas duras del encargo:
   - 1 request concurrente, pausa de 500 ms DESPUÉS de cada respuesta.
   - Reanudable. Todo el HTML crudo queda en disco.
-  - 3 reintentos con backoff exponencial. Timeout 45 s.
+  - 6 reintentos, backoff corto (0,5 s -> 4 s). Timeout 45 s.
+    Solo se reintentan fallos de transporte: 403/429/5xx no reintentan.
   - Ante 429 / 403 / 5xx: DETENERSE y avisar. No insistir.
   - Nunca se tocan sesion/compra/busqueda/libroreclamaciones/ll-admin.
   - Nunca se envían POST.
@@ -42,6 +43,8 @@ TIMEOUT = 45
 # (ECONNRESET). Con 3 intentos, la probabilidad de perder una URL era ~4%:
 # suficiente para tumbar alguna de las 23 páginas de listado en cada corrida.
 REINTENTOS = 6
+BACKOFF_INICIAL = 0.5     # solo se reintentan fallos de transporte
+BACKOFF_TOPE = 4.0
 CATEGORIAS = range(2, 23)
 BARRIDO_INICIAL = 1500
 BARRIDO_PASO = 100
@@ -83,7 +86,7 @@ class Cliente:
             self.desde_cache += 1
             return 200, destino.read_text("utf-8", "replace")
 
-        espera = 2
+        espera = BACKOFF_INICIAL
         for intento in range(1, REINTENTOS + 1):
             try:
                 req = urllib.request.Request(
@@ -113,8 +116,17 @@ class Cliente:
                 self._anotar(url, f"{type(e).__name__}: {e}", intento)
 
             if intento < REINTENTOS:
+                # El backoff exponencial (2/4/8/16/32 s) existe para no
+                # apretar a un servidor que va mal. Pero 403/429/5xx ya
+                # lanzan Detener sin reintentar, así que aquí solo llegan
+                # fallos de transporte: en la sesión cloud, resets del
+                # proxy de salida que nunca tocaron euchelperu.com. Esperar
+                # por ellos no protege a nadie — medido, 29 min de espera
+                # pura en 307 productos. La pausa de 500 ms después de cada
+                # respuesta buena, que es la regla que sí protege al sitio,
+                # no cambia.
                 time.sleep(espera)
-                espera *= 2
+                espera = min(espera * 2, BACKOFF_TOPE)
 
         return 0, ""
 
