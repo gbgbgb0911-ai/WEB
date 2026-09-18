@@ -1,0 +1,41 @@
+{
+  "id_original": 1335,
+  "url_original": "https://euchelperu.com/producto.php?id=1335",
+  "nombre": "TOP ZINNIA",
+  "descripcion": "Top de finos tirantes con elegante escote cuadrado y costuras estructuradas que realzan la silueta. Femenino y sofisticado.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1335TOP93104",
+  "item_group_id": "1335",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178916215764266940054081.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ZINNIA",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3908,
+      "nombre": "CREMA",
+      "precio": 39.0,
+      "id_color_confirmado": 3908,
+      "tallas": [
+        {
+          "id_talla": 4183,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178916215764266940054081.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:58:58Z"
+}

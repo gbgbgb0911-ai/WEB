@@ -1,0 +1,41 @@
+{
+  "id_original": 1343,
+  "url_original": "https://euchelperu.com/producto.php?id=1343",
+  "nombre": "CARDIGAN DOTS",
+  "descripcion": "Cardigan de punto con estampado de lunares. Una prenda clásica y sofisticada que combina un diseño atemporal con un toque lúdico. Su tejido suave y cómodo, junto con el contraste de tonos, lo convierte en una pieza versátil y elegante para cualquier ocasión.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1343CA852",
+  "item_group_id": "1343",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178959701705039557452042.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CARDIGAN DOTS",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3916,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 3916,
+      "tallas": [
+        {
+          "id_talla": 4190,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178959701705039557452042.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:20Z"
+}

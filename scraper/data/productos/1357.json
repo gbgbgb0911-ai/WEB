@@ -1,0 +1,41 @@
+{
+  "id_original": 1357,
+  "url_original": "https://euchelperu.com/producto.php?id=1357",
+  "nombre": "TOP ELARA",
+  "descripcion": "Top de tirantes finos con detalles de encaje y un elegante diseño asimétrico cruzado. Una prenda sofisticada y romántica que aporta un toque distintivo y seductor a cualquier look.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1357TO378",
+  "item_group_id": "1357",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178960184289926269211119.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ELARA",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3928,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 3928,
+      "tallas": [
+        {
+          "id_talla": 4201,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178960184289926269211119.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:46Z"
+}

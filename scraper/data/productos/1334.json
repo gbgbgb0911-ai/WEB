@@ -1,0 +1,41 @@
+{
+  "id_original": 1334,
+  "url_original": "https://euchelperu.com/producto.php?id=1334",
+  "nombre": "TOP ELOWEN",
+  "descripcion": "Top corto con profundo escote en V y delicado ribete de encaje. Femenino y sofisticado.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1334ELO14747",
+  "item_group_id": "1334",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178916148424421905892682.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ELOWEN",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3907,
+      "nombre": "GRIS",
+      "precio": 39.0,
+      "id_color_confirmado": 3907,
+      "tallas": [
+        {
+          "id_talla": 4182,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178916148424421905892682.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:58:55Z"
+}

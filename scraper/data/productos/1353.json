@@ -1,0 +1,41 @@
+{
+  "id_original": 1353,
+  "url_original": "https://euchelperu.com/producto.php?id=1353",
+  "nombre": "FALDA CADERA FRENETIC",
+  "descripcion": "Minifalda de mezclilla con diseño de tiro bajo y un sutil efecto deslavado. Una pieza versátil y moderna que aporta un aire juvenil y chic, ideal para armar estilismos casuales llenos de estilo.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "13538H2K6J1F",
+  "item_group_id": "1353",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178960081292560682344071.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA CADERA FRENETIC",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3924,
+      "nombre": "Azul",
+      "precio": 85.0,
+      "id_color_confirmado": 3924,
+      "tallas": [
+        {
+          "id_talla": 4198,
+          "nombre": "26"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178960081292560682344071.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:40Z"
+}

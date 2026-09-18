@@ -1,0 +1,41 @@
+{
+  "id_original": 1345,
+  "url_original": "https://euchelperu.com/producto.php?id=1345",
+  "nombre": "TOP NARELLA",
+  "descripcion": "Top corto de punto con hombros descubiertos y patrón de rayas. Una prenda elegante y versátil que ofrece un estilo refinado y chic, perfecto para elevar cualquier look con un toque de distinción.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1345TO643",
+  "item_group_id": "1345",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178959750017493697589263.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP NARELLA",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3918,
+      "nombre": "CREMA Y MARRON",
+      "precio": 45.0,
+      "id_color_confirmado": 3918,
+      "tallas": [
+        {
+          "id_talla": 4192,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178959750017493697589263.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:27Z"
+}

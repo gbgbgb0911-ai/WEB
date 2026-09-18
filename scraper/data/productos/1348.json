@@ -1,0 +1,59 @@
+{
+  "id_original": 1348,
+  "url_original": "https://euchelperu.com/producto.php?id=1348",
+  "nombre": "TOP SERAPHINA",
+  "descripcion": "Top halter asimétrico de un tono suave, con escote anudado y delicado ribete de encaje en el dobladillo. Una pieza sofisticada y etérea que fusiona elegancia con detalles románticos.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1348TO317",
+  "item_group_id": "1348",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17895981189664046359691.jpg",
+    "https://euchelperu.com/images/productos/17895983651740063627039.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP SERAPHINA",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3919,
+      "nombre": "Celeste",
+      "precio": 49.0,
+      "id_color_confirmado": 3919,
+      "tallas": [
+        {
+          "id_talla": 4193,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17895981189664046359691.jpg",
+        "https://euchelperu.com/images/productos/17895983651740063627039.jpg"
+      ]
+    },
+    {
+      "id_color": 3920,
+      "nombre": "rayas",
+      "precio": 45.0,
+      "id_color_confirmado": 3920,
+      "tallas": [
+        {
+          "id_talla": 4194,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17895983651740063627039.jpg",
+        "https://euchelperu.com/images/productos/17895981189664046359691.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:33Z"
+}

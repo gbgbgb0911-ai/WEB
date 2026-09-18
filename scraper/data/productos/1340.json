@@ -1,0 +1,41 @@
+{
+  "id_original": 1340,
+  "url_original": "https://euchelperu.com/producto.php?id=1340",
+  "nombre": "VESTIDO ELARA",
+  "descripcion": "Vestido midi de punto texturizado con sutil patrón de líneas, escote en V con detalle de abertura y argolla metálica, y abertura lateral. Femenino, elegante y sofisticado.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1340VES33182",
+  "item_group_id": "1340",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178916448185170617915967.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ELARA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3913,
+      "nombre": "Gris c/ rayas blancas",
+      "precio": 59.0,
+      "id_color_confirmado": 3913,
+      "tallas": [
+        {
+          "id_talla": 4187,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178916448185170617915967.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:11Z"
+}

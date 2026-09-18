@@ -1,0 +1,41 @@
+{
+  "id_original": 1342,
+  "url_original": "https://euchelperu.com/producto.php?id=1342",
+  "nombre": "TOP YVAINE",
+  "descripcion": "Blusa de encaje floral con escote asimétrico y mangas acampanadas, una pieza delicada y sofisticada que aporta un toque femenino y elegante a cualquier look. ✨",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1342TO762",
+  "item_group_id": "1342",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178959672915302360251671.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP YVAINE",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3915,
+      "nombre": "Marrón",
+      "precio": 49.0,
+      "id_color_confirmado": 3915,
+      "tallas": [
+        {
+          "id_talla": 4189,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178959672915302360251671.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:17Z"
+}

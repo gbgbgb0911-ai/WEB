@@ -1,0 +1,41 @@
+{
+  "id_original": 1366,
+  "url_original": "https://euchelperu.com/producto.php?id=1366",
+  "nombre": "CARDIGAN NEREA",
+  "descripcion": "Cárdigan de punto con patrón de rayas horizontales y sutil botonadura frontal. Una pieza clásica y acogedora que aporta un encanto atemporal y sofisticado a cualquier atuendo.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1366CA851",
+  "item_group_id": "1366",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178960626212040411892991.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CARDIGAN NEREA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3937,
+      "nombre": "Rojo c/ rayas azules",
+      "precio": 59.0,
+      "id_color_confirmado": 3937,
+      "tallas": [
+        {
+          "id_talla": 4209,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178960626212040411892991.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T06:00:03Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1356,
+  "url_original": "https://euchelperu.com/producto.php?id=1356",
+  "nombre": "TOP MILUSKA",
+  "descripcion": "Top asimétrico de un tono profundo, con un diseño de un solo hombro y un detalle de lazo colgante que añade un toque de elegancia dramática. Su dobladillo en punta alarga la silueta, convirtiéndolo en una pieza sofisticada y moderna, perfecta para destacar con estilo",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1356TO802",
+  "item_group_id": "1356",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178960147361955434229106.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP MILUSKA",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3927,
+      "nombre": "Azul",
+      "precio": 39.0,
+      "id_color_confirmado": 3927,
+      "tallas": [
+        {
+          "id_talla": 4200,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178960147361955434229106.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:43Z"
+}

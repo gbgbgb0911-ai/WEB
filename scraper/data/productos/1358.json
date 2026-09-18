@@ -1,0 +1,41 @@
+{
+  "id_original": 1358,
+  "url_original": "https://euchelperu.com/producto.php?id=1358",
+  "nombre": "TOP LIORA",
+  "descripcion": "Top de hombros descubiertos en un tono profundo, con un delicado ribete de encaje que añade un toque de elegancia. Su diseño ajustado y la textura drapeada realzan la silueta, convirtiéndolo en una pieza sofisticada y sumamente femenina.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1358TO664",
+  "item_group_id": "1358",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178960244018461591812851.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP LIORA",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3929,
+      "nombre": "Vino",
+      "precio": 39.0,
+      "id_color_confirmado": 3929,
+      "tallas": [
+        {
+          "id_talla": 4202,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178960244018461591812851.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:49Z"
+}

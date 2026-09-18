@@ -1,0 +1,41 @@
+{
+  "id_original": 1364,
+  "url_original": "https://euchelperu.com/producto.php?id=1364",
+  "nombre": "TOP CELESTIA",
+  "descripcion": "Top asimétrico con diseño de un solo hombro y manga corta. Su elegante detalle metálico en el tirante y el sutil fruncido lateral aportan un toque de sofisticación moderna y refinada.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1364TO845",
+  "item_group_id": "1364",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17896049070962550925159.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP CELESTIA",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3935,
+      "nombre": "Negro",
+      "precio": 39.0,
+      "id_color_confirmado": 3935,
+      "tallas": [
+        {
+          "id_talla": 4207,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17896049070962550925159.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:56Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1336,
+  "url_original": "https://euchelperu.com/producto.php?id=1336",
+  "nombre": "TOP CALÍOPE",
+  "descripcion": "Top tipo strapless con escote corazón y detalle de volantes en la cintura para una silueta definida y femenina. Sofisticado y versátil.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1336DOWH",
+  "item_group_id": "1336",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17891626504334549847610.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP CALÍOPE",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3909,
+      "nombre": "BLANCO",
+      "precio": 45.0,
+      "id_color_confirmado": 3909,
+      "tallas": [
+        {
+          "id_talla": 4184,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17891626504334549847610.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:01Z"
+}

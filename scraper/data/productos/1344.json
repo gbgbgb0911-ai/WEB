@@ -1,0 +1,41 @@
+{
+  "id_original": 1344,
+  "url_original": "https://euchelperu.com/producto.php?id=1344",
+  "nombre": "TOP XANTHE",
+  "descripcion": "Top de punto acanalado con un diseño clásico y elegante. Su textura aporta un toque de sofisticación a esta prenda versátil y atemporal, perfecta para crear looks minimalistas y refinados.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1344TO579",
+  "item_group_id": "1344",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178959716087793259299092.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP XANTHE",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3917,
+      "nombre": "AMARILLO",
+      "precio": 49.0,
+      "id_color_confirmado": 3917,
+      "tallas": [
+        {
+          "id_talla": 4191,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178959716087793259299092.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:24Z"
+}

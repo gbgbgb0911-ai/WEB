@@ -1,0 +1,41 @@
+{
+  "id_original": 1338,
+  "url_original": "https://euchelperu.com/producto.php?id=1338",
+  "nombre": "TOP BRIELLEBRI59881",
+  "descripcion": "Top corto de inspiración oriental con cuello alto, detalles de vivo contrastante y sugerente abertura frontal. Femenino, moderno y sofisticado.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1338BRI59881",
+  "item_group_id": "1338",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178916324256189947195438.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP BRIELLEBRI59881",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3911,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 3911,
+      "tallas": [
+        {
+          "id_talla": 4185,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178916324256189947195438.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:04Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1349,
+  "url_original": "https://euchelperu.com/producto.php?id=1349",
+  "nombre": "TOP ILIANA",
+  "descripcion": "Top de cuello alto ajustado sin mangas. Una prenda esencial, minimalista y sofisticada que estiliza la figura y aporta un toque de refinamiento atemporal.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1349TO728",
+  "item_group_id": "1349",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178959852952245105839097.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ILIANA",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3921,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3921,
+      "tallas": [
+        {
+          "id_talla": 4195,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178959852952245105839097.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:59:36Z"
+}
