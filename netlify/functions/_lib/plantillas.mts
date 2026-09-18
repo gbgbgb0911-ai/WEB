@@ -29,6 +29,20 @@ export function fijarVersion(id: string | undefined) {
 export const css = () => `/estilos.css?v=${version}`;
 export const js = () => `/app.js?v=${version}`;
 
+/* La hoja de estilos va dentro del HTML (ver _lib/estilos.mts): si llega la
+ * página, llega el diseño. Mientras no se haya podido leer, se enlaza como
+ * antes. */
+let hoja: string | null = null;
+export function fijarHoja(texto: string | null) { hoja = texto; }
+
+function bloqueEstilos(): string {
+  if (hoja) return `<style>${hoja}</style>`;
+  // Respaldo: el <link> de siempre, con un reintento si la copia que sirva el
+  // navegador o su service worker viniera mal.
+  return `<link rel="stylesheet" href="${css()}"`
+    + ` onerror="if(!this.dataset.r){this.dataset.r=1;this.href='/estilos.css?r='+Date.now()}">`;
+}
+
 export const WHATSAPP = "51986630221";
 export const TIENDA = "Euchel Perú";
 export const ANUNCIO = "Envíos a todo el Perú";
@@ -115,7 +129,7 @@ ${og}<link rel="icon" href="/favicon.png" type="image/png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap">
-<link rel="stylesheet" href="${css()}" onerror="if(!this.dataset.r){this.dataset.r=1;this.href='/estilos.css?r='+Date.now()}">
+${bloqueEstilos()}
 </head>
 <body>
 <a class="oculto-visual" href="#principal">Saltar al contenido</a>

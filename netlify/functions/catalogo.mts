@@ -1,8 +1,9 @@
 import type { Config, Context } from "@netlify/functions";
 import { neon } from "@neondatabase/serverless";
 import { categorias, productos, producto } from "./_lib/catalogo.mts";
-import { paginaListado, paginaFicha, pagina404, indiceBusqueda, sitemap, TIENDA, css, fijarVersion }
+import { paginaListado, paginaFicha, pagina404, indiceBusqueda, sitemap, TIENDA, css, fijarVersion, fijarHoja }
   from "./_lib/plantillas.mts";
+import { estilos } from "./_lib/estilos.mts";
 import { cabecerasCache } from "./_lib/cache.mts";
 
 /* El catálogo público, armado al momento desde la base.
@@ -32,6 +33,10 @@ export default async (req: Request, ctx: Context) => {
   const conexion = Netlify.env.get("DATABASE_URL");
   if (!conexion) return sinBase();
   const sql = neon(conexion);
+
+  // La hoja de estilos se mete dentro del HTML. Se lee una vez por instancia;
+  // si no se puede, la plantilla la enlaza como antes.
+  fijarHoja(await estilos(base));
 
   try {
     // Una sola URL por página: sin barra final se manda a la que la lleva.
