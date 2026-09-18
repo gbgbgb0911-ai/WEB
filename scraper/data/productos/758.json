@@ -1,0 +1,79 @@
+{
+  "id_original": 758,
+  "url_original": "https://euchelperu.com/producto.php?id=758",
+  "nombre": "VESTIDO HALTER",
+  "descripcion": "Este vestido largo combina un estilo bohemio chic con un diseño sofisticado y favorecedor. Confeccionado en un tejido de punto calado, presenta un patrón de bloques de color alternando tonos marrón y beige que aportan profundidad y originalidad al look. El corte ajustado al cuerpo con cuello halter realza la figura, mientras que la textura calada ofrece un aire ligero y elegante, ideal para ocasiones especiales, eventos al aire libre o salidas con estilo.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "758VES92909",
+  "item_group_id": "758",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176705662854128175449661.jpg",
+    "https://euchelperu.com/images/productos/177170296616329839622327.jpg",
+    "https://euchelperu.com/images/productos/177437290784048780765944.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO HALTER",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2321,
+      "nombre": "Marrón",
+      "precio": 65.0,
+      "id_color_confirmado": 2321,
+      "tallas": [
+        {
+          "id_talla": 2731,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176705662854128175449661.jpg",
+        "https://euchelperu.com/images/productos/177170296616329839622327.jpg",
+        "https://euchelperu.com/images/productos/177437290784048780765944.png"
+      ]
+    },
+    {
+      "id_color": 2917,
+      "nombre": "Marfil / Azul marino",
+      "precio": 65.0,
+      "id_color_confirmado": 2917,
+      "tallas": [
+        {
+          "id_talla": 3234,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177170296616329839622327.jpg",
+        "https://euchelperu.com/images/productos/176705662854128175449661.jpg",
+        "https://euchelperu.com/images/productos/177437290784048780765944.png"
+      ]
+    },
+    {
+      "id_color": 3135,
+      "nombre": "Gris",
+      "precio": 65.0,
+      "id_color_confirmado": 3135,
+      "tallas": [
+        {
+          "id_talla": 3419,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177437290784048780765944.png",
+        "https://euchelperu.com/images/productos/176705662854128175449661.jpg",
+        "https://euchelperu.com/images/productos/177170296616329839622327.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:54:02Z"
+}

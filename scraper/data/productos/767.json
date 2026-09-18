@@ -1,0 +1,101 @@
+{
+  "id_original": 767,
+  "url_original": "https://euchelperu.com/producto.php?id=767",
+  "nombre": "VESTIDO STRAPLESS PRETINA",
+  "descripcion": "Deslumbra con este sofisticado vestido largo strapless en un elegante tono chocolate que combina sensualidad y clase. Su diseño ajustado realza la silueta de forma delicada, mientras que la abertura lateral alta aporta un toque atrevido y moderno, perfecto para ocasiones especiales o noches de evento.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "767VES21552",
+  "item_group_id": "767",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176990032612617832033187.jpg",
+    "https://euchelperu.com/images/productos/176990035377841376894934.jpg",
+    "https://euchelperu.com/images/productos/177222095788454796658449.jpg",
+    "https://euchelperu.com/images/productos/177335160758301817553494.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO STRAPLESS PRETINA",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2800,
+      "nombre": "vino",
+      "precio": 79.0,
+      "id_color_confirmado": 2800,
+      "tallas": [
+        {
+          "id_talla": 3278,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176990032612617832033187.jpg",
+        "https://euchelperu.com/images/productos/176990035377841376894934.jpg",
+        "https://euchelperu.com/images/productos/177222095788454796658449.jpg",
+        "https://euchelperu.com/images/productos/177335160758301817553494.jpg"
+      ]
+    },
+    {
+      "id_color": 2802,
+      "nombre": "Negro",
+      "precio": 79.0,
+      "id_color_confirmado": 2802,
+      "tallas": [
+        {
+          "id_talla": 3280,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176990035377841376894934.jpg",
+        "https://euchelperu.com/images/productos/176990032612617832033187.jpg",
+        "https://euchelperu.com/images/productos/177222095788454796658449.jpg",
+        "https://euchelperu.com/images/productos/177335160758301817553494.jpg"
+      ]
+    },
+    {
+      "id_color": 2962,
+      "nombre": "Blanco",
+      "precio": 79.0,
+      "id_color_confirmado": 2962,
+      "tallas": [
+        {
+          "id_talla": 3282,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177222095788454796658449.jpg",
+        "https://euchelperu.com/images/productos/176990032612617832033187.jpg",
+        "https://euchelperu.com/images/productos/176990035377841376894934.jpg",
+        "https://euchelperu.com/images/productos/177335160758301817553494.jpg"
+      ]
+    },
+    {
+      "id_color": 3052,
+      "nombre": "verde olivo",
+      "precio": 79.0,
+      "id_color_confirmado": 3052,
+      "tallas": [
+        {
+          "id_talla": 3379,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177335160758301817553494.jpg",
+        "https://euchelperu.com/images/productos/176990032612617832033187.jpg",
+        "https://euchelperu.com/images/productos/176990035377841376894934.jpg",
+        "https://euchelperu.com/images/productos/177222095788454796658449.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:54:19Z"
+}

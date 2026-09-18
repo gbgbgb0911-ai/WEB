@@ -1,0 +1,41 @@
+{
+  "id_original": 764,
+  "url_original": "https://euchelperu.com/producto.php?id=764",
+  "nombre": "TOP ALONDRA HILO",
+  "descripcion": "Este top en un encantador tono amarillo brillante está confeccionado en tejido tipo crochet, que le aporta una textura delicada y un estilo fresco ideal para el buen clima. Su diseño halter con cuello alto le da un toque moderno y favorecedor, dejando los hombros al descubierto y realzando la figura de manera elegante. Perfecto para combinar con jeans, faldas o shorts y crear looks veraniegos cómodos y con onda.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "764TOP59143",
+  "item_group_id": "764",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176705887316232397454630.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ALONDRA HILO",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2327,
+      "nombre": "Amarillo Maíz",
+      "precio": 39.0,
+      "id_color_confirmado": 2327,
+      "tallas": [
+        {
+          "id_talla": 2737,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176705887316232397454630.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:54:05Z"
+}
