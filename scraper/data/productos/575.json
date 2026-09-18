@@ -49,8 +49,11 @@
           "nombre": "Standar"
         }
       ],
-      "imagenes": []
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17652968461219587114945.jpg",
+        "https://euchelperu.com/images/productos/176348705566885866568966.jpg"
+      ]
     }
   ],
-  "scraped_at": "2026-09-18T00:55:52Z"
+  "scraped_at": "2026-09-18T06:00:48Z"
 }

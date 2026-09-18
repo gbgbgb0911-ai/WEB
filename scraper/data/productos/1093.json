@@ -87,7 +87,12 @@
       "nombre": "Celeste",
       "precio": 45.0,
       "id_color_confirmado": 3334,
-      "tallas": [],
+      "tallas": [
+        {
+          "id_talla": 3660,
+          "nombre": "Standar"
+        }
+      ],
       "imagenes": [
         "https://euchelperu.com/images/productos/17761859371921133133986.jpg",
         "https://euchelperu.com/images/productos/177618521193854266495758.jpg",
@@ -116,5 +121,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-18T04:15:52Z"
+  "scraped_at": "2026-09-18T06:00:50Z"
 }

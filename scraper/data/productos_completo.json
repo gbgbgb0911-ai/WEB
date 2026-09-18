@@ -24318,10 +24318,13 @@
             "nombre": "Standar"
           }
         ],
-        "imagenes": []
+        "imagenes": [
+          "https://euchelperu.com/images/productos/17652968461219587114945.jpg",
+          "https://euchelperu.com/images/productos/176348705566885866568966.jpg"
+        ]
       }
     ],
-    "scraped_at": "2026-09-18T00:55:52Z"
+    "scraped_at": "2026-09-18T06:00:48Z"
   },
   {
     "id_original": 577,
@@ -55423,7 +55426,12 @@
         "nombre": "Celeste",
         "precio": 45.0,
         "id_color_confirmado": 3334,
-        "tallas": [],
+        "tallas": [
+          {
+            "id_talla": 3660,
+            "nombre": "Standar"
+          }
+        ],
         "imagenes": [
           "https://euchelperu.com/images/productos/17761859371921133133986.jpg",
           "https://euchelperu.com/images/productos/177618521193854266495758.jpg",
@@ -55452,7 +55460,7 @@
         ]
       }
     ],
-    "scraped_at": "2026-09-18T04:15:52Z"
+    "scraped_at": "2026-09-18T06:00:50Z"
   },
   {
     "id_original": 1094,
@@ -61461,8 +61469,8 @@
       {
         "id_color": 3563,
         "nombre": "Rosa pastel",
-        "precio": null,
-        "id_color_confirmado": null,
+        "precio": 49.0,
+        "id_color_confirmado": 3563,
         "tallas": [
           {
             "id_talla": 3881,
@@ -61478,7 +61486,7 @@
         ]
       }
     ],
-    "scraped_at": "2026-09-18T05:07:48Z"
+    "scraped_at": "2026-09-18T06:00:51Z"
   },
   {
     "id_original": 1195,

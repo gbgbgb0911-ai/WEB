@@ -104,8 +104,8 @@
     {
       "id_color": 3563,
       "nombre": "Rosa pastel",
-      "precio": null,
-      "id_color_confirmado": null,
+      "precio": 49.0,
+      "id_color_confirmado": 3563,
       "tallas": [
         {
           "id_talla": 3881,
@@ -121,5 +121,5 @@
       ]
     }
   ],
-  "scraped_at": "2026-09-18T05:07:48Z"
+  "scraped_at": "2026-09-18T06:00:51Z"
 }
