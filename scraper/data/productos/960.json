@@ -1,0 +1,41 @@
+{
+  "id_original": 960,
+  "url_original": "https://euchelperu.com/producto.php?id=960",
+  "nombre": "VESTIDO TAMMY COPAS",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "960VES37400",
+  "item_group_id": "960",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17716146894341573558879.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO TAMMY COPAS",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2885,
+      "nombre": "Beige claro floral",
+      "precio": 95.0,
+      "id_color_confirmado": 2885,
+      "tallas": [
+        {
+          "id_talla": 3202,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17716146894341573558879.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:22:23Z"
+}

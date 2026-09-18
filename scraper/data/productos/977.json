@@ -1,0 +1,71 @@
+{
+  "id_original": 977,
+  "url_original": "https://euchelperu.com/producto.php?id=977",
+  "nombre": "VESTIDO LUA SIRENA",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "9777G5F3D2S",
+  "item_group_id": "977",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177221631663387455433588.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO LUA SIRENA",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2952,
+      "nombre": "Blanco floral / Rosa pastel",
+      "precio": 79.0,
+      "id_color_confirmado": 2952,
+      "tallas": [
+        {
+          "id_talla": 3269,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177221631663387455433588.jpg"
+      ]
+    },
+    {
+      "id_color": 3143,
+      "nombre": "Negro floral",
+      "precio": 79.0,
+      "id_color_confirmado": 3143,
+      "tallas": [
+        {
+          "id_talla": 3424,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177221631663387455433588.jpg"
+      ]
+    },
+    {
+      "id_color": 3145,
+      "nombre": "Fucsia floral",
+      "precio": 79.0,
+      "id_color_confirmado": 3145,
+      "tallas": [
+        {
+          "id_talla": 3534,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177221631663387455433588.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:25:29Z"
+}

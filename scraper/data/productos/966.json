@@ -1,0 +1,79 @@
+{
+  "id_original": 966,
+  "url_original": "https://euchelperu.com/producto.php?id=966",
+  "nombre": "Top Lexi",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "966L9V4Q7W2",
+  "item_group_id": "966",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177162619485999109289935.jpg",
+    "https://euchelperu.com/images/productos/177162708711821190450899.png",
+    "https://euchelperu.com/images/productos/17716272279828724222662.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Lexi",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2904,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 2904,
+      "tallas": [
+        {
+          "id_talla": 3220,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177162619485999109289935.jpg",
+        "https://euchelperu.com/images/productos/177162708711821190450899.png",
+        "https://euchelperu.com/images/productos/17716272279828724222662.png"
+      ]
+    },
+    {
+      "id_color": 2905,
+      "nombre": "celeste",
+      "precio": 45.0,
+      "id_color_confirmado": 2905,
+      "tallas": [
+        {
+          "id_talla": 3221,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177162708711821190450899.png",
+        "https://euchelperu.com/images/productos/177162619485999109289935.jpg",
+        "https://euchelperu.com/images/productos/17716272279828724222662.png"
+      ]
+    },
+    {
+      "id_color": 2906,
+      "nombre": "verde olivo",
+      "precio": 49.0,
+      "id_color_confirmado": 2906,
+      "tallas": [
+        {
+          "id_talla": 3222,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17716272279828724222662.png",
+        "https://euchelperu.com/images/productos/177162619485999109289935.jpg",
+        "https://euchelperu.com/images/productos/177162708711821190450899.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:23:42Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id_original": 980,
+  "url_original": "https://euchelperu.com/producto.php?id=980",
+  "nombre": "VESTIDO LARISSA",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "980K8L6J5H2",
+  "item_group_id": "980",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177222276968410389075065.jpg",
+    "https://euchelperu.com/images/productos/177230542998518577328006.jpg",
+    "https://euchelperu.com/images/productos/177230545735270607471895.jpg",
+    "https://euchelperu.com/images/productos/177230546844389986518623.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO LARISSA",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2968,
+      "nombre": "Verde",
+      "precio": 79.0,
+      "id_color_confirmado": 2968,
+      "tallas": [
+        {
+          "id_talla": 3288,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177222276968410389075065.jpg",
+        "https://euchelperu.com/images/productos/177230542998518577328006.jpg",
+        "https://euchelperu.com/images/productos/177230545735270607471895.jpg",
+        "https://euchelperu.com/images/productos/177230546844389986518623.jpg"
+      ]
+    },
+    {
+      "id_color": 3003,
+      "nombre": "Marron",
+      "precio": 79.0,
+      "id_color_confirmado": 3003,
+      "tallas": [
+        {
+          "id_talla": 3323,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177230542998518577328006.jpg",
+        "https://euchelperu.com/images/productos/177222276968410389075065.jpg",
+        "https://euchelperu.com/images/productos/177230545735270607471895.jpg",
+        "https://euchelperu.com/images/productos/177230546844389986518623.jpg"
+      ]
+    },
+    {
+      "id_color": 3004,
+      "nombre": "Rojo",
+      "precio": 79.0,
+      "id_color_confirmado": 3004,
+      "tallas": [
+        {
+          "id_talla": 3324,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177230545735270607471895.jpg",
+        "https://euchelperu.com/images/productos/177222276968410389075065.jpg",
+        "https://euchelperu.com/images/productos/177230542998518577328006.jpg",
+        "https://euchelperu.com/images/productos/177230546844389986518623.jpg"
+      ]
+    },
+    {
+      "id_color": 3005,
+      "nombre": "Azul turquesa",
+      "precio": 79.0,
+      "id_color_confirmado": 3005,
+      "tallas": [
+        {
+          "id_talla": 3325,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177230546844389986518623.jpg",
+        "https://euchelperu.com/images/productos/177222276968410389075065.jpg",
+        "https://euchelperu.com/images/productos/177230542998518577328006.jpg",
+        "https://euchelperu.com/images/productos/177230545735270607471895.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:26:05Z"
+}

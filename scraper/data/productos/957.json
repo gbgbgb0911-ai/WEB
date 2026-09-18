@@ -1,0 +1,41 @@
+{
+  "id_original": 957,
+  "url_original": "https://euchelperu.com/producto.php?id=957",
+  "nombre": "BLACK MUSE",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "957CAR67641",
+  "item_group_id": "957",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177154803545010588985929.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BLACK MUSE",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2875,
+      "nombre": "negro",
+      "precio": 99.0,
+      "id_color_confirmado": 2875,
+      "tallas": [
+        {
+          "id_talla": 3184,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177154803545010588985929.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:21:57Z"
+}

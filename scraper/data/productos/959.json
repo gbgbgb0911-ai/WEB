@@ -1,0 +1,59 @@
+{
+  "id_original": 959,
+  "url_original": "https://euchelperu.com/producto.php?id=959",
+  "nombre": "VESTIDO ADA",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "959D7F5G2H1",
+  "item_group_id": "959",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177161235139070934225803.jpg",
+    "https://euchelperu.com/images/productos/177161399707983342090605.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ADA",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2881,
+      "nombre": "Amarillo",
+      "precio": 75.0,
+      "id_color_confirmado": 2881,
+      "tallas": [
+        {
+          "id_talla": 3198,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177161235139070934225803.jpg",
+        "https://euchelperu.com/images/productos/177161399707983342090605.png"
+      ]
+    },
+    {
+      "id_color": 2884,
+      "nombre": "Azul petróleo",
+      "precio": 75.0,
+      "id_color_confirmado": 2884,
+      "tallas": [
+        {
+          "id_talla": 3201,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177161399707983342090605.png",
+        "https://euchelperu.com/images/productos/177161235139070934225803.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:22:20Z"
+}

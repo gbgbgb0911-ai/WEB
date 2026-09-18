@@ -1,0 +1,59 @@
+{
+  "id_original": 969,
+  "url_original": "https://euchelperu.com/producto.php?id=969",
+  "nombre": "Vestido Pao",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "969J7G3F1H8",
+  "item_group_id": "969",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177214034236996635731237.jpg",
+    "https://euchelperu.com/images/productos/177214048854503997958587.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Pao",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2918,
+      "nombre": "blanco con flores guindas",
+      "precio": 49.0,
+      "id_color_confirmado": 2918,
+      "tallas": [
+        {
+          "id_talla": 3235,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177214034236996635731237.jpg",
+        "https://euchelperu.com/images/productos/177214048854503997958587.png"
+      ]
+    },
+    {
+      "id_color": 2919,
+      "nombre": "blanco con flores mostazas",
+      "precio": 49.0,
+      "id_color_confirmado": 2919,
+      "tallas": [
+        {
+          "id_talla": 3236,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177214048854503997958587.png",
+        "https://euchelperu.com/images/productos/177214034236996635731237.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:24:15Z"
+}

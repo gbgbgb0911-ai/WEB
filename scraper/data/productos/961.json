@@ -1,0 +1,41 @@
+{
+  "id_original": 961,
+  "url_original": "https://euchelperu.com/producto.php?id=961",
+  "nombre": "TOP RAW",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "961E4R6T9Y2",
+  "item_group_id": "961",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177161628642727175694524.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP RAW",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2886,
+      "nombre": "Azul acero",
+      "precio": 49.0,
+      "id_color_confirmado": 2886,
+      "tallas": [
+        {
+          "id_talla": 3203,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177161628642727175694524.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:22:26Z"
+}

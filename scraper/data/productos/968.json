@@ -1,0 +1,101 @@
+{
+  "id_original": 968,
+  "url_original": "https://euchelperu.com/producto.php?id=968",
+  "nombre": "VESTIDO VELVET",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "968E8O2P0M9",
+  "item_group_id": "968",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177169527069530397113420.jpg",
+    "https://euchelperu.com/images/productos/17716969295125649020224.jpg",
+    "https://euchelperu.com/images/productos/177169694165635403930666.jpg",
+    "https://euchelperu.com/images/productos/177169695636362732172227.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO VELVET",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2911,
+      "nombre": "Marron",
+      "precio": 75.0,
+      "id_color_confirmado": 2911,
+      "tallas": [
+        {
+          "id_talla": 3227,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177169527069530397113420.jpg",
+        "https://euchelperu.com/images/productos/17716969295125649020224.jpg",
+        "https://euchelperu.com/images/productos/177169694165635403930666.jpg",
+        "https://euchelperu.com/images/productos/177169695636362732172227.jpg"
+      ]
+    },
+    {
+      "id_color": 2912,
+      "nombre": "Celeste",
+      "precio": 75.0,
+      "id_color_confirmado": 2912,
+      "tallas": [
+        {
+          "id_talla": 3228,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17716969295125649020224.jpg",
+        "https://euchelperu.com/images/productos/177169527069530397113420.jpg",
+        "https://euchelperu.com/images/productos/177169694165635403930666.jpg",
+        "https://euchelperu.com/images/productos/177169695636362732172227.jpg"
+      ]
+    },
+    {
+      "id_color": 2913,
+      "nombre": "Rojo",
+      "precio": 75.0,
+      "id_color_confirmado": 2913,
+      "tallas": [
+        {
+          "id_talla": 3229,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177169694165635403930666.jpg",
+        "https://euchelperu.com/images/productos/177169527069530397113420.jpg",
+        "https://euchelperu.com/images/productos/17716969295125649020224.jpg",
+        "https://euchelperu.com/images/productos/177169695636362732172227.jpg"
+      ]
+    },
+    {
+      "id_color": 2914,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 2914,
+      "tallas": [
+        {
+          "id_talla": 3230,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177169695636362732172227.jpg",
+        "https://euchelperu.com/images/productos/177169527069530397113420.jpg",
+        "https://euchelperu.com/images/productos/17716969295125649020224.jpg",
+        "https://euchelperu.com/images/productos/177169694165635403930666.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:24:08Z"
+}

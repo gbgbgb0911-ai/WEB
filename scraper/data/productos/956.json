@@ -1,0 +1,41 @@
+{
+  "id_original": 956,
+  "url_original": "https://euchelperu.com/producto.php?id=956",
+  "nombre": "CLOUD",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "956CAR67641",
+  "item_group_id": "956",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17715459124112336567570.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CLOUD",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2874,
+      "nombre": "café",
+      "precio": 99.0,
+      "id_color_confirmado": 2874,
+      "tallas": [
+        {
+          "id_talla": 3183,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17715459124112336567570.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:21:54Z"
+}

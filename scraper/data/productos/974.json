@@ -1,0 +1,41 @@
+{
+  "id_original": 974,
+  "url_original": "https://euchelperu.com/producto.php?id=974",
+  "nombre": "Vestido Anto",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "974Z1X2C3V2",
+  "item_group_id": "974",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17721497368167762674816.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Anto",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2944,
+      "nombre": "blanco",
+      "precio": 65.0,
+      "id_color_confirmado": 2944,
+      "tallas": [
+        {
+          "id_talla": 3261,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17721497368167762674816.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:25:20Z"
+}
