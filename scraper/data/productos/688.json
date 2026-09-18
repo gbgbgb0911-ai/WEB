@@ -1,0 +1,53 @@
+{
+  "id_original": 688,
+  "url_original": "https://euchelperu.com/producto.php?id=688",
+  "nombre": "Bikini Kendra",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "688BKN1528",
+  "item_group_id": "688",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17662518405577081285889.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Kendra",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2170,
+      "nombre": "Azul",
+      "precio": 110.0,
+      "id_color_confirmado": 2170,
+      "tallas": [
+        {
+          "id_talla": 2539,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2540,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2541,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2542,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17662518405577081285889.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:30:34Z"
+}

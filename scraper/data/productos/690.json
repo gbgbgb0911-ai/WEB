@@ -1,0 +1,53 @@
+{
+  "id_original": 690,
+  "url_original": "https://euchelperu.com/producto.php?id=690",
+  "nombre": "Bikini Addison",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "690BKN152987",
+  "item_group_id": "690",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176625286859266660847053.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Addison",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2172,
+      "nombre": "Negro c/ puntos",
+      "precio": 110.0,
+      "id_color_confirmado": 2172,
+      "tallas": [
+        {
+          "id_talla": 2547,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2548,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2549,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2550,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176625286859266660847053.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:30:40Z"
+}
