@@ -1,0 +1,69 @@
+{
+  "id_original": 1007,
+  "url_original": "https://euchelperu.com/producto.php?id=1007",
+  "nombre": "top baloon manga laga",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1007TOP57699",
+  "item_group_id": "1007",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177352789167569628057209.jpg",
+    "https://euchelperu.com/images/productos/177352791419410569969923.jpg",
+    "https://euchelperu.com/images/productos/177352793505786919297100.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "top baloon manga laga",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3056,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3056,
+      "tallas": [
+        {
+          "id_talla": 3384,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177352789167569628057209.jpg",
+        "https://euchelperu.com/images/productos/177352791419410569969923.jpg",
+        "https://euchelperu.com/images/productos/177352793505786919297100.jpg"
+      ]
+    },
+    {
+      "id_color": 3057,
+      "nombre": "Marrón",
+      "precio": null,
+      "id_color_confirmado": 3057,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177352791419410569969923.jpg",
+        "https://euchelperu.com/images/productos/177352789167569628057209.jpg",
+        "https://euchelperu.com/images/productos/177352793505786919297100.jpg"
+      ]
+    },
+    {
+      "id_color": 3058,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 3058,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177352793505786919297100.jpg",
+        "https://euchelperu.com/images/productos/177352789167569628057209.jpg",
+        "https://euchelperu.com/images/productos/177352791419410569969923.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:31:29Z"
+}

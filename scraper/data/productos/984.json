@@ -1,0 +1,101 @@
+{
+  "id_original": 984,
+  "url_original": "https://euchelperu.com/producto.php?id=984",
+  "nombre": "Top Chyna",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "984A9S8D6F4",
+  "item_group_id": "984",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177223793459648173597408.jpg",
+    "https://euchelperu.com/images/productos/177223802151902204094835.jpg",
+    "https://euchelperu.com/images/productos/177223811543067823564813.jpg",
+    "https://euchelperu.com/images/productos/17722381301420885241020.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Chyna",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2983,
+      "nombre": "amarillo",
+      "precio": 45.0,
+      "id_color_confirmado": 2983,
+      "tallas": [
+        {
+          "id_talla": 3303,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177223793459648173597408.jpg",
+        "https://euchelperu.com/images/productos/177223802151902204094835.jpg",
+        "https://euchelperu.com/images/productos/177223811543067823564813.jpg",
+        "https://euchelperu.com/images/productos/17722381301420885241020.png"
+      ]
+    },
+    {
+      "id_color": 2984,
+      "nombre": "negro",
+      "precio": 45.0,
+      "id_color_confirmado": 2984,
+      "tallas": [
+        {
+          "id_talla": 3304,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177223802151902204094835.jpg",
+        "https://euchelperu.com/images/productos/177223793459648173597408.jpg",
+        "https://euchelperu.com/images/productos/177223811543067823564813.jpg",
+        "https://euchelperu.com/images/productos/17722381301420885241020.png"
+      ]
+    },
+    {
+      "id_color": 2985,
+      "nombre": "blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 2985,
+      "tallas": [
+        {
+          "id_talla": 3305,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177223811543067823564813.jpg",
+        "https://euchelperu.com/images/productos/177223793459648173597408.jpg",
+        "https://euchelperu.com/images/productos/177223802151902204094835.jpg",
+        "https://euchelperu.com/images/productos/17722381301420885241020.png"
+      ]
+    },
+    {
+      "id_color": 2986,
+      "nombre": "vino",
+      "precio": 45.0,
+      "id_color_confirmado": 2986,
+      "tallas": [
+        {
+          "id_talla": 3306,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17722381301420885241020.png",
+        "https://euchelperu.com/images/productos/177223793459648173597408.jpg",
+        "https://euchelperu.com/images/productos/177223802151902204094835.jpg",
+        "https://euchelperu.com/images/productos/177223811543067823564813.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:28:07Z"
+}

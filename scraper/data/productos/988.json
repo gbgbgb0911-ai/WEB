@@ -1,0 +1,41 @@
+{
+  "id_original": 988,
+  "url_original": "https://euchelperu.com/producto.php?id=988",
+  "nombre": "Cartera Odisea",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "988CAR62433",
+  "item_group_id": "988",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177223961752992389470757.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Cartera Odisea",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2997,
+      "nombre": "negro",
+      "precio": 49.0,
+      "id_color_confirmado": 2997,
+      "tallas": [
+        {
+          "id_talla": 3317,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177223961752992389470757.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:28:46Z"
+}

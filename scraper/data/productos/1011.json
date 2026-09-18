@@ -1,0 +1,101 @@
+{
+  "id_original": 1011,
+  "url_original": "https://euchelperu.com/producto.php?id=1011",
+  "nombre": "TOP INDDIGO",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1011TOP09854",
+  "item_group_id": "1011",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177353800263264531612057.jpg",
+    "https://euchelperu.com/images/productos/177411886991449206550249.jpg",
+    "https://euchelperu.com/images/productos/17741192631466238912776.jpg",
+    "https://euchelperu.com/images/productos/177411943609064149633692.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP INDDIGO",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3075,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 3075,
+      "tallas": [
+        {
+          "id_talla": 3388,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177411886991449206550249.jpg",
+        "https://euchelperu.com/images/productos/177353800263264531612057.jpg",
+        "https://euchelperu.com/images/productos/17741192631466238912776.jpg",
+        "https://euchelperu.com/images/productos/177411943609064149633692.jpg"
+      ]
+    },
+    {
+      "id_color": 3076,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3076,
+      "tallas": [
+        {
+          "id_talla": 3404,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177353800263264531612057.jpg",
+        "https://euchelperu.com/images/productos/177411886991449206550249.jpg",
+        "https://euchelperu.com/images/productos/17741192631466238912776.jpg",
+        "https://euchelperu.com/images/productos/177411943609064149633692.jpg"
+      ]
+    },
+    {
+      "id_color": 3087,
+      "nombre": "Azu marino",
+      "precio": 45.0,
+      "id_color_confirmado": 3087,
+      "tallas": [
+        {
+          "id_talla": 3405,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17741192631466238912776.jpg",
+        "https://euchelperu.com/images/productos/177353800263264531612057.jpg",
+        "https://euchelperu.com/images/productos/177411886991449206550249.jpg",
+        "https://euchelperu.com/images/productos/177411943609064149633692.jpg"
+      ]
+    },
+    {
+      "id_color": 3088,
+      "nombre": "Amarillo",
+      "precio": 45.0,
+      "id_color_confirmado": 3088,
+      "tallas": [
+        {
+          "id_talla": 3406,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177411943609064149633692.jpg",
+        "https://euchelperu.com/images/productos/177353800263264531612057.jpg",
+        "https://euchelperu.com/images/productos/177411886991449206550249.jpg",
+        "https://euchelperu.com/images/productos/17741192631466238912776.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:32:38Z"
+}

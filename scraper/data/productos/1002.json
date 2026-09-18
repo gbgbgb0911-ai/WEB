@@ -1,0 +1,41 @@
+{
+  "id_original": 1002,
+  "url_original": "https://euchelperu.com/producto.php?id=1002",
+  "nombre": "Flare Cadera Dava",
+  "descripcion": "",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1002H5V2G9B4",
+  "item_group_id": "1002",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177267395198235303249823.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Flare Cadera Dava",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3033,
+      "nombre": "Celeste",
+      "precio": 95.0,
+      "id_color_confirmado": 3033,
+      "tallas": [
+        {
+          "id_talla": 3347,
+          "nombre": "28-30-32"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177267395198235303249823.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:30:27Z"
+}

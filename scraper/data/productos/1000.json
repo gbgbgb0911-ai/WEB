@@ -1,0 +1,41 @@
+{
+  "id_original": 1000,
+  "url_original": "https://euchelperu.com/producto.php?id=1000",
+  "nombre": "Falda Short Ema Rígido",
+  "descripcion": "",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1000ERFS",
+  "item_group_id": "1000",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177267350708872408967244.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Falda Short Ema Rígido",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3031,
+      "nombre": "Azul",
+      "precio": 85.0,
+      "id_color_confirmado": 3031,
+      "tallas": [
+        {
+          "id_talla": 3345,
+          "nombre": "28-30-32"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177267350708872408967244.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:30:20Z"
+}

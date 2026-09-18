@@ -1,0 +1,253 @@
+{
+  "id_original": 1005,
+  "url_original": "https://euchelperu.com/producto.php?id=1005",
+  "nombre": "BLUSA MANGA CORTA",
+  "descripcion": "",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "10054K2J6H8G",
+  "item_group_id": "1005",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177291030103090241074285.jpg",
+    "https://euchelperu.com/images/productos/177291063069810580258522.jpg",
+    "https://euchelperu.com/images/productos/177291074489352496194042.jpg",
+    "https://euchelperu.com/images/productos/17729119124241898531683.jpg",
+    "https://euchelperu.com/images/productos/177291201273665604814268.jpg",
+    "https://euchelperu.com/images/productos/1772912057766218857444.jpg",
+    "https://euchelperu.com/images/productos/177291208164305680785809.jpg",
+    "https://euchelperu.com/images/productos/177428373638032296680229.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BLUSA MANGA CORTA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3036,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 3036,
+      "tallas": [
+        {
+          "id_talla": 3350,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3351,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 3352,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177291030103090241074285.jpg",
+        "https://euchelperu.com/images/productos/177291063069810580258522.jpg",
+        "https://euchelperu.com/images/productos/177291074489352496194042.jpg",
+        "https://euchelperu.com/images/productos/17729119124241898531683.jpg",
+        "https://euchelperu.com/images/productos/177291201273665604814268.jpg",
+        "https://euchelperu.com/images/productos/1772912057766218857444.jpg",
+        "https://euchelperu.com/images/productos/177291208164305680785809.jpg",
+        "https://euchelperu.com/images/productos/177428373638032296680229.jpg"
+      ]
+    },
+    {
+      "id_color": 3037,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 3037,
+      "tallas": [
+        {
+          "id_talla": 3353,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3354,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 3355,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177291063069810580258522.jpg",
+        "https://euchelperu.com/images/productos/177291030103090241074285.jpg",
+        "https://euchelperu.com/images/productos/177291074489352496194042.jpg",
+        "https://euchelperu.com/images/productos/17729119124241898531683.jpg",
+        "https://euchelperu.com/images/productos/177291201273665604814268.jpg",
+        "https://euchelperu.com/images/productos/1772912057766218857444.jpg",
+        "https://euchelperu.com/images/productos/177291208164305680785809.jpg",
+        "https://euchelperu.com/images/productos/177428373638032296680229.jpg"
+      ]
+    },
+    {
+      "id_color": 3038,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 3038,
+      "tallas": [
+        {
+          "id_talla": 3356,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3357,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 3358,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177291074489352496194042.jpg",
+        "https://euchelperu.com/images/productos/177291030103090241074285.jpg",
+        "https://euchelperu.com/images/productos/177291063069810580258522.jpg",
+        "https://euchelperu.com/images/productos/17729119124241898531683.jpg",
+        "https://euchelperu.com/images/productos/177291201273665604814268.jpg",
+        "https://euchelperu.com/images/productos/1772912057766218857444.jpg",
+        "https://euchelperu.com/images/productos/177291208164305680785809.jpg",
+        "https://euchelperu.com/images/productos/177428373638032296680229.jpg"
+      ]
+    },
+    {
+      "id_color": 3040,
+      "nombre": "Blanco c/ rayas negras",
+      "precio": 59.0,
+      "id_color_confirmado": 3040,
+      "tallas": [
+        {
+          "id_talla": 3359,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3360,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17729119124241898531683.jpg",
+        "https://euchelperu.com/images/productos/177291030103090241074285.jpg",
+        "https://euchelperu.com/images/productos/177291063069810580258522.jpg",
+        "https://euchelperu.com/images/productos/177291074489352496194042.jpg",
+        "https://euchelperu.com/images/productos/177291201273665604814268.jpg",
+        "https://euchelperu.com/images/productos/1772912057766218857444.jpg",
+        "https://euchelperu.com/images/productos/177291208164305680785809.jpg",
+        "https://euchelperu.com/images/productos/177428373638032296680229.jpg"
+      ]
+    },
+    {
+      "id_color": 3041,
+      "nombre": "Beige c/ rayas negras",
+      "precio": 59.0,
+      "id_color_confirmado": 3041,
+      "tallas": [
+        {
+          "id_talla": 3362,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3363,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177428373638032296680229.jpg",
+        "https://euchelperu.com/images/productos/177291030103090241074285.jpg",
+        "https://euchelperu.com/images/productos/177291063069810580258522.jpg",
+        "https://euchelperu.com/images/productos/177291074489352496194042.jpg",
+        "https://euchelperu.com/images/productos/17729119124241898531683.jpg",
+        "https://euchelperu.com/images/productos/177291201273665604814268.jpg",
+        "https://euchelperu.com/images/productos/1772912057766218857444.jpg",
+        "https://euchelperu.com/images/productos/177291208164305680785809.jpg"
+      ]
+    },
+    {
+      "id_color": 3042,
+      "nombre": "Negro c/ rayas blancas",
+      "precio": 59.0,
+      "id_color_confirmado": 3042,
+      "tallas": [
+        {
+          "id_talla": 3365,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3366,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177291201273665604814268.jpg",
+        "https://euchelperu.com/images/productos/177291030103090241074285.jpg",
+        "https://euchelperu.com/images/productos/177291063069810580258522.jpg",
+        "https://euchelperu.com/images/productos/177291074489352496194042.jpg",
+        "https://euchelperu.com/images/productos/17729119124241898531683.jpg",
+        "https://euchelperu.com/images/productos/1772912057766218857444.jpg",
+        "https://euchelperu.com/images/productos/177291208164305680785809.jpg",
+        "https://euchelperu.com/images/productos/177428373638032296680229.jpg"
+      ]
+    },
+    {
+      "id_color": 3043,
+      "nombre": "Celeste c/ rayas blancas",
+      "precio": 59.0,
+      "id_color_confirmado": 3043,
+      "tallas": [
+        {
+          "id_talla": 3368,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3369,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1772912057766218857444.jpg",
+        "https://euchelperu.com/images/productos/177291030103090241074285.jpg",
+        "https://euchelperu.com/images/productos/177291063069810580258522.jpg",
+        "https://euchelperu.com/images/productos/177291074489352496194042.jpg",
+        "https://euchelperu.com/images/productos/17729119124241898531683.jpg",
+        "https://euchelperu.com/images/productos/177291201273665604814268.jpg",
+        "https://euchelperu.com/images/productos/177291208164305680785809.jpg",
+        "https://euchelperu.com/images/productos/177428373638032296680229.jpg"
+      ]
+    },
+    {
+      "id_color": 3044,
+      "nombre": "Amarillo c/ rayas blancas",
+      "precio": 59.0,
+      "id_color_confirmado": 3044,
+      "tallas": [
+        {
+          "id_talla": 3370,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3371,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177291208164305680785809.jpg",
+        "https://euchelperu.com/images/productos/177291030103090241074285.jpg",
+        "https://euchelperu.com/images/productos/177291063069810580258522.jpg",
+        "https://euchelperu.com/images/productos/177291074489352496194042.jpg",
+        "https://euchelperu.com/images/productos/17729119124241898531683.jpg",
+        "https://euchelperu.com/images/productos/177291201273665604814268.jpg",
+        "https://euchelperu.com/images/productos/1772912057766218857444.jpg",
+        "https://euchelperu.com/images/productos/177428373638032296680229.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:30:59Z"
+}

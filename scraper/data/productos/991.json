@@ -1,0 +1,41 @@
+{
+  "id_original": 991,
+  "url_original": "https://euchelperu.com/producto.php?id=991",
+  "nombre": "Cartera Duna Bag",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "991CAR79778",
+  "item_group_id": "991",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17722405219952621359183.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3000,
+      "nombre": "beige",
+      "precio": 69.0,
+      "id_color_confirmado": 3000,
+      "tallas": [
+        {
+          "id_talla": 3320,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17722405219952621359183.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:28:53Z"
+}

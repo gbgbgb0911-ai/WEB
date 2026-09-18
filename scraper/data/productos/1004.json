@@ -1,0 +1,41 @@
+{
+  "id_original": 1004,
+  "url_original": "https://euchelperu.com/producto.php?id=1004",
+  "nombre": "Pantalón Bootcut Cadera",
+  "descripcion": "",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1004C3F9P6T2",
+  "item_group_id": "1004",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177267433936262262867017.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pantalón Bootcut Cadera",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3035,
+      "nombre": "Azul",
+      "precio": 95.0,
+      "id_color_confirmado": 3035,
+      "tallas": [
+        {
+          "id_talla": 3349,
+          "nombre": "28-30-32"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177267433936262262867017.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:30:34Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1001,
+  "url_original": "https://euchelperu.com/producto.php?id=1001",
+  "nombre": "Falda Short Cadera Charlotte",
+  "descripcion": "",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1001Z6Q3Y1N8",
+  "item_group_id": "1001",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177267373669611253763907.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Falda Short Cadera Charlotte",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3032,
+      "nombre": "Celeste",
+      "precio": 89.0,
+      "id_color_confirmado": 3032,
+      "tallas": [
+        {
+          "id_talla": 3346,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177267373669611253763907.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:30:24Z"
+}

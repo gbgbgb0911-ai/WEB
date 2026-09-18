@@ -1,0 +1,59 @@
+{
+  "id_original": 1012,
+  "url_original": "https://euchelperu.com/producto.php?id=1012",
+  "nombre": "CORSET DUA LENTEJUELAS",
+  "descripcion": "Nuestro nuevo corset de lentejuelas en rojo vibrante es la pieza clave que tu clóset de fiesta necesita. Diseñado con una estructura de varillas que realza tu silueta y un acabado brillante que no pasa desapercibido.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1012COR85482",
+  "item_group_id": "1012",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177412070248981243446161.jpg",
+    "https://euchelperu.com/images/productos/177412072342410741117544.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CORSET DUA LENTEJUELAS",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3090,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 3090,
+      "tallas": [
+        {
+          "id_talla": 3402,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177412070248981243446161.jpg",
+        "https://euchelperu.com/images/productos/177412072342410741117544.jpg"
+      ]
+    },
+    {
+      "id_color": 3091,
+      "nombre": "Rojo",
+      "precio": 55.0,
+      "id_color_confirmado": 3091,
+      "tallas": [
+        {
+          "id_talla": 3403,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177412072342410741117544.jpg",
+        "https://euchelperu.com/images/productos/177412070248981243446161.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:32:44Z"
+}

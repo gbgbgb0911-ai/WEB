@@ -1,0 +1,101 @@
+{
+  "id_original": 998,
+  "url_original": "https://euchelperu.com/producto.php?id=998",
+  "nombre": "VESTIDO ASIA",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "998ASIA55",
+  "item_group_id": "998",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17726501573931688823466.jpg",
+    "https://euchelperu.com/images/productos/177265154982165983737094.jpg",
+    "https://euchelperu.com/images/productos/17726515709370797439626.jpg",
+    "https://euchelperu.com/images/productos/177265165598742788958462.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ASIA",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3020,
+      "nombre": "Marron",
+      "precio": 99.0,
+      "id_color_confirmado": 3020,
+      "tallas": [
+        {
+          "id_talla": 3334,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17726501573931688823466.jpg",
+        "https://euchelperu.com/images/productos/177265154982165983737094.jpg",
+        "https://euchelperu.com/images/productos/17726515709370797439626.jpg",
+        "https://euchelperu.com/images/productos/177265165598742788958462.jpg"
+      ]
+    },
+    {
+      "id_color": 3021,
+      "nombre": "Negro",
+      "precio": 99.0,
+      "id_color_confirmado": 3021,
+      "tallas": [
+        {
+          "id_talla": 3335,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177265154982165983737094.jpg",
+        "https://euchelperu.com/images/productos/17726501573931688823466.jpg",
+        "https://euchelperu.com/images/productos/17726515709370797439626.jpg",
+        "https://euchelperu.com/images/productos/177265165598742788958462.jpg"
+      ]
+    },
+    {
+      "id_color": 3022,
+      "nombre": "Blanco",
+      "precio": 99.0,
+      "id_color_confirmado": 3022,
+      "tallas": [
+        {
+          "id_talla": 3336,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17726515709370797439626.jpg",
+        "https://euchelperu.com/images/productos/17726501573931688823466.jpg",
+        "https://euchelperu.com/images/productos/177265154982165983737094.jpg",
+        "https://euchelperu.com/images/productos/177265165598742788958462.jpg"
+      ]
+    },
+    {
+      "id_color": 3023,
+      "nombre": "Verde",
+      "precio": 99.0,
+      "id_color_confirmado": 3023,
+      "tallas": [
+        {
+          "id_talla": 3337,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177265165598742788958462.jpg",
+        "https://euchelperu.com/images/productos/17726501573931688823466.jpg",
+        "https://euchelperu.com/images/productos/177265154982165983737094.jpg",
+        "https://euchelperu.com/images/productos/17726515709370797439626.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:29:53Z"
+}
