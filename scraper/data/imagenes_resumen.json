@@ -1,0 +1,19 @@
+{
+  "resumen": {
+    "generado": "2026-09-18T06:54:27.492Z",
+    "urls_unicas": 2197,
+    "descargadas_en_esta_corrida": 2197,
+    "ya_en_disco": 0,
+    "fallidas": 0,
+    "convertidas": 2197,
+    "bytes_originales": 622031384,
+    "bytes_webp": 182426532,
+    "ahorro_pct": 70.7,
+    "calidad_webp": 82,
+    "anchos": {
+      "thumb": 500,
+      "full": 1400
+    }
+  },
+  "fallidas": []
+}
