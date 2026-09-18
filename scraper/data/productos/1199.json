@@ -1,0 +1,41 @@
+{
+  "id_original": 1199,
+  "url_original": "https://euchelperu.com/producto.php?id=1199",
+  "nombre": "FLARE JIMENA BOLSILLOS",
+  "descripcion": "Dale un toque renovado a tus looks con estos jeans de corte acampanado FLARE, diseñados para brindar una silueta estilizada y moderna. Esta prenda combina la comodidad necesaria para el día a día con un diseño que favorece tu figura, convirtiéndose en el básico infaltable de tu guardarropa.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1199FJB777",
+  "item_group_id": "1199",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178104518267534704052964.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FLARE JIMENA BOLSILLOS",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3568,
+      "nombre": "Azul",
+      "precio": 95.0,
+      "id_color_confirmado": 3568,
+      "tallas": [
+        {
+          "id_talla": 3886,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178104518267534704052964.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:09:50Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id_original": 1207,
+  "url_original": "https://euchelperu.com/producto.php?id=1207",
+  "nombre": "VESTIDO SIENNA",
+  "descripcion": "Destaca en tu próxima ocasión especial con este sofisticado vestido corto en un profundo tono azul marino. Su diseño destaca por el equilibrio perfecto entre sensualidad y distinción, gracias a sus mangas largas en malla semitransparente que terminan en un delicado acabado con volantes, aportando movimiento y un toque romántico a tu look.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1207VSSIE284",
+  "item_group_id": "1207",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178175052988297386026842.jpg",
+    "https://euchelperu.com/images/productos/17817510731702563186519.jpg",
+    "https://euchelperu.com/images/productos/178175109657851819454327.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO SIENNA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3593,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 3593,
+      "tallas": [
+        {
+          "id_talla": 3911,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17817510731702563186519.jpg",
+        "https://euchelperu.com/images/productos/178175052988297386026842.jpg",
+        "https://euchelperu.com/images/productos/178175109657851819454327.jpg"
+      ]
+    },
+    {
+      "id_color": 3594,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 3594,
+      "tallas": [
+        {
+          "id_talla": 3913,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178175109657851819454327.jpg",
+        "https://euchelperu.com/images/productos/178175052988297386026842.jpg",
+        "https://euchelperu.com/images/productos/17817510731702563186519.jpg"
+      ]
+    },
+    {
+      "id_color": 3595,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 3595,
+      "tallas": [
+        {
+          "id_talla": 3912,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178175052988297386026842.jpg",
+        "https://euchelperu.com/images/productos/17817510731702563186519.jpg",
+        "https://euchelperu.com/images/productos/178175109657851819454327.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:15:01Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id_original": 1202,
+  "url_original": "https://euchelperu.com/producto.php?id=1202",
+  "nombre": "CAMISERO TEJIDO",
+  "descripcion": "Añade un toque sofisticado y a la vez relajado a tu outfit con este jersey de diseño exclusivo. Su combinación de colores en contraste aporta dinamismo, convirtiéndolo en una prenda clave para quienes buscan estilo sin sacrificar la comodidad.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1202CAM62529",
+  "item_group_id": "1202",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178164469006201441354244.jpg",
+    "https://euchelperu.com/images/productos/17818183046510265916444.jpg",
+    "https://euchelperu.com/images/productos/178181866366158368414876.jpg",
+    "https://euchelperu.com/images/productos/178181872999610422297386.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CAMISERO TEJIDO",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3571,
+      "nombre": "Marrón c/ Rosado",
+      "precio": 69.0,
+      "id_color_confirmado": 3571,
+      "tallas": [
+        {
+          "id_talla": 3888,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178164469006201441354244.jpg",
+        "https://euchelperu.com/images/productos/17818183046510265916444.jpg",
+        "https://euchelperu.com/images/productos/178181866366158368414876.jpg",
+        "https://euchelperu.com/images/productos/178181872999610422297386.jpg"
+      ]
+    },
+    {
+      "id_color": 3608,
+      "nombre": "Beige c/ negro",
+      "precio": 69.0,
+      "id_color_confirmado": 3608,
+      "tallas": [
+        {
+          "id_talla": 3899,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17818183046510265916444.jpg",
+        "https://euchelperu.com/images/productos/178164469006201441354244.jpg",
+        "https://euchelperu.com/images/productos/178181866366158368414876.jpg",
+        "https://euchelperu.com/images/productos/178181872999610422297386.jpg"
+      ]
+    },
+    {
+      "id_color": 3609,
+      "nombre": "Plomo c/ rosado bebé",
+      "precio": 69.0,
+      "id_color_confirmado": 3609,
+      "tallas": [
+        {
+          "id_talla": 3900,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178181866366158368414876.jpg",
+        "https://euchelperu.com/images/productos/178164469006201441354244.jpg",
+        "https://euchelperu.com/images/productos/17818183046510265916444.jpg",
+        "https://euchelperu.com/images/productos/178181872999610422297386.jpg"
+      ]
+    },
+    {
+      "id_color": 3610,
+      "nombre": "Plomo c/ marrón",
+      "precio": 69.0,
+      "id_color_confirmado": 3610,
+      "tallas": [
+        {
+          "id_talla": 3901,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178181872999610422297386.jpg",
+        "https://euchelperu.com/images/productos/178164469006201441354244.jpg",
+        "https://euchelperu.com/images/productos/17818183046510265916444.jpg",
+        "https://euchelperu.com/images/productos/178181866366158368414876.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:12:00Z"
+}

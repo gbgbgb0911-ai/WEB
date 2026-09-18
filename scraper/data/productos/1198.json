@@ -1,0 +1,41 @@
+{
+  "id_original": 1198,
+  "url_original": "https://euchelperu.com/producto.php?id=1198",
+  "nombre": "FLARE ULTRA CADERA EGLY",
+  "descripcion": "Renueva tu clóset con estos jeans de corte flare que fusionan elegancia clásica con un toque moderno. Diseñados para resaltar la figura con un ajuste impecable, son la pieza clave para elevar cualquier look diario a uno más sofisticado.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1198FLA30382",
+  "item_group_id": "1198",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178104441281965615315136.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FLARE ULTRA CADERA EGLY",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3567,
+      "nombre": "Azul",
+      "precio": 95.0,
+      "id_color_confirmado": 3567,
+      "tallas": [
+        {
+          "id_talla": 3885,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178104441281965615315136.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:09:11Z"
+}

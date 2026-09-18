@@ -1,0 +1,79 @@
+{
+  "id_original": 1206,
+  "url_original": "https://euchelperu.com/producto.php?id=1206",
+  "nombre": "VESTIDO LOVE",
+  "descripcion": "Atrévete a lucir espectacular con este vestido diseñado para destacar tu estilo en eventos nocturnos o salidas especiales. Su delicado tejido de encaje aporta un aire de elegancia y sofisticación, mientras que su diseño moderno asegura un look inolvidable.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1206VES14426",
+  "item_group_id": "1206",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178164752749969110112224.jpg",
+    "https://euchelperu.com/images/productos/17817512531150277375690.jpg",
+    "https://euchelperu.com/images/productos/178175128125046689688923.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO LOVE",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3575,
+      "nombre": "Celeste",
+      "precio": 59.0,
+      "id_color_confirmado": 3575,
+      "tallas": [
+        {
+          "id_talla": 3892,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178164752749969110112224.jpg",
+        "https://euchelperu.com/images/productos/17817512531150277375690.jpg",
+        "https://euchelperu.com/images/productos/178175128125046689688923.jpg"
+      ]
+    },
+    {
+      "id_color": 3596,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 3596,
+      "tallas": [
+        {
+          "id_talla": 3909,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17817512531150277375690.jpg",
+        "https://euchelperu.com/images/productos/178164752749969110112224.jpg",
+        "https://euchelperu.com/images/productos/178175128125046689688923.jpg"
+      ]
+    },
+    {
+      "id_color": 3597,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 3597,
+      "tallas": [
+        {
+          "id_talla": 3910,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178175128125046689688923.jpg",
+        "https://euchelperu.com/images/productos/178164752749969110112224.jpg",
+        "https://euchelperu.com/images/productos/17817512531150277375690.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:14:29Z"
+}

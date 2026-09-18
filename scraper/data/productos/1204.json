@@ -1,0 +1,41 @@
+{
+  "id_original": 1204,
+  "url_original": "https://euchelperu.com/producto.php?id=1204",
+  "nombre": "VESTIDO LUA SIRENA",
+  "descripcion": "Luce un look sofisticado y moderno con este vestido largo que destaca por su impecable diseño minimalista. Su efecto degradado en tonos intensos aporta un toque de distinción y profundidad, ideal para destacar en cualquier evento especial.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1204VES34773",
+  "item_group_id": "1204",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178164616784005418517740.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO LUA SIRENA",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3573,
+      "nombre": "MORADO",
+      "precio": 79.0,
+      "id_color_confirmado": 3573,
+      "tallas": [
+        {
+          "id_talla": 3890,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178164616784005418517740.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:13:17Z"
+}

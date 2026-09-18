@@ -1,0 +1,86 @@
+{
+  "id_original": 1203,
+  "url_original": "https://euchelperu.com/producto.php?id=1203",
+  "nombre": "VESTIDO BOTANICO",
+  "descripcion": "Dale un aire fresco y femenino a tu armario con este delicado vestido, que destaca por su estilo romántico y sofisticado. Es la pieza ideal para quienes buscan lucir impecables y con un toque de encanto en cualquier ocasión especial.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1203Y6T2U4I9",
+  "item_group_id": "1203",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1781644902820289412137.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO BOTANICO",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3572,
+      "nombre": "Beige",
+      "precio": 65.0,
+      "id_color_confirmado": 3572,
+      "tallas": [
+        {
+          "id_talla": 3889,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1781644902820289412137.jpg"
+      ]
+    },
+    {
+      "id_color": 3605,
+      "nombre": "Vino",
+      "precio": 65.0,
+      "id_color_confirmado": 3605,
+      "tallas": [
+        {
+          "id_talla": 3902,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1781644902820289412137.jpg"
+      ]
+    },
+    {
+      "id_color": 3606,
+      "nombre": "Marrón",
+      "precio": 65.0,
+      "id_color_confirmado": 3606,
+      "tallas": [
+        {
+          "id_talla": 3903,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1781644902820289412137.jpg"
+      ]
+    },
+    {
+      "id_color": 3607,
+      "nombre": "Verde",
+      "precio": 65.0,
+      "id_color_confirmado": 3607,
+      "tallas": [
+        {
+          "id_talla": 3904,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1781644902820289412137.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:13:14Z"
+}

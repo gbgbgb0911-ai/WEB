@@ -1,0 +1,79 @@
+{
+  "id_original": 1201,
+  "url_original": "https://euchelperu.com/producto.php?id=1201",
+  "nombre": "JERSEY CHIC",
+  "descripcion": "Eleva tu look diario con este versátil y cómodo jersey de tejido de punto. Su diseño de rayas horizontales en un contraste de tonos marrón y celeste ofrece un estilo moderno y relajado, perfecto para cualquier ocasión informal.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1201K7W4Z1Q9",
+  "item_group_id": "1201",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17816444398853801588023.jpg",
+    "https://euchelperu.com/images/productos/178181954438790739518712.jpg",
+    "https://euchelperu.com/images/productos/178181964768029682947290.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "JERSEY CHIC",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3570,
+      "nombre": "Marrón c/ Celeste",
+      "precio": 59.0,
+      "id_color_confirmado": 3570,
+      "tallas": [
+        {
+          "id_talla": 3887,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17816444398853801588023.jpg",
+        "https://euchelperu.com/images/productos/178181954438790739518712.jpg",
+        "https://euchelperu.com/images/productos/178181964768029682947290.jpg"
+      ]
+    },
+    {
+      "id_color": 3611,
+      "nombre": "Marrón c/ Rosado",
+      "precio": 59.0,
+      "id_color_confirmado": 3611,
+      "tallas": [
+        {
+          "id_talla": 3897,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178181954438790739518712.jpg",
+        "https://euchelperu.com/images/productos/17816444398853801588023.jpg",
+        "https://euchelperu.com/images/productos/178181964768029682947290.jpg"
+      ]
+    },
+    {
+      "id_color": 3612,
+      "nombre": "Rojo c/ rosado",
+      "precio": 59.0,
+      "id_color_confirmado": 3612,
+      "tallas": [
+        {
+          "id_talla": 3898,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178181964768029682947290.jpg",
+        "https://euchelperu.com/images/productos/17816444398853801588023.jpg",
+        "https://euchelperu.com/images/productos/178181954438790739518712.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:10:47Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1197,
+  "url_original": "https://euchelperu.com/producto.php?id=1197",
+  "nombre": "FLARE CADERA ELIANA",
+  "descripcion": "Logra el look perfecto con nuestros jeans de corte flare, una pieza esencial que nunca pasa de moda. Diseñados para estilizar la figura y ofrecer una silueta elegante, estos pantalones son la base ideal para cualquier outfit, desde lo más casual hasta lo más sofisticado.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1197FLA83687",
+  "item_group_id": "1197",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178104338107301767580294.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FLARE CADERA ELIANA",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3566,
+      "nombre": "jean",
+      "precio": 95.0,
+      "id_color_confirmado": 3566,
+      "tallas": [
+        {
+          "id_talla": 3884,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178104338107301767580294.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:09:08Z"
+}
