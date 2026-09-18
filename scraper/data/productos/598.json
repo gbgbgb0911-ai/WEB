@@ -1,0 +1,59 @@
+{
+  "id_original": 598,
+  "url_original": "https://euchelperu.com/producto.php?id=598",
+  "nombre": "VESTIDO TATI ESPALDA",
+  "descripcion": "Vestido largo color vino de corte sirena con tirantes delgados y elegante escote desbocado.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "598MAX73357879",
+  "item_group_id": "598",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176409862462558997843399.jpg",
+    "https://euchelperu.com/images/productos/17654711205194440064446.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO TATI ESPALDA",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1892,
+      "nombre": "Vino",
+      "precio": 69.0,
+      "id_color_confirmado": 1892,
+      "tallas": [
+        {
+          "id_talla": 2179,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176409862462558997843399.jpg",
+        "https://euchelperu.com/images/productos/17654711205194440064446.jpg"
+      ]
+    },
+    {
+      "id_color": 1893,
+      "nombre": "Rojo",
+      "precio": 69.0,
+      "id_color_confirmado": 1893,
+      "tallas": [
+        {
+          "id_talla": 2180,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17654711205194440064446.jpg",
+        "https://euchelperu.com/images/productos/176409862462558997843399.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:04:53Z"
+}

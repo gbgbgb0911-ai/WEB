@@ -1,0 +1,49 @@
+{
+  "id_original": 597,
+  "url_original": "https://euchelperu.com/producto.php?id=597",
+  "nombre": "VESTIDO ANIMAL PRINT",
+  "descripcion": "Vestido midi con animal print de leopardo, tirantes finos y escote drapeado",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "597MAX733578798",
+  "item_group_id": "597",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176409657388638743357101.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1891,
+      "nombre": "Animal Print",
+      "precio": 85.0,
+      "id_color_confirmado": 1891,
+      "tallas": [
+        {
+          "id_talla": 2178,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2184,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2185,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176409657388638743357101.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:04:47Z"
+}

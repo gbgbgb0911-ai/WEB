@@ -1,0 +1,41 @@
+{
+  "id_original": 609,
+  "url_original": "https://euchelperu.com/producto.php?id=609",
+  "nombre": "MINI VESTIDO MARIANA COPA",
+  "descripcion": "Diseño ajustado bodycon con escote corazón tipo bustier y un favorecedor drapeado (fruncido) en la falda. ¡La pieza clave para brillar en la pista de baile!",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "609MIN67962",
+  "item_group_id": "609",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176529587034632782763831.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO MARIANA COPA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1948,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 1948,
+      "tallas": [
+        {
+          "id_talla": 2240,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176529587034632782763831.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:09:09Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id_original": 608,
+  "url_original": "https://euchelperu.com/producto.php?id=608",
+  "nombre": "VESTIDO IVANA BRILLOS",
+  "descripcion": "Su tejido texturizado con sutiles destellos glitter y el escote corazón realzan la figura con un toque de glamour y sofisticación para la noche.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "608VES66566",
+  "item_group_id": "608",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176428830457787178684503.jpg",
+    "https://euchelperu.com/images/productos/176437339022107120984514.png",
+    "https://euchelperu.com/images/productos/176530112645754626817146.jpg",
+    "https://euchelperu.com/images/productos/176530153009548763883358.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO IVANA BRILLOS",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1942,
+      "nombre": "Dorado",
+      "precio": 79.0,
+      "id_color_confirmado": 1942,
+      "tallas": [
+        {
+          "id_talla": 2234,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176428830457787178684503.jpg",
+        "https://euchelperu.com/images/productos/176437339022107120984514.png",
+        "https://euchelperu.com/images/productos/176530112645754626817146.jpg",
+        "https://euchelperu.com/images/productos/176530153009548763883358.jpg"
+      ]
+    },
+    {
+      "id_color": 1943,
+      "nombre": "Plateado",
+      "precio": 79.0,
+      "id_color_confirmado": 1943,
+      "tallas": [
+        {
+          "id_talla": 2235,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176530153009548763883358.jpg",
+        "https://euchelperu.com/images/productos/176428830457787178684503.jpg",
+        "https://euchelperu.com/images/productos/176437339022107120984514.png",
+        "https://euchelperu.com/images/productos/176530112645754626817146.jpg"
+      ]
+    },
+    {
+      "id_color": 1944,
+      "nombre": "Vino",
+      "precio": 79.0,
+      "id_color_confirmado": 1944,
+      "tallas": [
+        {
+          "id_talla": 2236,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176530112645754626817146.jpg",
+        "https://euchelperu.com/images/productos/176428830457787178684503.jpg",
+        "https://euchelperu.com/images/productos/176437339022107120984514.png",
+        "https://euchelperu.com/images/productos/176530153009548763883358.jpg"
+      ]
+    },
+    {
+      "id_color": 1945,
+      "nombre": "Negro",
+      "precio": 79.0,
+      "id_color_confirmado": 1945,
+      "tallas": [
+        {
+          "id_talla": 2237,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176437339022107120984514.png",
+        "https://euchelperu.com/images/productos/176428830457787178684503.jpg",
+        "https://euchelperu.com/images/productos/176530112645754626817146.jpg",
+        "https://euchelperu.com/images/productos/176530153009548763883358.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:09:06Z"
+}

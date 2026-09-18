@@ -1,0 +1,59 @@
+{
+  "id_original": 611,
+  "url_original": "https://euchelperu.com/producto.php?id=611",
+  "nombre": "TOP NUBE",
+  "descripcion": "El diseño presenta un escote fruncido con un volante en cascada que le da un vuelo espectacular y un toque romántico. ¡Ideal para un look dulce!",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "611TOP86566",
+  "item_group_id": "611",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176429031579753983448257.jpg",
+    "https://euchelperu.com/images/productos/176437478573239715993296.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP NUBE",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1953,
+      "nombre": "Celeste",
+      "precio": 49.0,
+      "id_color_confirmado": 1953,
+      "tallas": [
+        {
+          "id_talla": 2245,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176429031579753983448257.jpg",
+        "https://euchelperu.com/images/productos/176437478573239715993296.png"
+      ]
+    },
+    {
+      "id_color": 1956,
+      "nombre": "Blanco",
+      "precio": 49.0,
+      "id_color_confirmado": 1956,
+      "tallas": [
+        {
+          "id_talla": 2248,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176437478573239715993296.png",
+        "https://euchelperu.com/images/productos/176429031579753983448257.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:09:15Z"
+}

@@ -1,0 +1,119 @@
+{
+  "id_original": 600,
+  "url_original": "https://euchelperu.com/producto.php?id=600",
+  "nombre": "VESTIDO DANI BRILLOS",
+  "descripcion": "Vestido de noche en satín con top bustier semitransparente, delicadamente bordado con motivos florales. Su falda de satín de seda cae con gracia y presenta una sensual abertura alta para un movimiento espectacular.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 120.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "600VES9801",
+  "item_group_id": "600",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17642840830846794384053.jpg",
+    "https://euchelperu.com/images/productos/17652963359781215393484.jpg",
+    "https://euchelperu.com/images/productos/176530223505301105975330.jpg",
+    "https://euchelperu.com/images/productos/176530281298992112411827.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO DANI BRILLOS",
+  "precio_listado_normal": 120.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1907,
+      "nombre": "Rosa",
+      "precio": 120.0,
+      "id_color_confirmado": 1907,
+      "tallas": [
+        {
+          "id_talla": 2199,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17642840830846794384053.jpg",
+        "https://euchelperu.com/images/productos/17652963359781215393484.jpg",
+        "https://euchelperu.com/images/productos/176530223505301105975330.jpg",
+        "https://euchelperu.com/images/productos/176530281298992112411827.jpg"
+      ]
+    },
+    {
+      "id_color": 1908,
+      "nombre": "Azul",
+      "precio": 120.0,
+      "id_color_confirmado": 1908,
+      "tallas": [
+        {
+          "id_talla": 2200,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17642840830846794384053.jpg",
+        "https://euchelperu.com/images/productos/17652963359781215393484.jpg",
+        "https://euchelperu.com/images/productos/176530223505301105975330.jpg",
+        "https://euchelperu.com/images/productos/176530281298992112411827.jpg"
+      ]
+    },
+    {
+      "id_color": 1909,
+      "nombre": "Acero",
+      "precio": 120.0,
+      "id_color_confirmado": 1909,
+      "tallas": [
+        {
+          "id_talla": 2201,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176530281298992112411827.jpg",
+        "https://euchelperu.com/images/productos/17642840830846794384053.jpg",
+        "https://euchelperu.com/images/productos/17652963359781215393484.jpg",
+        "https://euchelperu.com/images/productos/176530223505301105975330.jpg"
+      ]
+    },
+    {
+      "id_color": 1910,
+      "nombre": "Beige",
+      "precio": 120.0,
+      "id_color_confirmado": 1910,
+      "tallas": [
+        {
+          "id_talla": 2202,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176530223505301105975330.jpg",
+        "https://euchelperu.com/images/productos/17642840830846794384053.jpg",
+        "https://euchelperu.com/images/productos/17652963359781215393484.jpg",
+        "https://euchelperu.com/images/productos/176530281298992112411827.jpg"
+      ]
+    },
+    {
+      "id_color": 1911,
+      "nombre": "Verde",
+      "precio": 120.0,
+      "id_color_confirmado": 1911,
+      "tallas": [
+        {
+          "id_talla": 2203,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17652963359781215393484.jpg",
+        "https://euchelperu.com/images/productos/17642840830846794384053.jpg",
+        "https://euchelperu.com/images/productos/176530223505301105975330.jpg",
+        "https://euchelperu.com/images/productos/176530281298992112411827.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:06:10Z"
+}

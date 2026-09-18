@@ -1,0 +1,125 @@
+{
+  "id_original": 618,
+  "url_original": "https://euchelperu.com/producto.php?id=618",
+  "nombre": "SHORT CHLOE LINO",
+  "descripcion": "Short de lino. Diseño de tiro alto con corte de pinzas y pierna suelta. ¡Un básico perfecto para los días de verano!",
+  "categoria": "Shorts",
+  "categoria_subid": 20,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "618SHO47431",
+  "item_group_id": "618",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1764293838612682756348.jpg",
+    "https://euchelperu.com/images/productos/176436761608270583458701.png",
+    "https://euchelperu.com/images/productos/176436897047196876656910.png",
+    "https://euchelperu.com/images/productos/176436927166973553679887.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SHORT CHLOE LINO",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1980,
+      "nombre": "Celeste",
+      "precio": 59.0,
+      "id_color_confirmado": 1980,
+      "tallas": [
+        {
+          "id_talla": 2287,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2288,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1764293838612682756348.jpg",
+        "https://euchelperu.com/images/productos/176436761608270583458701.png",
+        "https://euchelperu.com/images/productos/176436897047196876656910.png",
+        "https://euchelperu.com/images/productos/176436927166973553679887.png"
+      ]
+    },
+    {
+      "id_color": 1981,
+      "nombre": "Perla",
+      "precio": 59.0,
+      "id_color_confirmado": 1981,
+      "tallas": [
+        {
+          "id_talla": 2289,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2290,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2291,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176436897047196876656910.png",
+        "https://euchelperu.com/images/productos/1764293838612682756348.jpg",
+        "https://euchelperu.com/images/productos/176436761608270583458701.png",
+        "https://euchelperu.com/images/productos/176436927166973553679887.png"
+      ]
+    },
+    {
+      "id_color": 1982,
+      "nombre": "Chocolate",
+      "precio": 59.0,
+      "id_color_confirmado": 1982,
+      "tallas": [
+        {
+          "id_talla": 2292,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2293,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176436927166973553679887.png",
+        "https://euchelperu.com/images/productos/1764293838612682756348.jpg",
+        "https://euchelperu.com/images/productos/176436761608270583458701.png",
+        "https://euchelperu.com/images/productos/176436897047196876656910.png"
+      ]
+    },
+    {
+      "id_color": 1983,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 1983,
+      "tallas": [
+        {
+          "id_talla": 2294,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2295,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2296,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176436761608270583458701.png",
+        "https://euchelperu.com/images/productos/1764293838612682756348.jpg",
+        "https://euchelperu.com/images/productos/176436897047196876656910.png",
+        "https://euchelperu.com/images/productos/176436927166973553679887.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:11:11Z"
+}

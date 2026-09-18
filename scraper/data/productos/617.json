@@ -1,0 +1,117 @@
+{
+  "id_original": 617,
+  "url_original": "https://euchelperu.com/producto.php?id=617",
+  "nombre": "SHORT MAFER ELASTICO",
+  "descripcion": "Su diseño de corte tailoring con pinzas en el frente y pernera ancha garantiza una caída impecable y una silueta estilizada. ¡Perfecto para un look de oficina o casual chic!",
+  "categoria": "Shorts",
+  "categoria_subid": 20,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "617SHO528 66",
+  "item_group_id": "617",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176429359183079265835796.jpg",
+    "https://euchelperu.com/images/productos/176437057329946833327952.png",
+    "https://euchelperu.com/images/productos/176437082043538757861143.png",
+    "https://euchelperu.com/images/productos/176437084123973837937945.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SHORT MAFER ELASTICO",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1976,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 1976,
+      "tallas": [
+        {
+          "id_talla": 2279,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2280,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176429359183079265835796.jpg",
+        "https://euchelperu.com/images/productos/176437057329946833327952.png",
+        "https://euchelperu.com/images/productos/176437082043538757861143.png",
+        "https://euchelperu.com/images/productos/176437084123973837937945.png"
+      ]
+    },
+    {
+      "id_color": 1977,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 1977,
+      "tallas": [
+        {
+          "id_talla": 2281,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2282,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176437057329946833327952.png",
+        "https://euchelperu.com/images/productos/176429359183079265835796.jpg",
+        "https://euchelperu.com/images/productos/176437082043538757861143.png",
+        "https://euchelperu.com/images/productos/176437084123973837937945.png"
+      ]
+    },
+    {
+      "id_color": 1978,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 1978,
+      "tallas": [
+        {
+          "id_talla": 2283,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2284,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176437084123973837937945.png",
+        "https://euchelperu.com/images/productos/176429359183079265835796.jpg",
+        "https://euchelperu.com/images/productos/176437057329946833327952.png",
+        "https://euchelperu.com/images/productos/176437082043538757861143.png"
+      ]
+    },
+    {
+      "id_color": 1979,
+      "nombre": "Beige",
+      "precio": 59.0,
+      "id_color_confirmado": 1979,
+      "tallas": [
+        {
+          "id_talla": 2285,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2286,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176437082043538757861143.png",
+        "https://euchelperu.com/images/productos/176429359183079265835796.jpg",
+        "https://euchelperu.com/images/productos/176437057329946833327952.png",
+        "https://euchelperu.com/images/productos/176437084123973837937945.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:10:58Z"
+}

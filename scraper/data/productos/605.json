@@ -1,0 +1,79 @@
+{
+  "id_original": 605,
+  "url_original": "https://euchelperu.com/producto.php?id=605",
+  "nombre": "MINI VESTIDO ORIANA",
+  "descripcion": "Diseño strapless con detalles de cut-out frontal y un anillo metálico central. El fruncido (drapeado) en todo el cuerpo define la silueta.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "605MIN97441",
+  "item_group_id": "605",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17642865907156223765947.jpg",
+    "https://euchelperu.com/images/productos/176436530687576734070447.png",
+    "https://euchelperu.com/images/productos/176436546211971954078852.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO ORIANA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1928,
+      "nombre": "Amarillo",
+      "precio": 59.0,
+      "id_color_confirmado": 1928,
+      "tallas": [
+        {
+          "id_talla": 2220,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17642865907156223765947.jpg",
+        "https://euchelperu.com/images/productos/176436530687576734070447.png",
+        "https://euchelperu.com/images/productos/176436546211971954078852.png"
+      ]
+    },
+    {
+      "id_color": 1929,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 1929,
+      "tallas": [
+        {
+          "id_talla": 2221,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176436530687576734070447.png",
+        "https://euchelperu.com/images/productos/17642865907156223765947.jpg",
+        "https://euchelperu.com/images/productos/176436546211971954078852.png"
+      ]
+    },
+    {
+      "id_color": 1931,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 1931,
+      "tallas": [
+        {
+          "id_talla": 2223,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176436546211971954078852.png",
+        "https://euchelperu.com/images/productos/17642865907156223765947.jpg",
+        "https://euchelperu.com/images/productos/176436530687576734070447.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:08:17Z"
+}

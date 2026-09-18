@@ -1,0 +1,67 @@
+{
+  "id_original": 615,
+  "url_original": "https://euchelperu.com/producto.php?id=615",
+  "nombre": "VESTIDO CAROL BLONDA",
+  "descripcion": "Vestido slip dress asimétrico. Su escote corazón y el delicado encaje en el bajo de la falda le dan un aire lencero y sofisticado.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "615VES61543",
+  "item_group_id": "615",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17642925775784095413400.jpg",
+    "https://euchelperu.com/images/productos/176436502834667358913999.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO CAROL BLONDA",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1968,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 1968,
+      "tallas": [
+        {
+          "id_talla": 2266,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2267,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17642925775784095413400.jpg",
+        "https://euchelperu.com/images/productos/176436502834667358913999.png"
+      ]
+    },
+    {
+      "id_color": 1969,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 1969,
+      "tallas": [
+        {
+          "id_talla": 2268,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2269,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176436502834667358913999.png",
+        "https://euchelperu.com/images/productos/17642925775784095413400.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:10:21Z"
+}

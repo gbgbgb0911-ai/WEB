@@ -1,0 +1,41 @@
+{
+  "id_original": 626,
+  "url_original": "https://euchelperu.com/producto.php?id=626",
+  "nombre": "BIKINI LISSA",
+  "descripcion": "Diseño favorecedor con acabado suave y ajuste perfecto.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "626BKN15236",
+  "item_group_id": "626",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176446322666710795940406.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI LISSA",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2016,
+      "nombre": "Rosado",
+      "precio": 99.0,
+      "id_color_confirmado": 2016,
+      "tallas": [
+        {
+          "id_talla": 2349,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176446322666710795940406.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:12:55Z"
+}

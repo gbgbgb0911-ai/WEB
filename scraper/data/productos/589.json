@@ -1,0 +1,145 @@
+{
+  "id_original": 589,
+  "url_original": "https://euchelperu.com/producto.php?id=589",
+  "nombre": "VESTIDO MIRANDA ENCAJE",
+  "descripcion": "Mini vestido halter en tul nude con delicados bordados florales en relieve de tono amarillo suave.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "589MAX733578",
+  "item_group_id": "589",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176409169015779892065979.jpg",
+    "https://euchelperu.com/images/productos/17691219222280555282138.png",
+    "https://euchelperu.com/images/productos/176912213071414973436167.png",
+    "https://euchelperu.com/images/productos/176912271445818883685355.png",
+    "https://euchelperu.com/images/productos/176912281001555638162182.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO MIRANDA ENCAJE",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1883,
+      "nombre": "Nude",
+      "precio": 99.0,
+      "id_color_confirmado": 1883,
+      "tallas": [
+        {
+          "id_talla": 2170,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2186,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176409169015779892065979.jpg",
+        "https://euchelperu.com/images/productos/17691219222280555282138.png",
+        "https://euchelperu.com/images/productos/176912213071414973436167.png",
+        "https://euchelperu.com/images/productos/176912271445818883685355.png",
+        "https://euchelperu.com/images/productos/176912281001555638162182.jpg"
+      ]
+    },
+    {
+      "id_color": 2607,
+      "nombre": "Amarillo",
+      "precio": 99.0,
+      "id_color_confirmado": 2607,
+      "tallas": [
+        {
+          "id_talla": 3031,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3032,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17691219222280555282138.png",
+        "https://euchelperu.com/images/productos/176409169015779892065979.jpg",
+        "https://euchelperu.com/images/productos/176912213071414973436167.png",
+        "https://euchelperu.com/images/productos/176912271445818883685355.png",
+        "https://euchelperu.com/images/productos/176912281001555638162182.jpg"
+      ]
+    },
+    {
+      "id_color": 2608,
+      "nombre": "Negro",
+      "precio": 99.0,
+      "id_color_confirmado": 2608,
+      "tallas": [
+        {
+          "id_talla": 3033,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3034,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176912213071414973436167.png",
+        "https://euchelperu.com/images/productos/176409169015779892065979.jpg",
+        "https://euchelperu.com/images/productos/17691219222280555282138.png",
+        "https://euchelperu.com/images/productos/176912271445818883685355.png",
+        "https://euchelperu.com/images/productos/176912281001555638162182.jpg"
+      ]
+    },
+    {
+      "id_color": 2609,
+      "nombre": "Vino",
+      "precio": 99.0,
+      "id_color_confirmado": 2609,
+      "tallas": [
+        {
+          "id_talla": 3035,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3036,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176912271445818883685355.png",
+        "https://euchelperu.com/images/productos/176409169015779892065979.jpg",
+        "https://euchelperu.com/images/productos/17691219222280555282138.png",
+        "https://euchelperu.com/images/productos/176912213071414973436167.png",
+        "https://euchelperu.com/images/productos/176912281001555638162182.jpg"
+      ]
+    },
+    {
+      "id_color": 2610,
+      "nombre": "Marron",
+      "precio": 99.0,
+      "id_color_confirmado": 2610,
+      "tallas": [
+        {
+          "id_talla": 3037,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3038,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176912281001555638162182.jpg",
+        "https://euchelperu.com/images/productos/176409169015779892065979.jpg",
+        "https://euchelperu.com/images/productos/17691219222280555282138.png",
+        "https://euchelperu.com/images/productos/176912213071414973436167.png",
+        "https://euchelperu.com/images/productos/176912271445818883685355.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:03:05Z"
+}

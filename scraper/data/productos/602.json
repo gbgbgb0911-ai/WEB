@@ -1,0 +1,59 @@
+{
+  "id_original": 602,
+  "url_original": "https://euchelperu.com/producto.php?id=602",
+  "nombre": "FALDA HANNA ENCAJE",
+  "descripcion": "Un diseño audaz con volantes en cascada en la parte superior y un tejido semitransparente con detalles en puntilla. Perfecta para un estilo boho-chic de festival o playa.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "602FALE8920",
+  "item_group_id": "602",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176428508616121270316481.jpg",
+    "https://euchelperu.com/images/productos/176436610251918830310951.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA HANNA ENCAJE",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1918,
+      "nombre": "Blanco",
+      "precio": 69.0,
+      "id_color_confirmado": 1918,
+      "tallas": [
+        {
+          "id_talla": 2210,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176428508616121270316481.jpg",
+        "https://euchelperu.com/images/productos/176436610251918830310951.png"
+      ]
+    },
+    {
+      "id_color": 1919,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 1919,
+      "tallas": [
+        {
+          "id_talla": 2211,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176436610251918830310951.png",
+        "https://euchelperu.com/images/productos/176428508616121270316481.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:06:17Z"
+}

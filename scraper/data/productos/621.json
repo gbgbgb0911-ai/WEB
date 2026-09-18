@@ -1,0 +1,92 @@
+{
+  "id_original": 621,
+  "url_original": "https://euchelperu.com/producto.php?id=621",
+  "nombre": "CHALECO MELISSA SASTRE",
+  "descripcion": "Chaleco sastre clásico con corte entallado y botones frontales, ideal para combinar con pantalón de vestir o jeans.",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "621CHA31025",
+  "item_group_id": "621",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1997,
+      "nombre": "Blanco",
+      "precio": 65.0,
+      "id_color_confirmado": 1997,
+      "tallas": [
+        {
+          "id_talla": 2325,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2326,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": []
+    },
+    {
+      "id_color": 1998,
+      "nombre": "Beige",
+      "precio": 65.0,
+      "id_color_confirmado": 1998,
+      "tallas": [
+        {
+          "id_talla": 2327,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2328,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": []
+    },
+    {
+      "id_color": 1999,
+      "nombre": "Marrón",
+      "precio": 65.0,
+      "id_color_confirmado": 1999,
+      "tallas": [
+        {
+          "id_talla": 2329,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2330,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": []
+    },
+    {
+      "id_color": 2000,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 2000,
+      "tallas": [
+        {
+          "id_talla": 2331,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2332,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": []
+    }
+  ],
+  "scraped_at": "2026-09-18T01:11:24Z"
+}

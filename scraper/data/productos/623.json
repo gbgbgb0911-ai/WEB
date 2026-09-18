@@ -1,0 +1,59 @@
+{
+  "id_original": 623,
+  "url_original": "https://euchelperu.com/producto.php?id=623",
+  "nombre": "BIKINI AURA",
+  "descripcion": "Diseño sensual y confortable, ideal para playa, piscina o vacaciones.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "623BKN152",
+  "item_group_id": "623",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1764460642836711012943.jpg",
+    "https://euchelperu.com/images/productos/176446182578579566470702.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI AURA",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2012,
+      "nombre": "Azul",
+      "precio": 99.0,
+      "id_color_confirmado": 2012,
+      "tallas": [
+        {
+          "id_talla": 2345,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1764460642836711012943.jpg",
+        "https://euchelperu.com/images/productos/176446182578579566470702.jpg"
+      ]
+    },
+    {
+      "id_color": 2013,
+      "nombre": "Fucsia",
+      "precio": 99.0,
+      "id_color_confirmado": 2013,
+      "tallas": [
+        {
+          "id_talla": 2346,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176446182578579566470702.jpg",
+        "https://euchelperu.com/images/productos/1764460642836711012943.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:11:31Z"
+}

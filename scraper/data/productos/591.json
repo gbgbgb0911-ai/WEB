@@ -1,0 +1,45 @@
+{
+  "id_original": 591,
+  "url_original": "https://euchelperu.com/producto.php?id=591",
+  "nombre": "MINI VESTIDO SHAKY LENTEJUELAS",
+  "descripcion": "Mini vestido de lentejuelas doradas con escote halter y abertura frontal en forma de lágrima.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "591MAX733572",
+  "item_group_id": "591",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17640924274670733671408.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO SHAKY LENTEJUELAS",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1885,
+      "nombre": "Dorado",
+      "precio": 89.0,
+      "id_color_confirmado": 1885,
+      "tallas": [
+        {
+          "id_talla": 2172,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2183,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17640924274670733671408.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:03:08Z"
+}

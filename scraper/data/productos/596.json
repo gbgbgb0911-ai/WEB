@@ -1,0 +1,59 @@
+{
+  "id_original": 596,
+  "url_original": "https://euchelperu.com/producto.php?id=596",
+  "nombre": "TOP SHAKY LENTEJUELAS",
+  "descripcion": "Top halter de lentejuelas doradas con escote pronunciado y abertura frontal con detalle de corazón.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "596LEN107189",
+  "item_group_id": "596",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17640958070200051088998.jpg",
+    "https://euchelperu.com/images/productos/17692135083788440550123.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP SHAKY LENTEJUELAS",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1890,
+      "nombre": "Dorado",
+      "precio": 59.0,
+      "id_color_confirmado": 1890,
+      "tallas": [
+        {
+          "id_talla": 2177,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17640958070200051088998.jpg",
+        "https://euchelperu.com/images/productos/17692135083788440550123.jpg"
+      ]
+    },
+    {
+      "id_color": 2637,
+      "nombre": "Rosado",
+      "precio": 59.0,
+      "id_color_confirmado": 2637,
+      "tallas": [
+        {
+          "id_talla": 3068,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17692135083788440550123.jpg",
+        "https://euchelperu.com/images/productos/17640958070200051088998.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:04:44Z"
+}

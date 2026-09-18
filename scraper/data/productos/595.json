@@ -1,0 +1,54 @@
+{
+  "id_original": 595,
+  "url_original": "https://euchelperu.com/producto.php?id=595",
+  "nombre": "TOP BUTTERFLY",
+  "descripcion": "Top de encaje color amarillo pálido con tirantes finos y detalle de lazo frontal anudado.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "595PAN57398-347",
+  "item_group_id": "595",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176409488677525621318650.jpg",
+    "https://euchelperu.com/images/productos/177411988769199151215252.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP BUTTERFLY",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1889,
+      "nombre": "Amarillo",
+      "precio": 45.0,
+      "id_color_confirmado": 1889,
+      "tallas": [
+        {
+          "id_talla": 2176,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176409488677525621318650.jpg",
+        "https://euchelperu.com/images/productos/177411988769199151215252.jpg"
+      ]
+    },
+    {
+      "id_color": 3083,
+      "nombre": "Rojo",
+      "precio": null,
+      "id_color_confirmado": 3083,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177411988769199151215252.jpg",
+        "https://euchelperu.com/images/productos/176409488677525621318650.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:04:02Z"
+}

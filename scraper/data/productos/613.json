@@ -1,0 +1,91 @@
+{
+  "id_original": 613,
+  "url_original": "https://euchelperu.com/producto.php?id=613",
+  "nombre": "MINI VESTIDO ZENDAYA",
+  "descripcion": "Minivestido de lentejuelas con un dramático escote halter tipo cowl (drapeado). ¡Diseñado para brillar! La pieza perfecta para la fiesta y para acaparar todas las miradas.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "613MIN88974",
+  "item_group_id": "613",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176429082671577141330671.jpg",
+    "https://euchelperu.com/images/productos/17643740646587932166640.png",
+    "https://euchelperu.com/images/productos/176437409998034433981221.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO ZENDAYA",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1961,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 1961,
+      "tallas": [
+        {
+          "id_talla": 2253,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2254,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176429082671577141330671.jpg",
+        "https://euchelperu.com/images/productos/17643740646587932166640.png",
+        "https://euchelperu.com/images/productos/176437409998034433981221.png"
+      ]
+    },
+    {
+      "id_color": 1962,
+      "nombre": "Beige",
+      "precio": 75.0,
+      "id_color_confirmado": 1962,
+      "tallas": [
+        {
+          "id_talla": 2255,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2256,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176437409998034433981221.png",
+        "https://euchelperu.com/images/productos/176429082671577141330671.jpg",
+        "https://euchelperu.com/images/productos/17643740646587932166640.png"
+      ]
+    },
+    {
+      "id_color": 1963,
+      "nombre": "Dorado",
+      "precio": 75.0,
+      "id_color_confirmado": 1963,
+      "tallas": [
+        {
+          "id_talla": 2257,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2258,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17643740646587932166640.png",
+        "https://euchelperu.com/images/productos/176429082671577141330671.jpg",
+        "https://euchelperu.com/images/productos/176437409998034433981221.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:09:38Z"
+}

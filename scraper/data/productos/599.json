@@ -1,0 +1,101 @@
+{
+  "id_original": 599,
+  "url_original": "https://euchelperu.com/producto.php?id=599",
+  "nombre": "VESTIDO BRISSA SATIN",
+  "descripcion": "Un diseño de ensueño con corpiño estilo corset y delicados bordados florales transparentes, combinado con una falda larga de caída sedosa. ¡Perfecto para deslumbrar!",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 120.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "599VES89124",
+  "item_group_id": "599",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17642838038160430246039.jpg",
+    "https://euchelperu.com/images/productos/176530298764429490078501.jpg",
+    "https://euchelperu.com/images/productos/17653031797194530986944.jpg",
+    "https://euchelperu.com/images/productos/176530320805235616338062.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO BRISSA SATIN",
+  "precio_listado_normal": 120.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1903,
+      "nombre": "Rosa",
+      "precio": 120.0,
+      "id_color_confirmado": 1903,
+      "tallas": [
+        {
+          "id_talla": 2195,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17642838038160430246039.jpg",
+        "https://euchelperu.com/images/productos/176530298764429490078501.jpg",
+        "https://euchelperu.com/images/productos/17653031797194530986944.jpg",
+        "https://euchelperu.com/images/productos/176530320805235616338062.jpg"
+      ]
+    },
+    {
+      "id_color": 1904,
+      "nombre": "Azul",
+      "precio": 120.0,
+      "id_color_confirmado": 1904,
+      "tallas": [
+        {
+          "id_talla": 2196,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176530320805235616338062.jpg",
+        "https://euchelperu.com/images/productos/17642838038160430246039.jpg",
+        "https://euchelperu.com/images/productos/176530298764429490078501.jpg",
+        "https://euchelperu.com/images/productos/17653031797194530986944.jpg"
+      ]
+    },
+    {
+      "id_color": 1905,
+      "nombre": "Acero",
+      "precio": 120.0,
+      "id_color_confirmado": 1905,
+      "tallas": [
+        {
+          "id_talla": 2197,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17653031797194530986944.jpg",
+        "https://euchelperu.com/images/productos/17642838038160430246039.jpg",
+        "https://euchelperu.com/images/productos/176530298764429490078501.jpg",
+        "https://euchelperu.com/images/productos/176530320805235616338062.jpg"
+      ]
+    },
+    {
+      "id_color": 1906,
+      "nombre": "Vino",
+      "precio": 120.0,
+      "id_color_confirmado": 1906,
+      "tallas": [
+        {
+          "id_talla": 2198,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176530298764429490078501.jpg",
+        "https://euchelperu.com/images/productos/17642838038160430246039.jpg",
+        "https://euchelperu.com/images/productos/17653031797194530986944.jpg",
+        "https://euchelperu.com/images/productos/176530320805235616338062.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:05:30Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id_original": 624,
+  "url_original": "https://euchelperu.com/producto.php?id=624",
+  "nombre": "BIKINI SUNNY",
+  "descripcion": "Bikini cómodo y moderno, ideal para destacar este verano.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "624BKN15282",
+  "item_group_id": "624",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176446178216625344859172.jpg",
+    "https://euchelperu.com/images/productos/177437588172946698752748.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI SUNNY",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2014,
+      "nombre": "Beige",
+      "precio": 99.0,
+      "id_color_confirmado": 2014,
+      "tallas": [
+        {
+          "id_talla": 2347,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176446178216625344859172.jpg",
+        "https://euchelperu.com/images/productos/177437588172946698752748.jpg"
+      ]
+    },
+    {
+      "id_color": 3138,
+      "nombre": "Negro",
+      "precio": 99.0,
+      "id_color_confirmado": 3138,
+      "tallas": [
+        {
+          "id_talla": 3422,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177437588172946698752748.jpg",
+        "https://euchelperu.com/images/productos/176446178216625344859172.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:12:02Z"
+}

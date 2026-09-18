@@ -1,0 +1,41 @@
+{
+  "id_original": 627,
+  "url_original": "https://euchelperu.com/producto.php?id=627",
+  "nombre": "BIKINI FLOWER",
+  "descripcion": "Bikini cómodo y moderno, ideal para destacar este verano.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "627BKN15291",
+  "item_group_id": "627",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176446448763360803142411.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI FLOWER",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2017,
+      "nombre": "Amarillo",
+      "precio": 99.0,
+      "id_color_confirmado": 2017,
+      "tallas": [
+        {
+          "id_talla": 2350,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176446448763360803142411.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:13:47Z"
+}

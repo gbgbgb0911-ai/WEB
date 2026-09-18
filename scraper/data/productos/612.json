@@ -1,0 +1,101 @@
+{
+  "id_original": 612,
+  "url_original": "https://euchelperu.com/producto.php?id=612",
+  "nombre": "CORSET DUA LENTEJUELAS",
+  "descripcion": "Top corset sin tirantes. Completamente cubierto de lentejuelas brillantes, este diseño incluye varillas y copas estructuradas para un ajuste perfecto. ¡La pieza ideal para un look de fiesta inolvidable!",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "612  COR85482",
+  "item_group_id": "612",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176429052287307868435660.jpg",
+    "https://euchelperu.com/images/productos/176437453414441756661807.png",
+    "https://euchelperu.com/images/productos/176437456946919827436642.png",
+    "https://euchelperu.com/images/productos/176530617195349945393728.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1957,
+      "nombre": "Rojo",
+      "precio": 55.0,
+      "id_color_confirmado": 1957,
+      "tallas": [
+        {
+          "id_talla": 2249,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176429052287307868435660.jpg",
+        "https://euchelperu.com/images/productos/176437453414441756661807.png",
+        "https://euchelperu.com/images/productos/176437456946919827436642.png",
+        "https://euchelperu.com/images/productos/176530617195349945393728.jpg"
+      ]
+    },
+    {
+      "id_color": 1958,
+      "nombre": "Verde",
+      "precio": 55.0,
+      "id_color_confirmado": 1958,
+      "tallas": [
+        {
+          "id_talla": 2250,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176530617195349945393728.jpg",
+        "https://euchelperu.com/images/productos/176429052287307868435660.jpg",
+        "https://euchelperu.com/images/productos/176437453414441756661807.png",
+        "https://euchelperu.com/images/productos/176437456946919827436642.png"
+      ]
+    },
+    {
+      "id_color": 1959,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 1959,
+      "tallas": [
+        {
+          "id_talla": 2251,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176437453414441756661807.png",
+        "https://euchelperu.com/images/productos/176429052287307868435660.jpg",
+        "https://euchelperu.com/images/productos/176437456946919827436642.png",
+        "https://euchelperu.com/images/productos/176530617195349945393728.jpg"
+      ]
+    },
+    {
+      "id_color": 1960,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 1960,
+      "tallas": [
+        {
+          "id_talla": 2252,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176437456946919827436642.png",
+        "https://euchelperu.com/images/productos/176429052287307868435660.jpg",
+        "https://euchelperu.com/images/productos/176437453414441756661807.png",
+        "https://euchelperu.com/images/productos/176530617195349945393728.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:09:28Z"
+}

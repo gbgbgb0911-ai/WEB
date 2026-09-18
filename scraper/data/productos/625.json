@@ -1,0 +1,41 @@
+{
+  "id_original": 625,
+  "url_original": "https://euchelperu.com/producto.php?id=625",
+  "nombre": "BIKINI HAWAI",
+  "descripcion": "Detalles únicos que hacen la diferencia en tu look.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "625BKN15274",
+  "item_group_id": "625",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176446221403616672426652.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI HAWAI",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2015,
+      "nombre": "Blanco c/ fucsia",
+      "precio": 99.0,
+      "id_color_confirmado": 2015,
+      "tallas": [
+        {
+          "id_talla": 2348,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176446221403616672426652.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:12:16Z"
+}
