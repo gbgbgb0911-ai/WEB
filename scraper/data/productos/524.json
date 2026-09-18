@@ -1,0 +1,59 @@
+{
+  "id_original": 524,
+  "url_original": "https://euchelperu.com/producto.php?id=524",
+  "nombre": "Vestido Hanna Shine",
+  "descripcion": "Vestido largo brillante, con escote halter profundo y aberturas frontales. Diseño ajustado al cuerpo con abertura lateral, ideal para eventos nocturnos y fiestas.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "524  VES55433",
+  "item_group_id": "524",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17625375632520264224215.jpg",
+    "https://euchelperu.com/images/productos/17665394849962710114908.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Hanna Shine",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1554,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 1554,
+      "tallas": [
+        {
+          "id_talla": 1751,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17625375632520264224215.jpg",
+        "https://euchelperu.com/images/productos/17665394849962710114908.jpg"
+      ]
+    },
+    {
+      "id_color": 2230,
+      "nombre": "Dorado",
+      "precio": 79.0,
+      "id_color_confirmado": 2230,
+      "tallas": [
+        {
+          "id_talla": 2619,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17665394849962710114908.jpg",
+        "https://euchelperu.com/images/productos/17625375632520264224215.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:34:38Z"
+}

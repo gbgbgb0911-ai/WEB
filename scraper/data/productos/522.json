@@ -1,0 +1,91 @@
+{
+  "id_original": 522,
+  "url_original": "https://euchelperu.com/producto.php?id=522",
+  "nombre": "Falda Short Novata",
+  "descripcion": "Atrévete a brillar con esta falda short que marca tu figura y aporta un vuelo ligero que te da movimiento y un toque de fantasia para destacar.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "522FAL44789",
+  "item_group_id": "522",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176213165431143493870040.jpg",
+    "https://euchelperu.com/images/productos/17621316639135231741688.jpg",
+    "https://euchelperu.com/images/productos/176244990746226495361943.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1544,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 1544,
+      "tallas": [
+        {
+          "id_talla": 1807,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1808,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176244990746226495361943.png",
+        "https://euchelperu.com/images/productos/176213165431143493870040.jpg",
+        "https://euchelperu.com/images/productos/17621316639135231741688.jpg"
+      ]
+    },
+    {
+      "id_color": 1545,
+      "nombre": "Marrón",
+      "precio": 69.0,
+      "id_color_confirmado": 1545,
+      "tallas": [
+        {
+          "id_talla": 1809,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1810,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176213165431143493870040.jpg",
+        "https://euchelperu.com/images/productos/17621316639135231741688.jpg",
+        "https://euchelperu.com/images/productos/176244990746226495361943.png"
+      ]
+    },
+    {
+      "id_color": 1546,
+      "nombre": "rojo",
+      "precio": 69.0,
+      "id_color_confirmado": 1546,
+      "tallas": [
+        {
+          "id_talla": 1811,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 1812,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17621316639135231741688.jpg",
+        "https://euchelperu.com/images/productos/176213165431143493870040.jpg",
+        "https://euchelperu.com/images/productos/176244990746226495361943.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:34:07Z"
+}

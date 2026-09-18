@@ -1,0 +1,101 @@
+{
+  "id_original": 533,
+  "url_original": "https://euchelperu.com/producto.php?id=533",
+  "nombre": "STRAPLESS LISS ENCAJE",
+  "descripcion": "Un top atrevido y vibrante para destacar. Confeccionado en encaje floral, ofrece un diseño sin tirantes con un sutil fruncido para un ajuste favorecedor. El bajo tiene un corte asimétrico con una caída más larga en un lado, lo que le da un toque moderno.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "533SLISE3651",
+  "item_group_id": "533",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176341475207738659285689.jpg",
+    "https://euchelperu.com/images/productos/176359792044613970249835.png",
+    "https://euchelperu.com/images/productos/17635979735960239883881.png",
+    "https://euchelperu.com/images/productos/17658473264726149794052.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1631,
+      "nombre": "Rojo",
+      "precio": 39.0,
+      "id_color_confirmado": 1631,
+      "tallas": [
+        {
+          "id_talla": 1898,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176341475207738659285689.jpg",
+        "https://euchelperu.com/images/productos/176359792044613970249835.png",
+        "https://euchelperu.com/images/productos/17635979735960239883881.png",
+        "https://euchelperu.com/images/productos/17658473264726149794052.jpg"
+      ]
+    },
+    {
+      "id_color": 1632,
+      "nombre": "Negro",
+      "precio": 39.0,
+      "id_color_confirmado": 1632,
+      "tallas": [
+        {
+          "id_talla": 1899,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176359792044613970249835.png",
+        "https://euchelperu.com/images/productos/176341475207738659285689.jpg",
+        "https://euchelperu.com/images/productos/17635979735960239883881.png",
+        "https://euchelperu.com/images/productos/17658473264726149794052.jpg"
+      ]
+    },
+    {
+      "id_color": 1633,
+      "nombre": "Blanco",
+      "precio": 39.0,
+      "id_color_confirmado": 1633,
+      "tallas": [
+        {
+          "id_talla": 1900,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17635979735960239883881.png",
+        "https://euchelperu.com/images/productos/176341475207738659285689.jpg",
+        "https://euchelperu.com/images/productos/176359792044613970249835.png",
+        "https://euchelperu.com/images/productos/17658473264726149794052.jpg"
+      ]
+    },
+    {
+      "id_color": 2092,
+      "nombre": "Marrón",
+      "precio": 39.0,
+      "id_color_confirmado": 2092,
+      "tallas": [
+        {
+          "id_talla": 2450,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17658473264726149794052.jpg",
+        "https://euchelperu.com/images/productos/176341475207738659285689.jpg",
+        "https://euchelperu.com/images/productos/176359792044613970249835.png",
+        "https://euchelperu.com/images/productos/17635979735960239883881.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:38:58Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id_original": 523,
+  "url_original": "https://euchelperu.com/producto.php?id=523",
+  "nombre": "Set Abby",
+  "descripcion": "Set de dos piezas, compuesto por top cruzado con nudo frontal y falda larga con frunce central. Diseño ajustado y elegante, ideal para salidas o eventos nocturnos.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "523SET19199",
+  "item_group_id": "523",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17621316830629797764123.jpg",
+    "https://euchelperu.com/images/productos/176239087838512794573800.png",
+    "https://euchelperu.com/images/productos/176239090303344844889147.png",
+    "https://euchelperu.com/images/productos/176265371351032891687052.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Set Abby",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1547,
+      "nombre": "Rojo",
+      "precio": 75.0,
+      "id_color_confirmado": 1547,
+      "tallas": [
+        {
+          "id_talla": 1754,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176239087838512794573800.png",
+        "https://euchelperu.com/images/productos/17621316830629797764123.jpg",
+        "https://euchelperu.com/images/productos/176239090303344844889147.png",
+        "https://euchelperu.com/images/productos/176265371351032891687052.jpg"
+      ]
+    },
+    {
+      "id_color": 1548,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 1548,
+      "tallas": [
+        {
+          "id_talla": 1755,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176239090303344844889147.png",
+        "https://euchelperu.com/images/productos/17621316830629797764123.jpg",
+        "https://euchelperu.com/images/productos/176239087838512794573800.png",
+        "https://euchelperu.com/images/productos/176265371351032891687052.jpg"
+      ]
+    },
+    {
+      "id_color": 1549,
+      "nombre": "Vino",
+      "precio": 75.0,
+      "id_color_confirmado": 1549,
+      "tallas": [
+        {
+          "id_talla": 1756,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17621316830629797764123.jpg",
+        "https://euchelperu.com/images/productos/176239087838512794573800.png",
+        "https://euchelperu.com/images/productos/176239090303344844889147.png",
+        "https://euchelperu.com/images/productos/176265371351032891687052.jpg"
+      ]
+    },
+    {
+      "id_color": 1550,
+      "nombre": "Azul",
+      "precio": 75.0,
+      "id_color_confirmado": 1550,
+      "tallas": [
+        {
+          "id_talla": 1757,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176265371351032891687052.jpg",
+        "https://euchelperu.com/images/productos/17621316830629797764123.jpg",
+        "https://euchelperu.com/images/productos/176239087838512794573800.png",
+        "https://euchelperu.com/images/productos/176239090303344844889147.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:34:32Z"
+}

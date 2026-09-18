@@ -1,0 +1,101 @@
+{
+  "id_original": 521,
+  "url_original": "https://euchelperu.com/producto.php?id=521",
+  "nombre": "Top Britney Aro",
+  "descripcion": "Top con aros, escote profundo drapeado y diseño halter ajustado. Perfecto para un look moderno y atrevido.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "521  TOP79268",
+  "item_group_id": "521",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176238951528483864250239.jpg",
+    "https://euchelperu.com/images/productos/176238953128787810721052.jpg",
+    "https://euchelperu.com/images/productos/176238981775526181090873.jpg",
+    "https://euchelperu.com/images/productos/176325710071548619769454.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Britney Aro",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1540,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 1540,
+      "tallas": [
+        {
+          "id_talla": 1766,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176238951528483864250239.jpg",
+        "https://euchelperu.com/images/productos/176238953128787810721052.jpg",
+        "https://euchelperu.com/images/productos/176238981775526181090873.jpg",
+        "https://euchelperu.com/images/productos/176325710071548619769454.png"
+      ]
+    },
+    {
+      "id_color": 1541,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 1541,
+      "tallas": [
+        {
+          "id_talla": 1767,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176238981775526181090873.jpg",
+        "https://euchelperu.com/images/productos/176238951528483864250239.jpg",
+        "https://euchelperu.com/images/productos/176238953128787810721052.jpg",
+        "https://euchelperu.com/images/productos/176325710071548619769454.png"
+      ]
+    },
+    {
+      "id_color": 1542,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 1542,
+      "tallas": [
+        {
+          "id_talla": 1768,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176238953128787810721052.jpg",
+        "https://euchelperu.com/images/productos/176238951528483864250239.jpg",
+        "https://euchelperu.com/images/productos/176238981775526181090873.jpg",
+        "https://euchelperu.com/images/productos/176325710071548619769454.png"
+      ]
+    },
+    {
+      "id_color": 1678,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 1678,
+      "tallas": [
+        {
+          "id_talla": 1944,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176325710071548619769454.png",
+        "https://euchelperu.com/images/productos/176238951528483864250239.jpg",
+        "https://euchelperu.com/images/productos/176238953128787810721052.jpg",
+        "https://euchelperu.com/images/productos/176238981775526181090873.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:33:44Z"
+}
