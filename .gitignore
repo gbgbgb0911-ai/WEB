@@ -13,3 +13,5 @@ scraper/data/images/originales/
 sitio/publico/
 dist/
 deploy-*.zip
+node_modules/
+.netlify/

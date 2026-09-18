@@ -223,6 +223,29 @@
       });
     }
 
+    // El clic se registra en segundo plano: es lo que alimenta el panel
+    // (qué se pide más). sendBeacon no retrasa la apertura de WhatsApp.
+    if (cta) {
+      cta.addEventListener('click', function () {
+        var c = colorActual();
+        var t = c.tallas[iTalla];
+        var cuerpo = JSON.stringify({
+          producto_id: prod.id,
+          color_id: c.id || null,
+          talla: t ? t.nombre : null,
+          precio: Number(prod.precio) || null
+        });
+        try {
+          if (navigator.sendBeacon) {
+            navigator.sendBeacon('/api/intencion', new Blob([cuerpo], { type: 'application/json' }));
+          } else {
+            fetch('/api/intencion', { method: 'POST', body: cuerpo, keepalive: true,
+                                      headers: { 'content-type': 'application/json' } });
+          }
+        } catch (e) { /* si falla, el pedido sigue su curso */ }
+      });
+    }
+
     if (elGrupoTallas) elGrupoTallas.hidden = false;
     pintarColores(); pintarTallas(); pintarFotos(); refrescarCta();
   }
@@ -237,8 +260,66 @@
     });
   }
 
+  /* -------------------------------------------------- estado en vivo */
+
+  /* El catálogo es estático. Lo que cambia varias veces al día —agotado,
+     oculto— se pide aquí, para no reconstruir el sitio en cada cambio. */
+  function estado() {
+    fetch('/api/estado', { cache: 'no-cache' })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) {
+        if (!d) return;
+        var ocultos = new Set(d.ocultos || []);
+        var agotados = new Set(d.agotados || []);
+
+        // En el listado: sacar los ocultos, sellar los agotados.
+        var tarjetas = document.querySelectorAll('.tarjeta[href^="/p/"]');
+        for (var i = 0; i < tarjetas.length; i++) {
+          var t = tarjetas[i];
+          var id = Number((t.getAttribute('href').split('/p/')[1] || '').split('-')[0]);
+          if (ocultos.has(id)) { t.remove(); continue; }
+          if (agotados.has(id) && !t.querySelector('.sello--agotado')) {
+            var s = document.createElement('span');
+            s.className = 'sello sello--agotado';
+            s.textContent = 'Agotado';
+            s.style.top = t.querySelector('.sello') ? '46px' : '10px';
+            var foto = t.querySelector('.tarjeta__foto');
+            if (foto) foto.appendChild(s);
+          }
+        }
+
+        // En la ficha: avisar y desactivar el botón.
+        var raiz = document.querySelector('[data-ficha]');
+        if (!raiz) return;
+        var datos = document.getElementById('datos-producto');
+        if (!datos) return;
+        var pid;
+        try { pid = JSON.parse(datos.textContent).id; } catch (e) { return; }
+
+        if (ocultos.has(pid) || agotados.has(pid)) {
+          var cta = raiz.querySelector('[data-cta]');
+          var nota = raiz.querySelector('.cta__nota');
+          if (cta) {
+            cta.removeAttribute('href');
+            cta.setAttribute('aria-disabled', 'true');
+            cta.style.background = '#cccccc';
+            cta.style.pointerEvents = 'none';
+            var txt = cta.querySelector('span');
+            if (txt) txt.textContent = ocultos.has(pid) ? 'No disponible' : 'Agotado';
+          }
+          if (nota) {
+            nota.textContent = ocultos.has(pid)
+              ? 'Este producto ya no está en el catálogo.'
+              : 'Sin stock por ahora. Escríbenos y te avisamos cuando vuelva.';
+          }
+        }
+      })
+      .catch(function () { /* sin estado, el catálogo se ve tal cual se publicó */ });
+  }
+
   revelar();
   buscador();
   ficha();
+  estado();
   pwa();
 })();
