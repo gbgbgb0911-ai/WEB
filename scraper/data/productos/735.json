@@ -1,0 +1,37 @@
+{
+  "id_original": 735,
+  "url_original": "https://euchelperu.com/producto.php?id=735",
+  "nombre": "MINI VESTIDO TESSA COPA",
+  "descripcion": "Deslumbra con este mini vestido ajustado con textura brillante, una pieza que combina estilo sofisticado y actitud moderna. Su corte ceñido al cuerpo realza la silueta con elegancia, mientras que los brillos sutiles en tonos metálicos aportan un toque de glamour perfecto para noches especiales o eventos festivos. Las tiras laterales ajustables con fruncido permiten personalizar la caída del vestido y añadir un detalle trendy que realza el diseño. Con tirantes finos y escote corazón, este vestido es la opción ideal si buscas un look sexy, elegante y con impacto.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "735MIN38311",
+  "item_group_id": "735",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO TESSA COPA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2271,
+      "nombre": "Plateado",
+      "precio": 59.0,
+      "id_color_confirmado": 2271,
+      "tallas": [
+        {
+          "id_talla": 2658,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": []
+    }
+  ],
+  "scraped_at": "2026-09-18T01:45:47Z"
+}

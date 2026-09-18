@@ -1,0 +1,54 @@
+{
+  "id_original": 726,
+  "url_original": "https://euchelperu.com/producto.php?id=726",
+  "nombre": "Top Estrella bobo",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7260047",
+  "item_group_id": "726",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176654060288669207159788.jpg",
+    "https://euchelperu.com/images/productos/177412320497778592493238.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Estrella bobo",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2240,
+      "nombre": "Marron",
+      "precio": 45.0,
+      "id_color_confirmado": 2240,
+      "tallas": [
+        {
+          "id_talla": 2627,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176654060288669207159788.jpg",
+        "https://euchelperu.com/images/productos/177412320497778592493238.jpg"
+      ]
+    },
+    {
+      "id_color": 3101,
+      "nombre": "Amarillo pastel",
+      "precio": null,
+      "id_color_confirmado": 3101,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177412320497778592493238.jpg",
+        "https://euchelperu.com/images/productos/176654060288669207159788.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:44:25Z"
+}

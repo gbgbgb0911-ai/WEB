@@ -1,0 +1,91 @@
+{
+  "id_original": 725,
+  "url_original": "https://euchelperu.com/producto.php?id=725",
+  "nombre": "Corset Ursula Satin",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7250044",
+  "item_group_id": "725",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176654028311178987353960.jpg",
+    "https://euchelperu.com/images/productos/17665404530708550668628.jpg",
+    "https://euchelperu.com/images/productos/1766540526041209853463.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Corset Ursula Satin",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2237,
+      "nombre": "Negro",
+      "precio": 79.0,
+      "id_color_confirmado": 2237,
+      "tallas": [
+        {
+          "id_talla": 2624,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176654028311178987353960.jpg",
+        "https://euchelperu.com/images/productos/17665404530708550668628.jpg",
+        "https://euchelperu.com/images/productos/1766540526041209853463.jpg"
+      ]
+    },
+    {
+      "id_color": 2238,
+      "nombre": "Blanco",
+      "precio": 79.0,
+      "id_color_confirmado": 2238,
+      "tallas": [
+        {
+          "id_talla": 2625,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17665404530708550668628.jpg",
+        "https://euchelperu.com/images/productos/176654028311178987353960.jpg",
+        "https://euchelperu.com/images/productos/1766540526041209853463.jpg"
+      ]
+    },
+    {
+      "id_color": 2239,
+      "nombre": "Beige",
+      "precio": 79.0,
+      "id_color_confirmado": 2239,
+      "tallas": [
+        {
+          "id_talla": 2626,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1766540526041209853463.jpg",
+        "https://euchelperu.com/images/productos/176654028311178987353960.jpg",
+        "https://euchelperu.com/images/productos/17665404530708550668628.jpg"
+      ]
+    },
+    {
+      "id_color": 3077,
+      "nombre": "Dorado",
+      "precio": null,
+      "id_color_confirmado": 3077,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176654028311178987353960.jpg",
+        "https://euchelperu.com/images/productos/17665404530708550668628.jpg",
+        "https://euchelperu.com/images/productos/1766540526041209853463.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:44:19Z"
+}

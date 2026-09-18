@@ -1,0 +1,53 @@
+{
+  "id_original": 736,
+  "url_original": "https://euchelperu.com/producto.php?id=736",
+  "nombre": "PANTALON THAIRY PALAZZO",
+  "descripcion": "Renueva tu armario con estos jeans de corte wide leg en azul denim clásico, una pieza atemporal que combina comodidad, estilo y versatilidad. Su diseño de pierna ancha da un look moderno y relajado, ideal para crear outfits desde casuales hasta urbanos con un toque sofisticado. Con un lavado azul medio y costuras visibles que aportan carácter, estos jeans se adaptan a cualquier estilo: puedes combinarlos con una blusa elegante para un look más arreglado o con una camiseta básica para un outfit diario lleno de estilo.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "736PAN73156",
+  "item_group_id": "736",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176679317186530831271569.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "PANTALON THAIRY PALAZZO",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2274,
+      "nombre": "UNICO",
+      "precio": 95.0,
+      "id_color_confirmado": 2274,
+      "tallas": [
+        {
+          "id_talla": 2661,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 2662,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 2663,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 2664,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176679317186530831271569.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:45:50Z"
+}

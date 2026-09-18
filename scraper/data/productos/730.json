@@ -1,0 +1,91 @@
+{
+  "id_original": 730,
+  "url_original": "https://euchelperu.com/producto.php?id=730",
+  "nombre": "VESTIDO MIA SASTRE",
+  "descripcion": "Descubre la elegancia simple y moderna con este vestido recto en tono verde salvia, una pieza versátil que combina comodidad y estilo sin esfuerzo. Su diseño de líneas limpias y corte entallado realza la figura de manera sutil, aportando un look sofisticado y natural. Con tirantes finos y un escote recto que aporta minimalismo chic, este vestido es ideal tanto para un día casual con sandalias como para una salida nocturna con accesorios más llamativos.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "730VES73147",
+  "item_group_id": "730",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176833770398277875554880.jpg",
+    "https://euchelperu.com/images/productos/17699014045175322441096.jpg",
+    "https://euchelperu.com/images/productos/176990144312124855085358.jpg",
+    "https://euchelperu.com/images/productos/176990150927898270980506.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO MIA SASTRE",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2258,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 2258,
+      "tallas": [
+        {
+          "id_talla": 2646,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176990150927898270980506.jpg",
+        "https://euchelperu.com/images/productos/176833770398277875554880.jpg",
+        "https://euchelperu.com/images/productos/17699014045175322441096.jpg",
+        "https://euchelperu.com/images/productos/176990144312124855085358.jpg"
+      ]
+    },
+    {
+      "id_color": 2528,
+      "nombre": "Celeste",
+      "precio": 65.0,
+      "id_color_confirmado": 2528,
+      "tallas": [
+        {
+          "id_talla": 2949,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176833770398277875554880.jpg",
+        "https://euchelperu.com/images/productos/17699014045175322441096.jpg",
+        "https://euchelperu.com/images/productos/176990144312124855085358.jpg",
+        "https://euchelperu.com/images/productos/176990150927898270980506.jpg"
+      ]
+    },
+    {
+      "id_color": 2766,
+      "nombre": "Marrón",
+      "precio": null,
+      "id_color_confirmado": 2766,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176990144312124855085358.jpg",
+        "https://euchelperu.com/images/productos/176833770398277875554880.jpg",
+        "https://euchelperu.com/images/productos/17699014045175322441096.jpg",
+        "https://euchelperu.com/images/productos/176990150927898270980506.jpg"
+      ]
+    },
+    {
+      "id_color": 2767,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 2767,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17699014045175322441096.jpg",
+        "https://euchelperu.com/images/productos/176833770398277875554880.jpg",
+        "https://euchelperu.com/images/productos/176990144312124855085358.jpg",
+        "https://euchelperu.com/images/productos/176990150927898270980506.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:45:20Z"
+}
