@@ -17,6 +17,10 @@
 }
 .pestana[aria-selected="true"] { color: var(--tinta); border-bottom-color: var(--tinta); }
 
+/* El correo va en el hueco del rol, pero sin gritarlo: `.eyebrow` pone
+   mayúsculas y una dirección en mayúsculas se lee peor. */
+#correo { text-transform: none; letter-spacing: .03em; font-weight: 600; }
+
 .rango { display: flex; gap: 6px; overflow-x: auto; padding: 12px 0 4px; scrollbar-width: none; }
 .rango::-webkit-scrollbar { display: none; }
 
