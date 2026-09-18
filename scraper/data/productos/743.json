@@ -1,0 +1,91 @@
+{
+  "id_original": 743,
+  "url_original": "https://euchelperu.com/producto.php?id=743",
+  "nombre": "SHORT ULTRA CADERA PERCEPTION",
+  "descripcion": "Estos shorts de mezclilla gris oscuro son el básico perfecto para un look casual con estilo. Con un diseño clásico de corte bajo, cinco bolsillos funcionales y costuras visibles, combinan comodidad y estética urbana. Su tono gris versátil permite múltiples combinaciones: desde camisetas holgadas y tenis, hasta tops ajustados con sandalias para un outfit más trabajado.",
+  "categoria": "Shorts",
+  "categoria_subid": 20,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7432SHO73104",
+  "item_group_id": "743",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176686190719652730913437.jpg",
+    "https://euchelperu.com/images/productos/17668619901319585942767.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SHORT ULTRA CADERA PERCEPTION",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2302,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 2302,
+      "tallas": [
+        {
+          "id_talla": 2701,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 2702,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 2703,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 2704,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 2705,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176686190719652730913437.jpg",
+        "https://euchelperu.com/images/productos/17668619901319585942767.png"
+      ]
+    },
+    {
+      "id_color": 2303,
+      "nombre": "Gris",
+      "precio": 75.0,
+      "id_color_confirmado": 2303,
+      "tallas": [
+        {
+          "id_talla": 2706,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 2707,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 2708,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 2709,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 2710,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17668619901319585942767.png",
+        "https://euchelperu.com/images/productos/176686190719652730913437.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:48:49Z"
+}

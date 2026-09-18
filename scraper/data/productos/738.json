@@ -1,0 +1,87 @@
+{
+  "id_original": 738,
+  "url_original": "https://euchelperu.com/producto.php?id=738",
+  "nombre": "TOP SANDRA",
+  "descripcion": "Añade un toque elegante y moderno a tu colección con este top halter en un sofisticado tono rojo vinotinto, diseñado para destacar con estilo. Su corte entallado y silueta femenina realzan la figura de forma delicada, mientras que las rayas finas en contraste aportan un detalle sutil y actual. El diseño con cuello halter crea un escote favorecedor que combina a la perfección con looks tanto casuales como más arreglados. Gracias a su tejido suave y estructurado, este top es ideal para combinar con faldas, pantalones de talle alto o jeans, creando conjuntos versátiles para múltiples ocasiones.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "738TOP241225",
+  "item_group_id": "738",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176679758832170762947779.jpg",
+    "https://euchelperu.com/images/productos/176685104245779122245804.png",
+    "https://euchelperu.com/images/productos/17668511788640216141562.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP SANDRA",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2278,
+      "nombre": "Amarillo",
+      "precio": 55.0,
+      "id_color_confirmado": 2278,
+      "tallas": [
+        {
+          "id_talla": 2671,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176685104245779122245804.png",
+        "https://euchelperu.com/images/productos/176679758832170762947779.jpg",
+        "https://euchelperu.com/images/productos/17668511788640216141562.png"
+      ]
+    },
+    {
+      "id_color": 2279,
+      "nombre": "Vino",
+      "precio": 55.0,
+      "id_color_confirmado": 2279,
+      "tallas": [
+        {
+          "id_talla": 2672,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2673,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176679758832170762947779.jpg",
+        "https://euchelperu.com/images/productos/176685104245779122245804.png",
+        "https://euchelperu.com/images/productos/17668511788640216141562.png"
+      ]
+    },
+    {
+      "id_color": 2280,
+      "nombre": "Azul Noche",
+      "precio": 55.0,
+      "id_color_confirmado": 2280,
+      "tallas": [
+        {
+          "id_talla": 2674,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2675,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17668511788640216141562.png",
+        "https://euchelperu.com/images/productos/176679758832170762947779.jpg",
+        "https://euchelperu.com/images/productos/176685104245779122245804.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:46:56Z"
+}

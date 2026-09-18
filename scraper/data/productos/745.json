@@ -1,0 +1,53 @@
+{
+  "id_original": 745,
+  "url_original": "https://euchelperu.com/producto.php?id=745",
+  "nombre": "PANTALON EXTASIS BOLSILLO",
+  "descripcion": "Estos pantalones de mezclilla son un básico moderno que combina estilo y comodidad. Con un corte recto, ofrecen una silueta relajada y versátil que se adapta fácilmente a distintos looks, desde casuales hasta más arreglados. El tono azul oscuro intenso aporta elegancia y facilita su combinación con camisetas, blusas o suéteres. Cuentan con cinturilla con cierre y botón, así como los clásicos bolsillos frontales y traseros típicos de los jeans.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "745EXBOL",
+  "item_group_id": "745",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176704666713922465483731.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2308,
+      "nombre": "UNICO",
+      "precio": 95.0,
+      "id_color_confirmado": 2308,
+      "tallas": [
+        {
+          "id_talla": 2715,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 2716,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 2717,
+          "nombre": "32"
+        },
+        {
+          "id_talla": 2718,
+          "nombre": "34"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176704666713922465483731.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:49:02Z"
+}

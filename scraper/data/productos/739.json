@@ -1,0 +1,45 @@
+{
+  "id_original": 739,
+  "url_original": "https://euchelperu.com/producto.php?id=739",
+  "nombre": "FALDA LENTEJUELA",
+  "descripcion": "Luce un estilo audaz y glamuroso con esta mini falda con estampado animal print y detalles en lentejuelas, perfecta para destacar en tus salidas nocturnas o eventos especiales. Su diseño corto y ceñido realza la figura con un toque atrevido y moderno, mientras que las lentejuelas brillantes aportan un efecto luminoso que capta todas las miradas. El estampado de leopardo combina tonos tierra y negro, creando un look salvaje y sofisticado que puedes combinar con blusas lisas, tops básicos o prendas neutras para equilibrar y realzar tu outfit.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "739FAL74060",
+  "item_group_id": "739",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176679796604691342544934.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA LENTEJUELA",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2281,
+      "nombre": "Leopardo",
+      "precio": 69.0,
+      "id_color_confirmado": 2281,
+      "tallas": [
+        {
+          "id_talla": 2676,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2677,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176679796604691342544934.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:47:11Z"
+}

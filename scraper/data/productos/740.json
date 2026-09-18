@@ -1,0 +1,91 @@
+{
+  "id_original": 740,
+  "url_original": "https://euchelperu.com/producto.php?id=740",
+  "nombre": "SHORT LENTEJUELA",
+  "descripcion": "Eleva tu look con estos shorts cortos en color rojo intenso, completamente adornados con lentejuelas brillantes, perfectos para noches de fiesta, eventos especiales o salidas donde quieres destacar con estilo propio. Su diseño ceñido y corto resalta las piernas, mientras que el brillo de las lentejuelas aporta un toque glamuroso que capta todas las miradas. Esta prenda es ideal para combinar con tops lisos o más discretos, permitiendo que los shorts sean el centro de atención del outfit. Además, su acabado brillante hace que sean una pieza versátil para looks festivos y urbanos.",
+  "categoria": "Shorts",
+  "categoria_subid": 20,
+  "precio_base": 60.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "740SHO62470",
+  "item_group_id": "740",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176679859356178230564645.jpg",
+    "https://euchelperu.com/images/productos/176679883552048588522726.jpg",
+    "https://euchelperu.com/images/productos/176685058713802643476805.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SHORT LENTEJUELA",
+  "precio_listado_normal": 60.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2282,
+      "nombre": "Rojo",
+      "precio": 60.0,
+      "id_color_confirmado": 2282,
+      "tallas": [
+        {
+          "id_talla": 2678,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2679,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176679859356178230564645.jpg",
+        "https://euchelperu.com/images/productos/176679883552048588522726.jpg",
+        "https://euchelperu.com/images/productos/176685058713802643476805.png"
+      ]
+    },
+    {
+      "id_color": 2283,
+      "nombre": "Negro",
+      "precio": 60.0,
+      "id_color_confirmado": 2283,
+      "tallas": [
+        {
+          "id_talla": 2680,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2681,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176685058713802643476805.png",
+        "https://euchelperu.com/images/productos/176679859356178230564645.jpg",
+        "https://euchelperu.com/images/productos/176679883552048588522726.jpg"
+      ]
+    },
+    {
+      "id_color": 2284,
+      "nombre": "Plateado",
+      "precio": 60.0,
+      "id_color_confirmado": 2284,
+      "tallas": [
+        {
+          "id_talla": 2682,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2683,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176679883552048588522726.jpg",
+        "https://euchelperu.com/images/productos/176679859356178230564645.jpg",
+        "https://euchelperu.com/images/productos/176685058713802643476805.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:48:21Z"
+}

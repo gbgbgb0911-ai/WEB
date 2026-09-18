@@ -1,0 +1,79 @@
+{
+  "id_original": 744,
+  "url_original": "https://euchelperu.com/producto.php?id=744",
+  "nombre": "VESTIDO VALERI",
+  "descripcion": "Este vestido largo de silueta fluida es perfecto para looks veraniegos y ocasiones especiales. Confeccionado en un tejido ligero con textura suave, presenta un estampado floral delicado en tonos blanco y gris sobre un fondo cálido color óxido. El diseño incluye un detalle frontal anudado que crea un sutil escote y añade un toque femenino y moderno. Los tirantes finos ajustables y la caída elegante hasta el tobillo hacen de esta prenda una opción cómoda y chic para el día o la noche.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "744VES58700",
+  "item_group_id": "744",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17670452437602029567875.png",
+    "https://euchelperu.com/images/productos/176704528793796491848838.jpg",
+    "https://euchelperu.com/images/productos/176704562278887116237526.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2305,
+      "nombre": "Rosa palo",
+      "precio": 65.0,
+      "id_color_confirmado": 2305,
+      "tallas": [
+        {
+          "id_talla": 2712,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17670452437602029567875.png",
+        "https://euchelperu.com/images/productos/176704528793796491848838.jpg",
+        "https://euchelperu.com/images/productos/176704562278887116237526.png"
+      ]
+    },
+    {
+      "id_color": 2306,
+      "nombre": "Anaranjado",
+      "precio": 65.0,
+      "id_color_confirmado": 2306,
+      "tallas": [
+        {
+          "id_talla": 2713,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176704528793796491848838.jpg",
+        "https://euchelperu.com/images/productos/17670452437602029567875.png",
+        "https://euchelperu.com/images/productos/176704562278887116237526.png"
+      ]
+    },
+    {
+      "id_color": 2307,
+      "nombre": "Verde",
+      "precio": 65.0,
+      "id_color_confirmado": 2307,
+      "tallas": [
+        {
+          "id_talla": 2714,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176704562278887116237526.png",
+        "https://euchelperu.com/images/productos/17670452437602029567875.png",
+        "https://euchelperu.com/images/productos/176704528793796491848838.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:48:59Z"
+}

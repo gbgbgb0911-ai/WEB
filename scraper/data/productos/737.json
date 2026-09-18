@@ -1,0 +1,91 @@
+{
+  "id_original": 737,
+  "url_original": "https://euchelperu.com/producto.php?id=737",
+  "nombre": "PANTALON GIANELLA SASTRE",
+  "descripcion": "Añade un toque elegante y sofisticado a tu guardarropa con este pantalón recto en tono beige neutro, ideal para crear outfits versátiles desde oficina hasta un look casual chic. Su corte recto aporta una silueta limpia y moderna, mientras que los detalles de cinturón con botones decorativos en la pretina elevan su diseño con un estilo distintivo. Confeccionado en una tela suave y fluida que garantiza comodidad durante todo el día, este pantalón se combina fácilmente con blusas, camisas estructuradas o tops más relajados para un look completo y lleno de estilo.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "737PAN061225",
+  "item_group_id": "737",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17667942862492695410540.jpg",
+    "https://euchelperu.com/images/productos/176685139072057185790444.png",
+    "https://euchelperu.com/images/productos/17668514630771195702691.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "PANTALON GIANELLA SASTRE",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2275,
+      "nombre": "Beige",
+      "precio": 95.0,
+      "id_color_confirmado": 2275,
+      "tallas": [
+        {
+          "id_talla": 2665,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2666,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17667942862492695410540.jpg",
+        "https://euchelperu.com/images/productos/176685139072057185790444.png",
+        "https://euchelperu.com/images/productos/17668514630771195702691.png"
+      ]
+    },
+    {
+      "id_color": 2276,
+      "nombre": "Negro",
+      "precio": 95.0,
+      "id_color_confirmado": 2276,
+      "tallas": [
+        {
+          "id_talla": 2667,
+          "nombre": "s"
+        },
+        {
+          "id_talla": 2668,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176685139072057185790444.png",
+        "https://euchelperu.com/images/productos/17667942862492695410540.jpg",
+        "https://euchelperu.com/images/productos/17668514630771195702691.png"
+      ]
+    },
+    {
+      "id_color": 2277,
+      "nombre": "Gris",
+      "precio": 95.0,
+      "id_color_confirmado": 2277,
+      "tallas": [
+        {
+          "id_talla": 2669,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2670,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17668514630771195702691.png",
+        "https://euchelperu.com/images/productos/17667942862492695410540.jpg",
+        "https://euchelperu.com/images/productos/176685139072057185790444.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:46:23Z"
+}
