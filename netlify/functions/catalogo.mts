@@ -1,7 +1,7 @@
 import type { Config, Context } from "@netlify/functions";
 import { neon } from "@neondatabase/serverless";
 import { categorias, productos, producto } from "./_lib/catalogo.mts";
-import { paginaListado, paginaFicha, pagina404, indiceBusqueda, sitemap, TIENDA }
+import { paginaListado, paginaFicha, pagina404, indiceBusqueda, sitemap, TIENDA, CSS }
   from "./_lib/plantillas.mts";
 import { cabecerasCache } from "./_lib/cache.mts";
 
@@ -100,7 +100,7 @@ function noEncontrada(base: string, cats: Awaited<ReturnType<typeof categorias>>
 /** Sin base no hay catálogo. Se pide reintentar, y no se cachea. */
 function sinBase() {
   return new Response(
-    `<!doctype html><html lang="es-PE"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Un momento · ${TIENDA}</title><link rel="stylesheet" href="/estilos.css"></head><body><main class="envoltura" style="padding-top:60px;text-align:center"><img src="/logo.svg" alt="${TIENDA}" width="180" height="34" style="margin:0 auto 28px"><h1 style="font-size:20px;text-transform:uppercase">Un momento</h1><p style="color:#4d4d4d;max-width:34ch;margin:12px auto 28px">El catálogo está tardando en responder. Vuelve a cargar en unos segundos.</p><a class="cta" href="/" style="max-width:280px;margin:0 auto;text-decoration:none">Reintentar</a></main></body></html>`,
+    `<!doctype html><html lang="es-PE"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Un momento · ${TIENDA}</title><link rel="stylesheet" href="${CSS}"></head><body><main class="envoltura" style="padding-top:60px;text-align:center"><img src="/logo.svg" alt="${TIENDA}" width="180" height="34" style="margin:0 auto 28px"><h1 style="font-size:20px;text-transform:uppercase">Un momento</h1><p style="color:#4d4d4d;max-width:34ch;margin:12px auto 28px">El catálogo está tardando en responder. Vuelve a cargar en unos segundos.</p><a class="cta" href="/" style="max-width:280px;margin:0 auto;text-decoration:none">Reintentar</a></main></body></html>`,
     { status: 503, headers: { "content-type": "text/html; charset=utf-8", "cache-control": "no-store", "retry-after": "5" } },
   );
 }

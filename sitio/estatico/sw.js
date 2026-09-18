@@ -3,14 +3,15 @@
    - HTML: red primero (el catálogo cambia), con caché de respaldo si no hay señal.
    - CSS/JS/imágenes: caché primero (nunca cambian sin cambiar de nombre de despliegue).
 */
-var VERSION = 'euchel-v2';
+var VERSION = 'euchel-v3';
 var BASE = VERSION + '-base';
 var ASEO = [BASE];
 
+// Sin estilos.css ni app.js: sus URLs llevan la versión del despliegue
+// (?v=...) y se cachean al primer uso. Precargarlos sin versión dejaba una
+// copia que nunca se renovaba.
 var ESENCIAL = [
   '/',
-  '/estilos.css',
-  '/app.js',
   '/logo.svg',
   '/offline.html'
 ];
@@ -71,16 +72,37 @@ self.addEventListener('fetch', function (e) {
     return;
   }
 
-  // estáticos e imágenes
+  // Imágenes: caché primero. Su nombre lleva el hash del contenido, así
+  // que nunca cambian sin cambiar de URL.
+  var esImagen = url.pathname.indexOf('/img/') === 0 || url.pathname.indexOf('/.netlify/images') === 0;
+  if (esImagen) {
+    e.respondWith(
+      caches.match(req).then(function (hit) {
+        if (hit) return hit;
+        return fetch(req).then(function (r) {
+          if (r && r.status === 200 && (r.type === 'basic' || r.type === 'default')) {
+            var copia = r.clone();
+            caches.open(BASE).then(function (c) { c.put(req, copia); }).catch(function () {});
+          }
+          return r;
+        });
+      })
+    );
+    return;
+  }
+
+  // CSS, JS y demás: se sirve lo guardado si hay, pero siempre se pide la
+  // versión nueva por detrás y se guarda para la próxima vez. Así un cambio
+  // de diseño llega como mucho a la segunda visita, aunque la URL no lleve
+  // versión (la de los paneles y la página sin conexión no la llevan).
   e.respondWith(
-    caches.match(req).then(function (hit) {
-      if (hit) return hit;
-      return fetch(req).then(function (r) {
-        if (r && r.status === 200 && r.type === 'basic') {
-          var copia = r.clone();
-          caches.open(BASE).then(function (c) { c.put(req, copia); }).catch(function () {});
-        }
-        return r;
+    caches.open(BASE).then(function (c) {
+      return c.match(req).then(function (hit) {
+        var red = fetch(req).then(function (r) {
+          if (r && r.status === 200 && r.type === 'basic') c.put(req, r.clone()).catch(function () {});
+          return r;
+        }).catch(function () { return hit; });
+        return hit || red;
       });
     })
   );

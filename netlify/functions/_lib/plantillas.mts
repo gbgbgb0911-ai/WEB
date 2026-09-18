@@ -11,6 +11,17 @@
 
 import type { Producto, Categoria } from "./catalogo.mts";
 
+/* Versión de los estáticos. Va en la URL de estilos.css y app.js para que
+ * cada despliegue tenga una URL nueva y ningún navegador se quede con la
+ * anterior. Sin esto pasó: el service worker guardaba el CSS con "caché
+ * primero", nunca volvía a pedirlo, y el efecto de las redes sociales
+ * existía en producción pero nadie que ya hubiera visitado el sitio lo
+ * veía. La versión es el id del despliegue, que Netlify pone en el entorno
+ * de la función; en local cae a "dev". */
+export const VERSION_ESTATICOS = (Netlify.env.get("DEPLOY_ID") || "dev").slice(0, 12);
+export const CSS = `/estilos.css?v=${VERSION_ESTATICOS}`;
+export const JS = `/app.js?v=${VERSION_ESTATICOS}`;
+
 export const WHATSAPP = "51986630221";
 export const TIENDA = "Euchel Perú";
 export const ANUNCIO = "Envíos a todo el Perú";
@@ -97,7 +108,7 @@ ${og}<link rel="icon" href="/favicon.png" type="image/png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap">
-<link rel="stylesheet" href="/estilos.css">
+<link rel="stylesheet" href="${CSS}">
 </head>
 <body>
 <a class="oculto-visual" href="#principal">Saltar al contenido</a>
@@ -147,7 +158,7 @@ export function pie(): string {
   </div>
 </footer>
 <a class="flotante" href="https://wa.me/${WHATSAPP}?text=${consulta}" target="_blank" rel="noopener" aria-label="Escríbenos por WhatsApp">${ICONOS.whatsapp}</a>
-<script src="/app.js" defer></script>
+<script src="${JS}" defer></script>
 </body>
 </html>
 `;

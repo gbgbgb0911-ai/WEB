@@ -21,6 +21,7 @@ import { sesionDe, anotar, json, errorDe, SinPermiso, type Sesion } from "./_lib
  *   POST /api/panel/producto/:id/precio   { precio, precio_antes }  (admin)
  *   POST /api/panel/producto/:id/archivar { archivado }             (admin)
  *   GET  /api/panel/bitacora?pagina=      (admin)
+ *   POST /api/panel/refrescar             (admin) purga la caché del catálogo
  *
  *   POST   /api/panel/producto                    crear
  *   POST   /api/panel/producto/:id/datos          nombre, descripcion, categoria
@@ -137,6 +138,15 @@ async function despachar(req: Request, sql: any, ruta: string, partes: string[])
     if (partes[0] === "tablero" && req.method === "GET") {
       await sesionDe(req, sql, ["admin"]);
       return await tablero(req, sql);
+    }
+
+    if (partes[0] === "refrescar" && req.method === "POST") {
+      // No escribe nada: solo purga. Sirve tras un despliegue (las páginas
+      // guardadas en el borde llevan la versión anterior de los estáticos)
+      // o si algo se ve viejo. El enrutador purga tras cualquier POST que
+      // salga bien, así que con responder 200 basta.
+      await sesionDe(req, sql, ["admin"]);
+      return json({ ok: true });
     }
 
     if (partes[0] === "bitacora" && req.method === "GET") {
