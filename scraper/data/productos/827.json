@@ -1,0 +1,79 @@
+{
+  "id_original": 827,
+  "url_original": "https://euchelperu.com/producto.php?id=827",
+  "nombre": "VESTIDO NAHOMY",
+  "descripcion": "Este espectacular set de dos piezas en color amarillo pastel destaca por su diseño fluido y sofisticado, compuesto por un top de cuello alto estilo halter con elegantes pliegues drapeados que aportan volumen y movimiento, junto con una falda mini de talle alto que presenta un delicado detalle de fruncido lateral para esculpir la silueta, logrando un equilibrio perfecto entre frescura veraniega y elegancia moderna.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "827VES241225",
+  "item_group_id": "827",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176825090133803221080200.jpg",
+    "https://euchelperu.com/images/productos/176825152323325865942169.png",
+    "https://euchelperu.com/images/productos/176825215537407428218334.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO NAHOMY",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2516,
+      "nombre": "Amarillo",
+      "precio": 85.0,
+      "id_color_confirmado": 2516,
+      "tallas": [
+        {
+          "id_talla": 2937,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176825090133803221080200.jpg",
+        "https://euchelperu.com/images/productos/176825152323325865942169.png",
+        "https://euchelperu.com/images/productos/176825215537407428218334.png"
+      ]
+    },
+    {
+      "id_color": 2517,
+      "nombre": "Blanco",
+      "precio": 85.0,
+      "id_color_confirmado": 2517,
+      "tallas": [
+        {
+          "id_talla": 2938,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176825152323325865942169.png",
+        "https://euchelperu.com/images/productos/176825090133803221080200.jpg",
+        "https://euchelperu.com/images/productos/176825215537407428218334.png"
+      ]
+    },
+    {
+      "id_color": 2518,
+      "nombre": "Negro",
+      "precio": 85.0,
+      "id_color_confirmado": 2518,
+      "tallas": [
+        {
+          "id_talla": 2939,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176825215537407428218334.png",
+        "https://euchelperu.com/images/productos/176825090133803221080200.jpg",
+        "https://euchelperu.com/images/productos/176825152323325865942169.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:27:07Z"
+}

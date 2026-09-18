@@ -1,0 +1,41 @@
+{
+  "id_original": 829,
+  "url_original": "https://euchelperu.com/producto.php?id=829",
+  "nombre": "PANTALON HILO",
+  "descripcion": "Estos pantalones de malla en color blanco marfil presentan un diseño de tejido calado con textura de red que aporta una estética artesanal y bohemia, destacando por su silueta de talle alto con pretina elástica y bota ligeramente acampanada que ofrece una caída fluida y fresca, convirtiéndolos en la prenda cover-up ideal para superponer sobre trajes de baño en días de playa o piscina con un toque de sofisticación relajada.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "829PAN73748",
+  "item_group_id": "829",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176833585239767421957423.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "PANTALON HILO",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2522,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 2522,
+      "tallas": [
+        {
+          "id_talla": 2943,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176833585239767421957423.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:27:16Z"
+}

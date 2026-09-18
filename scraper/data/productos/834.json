@@ -1,0 +1,41 @@
+{
+  "id_original": 834,
+  "url_original": "https://euchelperu.com/producto.php?id=834",
+  "nombre": "MINI VESTIDO ESTRELLA BLONDA",
+  "descripcion": "Este encantador vestido corto de encaje blanco marfil destaca por su romántica estética bohemia y femenina, presentando un diseño de cuello halter con un sugerente escote unido por un broche de estrella de mar dorada, que se complementa perfectamente con atrevidas aberturas laterales (cut-outs) en la cintura y una falda terminada en un delicado volante con bordados florales calados, ideal para un evento veraniego de día o una ocasión especial frente al mar.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "834MIN58730",
+  "item_group_id": "834",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176833744409901273726272.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO ESTRELLA BLONDA",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2527,
+      "nombre": "Crema",
+      "precio": 79.0,
+      "id_color_confirmado": 2527,
+      "tallas": [
+        {
+          "id_talla": 2948,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176833744409901273726272.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:30:46Z"
+}

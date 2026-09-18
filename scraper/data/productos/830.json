@@ -1,0 +1,69 @@
+{
+  "id_original": 830,
+  "url_original": "https://euchelperu.com/producto.php?id=830",
+  "nombre": "VESTIDO MELODY HILO",
+  "descripcion": "Este elegante vestido largo de corte asimétrico en tono crema destaca por su intrincado tejido de encaje con motivos geométricos y calados que aportan una textura artesanal única, presentando un diseño de un solo hombro realzado por un llamativo broche de estrella de mar dorada que añade un toque de lujo costero a su silueta entallada y sofisticada.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "830VES14446",
+  "item_group_id": "830",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176833616096635534536136.jpg",
+    "https://euchelperu.com/images/productos/17699026975148823677728.jpg",
+    "https://euchelperu.com/images/productos/176990276032353317525051.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO MELODY HILO",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2523,
+      "nombre": "Beige",
+      "precio": 79.0,
+      "id_color_confirmado": 2523,
+      "tallas": [
+        {
+          "id_talla": 2944,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176833616096635534536136.jpg",
+        "https://euchelperu.com/images/productos/17699026975148823677728.jpg",
+        "https://euchelperu.com/images/productos/176990276032353317525051.jpg"
+      ]
+    },
+    {
+      "id_color": 2761,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 2761,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17699026975148823677728.jpg",
+        "https://euchelperu.com/images/productos/176833616096635534536136.jpg",
+        "https://euchelperu.com/images/productos/176990276032353317525051.jpg"
+      ]
+    },
+    {
+      "id_color": 2762,
+      "nombre": "Camell",
+      "precio": null,
+      "id_color_confirmado": 2762,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176990276032353317525051.jpg",
+        "https://euchelperu.com/images/productos/176833616096635534536136.jpg",
+        "https://euchelperu.com/images/productos/17699026975148823677728.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:28:26Z"
+}

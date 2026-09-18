@@ -1,0 +1,126 @@
+{
+  "id_original": 837,
+  "url_original": "https://euchelperu.com/producto.php?id=837",
+  "nombre": "TOP SAMY STRAPLESS ASIMETRICO",
+  "descripcion": "Esta blusa estilo strapless en color celeste pastel presenta un diseño minimalista y moderno confeccionado en una tela de punto elástica que se amolda suavemente al cuerpo, destacando por su corte asimétrico en punta y un delicado detalle de fruncido lateral que crea un drapeado elegante y dinámico, convirtiéndola en la prenda básica perfecta para elevar cualquier look casual con un toque de sofisticación contemporánea.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "837TOP59447",
+  "item_group_id": "837",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17683393517277797883674.jpg",
+    "https://euchelperu.com/images/productos/17698988229643186965587.jpg",
+    "https://euchelperu.com/images/productos/176989884058510461777317.jpg",
+    "https://euchelperu.com/images/productos/176989885492673413599500.jpg",
+    "https://euchelperu.com/images/productos/176989886848897480994039.jpg",
+    "https://euchelperu.com/images/productos/176989888992094811780514.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP SAMY STRAPLESS ASIMETRICO",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2532,
+      "nombre": "Celeste",
+      "precio": 39.0,
+      "id_color_confirmado": 2532,
+      "tallas": [
+        {
+          "id_talla": 2953,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17683393517277797883674.jpg",
+        "https://euchelperu.com/images/productos/17698988229643186965587.jpg",
+        "https://euchelperu.com/images/productos/176989884058510461777317.jpg",
+        "https://euchelperu.com/images/productos/176989885492673413599500.jpg",
+        "https://euchelperu.com/images/productos/176989886848897480994039.jpg",
+        "https://euchelperu.com/images/productos/176989888992094811780514.jpg"
+      ]
+    },
+    {
+      "id_color": 2748,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 2748,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17698988229643186965587.jpg",
+        "https://euchelperu.com/images/productos/17683393517277797883674.jpg",
+        "https://euchelperu.com/images/productos/176989884058510461777317.jpg",
+        "https://euchelperu.com/images/productos/176989885492673413599500.jpg",
+        "https://euchelperu.com/images/productos/176989886848897480994039.jpg",
+        "https://euchelperu.com/images/productos/176989888992094811780514.jpg"
+      ]
+    },
+    {
+      "id_color": 2749,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 2749,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176989884058510461777317.jpg",
+        "https://euchelperu.com/images/productos/17683393517277797883674.jpg",
+        "https://euchelperu.com/images/productos/17698988229643186965587.jpg",
+        "https://euchelperu.com/images/productos/176989885492673413599500.jpg",
+        "https://euchelperu.com/images/productos/176989886848897480994039.jpg",
+        "https://euchelperu.com/images/productos/176989888992094811780514.jpg"
+      ]
+    },
+    {
+      "id_color": 2750,
+      "nombre": "Marrón",
+      "precio": null,
+      "id_color_confirmado": 2750,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176989885492673413599500.jpg",
+        "https://euchelperu.com/images/productos/17683393517277797883674.jpg",
+        "https://euchelperu.com/images/productos/17698988229643186965587.jpg",
+        "https://euchelperu.com/images/productos/176989884058510461777317.jpg",
+        "https://euchelperu.com/images/productos/176989886848897480994039.jpg",
+        "https://euchelperu.com/images/productos/176989888992094811780514.jpg"
+      ]
+    },
+    {
+      "id_color": 2751,
+      "nombre": "Amarillo",
+      "precio": null,
+      "id_color_confirmado": 2751,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176989886848897480994039.jpg",
+        "https://euchelperu.com/images/productos/17683393517277797883674.jpg",
+        "https://euchelperu.com/images/productos/17698988229643186965587.jpg",
+        "https://euchelperu.com/images/productos/176989884058510461777317.jpg",
+        "https://euchelperu.com/images/productos/176989885492673413599500.jpg",
+        "https://euchelperu.com/images/productos/176989888992094811780514.jpg"
+      ]
+    },
+    {
+      "id_color": 2752,
+      "nombre": "Azul noche",
+      "precio": null,
+      "id_color_confirmado": 2752,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176989888992094811780514.jpg",
+        "https://euchelperu.com/images/productos/17683393517277797883674.jpg",
+        "https://euchelperu.com/images/productos/17698988229643186965587.jpg",
+        "https://euchelperu.com/images/productos/176989884058510461777317.jpg",
+        "https://euchelperu.com/images/productos/176989885492673413599500.jpg",
+        "https://euchelperu.com/images/productos/176989886848897480994039.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:31:40Z"
+}

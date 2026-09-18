@@ -1,0 +1,86 @@
+{
+  "id_original": 833,
+  "url_original": "https://euchelperu.com/producto.php?id=833",
+  "nombre": "MINI VESTIDO THAISSA HILO",
+  "descripcion": "Este espectacular vestido corto de tejido calado en color azul cielo destaca por su diseño audaz de cuello halter y espalda descubierta, el cual integra amplias aberturas laterales que estilizan la silueta y una textura de red artesanal que finaliza en un delicado ruedo festoneado, convirtiéndolo en la pieza perfecta para un look de playa sofisticado y moderno.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "833MIN13200",
+  "item_group_id": "833",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176833707581583849099669.jpg",
+    "https://euchelperu.com/images/productos/176990188998335604483484.jpg",
+    "https://euchelperu.com/images/productos/17699019036393398830806.jpg",
+    "https://euchelperu.com/images/productos/176990192443343315759897.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO THAISSA HILO",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2526,
+      "nombre": "Celeste",
+      "precio": 59.0,
+      "id_color_confirmado": 2526,
+      "tallas": [
+        {
+          "id_talla": 2947,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176833707581583849099669.jpg",
+        "https://euchelperu.com/images/productos/176990188998335604483484.jpg",
+        "https://euchelperu.com/images/productos/17699019036393398830806.jpg",
+        "https://euchelperu.com/images/productos/176990192443343315759897.jpg"
+      ]
+    },
+    {
+      "id_color": 2757,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 2757,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176990188998335604483484.jpg",
+        "https://euchelperu.com/images/productos/176833707581583849099669.jpg",
+        "https://euchelperu.com/images/productos/17699019036393398830806.jpg",
+        "https://euchelperu.com/images/productos/176990192443343315759897.jpg"
+      ]
+    },
+    {
+      "id_color": 2758,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 2758,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17699019036393398830806.jpg",
+        "https://euchelperu.com/images/productos/176833707581583849099669.jpg",
+        "https://euchelperu.com/images/productos/176990188998335604483484.jpg",
+        "https://euchelperu.com/images/productos/176990192443343315759897.jpg"
+      ]
+    },
+    {
+      "id_color": 2759,
+      "nombre": "Beige",
+      "precio": null,
+      "id_color_confirmado": 2759,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176990192443343315759897.jpg",
+        "https://euchelperu.com/images/productos/176833707581583849099669.jpg",
+        "https://euchelperu.com/images/productos/176990188998335604483484.jpg",
+        "https://euchelperu.com/images/productos/17699019036393398830806.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:29:26Z"
+}

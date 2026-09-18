@@ -1,0 +1,54 @@
+{
+  "id_original": 828,
+  "url_original": "https://euchelperu.com/producto.php?id=828",
+  "nombre": "TOP ESTRELLA AMARRABLE",
+  "descripcion": "Este top estilo halter de silueta fluida destaca por su profundo escote en V realzado por un llamativo broche central en forma de estrella de mar dorada, el cual une las copas y da paso a una caída asimétrica de volantes en cascada que, junto a su tono vino intenso, crea una pieza sofisticada y audaz ideal para looks de verano o eventos especiales de noche.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "828TOP89732",
+  "item_group_id": "828",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17683352878824385136691.jpg",
+    "https://euchelperu.com/images/productos/17698998110805925404670.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ESTRELLA AMARRABLE",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2521,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 2521,
+      "tallas": [
+        {
+          "id_talla": 2942,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17683352878824385136691.jpg",
+        "https://euchelperu.com/images/productos/17698998110805925404670.jpg"
+      ]
+    },
+    {
+      "id_color": 2755,
+      "nombre": "verde",
+      "precio": null,
+      "id_color_confirmado": 2755,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17698998110805925404670.jpg",
+        "https://euchelperu.com/images/productos/17683352878824385136691.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:27:13Z"
+}
