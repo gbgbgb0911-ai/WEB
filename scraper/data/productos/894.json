@@ -1,0 +1,86 @@
+{
+  "id_original": 894,
+  "url_original": "https://euchelperu.com/producto.php?id=894",
+  "nombre": "Vestido star hilo",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "894VES12341",
+  "item_group_id": "894",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17697138825187160957639.jpg",
+    "https://euchelperu.com/images/productos/17701442316635387855250.jpg",
+    "https://euchelperu.com/images/productos/177014424461460549099745.jpg",
+    "https://euchelperu.com/images/productos/177014433324884370089538.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido star hilo",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2652,
+      "nombre": "Celeste",
+      "precio": 59.0,
+      "id_color_confirmado": 2652,
+      "tallas": [
+        {
+          "id_talla": 3084,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17697138825187160957639.jpg",
+        "https://euchelperu.com/images/productos/17701442316635387855250.jpg",
+        "https://euchelperu.com/images/productos/177014424461460549099745.jpg",
+        "https://euchelperu.com/images/productos/177014433324884370089538.jpg"
+      ]
+    },
+    {
+      "id_color": 2707,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 2707,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17701442316635387855250.jpg",
+        "https://euchelperu.com/images/productos/17697138825187160957639.jpg",
+        "https://euchelperu.com/images/productos/177014424461460549099745.jpg",
+        "https://euchelperu.com/images/productos/177014433324884370089538.jpg"
+      ]
+    },
+    {
+      "id_color": 2708,
+      "nombre": "Verde olivo",
+      "precio": null,
+      "id_color_confirmado": 2708,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177014424461460549099745.jpg",
+        "https://euchelperu.com/images/productos/17697138825187160957639.jpg",
+        "https://euchelperu.com/images/productos/17701442316635387855250.jpg",
+        "https://euchelperu.com/images/productos/177014433324884370089538.jpg"
+      ]
+    },
+    {
+      "id_color": 2709,
+      "nombre": "Beige",
+      "precio": null,
+      "id_color_confirmado": 2709,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177014433324884370089538.jpg",
+        "https://euchelperu.com/images/productos/17697138825187160957639.jpg",
+        "https://euchelperu.com/images/productos/17701442316635387855250.jpg",
+        "https://euchelperu.com/images/productos/177014424461460549099745.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:56:49Z"
+}

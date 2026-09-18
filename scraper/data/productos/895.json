@@ -1,0 +1,71 @@
+{
+  "id_original": 895,
+  "url_original": "https://euchelperu.com/producto.php?id=895",
+  "nombre": "Vestido rib ross",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "895VES41679",
+  "item_group_id": "895",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176971420045029258691700.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido rib ross",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2653,
+      "nombre": "Verde",
+      "precio": 45.0,
+      "id_color_confirmado": 2653,
+      "tallas": [
+        {
+          "id_talla": 3085,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176971420045029258691700.jpg"
+      ]
+    },
+    {
+      "id_color": 2700,
+      "nombre": "Celeste",
+      "precio": null,
+      "id_color_confirmado": 2700,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176971420045029258691700.jpg"
+      ]
+    },
+    {
+      "id_color": 2701,
+      "nombre": "Amarillo",
+      "precio": null,
+      "id_color_confirmado": 2701,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176971420045029258691700.jpg"
+      ]
+    },
+    {
+      "id_color": 2702,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 2702,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176971420045029258691700.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:57:48Z"
+}

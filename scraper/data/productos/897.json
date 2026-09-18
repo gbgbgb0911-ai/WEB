@@ -1,0 +1,41 @@
+{
+  "id_original": 897,
+  "url_original": "https://euchelperu.com/producto.php?id=897",
+  "nombre": "Arena tote",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "897car23241",
+  "item_group_id": "897",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176971550429792999963638.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Arena tote",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2655,
+      "nombre": "Beige",
+      "precio": 89.0,
+      "id_color_confirmado": 2655,
+      "tallas": [
+        {
+          "id_talla": 3092,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176971550429792999963638.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:58:40Z"
+}

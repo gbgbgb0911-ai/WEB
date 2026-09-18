@@ -1,0 +1,86 @@
+{
+  "id_original": 896,
+  "url_original": "https://euchelperu.com/producto.php?id=896",
+  "nombre": "Mini vestido carol",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "896MIN17695",
+  "item_group_id": "896",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17697144065445553090320.jpg",
+    "https://euchelperu.com/images/productos/177014627358406962356134.jpg",
+    "https://euchelperu.com/images/productos/177014637974780324433311.jpg",
+    "https://euchelperu.com/images/productos/177014651038326675060671.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Mini vestido carol",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2654,
+      "nombre": "Amarillo",
+      "precio": 69.0,
+      "id_color_confirmado": 2654,
+      "tallas": [
+        {
+          "id_talla": 3086,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17697144065445553090320.jpg",
+        "https://euchelperu.com/images/productos/177014627358406962356134.jpg",
+        "https://euchelperu.com/images/productos/177014637974780324433311.jpg",
+        "https://euchelperu.com/images/productos/177014651038326675060671.jpg"
+      ]
+    },
+    {
+      "id_color": 2728,
+      "nombre": "blanco",
+      "precio": null,
+      "id_color_confirmado": 2728,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177014651038326675060671.jpg",
+        "https://euchelperu.com/images/productos/17697144065445553090320.jpg",
+        "https://euchelperu.com/images/productos/177014627358406962356134.jpg",
+        "https://euchelperu.com/images/productos/177014637974780324433311.jpg"
+      ]
+    },
+    {
+      "id_color": 2729,
+      "nombre": "celeste",
+      "precio": null,
+      "id_color_confirmado": 2729,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177014637974780324433311.jpg",
+        "https://euchelperu.com/images/productos/17697144065445553090320.jpg",
+        "https://euchelperu.com/images/productos/177014627358406962356134.jpg",
+        "https://euchelperu.com/images/productos/177014651038326675060671.jpg"
+      ]
+    },
+    {
+      "id_color": 2730,
+      "nombre": "negro",
+      "precio": null,
+      "id_color_confirmado": 2730,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177014627358406962356134.jpg",
+        "https://euchelperu.com/images/productos/17697144065445553090320.jpg",
+        "https://euchelperu.com/images/productos/177014637974780324433311.jpg",
+        "https://euchelperu.com/images/productos/177014651038326675060671.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:58:25Z"
+}
