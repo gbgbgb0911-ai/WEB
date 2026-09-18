@@ -41,9 +41,17 @@ body {
 
 img { display: block; max-width: 100%; }
 button { font: inherit; color: inherit; }
+a { color: inherit; text-decoration: none; }
 :focus-visible { outline: 2px solid var(--acento); outline-offset: 2px; }
 
 .oculto { display: none !important; }
+
+/* El atributo `hidden` vale `display: none` por defecto, y cualquier regla
+ * de clase posterior lo pisa. `.entrada` declara `display: grid`, así que la
+ * pantalla de entrada se quedaba pintada encima del panel aunque estuviera
+ * marcada como oculta: se entraba bien y no se veía nada. */
+[hidden] { display: none !important; }
+
 .solo-lectores {
   position: absolute; width: 1px; height: 1px; margin: -1px;
   overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;

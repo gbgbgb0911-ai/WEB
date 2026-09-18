@@ -1,0 +1,119 @@
+# Paneles del equipo
+
+Dos aplicaciones sobre el mismo catálogo, en el mismo dominio.
+
+| Panel | Dirección | Quién entra | Qué puede hacer |
+|---|---|---|---|
+| Equipo | `/trabajador/` | rol `trabajadora` y rol `admin` | agotar, ocultar, agotar un color o una talla |
+| Administración | `/admin/` | solo rol `admin` | todo lo anterior, más precios, archivo, cuentas y bitácora |
+
+Las dos se instalan como aplicación desde el navegador, cada una con su
+propio icono: el del equipo es negro, el de administración es rosa de marca.
+En Android, Chrome ofrece "Instalar aplicación". En iPhone, Safari →
+Compartir → "Añadir a pantalla de inicio" (Safari no ofrece el aviso
+automático, hay que decírselo al equipo).
+
+Quien entre a `/admin/` con cuenta de equipo acaba en su propio panel; nadie
+ve una pantalla de error por equivocarse de dirección.
+
+## Cuentas
+
+Las crea una administradora desde el panel, en la pestaña **Equipo**: nombre,
+correo, rol y una clave temporal. La clave se le pasa por un medio privado y
+se le dice que la cambie.
+
+Cuando alguien deja el equipo, se **suspende** su cuenta. No se borra: la
+bitácora tiene que seguir diciendo quién hizo cada cambio.
+
+La primera cuenta de administración existe ya. Las demás salen de ahí.
+
+### Pendiente en la consola de Neon
+
+El registro público está **abierto**: cualquiera con la dirección del panel
+puede crear una cuenta. No puede hacer nada (entra con rol `user` y el panel
+le responde que pida acceso), pero conviene cerrarlo:
+
+> Neon → proyecto `euchel-catalogo` → Auth → Email/Password → apagar
+> "Allow sign up".
+
+Crear cuentas desde el panel sigue funcionando con el registro cerrado: usa
+la ruta de administración, no la de registro.
+
+## Cómo se sostiene la sesión
+
+```
+navegador ──POST /auth/sign-in/email──► Netlify ──► Neon Auth
+          ◄──── cookie de sesión (7 días) ────────────┘
+          ──GET /auth/token──► ... ◄── JWT de 15 minutos
+          ──Bearer JWT──► /api/panel/* ──► verifica firma, lee rol en la base
+```
+
+Tres decisiones que conviene no deshacer sin releer esto:
+
+**El auth pasa por `/auth/*` de este dominio.** Neon Auth vive en un dominio
+propio y entrega la cookie con `SameSite=None; Partitioned`. Desde el sitio
+esa cookie es de tercero, y Safari las bloquea: en iPhone la trabajadora
+entraría y al primer refresco estaría fuera. Con el proxy la cookie la
+escribe `euchel-catalogo` y es de primera parte. La regla está en
+`dist/_redirects`, que genera `sitio/generar.py`.
+
+**El rol se lee de la base, no del token.** El JWT de Neon no admite claims
+propios y su campo `role` dice `authenticated` para todo el mundo. El rol
+real está en `neon_auth."user".role`.
+
+**El JWT no se guarda en disco.** Vive en memoria y se renueva solo. La
+cookie es `HttpOnly`, así que tampoco la alcanza un script.
+
+## La base
+
+Las funciones entran con el rol `panel`, no con el dueño de la base. Creado
+por SQL a propósito: los roles que crea la API de Neon quedan dentro de
+`neon_superuser` y pueden borrar y hacer DDL. Comprobado que `panel` **no**
+puede borrar productos, ni alterar tablas, ni leer `neon_auth.account`
+(donde están los hashes de las claves), ni tocar los roles de los usuarios.
+
+Lo que sí puede: leer el catálogo, actualizar producto, color y talla,
+insertar en `negocio.intencion` y en `negocio.bitacora`. La bitácora es solo
+de añadir: ni el panel ni las funciones pueden borrar una línea.
+
+## Variables de entorno en Netlify
+
+| Nombre | Para qué |
+|---|---|
+| `DATABASE_URL` | conexión del rol `panel` |
+| `NEON_AUTH_BASE_URL` | de dónde baja el JWKS para verificar la firma |
+
+Ojo: la API de Netlify acepta la escritura y la descarta en silencio si la
+variable se marca secreta o se le limita el ámbito. Hay que ponerlas sin
+marcar secreto y con ámbito completo, y **comprobar que quedaron** listando
+las variables después. Que responda "upserted" no significa que se guardó.
+
+## Desplegar
+
+```sh
+sh sitio/empaquetar.sh            # genera el sitio y copia las funciones
+# luego, desde /tmp/euchel-paquete, el comando que da el MCP de Netlify
+```
+
+No se sube el repo entero: `scraper/data/images/originales` (598 MB) y
+`scraper/data/html` (67 MB) son intermedios regenerables y con ellos el zip
+pasa de 700 MB y el despliegue falla con 500. El paquete son 164 MB.
+
+Qué cambia sin volver a desplegar y qué no:
+
+| Cambio | Hace falta desplegar |
+|---|---|
+| agotar, ocultar, precios, archivar | no: sale por `/api/estado` en menos de un minuto |
+| cuentas y roles | no |
+| producto nuevo o foto nueva | sí: el catálogo son páginas ya generadas |
+| diseño, textos, código | sí |
+
+## Probar los paneles en un navegador
+
+Chromium en el contenedor no confía en la CA del proxy de salida, así que ir
+directo a la URL `https` da `ERR_CERT_AUTHORITY_INVALID`. La forma que
+funciona es servir `dist` en `http` local y reenviar `/auth/*` y `/api/*` al
+sitio real desde Node, que sí confía. Hay un arnés así en el historial de
+esta sesión; si hace falta otra vez, lo único con truco es que al bajar la
+cookie por `http` hay que quitarle `Secure` **y el prefijo `__Secure-`** del
+nombre (Chromium rechaza ese prefijo sin https) y devolvérselo al subir.

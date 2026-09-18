@@ -44,6 +44,9 @@ function aPanel() {
   $('#entrada').hidden = true;
   $('#panel').hidden = false;
   $('#quien').textContent = yo.nombre || yo.email;
+  // El correo debajo del nombre: en este panel el rol siempre es el mismo,
+  // así que decirlo no aportaba nada y se veía dos veces lo mismo.
+  $('#correo').textContent = yo.email;
   if (!lista) lista = crearLista({ rol: yo.rol, fallo });
 }
 
