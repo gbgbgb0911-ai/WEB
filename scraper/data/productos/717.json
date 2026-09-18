@@ -1,0 +1,41 @@
+{
+  "id_original": 717,
+  "url_original": "https://euchelperu.com/producto.php?id=717",
+  "nombre": "Mini vestido shine jala pita",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "717MIN99893",
+  "item_group_id": "717",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176824364778982292918957.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Mini vestido shine jala pita",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2497,
+      "nombre": "Plateado",
+      "precio": 59.0,
+      "id_color_confirmado": 2497,
+      "tallas": [
+        {
+          "id_talla": 3381,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176824364778982292918957.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:38:30Z"
+}
