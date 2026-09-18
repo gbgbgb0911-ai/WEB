@@ -1,0 +1,59 @@
+{
+  "id_original": 499,
+  "url_original": "https://euchelperu.com/producto.php?id=499",
+  "nombre": "Alice bag",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "4991",
+  "item_group_id": "499",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176085137457270144566043.jpg",
+    "https://euchelperu.com/images/productos/17608513823944294364659.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1333,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 1333,
+      "tallas": [
+        {
+          "id_talla": 1617,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176085137457270144566043.jpg",
+        "https://euchelperu.com/images/productos/17608513823944294364659.jpg"
+      ]
+    },
+    {
+      "id_color": 1334,
+      "nombre": "Marrón",
+      "precio": 65.0,
+      "id_color_confirmado": 1334,
+      "tallas": [
+        {
+          "id_talla": 1618,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17608513823944294364659.jpg",
+        "https://euchelperu.com/images/productos/176085137457270144566043.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:23:04Z"
+}

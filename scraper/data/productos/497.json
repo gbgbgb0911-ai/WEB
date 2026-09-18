@@ -1,0 +1,113 @@
+{
+  "id_original": 497,
+  "url_original": "https://euchelperu.com/producto.php?id=497",
+  "nombre": "Set Stephany Hilo",
+  "descripcion": "",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "497SET21639",
+  "item_group_id": "497",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176084056787344948553142.jpg",
+    "https://euchelperu.com/images/productos/17682535094981753975242.png",
+    "https://euchelperu.com/images/productos/17682540850907494973706.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Set Stephany Hilo",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1319,
+      "nombre": "Blanco-Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 1319,
+      "tallas": [
+        {
+          "id_talla": 1563,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084056787344948553142.jpg",
+        "https://euchelperu.com/images/productos/17682535094981753975242.png",
+        "https://euchelperu.com/images/productos/17682540850907494973706.png"
+      ]
+    },
+    {
+      "id_color": 1492,
+      "nombre": "Beige",
+      "precio": 69.0,
+      "id_color_confirmado": 1492,
+      "tallas": [
+        {
+          "id_talla": 1742,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17682535094981753975242.png",
+        "https://euchelperu.com/images/productos/176084056787344948553142.jpg",
+        "https://euchelperu.com/images/productos/17682540850907494973706.png"
+      ]
+    },
+    {
+      "id_color": 1493,
+      "nombre": "Mola",
+      "precio": 69.0,
+      "id_color_confirmado": 1493,
+      "tallas": [
+        {
+          "id_talla": 1743,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084056787344948553142.jpg",
+        "https://euchelperu.com/images/productos/17682535094981753975242.png",
+        "https://euchelperu.com/images/productos/17682540850907494973706.png"
+      ]
+    },
+    {
+      "id_color": 1494,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 1494,
+      "tallas": [
+        {
+          "id_talla": 1744,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176084056787344948553142.jpg",
+        "https://euchelperu.com/images/productos/17682535094981753975242.png",
+        "https://euchelperu.com/images/productos/17682540850907494973706.png"
+      ]
+    },
+    {
+      "id_color": 2520,
+      "nombre": "Celeste",
+      "precio": 69.0,
+      "id_color_confirmado": 2520,
+      "tallas": [
+        {
+          "id_talla": 2941,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17682540850907494973706.png",
+        "https://euchelperu.com/images/productos/176084056787344948553142.jpg",
+        "https://euchelperu.com/images/productos/17682535094981753975242.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:22:44Z"
+}
