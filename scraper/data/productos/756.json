@@ -1,0 +1,125 @@
+{
+  "id_original": 756,
+  "url_original": "https://euchelperu.com/producto.php?id=756",
+  "nombre": "SET LUCIANA",
+  "descripcion": "Este conjunto elegante en tono verde menta suave es ideal para crear un look sofisticado y femenino. La blusa presenta un diseño con volantes en cascada que aporta movimiento y un aire delicado, complementado con tirantes finos que destacan el escote con suavidad. El pantalón palazzo de pierna ancha ofrece una caída fluida y cómoda, añadiendo un toque moderno y versátil al outfit. Perfecto para eventos de día, salidas casual chic o combinaciones más formales con accesorios.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 120.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "756SET48556",
+  "item_group_id": "756",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176705633005324862683783.jpg",
+    "https://euchelperu.com/images/productos/176772920558885929615220.jpg",
+    "https://euchelperu.com/images/productos/17677292557638521680062.jpg",
+    "https://euchelperu.com/images/productos/176772928604852325052461.jpg",
+    "https://euchelperu.com/images/productos/176772933825524886012888.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SET LUCIANA",
+  "precio_listado_normal": 120.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2319,
+      "nombre": "Verde Pistacho",
+      "precio": 120.0,
+      "id_color_confirmado": 2319,
+      "tallas": [
+        {
+          "id_talla": 2729,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176705633005324862683783.jpg",
+        "https://euchelperu.com/images/productos/176772920558885929615220.jpg",
+        "https://euchelperu.com/images/productos/17677292557638521680062.jpg",
+        "https://euchelperu.com/images/productos/176772928604852325052461.jpg",
+        "https://euchelperu.com/images/productos/176772933825524886012888.jpg"
+      ]
+    },
+    {
+      "id_color": 2412,
+      "nombre": "Rojo",
+      "precio": 120.0,
+      "id_color_confirmado": 2412,
+      "tallas": [
+        {
+          "id_talla": 2828,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772920558885929615220.jpg",
+        "https://euchelperu.com/images/productos/176705633005324862683783.jpg",
+        "https://euchelperu.com/images/productos/17677292557638521680062.jpg",
+        "https://euchelperu.com/images/productos/176772928604852325052461.jpg",
+        "https://euchelperu.com/images/productos/176772933825524886012888.jpg"
+      ]
+    },
+    {
+      "id_color": 2413,
+      "nombre": "Negro",
+      "precio": 120.0,
+      "id_color_confirmado": 2413,
+      "tallas": [
+        {
+          "id_talla": 2829,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17677292557638521680062.jpg",
+        "https://euchelperu.com/images/productos/176705633005324862683783.jpg",
+        "https://euchelperu.com/images/productos/176772920558885929615220.jpg",
+        "https://euchelperu.com/images/productos/176772928604852325052461.jpg",
+        "https://euchelperu.com/images/productos/176772933825524886012888.jpg"
+      ]
+    },
+    {
+      "id_color": 2414,
+      "nombre": "Marrón",
+      "precio": 120.0,
+      "id_color_confirmado": 2414,
+      "tallas": [
+        {
+          "id_talla": 2830,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772928604852325052461.jpg",
+        "https://euchelperu.com/images/productos/176705633005324862683783.jpg",
+        "https://euchelperu.com/images/productos/176772920558885929615220.jpg",
+        "https://euchelperu.com/images/productos/17677292557638521680062.jpg",
+        "https://euchelperu.com/images/productos/176772933825524886012888.jpg"
+      ]
+    },
+    {
+      "id_color": 2415,
+      "nombre": "Verde",
+      "precio": 120.0,
+      "id_color_confirmado": 2415,
+      "tallas": [
+        {
+          "id_talla": 2831,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176772933825524886012888.jpg",
+        "https://euchelperu.com/images/productos/176705633005324862683783.jpg",
+        "https://euchelperu.com/images/productos/176772920558885929615220.jpg",
+        "https://euchelperu.com/images/productos/17677292557638521680062.jpg",
+        "https://euchelperu.com/images/productos/176772928604852325052461.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:52:53Z"
+}

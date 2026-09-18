@@ -1,0 +1,41 @@
+{
+  "id_original": 753,
+  "url_original": "https://euchelperu.com/producto.php?id=753",
+  "nombre": "VESTIDO LOTTO LOMA",
+  "descripcion": "Este vestido corto es una pieza elegante y femenina, perfecto para ocasiones especiales o salidas nocturnas. Confeccionado en un tejido suave y estructurado, presenta un escote en V profundo que realza el busto y finos tirantes ajustables con lazo, añadiendo un toque delicado. El detalle metálico con forma de sol en el centro aporta un elemento distintivo y sofisticado que eleva el look, convirtiéndolo en una opción ideal para eventos con estilo.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "753VES77628",
+  "item_group_id": "753",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176705498288849675761866.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO LOTTO LOMA",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2316,
+      "nombre": "Azul Noche",
+      "precio": 75.0,
+      "id_color_confirmado": 2316,
+      "tallas": [
+        {
+          "id_talla": 2726,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176705498288849675761866.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:51:55Z"
+}

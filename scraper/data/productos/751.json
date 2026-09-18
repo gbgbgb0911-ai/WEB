@@ -1,0 +1,79 @@
+{
+  "id_original": 751,
+  "url_original": "https://euchelperu.com/producto.php?id=751",
+  "nombre": "VESTIDO HILO BICO",
+  "descripcion": "Este elegante vestido largo combina un diseño sofisticado y un estilo moderno, ideal para eventos especiales y ocasiones nocturnas. Confeccionado en un tejido elástico y ceñido, realza la figura mientras ofrece comodidad y un ajuste favorecedor. El detalle en contraste blanco en el escote halter y bajo el busto aporta un toque de elegancia y definición, destacando la silueta de manera sutil pero impactante.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "751VES90669",
+  "item_group_id": "751",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176705298368280536675059.jpg",
+    "https://euchelperu.com/images/productos/176851231485782552731365.png",
+    "https://euchelperu.com/images/productos/176851247654328643821226.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO HILO BICO",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2314,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 2314,
+      "tallas": [
+        {
+          "id_talla": 2724,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176705298368280536675059.jpg",
+        "https://euchelperu.com/images/productos/176851231485782552731365.png",
+        "https://euchelperu.com/images/productos/176851247654328643821226.png"
+      ]
+    },
+    {
+      "id_color": 2580,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 2580,
+      "tallas": [
+        {
+          "id_talla": 3002,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176851231485782552731365.png",
+        "https://euchelperu.com/images/productos/176705298368280536675059.jpg",
+        "https://euchelperu.com/images/productos/176851247654328643821226.png"
+      ]
+    },
+    {
+      "id_color": 2581,
+      "nombre": "Beige",
+      "precio": 75.0,
+      "id_color_confirmado": 2581,
+      "tallas": [
+        {
+          "id_talla": 3003,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176851247654328643821226.png",
+        "https://euchelperu.com/images/productos/176705298368280536675059.jpg",
+        "https://euchelperu.com/images/productos/176851231485782552731365.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:51:28Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id_original": 755,
+  "url_original": "https://euchelperu.com/producto.php?id=755",
+  "nombre": "SET KATHERINE",
+  "descripcion": "Añade un toque de elegancia fresca y veraniega a tu catálogo con este conjunto en tono amarillo pastel suave. Confeccionado en un tejido ligero y fluido, este set combina un top corto con escote halter drapeado, que crea un efecto delicado y femenino en el busto, con un pantalón palazzo de pierna ancha que aporta movimiento y sofisticación. Una opción ideal para eventos de día, salidas casual chic o looks urbanos con estilo.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 120.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "755SET28715",
+  "item_group_id": "755",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176705570566699923693150.jpg",
+    "https://euchelperu.com/images/productos/176792159839028184160201.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SET KATHERINE",
+  "precio_listado_normal": 120.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2318,
+      "nombre": "Amarillo",
+      "precio": 120.0,
+      "id_color_confirmado": 2318,
+      "tallas": [
+        {
+          "id_talla": 2728,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176705570566699923693150.jpg",
+        "https://euchelperu.com/images/productos/176792159839028184160201.png"
+      ]
+    },
+    {
+      "id_color": 2478,
+      "nombre": "Negro",
+      "precio": 120.0,
+      "id_color_confirmado": 2478,
+      "tallas": [
+        {
+          "id_talla": 2897,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176792159839028184160201.png",
+        "https://euchelperu.com/images/productos/176705570566699923693150.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:52:14Z"
+}
