@@ -10,3 +10,5 @@ scraper/package-lock.json
 # se pueden volver a descargar, pesan cientos de MB y quedan fuera.
 scraper/data/html/
 scraper/data/images/originales/
+sitio/publico/
+dist/

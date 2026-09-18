@@ -1,0 +1,20 @@
+{
+  "id": "/?pwa=cliente",
+  "name": "Euchel Perú",
+  "short_name": "Euchel",
+  "description": "Catálogo de Euchel Perú. Elige color y talla y continúa tu compra por WhatsApp.",
+  "lang": "es-PE",
+  "dir": "ltr",
+  "start_url": "/?pwa=cliente",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "categories": ["shopping", "lifestyle"],
+  "icons": [
+    { "src": "/icono-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icono-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icono-mascara-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
