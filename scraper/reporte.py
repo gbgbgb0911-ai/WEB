@@ -367,7 +367,39 @@ def main():
       "encontraron los huérfanos de la sección 3. Conviene avisar a los dueños: en el "
       "catálogo nuevo, desactivar debería devolver 404.")
     w("")
-    w("## 10. Archivos generados")
+    # ---- Imágenes
+    img_json = leer(raiz / "imagenes_resumen.json")
+    img_resumen = (img_json or {}).get("resumen", {})
+    img_fallidas = (img_json or {}).get("fallidas", [])
+    w("## 10. Imágenes")
+    w("")
+    if img_json is None:
+        w("Tarea 3 no corrida todavía: no hay `imagenes_resumen.json`.")
+    else:
+        w("| Métrica | Valor |")
+        w("|---|---|")
+        w(f"| URLs únicas | {img_resumen.get('urls_unicas', 'n/d')} |")
+        w(f"| Convertidas a WebP | {img_resumen.get('convertidas', 'n/d')} |")
+        w(f"| Fallidas | {img_resumen.get('fallidas', 'n/d')} |")
+        w(f"| Peso originales | {mb(img_resumen.get('bytes_originales'))} |")
+        w(f"| Peso WebP (thumb {img_resumen.get('anchos', {}).get('thumb', '?')}px + "
+          f"full {img_resumen.get('anchos', {}).get('full', '?')}px) | "
+          f"{mb(img_resumen.get('bytes_webp'))} |")
+        w(f"| Ahorro | {img_resumen.get('ahorro_pct', 'n/d')}% |")
+        w(f"| Calidad WebP | {img_resumen.get('calidad_webp', 'n/d')} |")
+        w("")
+        if img_fallidas:
+            w(f"**{len(img_fallidas)} imágenes fallaron y no tienen WebP:**")
+            w("")
+            for f in img_fallidas[:30]:
+                w(f"- {f}")
+            if len(img_fallidas) > 30:
+                w(f"- … y {len(img_fallidas) - 30} más.")
+            w("")
+            w("Reintentar con `node imagenes.mjs` (reanudable, salta lo ya hecho).")
+            w("")
+
+    w("## 11. Archivos generados")
     w("")
     for nombre, desc in [
         ("productos_completo.json", "catálogo completo, un objeto por producto"),

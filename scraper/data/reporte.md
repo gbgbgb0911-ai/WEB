@@ -1,6 +1,6 @@
 # Reporte de auditoría — extracción EUCHEL
 
-Generado: 2026-09-18 06:01 UTC  
+Generado: 2026-09-18 06:55 UTC  
 Fuente: https://euchelperu.com — extracción autorizada por los dueños  
 Corrida: 4 peticiones HTTP, 1 concurrente, pausa 0.5 s, 4.9 s totales
 
@@ -405,9 +405,15 @@ Variantes del mismo color escritas de distinta forma (hay que normalizar al migr
 
 ## 7. Imágenes
 
-Tarea 3 no ejecutada todavía (falta `imagenes_resumen.json`). Correr `node imagenes.mjs`.
+| Métrica | Valor |
+|---|---|
+| URLs únicas | 2197 |
+| Descargadas y convertidas | 2197 |
+| Fallidas | 0 |
+| Peso original | 593.2 MB |
+| Peso WebP (thumb 500 + full 1400, q82) | 174.0 MB |
+| Ahorro | 70.7% |
 
-URLs de imagen únicas ya identificadas en el JSON: **2197**.
 
 Las tres variantes del sitio (`data-tiny`, `data-small`, `data-large`) apuntan al mismo archivo: solo existe una resolución por imagen.
 
@@ -464,15 +470,27 @@ La conclusión no es *pedir el stock*, es que **la tienda no lleva control de in
 
 Un producto desactivado en `ll-admin` desaparece de los listados, pero su ficha sigue respondiendo en `producto.php?id=` con nombre, precio, colores, tallas e imágenes. Cualquiera con el enlace ve un producto dado de baja, y así se encontraron los huérfanos de la sección 3. Conviene avisar a los dueños: en el catálogo nuevo, desactivar debería devolver 404.
 
-## 10. Archivos generados
+## 10. Imágenes
+
+| Métrica | Valor |
+|---|---|
+| URLs únicas | 2197 |
+| Convertidas a WebP | 2197 |
+| Fallidas | 0 |
+| Peso originales | 593.2 MB |
+| Peso WebP (thumb 500px + full 1400px) | 174.0 MB |
+| Ahorro | 70.7% |
+| Calidad WebP | 82 |
+
+## 11. Archivos generados
 
 - ✓ `productos_completo.json` — catálogo completo, un objeto por producto
 - ✓ `productos_completo.csv` — el mismo catálogo, una fila por producto
 - ✓ `variantes_completo.csv` — una fila por color × talla, para cargar el catálogo nuevo
 - ✓ `ids_encontrados.json` — todos los IDs válidos con su origen
 - ✓ `ids_invalidos.json` — IDs probados que dieron 404 o ficha vacía
-- — `imagenes_map.json` — URL original → archivos locales → producto y color
-- — `imagenes_resumen.json` — totales de imágenes y pesos
+- ✓ `imagenes_map.json` — URL original → archivos locales → producto y color
+- ✓ `imagenes_resumen.json` — totales de imágenes y pesos
 - ✓ `progress.json` — estado de reanudación
 - ✓ `errores.json / errores_productos.json` — fallos de red y de extracción
 - ✓ `html/` — cada respuesta HTML cruda, tal como llegó
