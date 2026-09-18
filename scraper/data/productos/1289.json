@@ -1,0 +1,41 @@
+{
+  "id_original": 1289,
+  "url_original": "https://euchelperu.com/producto.php?id=1289",
+  "nombre": "TOP ABRIL",
+  "descripcion": "Eleva tu estilo de noche con este sofisticado y seductor top de color vino tinto (borgoña). Diseñado para capturar miradas, esta prenda combina una silueta estructurada con detalles fluidos y elegantes, perfecta para una cena especial, una fiesta o una salida nocturna.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1289DSDSDS",
+  "item_group_id": "1289",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17853558082452366284473.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ABRIL",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3826,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 3826,
+      "tallas": [
+        {
+          "id_talla": 4115,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17853558082452366284473.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:50:32Z"
+}

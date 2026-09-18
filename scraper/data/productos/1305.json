@@ -1,0 +1,41 @@
+{
+  "id_original": 1305,
+  "url_original": "https://euchelperu.com/producto.php?id=1305",
+  "nombre": "VESTIDO TANIA",
+  "descripcion": "Un vestido midi de silueta elegante y femenina, confeccionado en delicado encaje floral que aporta textura y sofisticación. Su cuello alto, escote sutil y corte entallado realzan la figura con un acabado refinado y moderno. Una pieza romántica y versátil, perfecta para ocasiones especiales y looks sofisticados.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1305GRSA65",
+  "item_group_id": "1305",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178802941702665680653135.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO TANIA",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3848,
+      "nombre": "Perla",
+      "precio": 79.0,
+      "id_color_confirmado": 3848,
+      "tallas": [
+        {
+          "id_talla": 4142,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178802941702665680653135.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:55:42Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1303,
+  "url_original": "https://euchelperu.com/producto.php?id=1303",
+  "nombre": "VESTIDO ADA",
+  "descripcion": "Un vestido largo de silueta elegante y femenina, diseñado para realzar la figura con sutileza. Su escote halter, delicado detalle metálico y abertura frontal aportan un toque sofisticado y moderno, mientras que su caída fluida crea un movimiento ligero y favorecedor. Una pieza ideal para ocasiones especiales en las que destacar con elegancia y estilo.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1303D7F5G2H1",
+  "item_group_id": "1303",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178802775724515909634127.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ADA",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3846,
+      "nombre": "Celeste pastel",
+      "precio": 75.0,
+      "id_color_confirmado": 3846,
+      "tallas": [
+        {
+          "id_talla": 4136,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178802775724515909634127.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:55:35Z"
+}

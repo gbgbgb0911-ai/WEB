@@ -1,0 +1,41 @@
+{
+  "id_original": 1294,
+  "url_original": "https://euchelperu.com/producto.php?id=1294",
+  "nombre": "SHORT PRETINA",
+  "descripcion": "Modelo ajustado con cintura ancha elástica que brinda sujeción y comodidad. Tejido suave, elástico y sin costuras molestas, ideal para entrenamientos, yoga o looks casuales. Diseño práctico que se adapta perfectamente a la figura y combina con cualquier prenda superior deportiva.",
+  "categoria": "Shorts",
+  "categoria_subid": 20,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1294PRET55",
+  "item_group_id": "1294",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178545054432900298255443.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SHORT PRETINA",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3837,
+      "nombre": "Verde",
+      "precio": 55.0,
+      "id_color_confirmado": 3837,
+      "tallas": [
+        {
+          "id_talla": 4126,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178545054432900298255443.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:53:41Z"
+}

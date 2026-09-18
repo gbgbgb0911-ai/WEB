@@ -1,0 +1,41 @@
+{
+  "id_original": 1292,
+  "url_original": "https://euchelperu.com/producto.php?id=1292",
+  "nombre": "Enterizo gym Cohem",
+  "descripcion": "Modelo de tirantes con escote cuadrado y detalle de borde blanco, en tejido suave y elástico que marca la silueta. Diseño de pierna acampanada que le da un toque moderno y favorecedor. Ideal para actividades deportivas, looks casuales o combinar con prendas superiores para un estilo urbano y cómodo.",
+  "categoria": "Enterizos",
+  "categoria_subid": 16,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1292KOE44",
+  "item_group_id": "1292",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178544929534162824943201.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Enterizo gym Cohem",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3835,
+      "nombre": "Negro",
+      "precio": 99.0,
+      "id_color_confirmado": 3835,
+      "tallas": [
+        {
+          "id_talla": 4124,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178544929534162824943201.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:53:11Z"
+}

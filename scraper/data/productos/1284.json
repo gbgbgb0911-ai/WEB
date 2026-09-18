@@ -1,0 +1,41 @@
+{
+  "id_original": 1284,
+  "url_original": "https://euchelperu.com/producto.php?id=1284",
+  "nombre": "VESTIDO ALDEMAR",
+  "descripcion": "Mini-vestido ajustado en elegante color azul marino con pronunciado escote en V y drapeado fruncido bajo el busto. Cuenta con mangas cortas fluidas y un diseño ceñido con sutiles pliegues en la falda, ideal para un look nocturno y sofisticado.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1284DGGSEFS",
+  "item_group_id": "1284",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1785348173899692107443.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ALDEMAR",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3821,
+      "nombre": "Azul",
+      "precio": 55.0,
+      "id_color_confirmado": 3821,
+      "tallas": [
+        {
+          "id_talla": 4110,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1785348173899692107443.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:48:14Z"
+}

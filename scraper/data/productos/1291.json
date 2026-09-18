@@ -1,0 +1,86 @@
+{
+  "id_original": 1291,
+  "url_original": "https://euchelperu.com/producto.php?id=1291",
+  "nombre": "Gorra vintage",
+  "descripcion": "Modelo clásico en tela de algodón con acabado desgastado que le da un toque relajado y moderno. Confección cómoda, visera reforzada y diseño versátil, perfecta para el día a día y combinar con cualquier estilo.",
+  "categoria": "Complementos",
+  "categoria_subid": 11,
+  "precio_base": 35.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1291GOR82879",
+  "item_group_id": "1291",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178544890633862359157392.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Gorra vintage",
+  "precio_listado_normal": 35.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3831,
+      "nombre": "Perla",
+      "precio": 35.0,
+      "id_color_confirmado": 3831,
+      "tallas": [
+        {
+          "id_talla": 4120,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178544890633862359157392.jpg"
+      ]
+    },
+    {
+      "id_color": 3832,
+      "nombre": "Azul",
+      "precio": 35.0,
+      "id_color_confirmado": 3832,
+      "tallas": [
+        {
+          "id_talla": 4121,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178544890633862359157392.jpg"
+      ]
+    },
+    {
+      "id_color": 3833,
+      "nombre": "Plomo",
+      "precio": 35.0,
+      "id_color_confirmado": 3833,
+      "tallas": [
+        {
+          "id_talla": 4122,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178544890633862359157392.jpg"
+      ]
+    },
+    {
+      "id_color": 3834,
+      "nombre": "Gris",
+      "precio": 35.0,
+      "id_color_confirmado": 3834,
+      "tallas": [
+        {
+          "id_talla": 4123,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178544890633862359157392.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:52:32Z"
+}

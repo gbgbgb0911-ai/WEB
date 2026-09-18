@@ -1,0 +1,41 @@
+{
+  "id_original": 1285,
+  "url_original": "https://euchelperu.com/producto.php?id=1285",
+  "nombre": "TOP KIA",
+  "descripcion": "Top ajustado de color negro con textura plisada, cuello alto tipo mao y un diseño cruzado frontal decorado con delicados lazos ajustables. De corte ceñido y estilo versátil, ideal para combinar con jeans de tiro alto.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1285JVFJF",
+  "item_group_id": "1285",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178535053871595611659300.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP KIA",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3822,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 3822,
+      "tallas": [
+        {
+          "id_talla": 4111,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178535053871595611659300.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:48:18Z"
+}

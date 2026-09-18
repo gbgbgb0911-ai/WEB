@@ -1,0 +1,41 @@
+{
+  "id_original": 1295,
+  "url_original": "https://euchelperu.com/producto.php?id=1295",
+  "nombre": "TOP PINK",
+  "descripcion": "Modelo de escote en V profundo y tirantes anchos. Confeccionado en tejido elástico, suave y transpirable que brinda sujeción cómoda sin marcar. Diseño minimalista y versátil, ideal para entrenar, usar como prenda interior o combinar con pantalones o shorts para un look fresco y femenino.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1295ROSS11",
+  "item_group_id": "1295",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178545183743855995749475.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP PINK",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3838,
+      "nombre": "Rosado",
+      "precio": 45.0,
+      "id_color_confirmado": 3838,
+      "tallas": [
+        {
+          "id_talla": 4127,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178545183743855995749475.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:53:56Z"
+}

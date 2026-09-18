@@ -1,0 +1,41 @@
+{
+  "id_original": 1297,
+  "url_original": "https://euchelperu.com/producto.php?id=1297",
+  "nombre": "SHORT BOLSILLOS",
+  "descripcion": "¡Lleva tu estilo al siguiente nivel con este short deportivo de tiro alto! Su diseño combina la comodidad urbana con bolsillos laterales tipo cargo y un fruncido trasero (scrunch) que realza tu figura. Confeccionado con un tejido elástico, suave y de alta sujeción, es perfecto para el gimnasio o un look casual. ¡Disponible en azul marino y negro!",
+  "categoria": "Shorts",
+  "categoria_subid": 20,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1297DTYR6",
+  "item_group_id": "1297",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178587472154881369164923.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SHORT BOLSILLOS",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3840,
+      "nombre": "Azul",
+      "precio": 55.0,
+      "id_color_confirmado": 3840,
+      "tallas": [
+        {
+          "id_talla": 4129,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178587472154881369164923.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:54:40Z"
+}

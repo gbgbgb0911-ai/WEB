@@ -1,0 +1,41 @@
+{
+  "id_original": 1286,
+  "url_original": "https://euchelperu.com/producto.php?id=1286",
+  "nombre": "MINI VESTIDO BELLA",
+  "descripcion": "Cautiva todas las miradas con este elegante y delicado vestido corto de estilo romántico, diseñado especialmente para realzar la feminidad con un toque moderno y sofisticado. Ideal para eventos de día, cócteles, citas especiales o salidas nocturnas.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1286EFFDS",
+  "item_group_id": "1286",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178535436896280536383051.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO BELLA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3823,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 3823,
+      "tallas": [
+        {
+          "id_talla": 4112,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178535436896280536383051.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:48:45Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1299,
+  "url_original": "https://euchelperu.com/producto.php?id=1299",
+  "nombre": "ENTERIZO STELLA",
+  "descripcion": "¡Luce increíble con este enterizo deportivo de cuerpo entero en gris oscuro! Su diseño ajustado de una pieza estiliza tu figura, ofreciendo soporte y total libertad de movimiento gracias a su tejido elástico de alto rendimiento. Con un favorecedor escote en V y tirantes finos, es perfecto para yoga, pilates o un look athleisure impecable. ¡Comodidad y estilo en una sola prenda!",
+  "categoria": "Enterizos",
+  "categoria_subid": 16,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1299GGGHG",
+  "item_group_id": "1299",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17858756936712206221702.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "ENTERIZO STELLA",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3842,
+      "nombre": "Azul",
+      "precio": 99.0,
+      "id_color_confirmado": 3842,
+      "tallas": [
+        {
+          "id_talla": 4131,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17858756936712206221702.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:55:22Z"
+}

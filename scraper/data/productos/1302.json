@@ -1,0 +1,41 @@
+{
+  "id_original": 1302,
+  "url_original": "https://euchelperu.com/producto.php?id=1302",
+  "nombre": "CROP WONDERLUST",
+  "descripcion": "Moderno y versátil crop sweater en tono pastel con cuello camisero, cierre metálico half-zip, sutil bordado \"Wanderlust\" y costura horizontal estructurada. Cuenta con mangas largas abombachadas y puños elásticos, ideal para lograr un estilo casual, cómodo y fácil de combinar.",
+  "categoria": "Poleras",
+  "categoria_subid": 5,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1302JKJKK",
+  "item_group_id": "1302",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178701318312002164056435.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CROP WONDERLUST",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3845,
+      "nombre": "Amarillo pastel",
+      "precio": 59.0,
+      "id_color_confirmado": 3845,
+      "tallas": [
+        {
+          "id_talla": 4134,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178701318312002164056435.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:55:32Z"
+}

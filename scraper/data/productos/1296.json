@@ -1,0 +1,41 @@
+{
+  "id_original": 1296,
+  "url_original": "https://euchelperu.com/producto.php?id=1296",
+  "nombre": "TOP RUGY",
+  "descripcion": "Modelo de cuello halter, detalle de nudo central y broche ajustable en la espalda. Tejido suave y elástico que brinda comodidad y sujeción. Diseño moderno y favorecedor, ideal para entrenar, días de sol o combinar con tus prendas favoritas para un look con mucho estilo.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1296RUGGHH",
+  "item_group_id": "1296",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17854525133575621477867.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP RUGY",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3839,
+      "nombre": "Marrón",
+      "precio": 55.0,
+      "id_color_confirmado": 3839,
+      "tallas": [
+        {
+          "id_talla": 4128,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17854525133575621477867.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:54:37Z"
+}

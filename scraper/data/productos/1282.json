@@ -1,0 +1,41 @@
+{
+  "id_original": 1282,
+  "url_original": "https://euchelperu.com/producto.php?id=1282",
+  "nombre": "VESTIDO LOVE",
+  "descripcion": "Vestido corto ajustado de estilo halter en color marrón oscuro con sutiles destellos brillantes, pronunciado escote en V y una abertura circular en el centro del busto con detalle de herraje metálico. Una prenda sensual y elegante, perfecta para salidas nocturnas.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1282SSCXCX",
+  "item_group_id": "1282",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17853468896526659471698.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO LOVE",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3819,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 3819,
+      "tallas": [
+        {
+          "id_talla": 4108,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17853468896526659471698.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:47:44Z"
+}

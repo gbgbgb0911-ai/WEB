@@ -1,0 +1,41 @@
+{
+  "id_original": 1301,
+  "url_original": "https://euchelperu.com/producto.php?id=1301",
+  "nombre": "TOP AMARA",
+  "descripcion": "Añade un toque de elegancia romántica y vanguardista a tu guardarropa con este top. Esta pieza única combina la sofisticación del encaje con un diseño moderno y atrevido, perfecto para elevar cualquier look de día o de noche.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1301ggjgjh",
+  "item_group_id": "1301",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178701202435188173439099.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP AMARA",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3844,
+      "nombre": "verde olivo",
+      "precio": 49.0,
+      "id_color_confirmado": 3844,
+      "tallas": [
+        {
+          "id_talla": 4133,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178701202435188173439099.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:55:29Z"
+}

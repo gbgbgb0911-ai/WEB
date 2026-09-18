@@ -1,0 +1,86 @@
+{
+  "id_original": 1290,
+  "url_original": "https://euchelperu.com/producto.php?id=1290",
+  "nombre": "Cartera de 59",
+  "descripcion": "Diseño elegante y minimalista con acabado brillante tipo charol. Forma curva y compacta, con asas finas metálicas doradas y cierre de cremallera. Ideal para uso diario o ocasiones especiales, combina estilo y funcionalidad con un toque sofisticado.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1290CAR86463",
+  "item_group_id": "1290",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178544788436001266746374.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Cartera de 59",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3827,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 3827,
+      "tallas": [
+        {
+          "id_talla": 4116,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178544788436001266746374.jpg"
+      ]
+    },
+    {
+      "id_color": 3828,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 3828,
+      "tallas": [
+        {
+          "id_talla": 4117,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178544788436001266746374.jpg"
+      ]
+    },
+    {
+      "id_color": 3829,
+      "nombre": "Beige",
+      "precio": 59.0,
+      "id_color_confirmado": 3829,
+      "tallas": [
+        {
+          "id_talla": 4118,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178544788436001266746374.jpg"
+      ]
+    },
+    {
+      "id_color": 3830,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 3830,
+      "tallas": [
+        {
+          "id_talla": 4119,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178544788436001266746374.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:51:56Z"
+}

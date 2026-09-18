@@ -1,0 +1,41 @@
+{
+  "id_original": 1283,
+  "url_original": "https://euchelperu.com/producto.php?id=1283",
+  "nombre": "BLUSA ABY",
+  "descripcion": "Blusa de manga corta con estampado de cuadros en tonos tierra y rosa, diseño asimétrico cruzado con botones en el lateral y cuello alto tipo mao. Un modelo entallado y versátil, ideal para combinar con jeans.",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1283FFDFFD",
+  "item_group_id": "1283",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178534729738039282128242.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BLUSA ABY",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3820,
+      "nombre": "Rosado",
+      "precio": 59.0,
+      "id_color_confirmado": 3820,
+      "tallas": [
+        {
+          "id_talla": 4109,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178534729738039282128242.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:48:11Z"
+}

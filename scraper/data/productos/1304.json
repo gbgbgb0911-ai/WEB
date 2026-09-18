@@ -1,0 +1,41 @@
+{
+  "id_original": 1304,
+  "url_original": "https://euchelperu.com/producto.php?id=1304",
+  "nombre": "VESTIDO SABRINA",
+  "descripcion": "Vestido largo de silueta femenina y sofisticada, con delicados tirantes y un elegante detalle dorado en el escote que aporta un toque distintivo. Su textura vertical y caída fluida estilizan la figura, creando una apariencia moderna y refinada. Una pieza perfecta para destacar con elegancia en cualquier ocasión especial.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "130488KMJNB",
+  "item_group_id": "1304",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17880290311951239198281.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO SABRINA",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3847,
+      "nombre": "Rojo Terracota",
+      "precio": 69.0,
+      "id_color_confirmado": 3847,
+      "tallas": [
+        {
+          "id_talla": 4137,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17880290311951239198281.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:55:38Z"
+}

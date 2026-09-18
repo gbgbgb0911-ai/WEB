@@ -1,0 +1,41 @@
+{
+  "id_original": 1287,
+  "url_original": "https://euchelperu.com/producto.php?id=1287",
+  "nombre": "VESTIDO ARI BOBO",
+  "descripcion": "Eleva tu estilo con este sofisticado y seductor vestido corto asimétrico, diseñado para capturar todas las miradas en tu próximo evento especial. Confeccionado en un profundo tono vino tinto (borgoña), esta prenda combina elegancia clásica con toques modernos y atrevidos.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1287HIHIU",
+  "item_group_id": "1287",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178535502401601477679521.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ARI BOBO",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3824,
+      "nombre": "Rojo",
+      "precio": 59.0,
+      "id_color_confirmado": 3824,
+      "tallas": [
+        {
+          "id_talla": 4113,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178535502401601477679521.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:49:38Z"
+}

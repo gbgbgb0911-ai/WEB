@@ -1,0 +1,41 @@
+{
+  "id_original": 1293,
+  "url_original": "https://euchelperu.com/producto.php?id=1293",
+  "nombre": "ENTERIZO STELLA",
+  "descripcion": "Diseño entallado, con tirantes cruzados en la espalda y escote en forma de U. Su tejido elástico y suave se adapta perfectamente a la silueta, con costuras que resaltan la figura. Pierna entera ajustada, ideal para entrenar, practicar yoga o crear looks cómodos y modernos en el día a día.",
+  "categoria": "Enterizos",
+  "categoria_subid": 16,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1293BAREY22",
+  "item_group_id": "1293",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178545011712194355315038.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "ENTERIZO STELLA",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3836,
+      "nombre": "Plomo",
+      "precio": 99.0,
+      "id_color_confirmado": 3836,
+      "tallas": [
+        {
+          "id_talla": 4125,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178545011712194355315038.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:53:26Z"
+}

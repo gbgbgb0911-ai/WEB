@@ -1,0 +1,41 @@
+{
+  "id_original": 1298,
+  "url_original": "https://euchelperu.com/producto.php?id=1298",
+  "nombre": "FLARE BOLSILLOS",
+  "descripcion": "¡Eleva tu estilo con este pantalón flare de tiro alto! Su diseño combina una silueta acampanada con bolsillos tipo cargo y un favorecedor fruncido trasero (scrunch) que realza tu figura. Confeccionado con un tejido elástico, suave y de alta sujeción, es perfecto para el gimnasio o un look urbano. ¡Disponible en tonos marrones!",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1298YYFHF",
+  "item_group_id": "1298",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178587510753462436074574.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FLARE BOLSILLOS",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3841,
+      "nombre": "Marrón",
+      "precio": 85.0,
+      "id_color_confirmado": 3841,
+      "tallas": [
+        {
+          "id_talla": 4130,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178587510753462436074574.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:54:55Z"
+}

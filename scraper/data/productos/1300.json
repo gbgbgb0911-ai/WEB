@@ -1,0 +1,41 @@
+{
+  "id_original": 1300,
+  "url_original": "https://euchelperu.com/producto.php?id=1300",
+  "nombre": "VESTIDO TYFA",
+  "descripcion": "Eleva tu estilo con nuestro impresionante vestido corto 'Klara', la definición de elegancia moderna y sofisticada. Este vestido, en un blanco puro y nítido, es la pieza perfecta para cualquier evento especial de día o una noche de cóctel inolvidable.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1300JOIOJI",
+  "item_group_id": "1300",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17870110034527842822284.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO TYFA",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3843,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 3843,
+      "tallas": [
+        {
+          "id_talla": 4132,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17870110034527842822284.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:55:26Z"
+}

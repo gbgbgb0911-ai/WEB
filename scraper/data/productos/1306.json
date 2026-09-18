@@ -1,0 +1,41 @@
+{
+  "id_original": 1306,
+  "url_original": "https://euchelperu.com/producto.php?id=1306",
+  "nombre": "VESTIDO SULLY",
+  "descripcion": "Un vestido largo de inspiración sofisticada, con elegante diseño de un solo hombro y delicados drapeados que envuelven la silueta de forma favorecedora. El detalle floral dorado en el hombro añade un toque distintivo y glamuroso, mientras que la abertura lateral aporta movimiento y sensualidad. Una pieza refinada y femenina, ideal para eventos especiales y ocasiones donde quieras destacar.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1306VES90115",
+  "item_group_id": "1306",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17880303731801939682363.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO SULLY",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3849,
+      "nombre": "Vino",
+      "precio": 75.0,
+      "id_color_confirmado": 3849,
+      "tallas": [
+        {
+          "id_talla": 4138,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17880303731801939682363.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:55:45Z"
+}
