@@ -1,0 +1,41 @@
+{
+  "id_original": 1154,
+  "url_original": "https://euchelperu.com/producto.php?id=1154",
+  "nombre": "Aura Chocolate:",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1154cart08780",
+  "item_group_id": "1154",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177819582266558683887682.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Aura Chocolate:",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3462,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 3462,
+      "tallas": [
+        {
+          "id_talla": 3812,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177819582266558683887682.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:39:38Z"
+}

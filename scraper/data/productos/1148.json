@@ -1,0 +1,41 @@
+{
+  "id_original": 1148,
+  "url_original": "https://euchelperu.com/producto.php?id=1148",
+  "nombre": "VESTIDO LUA SIRENA",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1148VES34773",
+  "item_group_id": "1148",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17781929045668433058564.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO LUA SIRENA",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3456,
+      "nombre": "Marrón",
+      "precio": 79.0,
+      "id_color_confirmado": 3456,
+      "tallas": [
+        {
+          "id_talla": 3806,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17781929045668433058564.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:39:19Z"
+}

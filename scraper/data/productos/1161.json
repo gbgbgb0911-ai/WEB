@@ -1,0 +1,59 @@
+{
+  "id_original": 1161,
+  "url_original": "https://euchelperu.com/producto.php?id=1161",
+  "nombre": "JERSEY RAYAS",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1161JER66252",
+  "item_group_id": "1161",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177819750811300813669155.jpg",
+    "https://euchelperu.com/images/productos/178232919097814323584178.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "JERSEY RAYAS",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3469,
+      "nombre": "Negro c/ rayas blancas",
+      "precio": 55.0,
+      "id_color_confirmado": 3469,
+      "tallas": [
+        {
+          "id_talla": 3819,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177819750811300813669155.jpg",
+        "https://euchelperu.com/images/productos/178232919097814323584178.png"
+      ]
+    },
+    {
+      "id_color": 3693,
+      "nombre": "Rojo c/ rayas blancas",
+      "precio": 55.0,
+      "id_color_confirmado": 3693,
+      "tallas": [
+        {
+          "id_talla": 3984,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178232919097814323584178.png",
+        "https://euchelperu.com/images/productos/177819750811300813669155.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:41:26Z"
+}

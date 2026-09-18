@@ -1,0 +1,41 @@
+{
+  "id_original": 1158,
+  "url_original": "https://euchelperu.com/producto.php?id=1158",
+  "nombre": "Selene Brown:",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1158cart08907",
+  "item_group_id": "1158",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177819672069956487269410.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Selene Brown:",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3466,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 3466,
+      "tallas": [
+        {
+          "id_talla": 3816,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177819672069956487269410.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:40:26Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1149,
+  "url_original": "https://euchelperu.com/producto.php?id=1149",
+  "nombre": "Bolso Aura Moka",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1149CAR15222",
+  "item_group_id": "1149",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177819396828470616410156.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bolso Aura Moka",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3457,
+      "nombre": "Marrón",
+      "precio": 85.0,
+      "id_color_confirmado": 3457,
+      "tallas": [
+        {
+          "id_talla": 3807,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177819396828470616410156.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:39:23Z"
+}

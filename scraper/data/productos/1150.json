@@ -1,0 +1,41 @@
+{
+  "id_original": 1150,
+  "url_original": "https://euchelperu.com/producto.php?id=1150",
+  "nombre": "Canela Chic",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1150cart20129",
+  "item_group_id": "1150",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177819414537911690589297.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Canela Chic",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3458,
+      "nombre": "Marrón",
+      "precio": 69.0,
+      "id_color_confirmado": 3458,
+      "tallas": [
+        {
+          "id_talla": 3808,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177819414537911690589297.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:39:26Z"
+}

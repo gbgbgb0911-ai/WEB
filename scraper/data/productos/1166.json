@@ -1,0 +1,101 @@
+{
+  "id_original": 1166,
+  "url_original": "https://euchelperu.com/producto.php?id=1166",
+  "nombre": "pantalon onelia",
+  "descripcion": "",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1166PAN45500",
+  "item_group_id": "1166",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1778200474395259083904.jpg",
+    "https://euchelperu.com/images/productos/178241178014300398446596.jpg",
+    "https://euchelperu.com/images/productos/17824118403983669337758.jpg",
+    "https://euchelperu.com/images/productos/17824119296542403361205.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "pantalon onelia",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3473,
+      "nombre": "Rojo",
+      "precio": 39.0,
+      "id_color_confirmado": 3473,
+      "tallas": [
+        {
+          "id_talla": 3823,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1778200474395259083904.jpg",
+        "https://euchelperu.com/images/productos/178241178014300398446596.jpg",
+        "https://euchelperu.com/images/productos/17824118403983669337758.jpg",
+        "https://euchelperu.com/images/productos/17824119296542403361205.jpg"
+      ]
+    },
+    {
+      "id_color": 3702,
+      "nombre": "Beige",
+      "precio": 39.0,
+      "id_color_confirmado": 3702,
+      "tallas": [
+        {
+          "id_talla": 3986,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178241178014300398446596.jpg",
+        "https://euchelperu.com/images/productos/1778200474395259083904.jpg",
+        "https://euchelperu.com/images/productos/17824118403983669337758.jpg",
+        "https://euchelperu.com/images/productos/17824119296542403361205.jpg"
+      ]
+    },
+    {
+      "id_color": 3703,
+      "nombre": "Negro",
+      "precio": 39.0,
+      "id_color_confirmado": 3703,
+      "tallas": [
+        {
+          "id_talla": 3987,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17824118403983669337758.jpg",
+        "https://euchelperu.com/images/productos/1778200474395259083904.jpg",
+        "https://euchelperu.com/images/productos/178241178014300398446596.jpg",
+        "https://euchelperu.com/images/productos/17824119296542403361205.jpg"
+      ]
+    },
+    {
+      "id_color": 3704,
+      "nombre": "Marrón",
+      "precio": 39.0,
+      "id_color_confirmado": 3704,
+      "tallas": [
+        {
+          "id_talla": 3988,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17824119296542403361205.jpg",
+        "https://euchelperu.com/images/productos/1778200474395259083904.jpg",
+        "https://euchelperu.com/images/productos/178241178014300398446596.jpg",
+        "https://euchelperu.com/images/productos/17824118403983669337758.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:43:31Z"
+}

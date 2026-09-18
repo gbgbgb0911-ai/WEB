@@ -1,0 +1,59 @@
+{
+  "id_original": 1164,
+  "url_original": "https://euchelperu.com/producto.php?id=1164",
+  "nombre": "CASACA TOUN",
+  "descripcion": "",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 145.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1164CAS28724",
+  "item_group_id": "1164",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177819941759589450654586.jpg",
+    "https://euchelperu.com/images/productos/17824127073774046493492.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CASACA TOUN",
+  "precio_listado_normal": 145.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3471,
+      "nombre": "Negro",
+      "precio": 145.0,
+      "id_color_confirmado": 3471,
+      "tallas": [
+        {
+          "id_talla": 3821,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177819941759589450654586.jpg",
+        "https://euchelperu.com/images/productos/17824127073774046493492.jpg"
+      ]
+    },
+    {
+      "id_color": 3706,
+      "nombre": "Marrón",
+      "precio": 145.0,
+      "id_color_confirmado": 3706,
+      "tallas": [
+        {
+          "id_talla": 3990,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17824127073774046493492.jpg",
+        "https://euchelperu.com/images/productos/177819941759589450654586.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:41:38Z"
+}

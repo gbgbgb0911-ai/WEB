@@ -1,0 +1,41 @@
+{
+  "id_original": 1159,
+  "url_original": "https://euchelperu.com/producto.php?id=1159",
+  "nombre": "Viena Dual",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 70.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1159car55478",
+  "item_group_id": "1159",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17781968686837635307337.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Viena Dual",
+  "precio_listado_normal": 70.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3467,
+      "nombre": "caramelo",
+      "precio": 70.0,
+      "id_color_confirmado": 3467,
+      "tallas": [
+        {
+          "id_talla": 3817,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17781968686837635307337.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:41:17Z"
+}

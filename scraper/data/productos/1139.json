@@ -1,0 +1,33 @@
+{
+  "id_original": 1139,
+  "url_original": "https://euchelperu.com/producto.php?id=1139",
+  "nombre": "TOP OLIVIA",
+  "descripcion": "Eleva tus outfits con este top de manga larga en un elegante. Su escote en V y el volante peplum crean una figura sofisticada, mientras que el tejido texturizado añade un detalle diferente y moderno. ¡Cómodo y favorecedor para cualquier ocasión!",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": null,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1139",
+  "item_group_id": "1139",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": null,
+      "nombre": "Único",
+      "precio": null,
+      "id_color_confirmado": null,
+      "tallas": [],
+      "imagenes": [],
+      "nota": "producto sin select#clickfoto; tratado como color único"
+    }
+  ],
+  "scraped_at": "2026-09-18T04:37:50Z"
+}

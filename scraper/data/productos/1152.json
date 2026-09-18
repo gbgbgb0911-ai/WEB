@@ -1,0 +1,41 @@
+{
+  "id_original": 1152,
+  "url_original": "https://euchelperu.com/producto.php?id=1152",
+  "nombre": "Miel Toscana",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1152car02393",
+  "item_group_id": "1152",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17781944253659069444574.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Miel Toscana",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3460,
+      "nombre": "Marrón",
+      "precio": 89.0,
+      "id_color_confirmado": 3460,
+      "tallas": [
+        {
+          "id_talla": 3810,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17781944253659069444574.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:39:32Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1155,
+  "url_original": "https://euchelperu.com/producto.php?id=1155",
+  "nombre": "Arena & Miel",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 29.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1155car43467",
+  "item_group_id": "1155",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177819596429235478145100.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Arena & Miel",
+  "precio_listado_normal": 29.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3463,
+      "nombre": "Marrón",
+      "precio": 29.0,
+      "id_color_confirmado": 3463,
+      "tallas": [
+        {
+          "id_talla": 3813,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177819596429235478145100.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:39:41Z"
+}

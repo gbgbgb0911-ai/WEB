@@ -1,0 +1,41 @@
+{
+  "id_original": 1167,
+  "url_original": "https://euchelperu.com/producto.php?id=1167",
+  "nombre": "FALDA SHORT DENIM CADERA",
+  "descripcion": "Esta minifalda de mezclilla es la fusión perfecta entre la nostalgia de los años 2000 y las tendencias urbanas actuales. Su efecto desgastado y tintado le da ese codiciado aspecto vintage vivido que eleva cualquier atuendo básico al instante.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1167FAL73079",
+  "item_group_id": "1167",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177820097762519715186372.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA SHORT DENIM CADERA",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3474,
+      "nombre": "Azul",
+      "precio": 89.0,
+      "id_color_confirmado": 3474,
+      "tallas": [
+        {
+          "id_talla": 3824,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177820097762519715186372.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:44:27Z"
+}

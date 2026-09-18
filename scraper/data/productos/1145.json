@@ -1,0 +1,41 @@
+{
+  "id_original": 1145,
+  "url_original": "https://euchelperu.com/producto.php?id=1145",
+  "nombre": "VESTIDO YOUL",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1145VES33385",
+  "item_group_id": "1145",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17781922242413739981963.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO YOUL",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3453,
+      "nombre": "Azul",
+      "precio": 69.0,
+      "id_color_confirmado": 3453,
+      "tallas": [
+        {
+          "id_talla": 3803,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17781922242413739981963.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:38:23Z"
+}
