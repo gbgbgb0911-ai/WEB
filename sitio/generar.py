@@ -31,6 +31,13 @@ RAIZ = Path(__file__).resolve().parent.parent
 DATOS = RAIZ / "scraper" / "data"
 ESTATICO = Path(__file__).resolve().parent / "estatico"
 
+# Servidor de Neon Auth de este proyecto. El sitio no lo llama directo: lo
+# pasa por /auth/* de su propio dominio (ver _redirects más abajo).
+AUTH_BASE = os.environ.get(
+    "NEON_AUTH_BASE_URL",
+    "https://ep-delicate-poetry-ar49pls1.neonauth.c-4.us-west-2.aws.neon.tech/euchel/auth",
+).rstrip("/")
+
 WHATSAPP = "51986630221"
 TIENDA = "Euchel Perú"
 ANUNCIO = "Envíos a todo el Perú"
@@ -537,6 +544,60 @@ def main():
              "User-agent: *\nAllow: /\n"
              "Disallow: /trabajador/\nDisallow: /admin/\n" +
              (f"Sitemap: {BASE_URL}/sitemap.xml\n" if BASE_URL else ""))
+
+    # --- _redirects y _headers.
+    #
+    # Las mismas reglas están en netlify.toml, pero estos dos archivos viven
+    # dentro de la carpeta publicada y Netlify los lee siempre. En el
+    # despliegue del sitio ya construido las reglas del netlify.toml no se
+    # aplicaron (comprobado: /auth/* daba 404 y las cabeceras de /trabajador/
+    # no salían), así que la copia que manda es esta.
+
+    escribir(salida / "_redirects", "\n".join([
+        "# Generado por sitio/generar.py. No editar a mano.",
+        "",
+        "# La sesión del equipo pasa por este dominio para que la cookie de",
+        "# Neon Auth sea de primera parte (si no, Safari la bloquea en iPhone).",
+        f"/auth/*  {AUTH_BASE}/:splat  200!",
+        "",
+        "# Los paneles son de una sola página. Sin '!', un archivo que exista",
+        "# (panel.js, el manifiesto) se sirve antes que esta regla.",
+        "/trabajador/*  /trabajador/index.html  200",
+        "/admin/*  /admin/index.html  200",
+        "",
+    ]))
+
+    escribir(salida / "_headers", "\n".join([
+        "# Generado por sitio/generar.py. No editar a mano.",
+        "",
+        "/img/webp/*",
+        "  Cache-Control: public, max-age=31536000, immutable",
+        "",
+        "/estilos.css",
+        "  Cache-Control: public, max-age=3600",
+        "",
+        "/app.js",
+        "  Cache-Control: public, max-age=3600",
+        "",
+        "/sw.js",
+        "  Cache-Control: public, max-age=0, must-revalidate",
+        "",
+        "# Los paneles no se indexan y su HTML no se cachea: son la",
+        "# herramienta de trabajo, no el escaparate.",
+        "/trabajador/*",
+        "  X-Robots-Tag: noindex, nofollow",
+        "  Cache-Control: no-cache",
+        "",
+        "/admin/*",
+        "  X-Robots-Tag: noindex, nofollow",
+        "  Cache-Control: no-cache",
+        "",
+        "/*",
+        "  X-Content-Type-Options: nosniff",
+        "  Referrer-Policy: strict-origin-when-cross-origin",
+        "  X-Frame-Options: SAMEORIGIN",
+        "",
+    ]))
 
     # estáticos. Recursivo: los paneles del equipo son subcarpetas
     # (estatico/trabajador/, estatico/admin/) con su propio index, manifiesto

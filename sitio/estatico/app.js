@@ -317,7 +317,28 @@
       .catch(function () { /* sin estado, el catálogo se ve tal cual se publicó */ });
   }
 
+  /* ------------------------------------------- categoría actual a la vista */
+
+  function menu() {
+    var barra = document.querySelector('.menu');
+    if (!barra) return;
+    var actual = barra.querySelector('[aria-current="page"]');
+    if (!actual) return;
+
+    // El menú tiene 21 categorías: en un celular la que estás viendo puede
+    // quedar fuera de pantalla. Se acerca sin animación, que al cargar se
+    // vería como un salto.
+    var margen = 10;
+    var izq = actual.offsetLeft - margen;
+    var der = izq + actual.offsetWidth + margen * 2;
+    if (izq < barra.scrollLeft) barra.scrollLeft = izq;
+    else if (der > barra.scrollLeft + barra.clientWidth) {
+      barra.scrollLeft = der - barra.clientWidth;
+    }
+  }
+
   revelar();
+  menu();
   buscador();
   ficha();
   estado();

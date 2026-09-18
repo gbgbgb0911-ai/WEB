@@ -12,8 +12,18 @@ import { sesionDe, anotar, json, errorDe, SinPermiso, type Sesion } from "./_lib
  *   POST /api/panel/color/:id/estado      { agotado }
  *   POST /api/panel/talla/:id/estado      { agotado }
  *
+ *   GET  /api/panel/tablero?dias=30       (admin)
+ *   POST /api/panel/producto/:id/precio   { precio, precio_antes }  (admin)
+ *   POST /api/panel/producto/:id/archivar { archivado }             (admin)
+ *   GET  /api/panel/bitacora?pagina=      (admin)
+ *
  * Las trabajadoras pueden agotar y ocultar. Archivar y editar precios es de
  * admin. Nada se borra nunca.
+ *
+ * Las cuentas del equipo no se administran aquí: el navegador habla directo
+ * con /auth/admin/* (crear, cambiar rol, suspender), que Neon ya limita a
+ * quien tiene rol 'admin'. Duplicarlo en una función sería una segunda
+ * puerta que vigilar.
  */
 
 const PAGINA = 24;
@@ -45,6 +55,26 @@ export default async (req: Request, _ctx: Context) => {
     if (partes[0] === "producto" && partes[1] && partes[2] === "estado" && req.method === "POST") {
       const yo = await sesionDe(req, sql, ["admin", "trabajadora"]);
       return await cambiarProducto(req, sql, yo, Number(partes[1]));
+    }
+
+    if (partes[0] === "producto" && partes[1] && partes[2] === "precio" && req.method === "POST") {
+      const yo = await sesionDe(req, sql, ["admin"]);
+      return await cambiarPrecio(req, sql, yo, Number(partes[1]));
+    }
+
+    if (partes[0] === "producto" && partes[1] && partes[2] === "archivar" && req.method === "POST") {
+      const yo = await sesionDe(req, sql, ["admin"]);
+      return await archivar(req, sql, yo, Number(partes[1]));
+    }
+
+    if (partes[0] === "tablero" && req.method === "GET") {
+      await sesionDe(req, sql, ["admin"]);
+      return await tablero(req, sql);
+    }
+
+    if (partes[0] === "bitacora" && req.method === "GET") {
+      await sesionDe(req, sql, ["admin"]);
+      return await bitacora(req, sql);
     }
 
     if ((partes[0] === "color" || partes[0] === "talla") && partes[1]
@@ -183,6 +213,148 @@ async function cambiarVariante(req: Request, sql: any, yo: Sesion,
 
   await anotar(sql, yo, "cambiar-estado", tipo, id, null, { agotado: cuerpo.agotado });
   return json(filas[0]);
+}
+
+/* --------------------------------------------------------------- solo admin */
+
+async function cambiarPrecio(req: Request, sql: any, yo: Sesion, id: number) {
+  if (!Number.isInteger(id)) throw new SinPermiso(400, "Id inválido");
+  const cuerpo = await req.json().catch(() => ({})) as Record<string, unknown>;
+
+  const precio = numeroONulo(cuerpo.precio);
+  const antes_de = numeroONulo(cuerpo.precio_antes);
+  if (precio === undefined) throw new SinPermiso(400, "Precio inválido");
+  if (antes_de === undefined) throw new SinPermiso(400, "Precio anterior inválido");
+
+  const [previo] = await sql`
+    select id, precio, precio_antes from catalogo.producto where id = ${id}`;
+  if (!previo) return json({ error: "Producto no encontrado" }, 404);
+
+  const [ahora] = await sql`
+    update catalogo.producto
+       set precio = ${precio}, precio_antes = ${antes_de},
+           editado_en = now(), editado_por = ${yo.email}
+     where id = ${id}
+    returning id, precio, precio_antes`;
+
+  await anotar(sql, yo, "cambiar-precio", "producto", id,
+               { precio: previo.precio, precio_antes: previo.precio_antes },
+               { precio: ahora.precio, precio_antes: ahora.precio_antes });
+  return json(ahora);
+}
+
+/** null explícito pasa; basura devuelve undefined para distinguirla del null. */
+function numeroONulo(v: unknown): number | null | undefined {
+  if (v === null || v === "" || v === undefined) return null;
+  const n = Number(v);
+  if (!Number.isFinite(n) || n < 0 || n > 100000) return undefined;
+  return Math.round(n * 100) / 100;
+}
+
+async function archivar(req: Request, sql: any, yo: Sesion, id: number) {
+  if (!Number.isInteger(id)) throw new SinPermiso(400, "Id inválido");
+  const cuerpo = await req.json().catch(() => ({})) as Record<string, unknown>;
+  if (typeof cuerpo.archivado !== "boolean") throw new SinPermiso(400, "Falta 'archivado'");
+
+  // Archivar no borra: saca el producto del panel y del catálogo, y se puede
+  // deshacer. Los pedidos viejos que lo mencionan siguen teniendo a qué
+  // apuntar.
+  const filas = await sql`
+    update catalogo.producto
+       set archivado = ${cuerpo.archivado},
+           visible = case when ${cuerpo.archivado} then false else visible end,
+           editado_en = now(), editado_por = ${yo.email}
+     where id = ${id}
+    returning id, nombre, archivado, visible`;
+  if (!filas[0]) return json({ error: "Producto no encontrado" }, 404);
+
+  await anotar(sql, yo, cuerpo.archivado ? "archivar" : "desarchivar",
+               "producto", id, null, { archivado: cuerpo.archivado });
+  return json(filas[0]);
+}
+
+async function tablero(req: Request, sql: any) {
+  const pedidos = Number(new URL(req.url).searchParams.get("dias"));
+  const dias = [7, 30, 90, 365].includes(pedidos) ? pedidos : 30;
+  const desde = `${dias} days`;
+
+  const [resumen, porDia, masPedidos, porCategoria, porColor, porTalla, catalogo] =
+    await Promise.all([
+      sql`select count(*)::int as clics,
+                 count(distinct producto_id)::int as productos,
+                 coalesce(sum(precio), 0)::float as valor
+            from negocio.intencion
+           where creado_en > now() - ${desde}::interval`,
+
+      sql`select to_char(date_trunc('day', creado_en), 'YYYY-MM-DD') as dia,
+                 count(*)::int as clics
+            from negocio.intencion
+           where creado_en > now() - ${desde}::interval
+        group by 1 order by 1`,
+
+      sql`select i.producto_id as id, p.nombre, p.precio, p.visible, p.agotado,
+                 count(*)::int as clics,
+                 (select im.hash from catalogo.imagen im
+                   where im.producto_id = p.id order by im.orden limit 1) as foto
+            from negocio.intencion i
+            join catalogo.producto p on p.id = i.producto_id
+           where i.creado_en > now() - ${desde}::interval
+        group by i.producto_id, p.nombre, p.precio, p.visible, p.agotado, p.id
+        order by clics desc, i.producto_id limit 20`,
+
+      sql`select coalesce(c.nombre, 'Sin categoría') as categoria,
+                 count(*)::int as clics
+            from negocio.intencion i
+            join catalogo.producto p on p.id = i.producto_id
+       left join catalogo.categoria c on c.subid = p.subid
+           where i.creado_en > now() - ${desde}::interval
+        group by 1 order by clics desc limit 12`,
+
+      sql`select coalesce(co.nombre, 'Sin color') as color, count(*)::int as clics
+            from negocio.intencion i
+       left join catalogo.color co on co.id = i.color_id
+           where i.creado_en > now() - ${desde}::interval
+        group by 1 order by clics desc limit 12`,
+
+      sql`select coalesce(nullif(i.talla, ''), 'Sin talla') as talla, count(*)::int as clics
+            from negocio.intencion i
+           where i.creado_en > now() - ${desde}::interval
+        group by 1 order by clics desc limit 12`,
+
+      sql`select count(*)::int as total,
+                 count(*) filter (where visible and not agotado and not archivado)::int as activos,
+                 count(*) filter (where agotado and not archivado)::int as agotados,
+                 count(*) filter (where not visible and not archivado)::int as ocultos,
+                 count(*) filter (where archivado)::int as archivados
+            from catalogo.producto`,
+    ]);
+
+  return json({
+    dias,
+    clics: resumen[0].clics,
+    productos_pedidos: resumen[0].productos,
+    valor: resumen[0].valor,
+    por_dia: porDia,
+    mas_pedidos: masPedidos,
+    por_categoria: porCategoria,
+    por_color: porColor,
+    por_talla: porTalla,
+    catalogo: catalogo[0],
+  });
+}
+
+async function bitacora(req: Request, sql: any) {
+  const pagina = Math.max(1, Number(new URL(req.url).searchParams.get("pagina")) || 1);
+  const filas = await sql`
+    select b.id, b.actor, b.accion, b.entidad, b.entidad_id, b.antes, b.despues,
+           b.creado_en,
+           case when b.entidad = 'producto'
+                then (select p.nombre from catalogo.producto p
+                       where p.id = b.entidad_id::int) end as nombre
+      from negocio.bitacora b
+     order by b.id desc
+     limit 40 offset ${(pagina - 1) * 40}`;
+  return json({ movimientos: filas, pagina });
 }
 
 export const config: Config = {
