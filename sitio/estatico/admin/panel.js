@@ -51,7 +51,6 @@ function aPanel() {
   if (!lista) {
     lista = crearLista({ rol: yo.rol, fallo });
     $('#btn-nuevo').addEventListener('click', () => lista.nuevo());
-    $('#btn-publicar').addEventListener('click', publicar);
   }
 }
 
@@ -235,31 +234,6 @@ function masPedidos(items) {
         <span class="pedido__clics">${numero(p.clics)}</span>
       </div>`;
   }).join('');
-}
-
-/* -------------------------------------------------------------- publicar */
-
-async function publicar(ev) {
-  const boton = ev.currentTarget;
-  if (!confirm('¿Publicar el catálogo? Se reconstruye el sitio con los productos, '
-             + 'fotos y precios de ahora. Tarda unos minutos.')) return;
-
-  boton.disabled = true;
-  boton.textContent = 'Publicando…';
-  try {
-    const r = await api('publicar', { cuerpo: {} });
-    brindis(r.aviso || 'El catálogo se está reconstruyendo.');
-    $('#aviso-publicar').textContent =
-      'Publicado hace un momento. El catálogo tarda unos minutos en mostrarlo.';
-  } catch (e) {
-    // Que la publicación sea a mano no es un fallo del panel: se dice sin
-    // alarmar, y los cambios quedan guardados igual.
-    if (/a mano/.test(e.message || '')) brindis(e.message);
-    else fallo(e);
-  } finally {
-    boton.disabled = false;
-    boton.textContent = 'Publicar catálogo';
-  }
 }
 
 /* ----------------------------------------------------------------- equipo */

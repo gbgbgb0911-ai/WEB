@@ -1,11 +1,11 @@
 # Euchel — catálogo público y paneles del equipo.
 
-# El catálogo sale de la base, no del JSON del scraping: así lleva los
-# precios que el equipo cambió desde el panel y los productos que subió.
-# Las imágenes de la extracción están en el repo (scraper/data/images/webp),
-# así que la construcción no necesita nada más que DATABASE_URL.
+# Las páginas del catálogo las arma al momento netlify/functions/catalogo.mts
+# desde la base, con caché en el borde. La construcción solo copia lo
+# estático: CSS, JS, paneles e imágenes de la extracción. No hay que
+# reconstruir por un producto, nunca.
 [build]
-  command = "node sitio/exportar.mjs > sitio/data/catalogo.json && python3 sitio/generar.py --salida dist"
+  command = "python3 sitio/generar.py --salida dist"
   publish = "dist"
 
 [build.environment]

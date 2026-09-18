@@ -1,6 +1,7 @@
 import type { Config, Context } from "@netlify/functions";
 import { neon } from "@neondatabase/serverless";
 import { almacen, clavePara, TIPOS, TOPE } from "./_lib/fotos.mts";
+import { invalidar } from "./_lib/cache.mts";
 import { sesionDe, anotar, json, errorDe, SinPermiso, type Sesion } from "./_lib/sesion.mts";
 
 /* API del panel. Una sola función con ruteo interno, para que el despliegue
@@ -27,10 +28,14 @@ import { sesionDe, anotar, json, errorDe, SinPermiso, type Sesion } from "./_lib
  *   DELETE /api/panel/talla/:id
  *   POST   /api/panel/producto/:id/foto?color=    cuerpo: los bytes de la imagen
  *   DELETE /api/panel/foto/:id
- *   POST   /api/panel/publicar                    (admin) reconstruye el sitio
  *
  * Las trabajadoras pueden agotar y ocultar. Archivar y editar precios es de
  * admin. Nada se borra nunca.
+ *
+ * Cualquier escritura que salga bien purga la caché del catálogo público
+ * (ver _lib/cache.mts): el cambio se ve en la siguiente visita, sin
+ * reconstruir ni desplegar nada. Va en un solo sitio, en el enrutador, para
+ * que ningún manejador nuevo pueda olvidarlo.
  *
  * Las cuentas del equipo no se administran aquí: el navegador habla directo
  * con /auth/admin/* (crear, cambiar rol, suspender), que Neon ya limita a
@@ -48,6 +53,12 @@ export default async (req: Request, _ctx: Context) => {
   const ruta = new URL(req.url).pathname.replace(/^\/api\/panel\/?/, "").replace(/\/+$/, "");
   const partes = ruta ? ruta.split("/") : [];
 
+  const respuesta = await despachar(req, sql, ruta, partes);
+  if (req.method !== "GET" && respuesta.ok) await invalidar(`${req.method} ${ruta}`);
+  return respuesta;
+};
+
+async function despachar(req: Request, sql: any, ruta: string, partes: string[]): Promise<Response> {
   try {
     if (partes[0] === "yo" && req.method === "GET") {
       const yo = await sesionDe(req, sql, ["admin", "trabajadora"]);
@@ -110,11 +121,6 @@ export default async (req: Request, _ctx: Context) => {
       return await borrarFoto(sql, yo, Number(partes[1]));
     }
 
-    if (partes[0] === "publicar" && req.method === "POST") {
-      const yo = await sesionDe(req, sql, ["admin"]);
-      return await publicar(sql, yo);
-    }
-
     if (partes[0] === "producto" && partes[1] && partes[2] === "precio" && req.method === "POST") {
       const yo = await sesionDe(req, sql, ["admin"]);
       return await cambiarPrecio(req, sql, yo, Number(partes[1]));
@@ -145,7 +151,7 @@ export default async (req: Request, _ctx: Context) => {
   } catch (e) {
     return errorDe(e);
   }
-};
+}
 
 async function listar(req: Request, sql: any, _yo: Sesion) {
   const p = new URL(req.url).searchParams;
@@ -664,38 +670,6 @@ async function borrarFoto(sql: any, yo: Sesion, id: number) {
 
   await anotar(sql, yo, "borrar-foto", "producto", img.producto_id, { foto: img.hash }, null);
   return json({ borrado: id });
-}
-
-/* --------------------------------------------------------------- publicar */
-
-async function publicar(sql: any, yo: Sesion) {
-  const gancho = Netlify.env.get("NETLIFY_BUILD_HOOK");
-  if (!gancho) {
-    // No es un fallo: el sitio se publica a mano a propósito. El panel lo
-    // dice con esas palabras en vez de pintar un error rojo.
-    return json({
-      codigo: "sin-gancho",
-      error: "El catálogo se publica a mano. Avisa a quien mantiene el sitio.",
-    }, 503);
-  }
-
-  // Agotar y ocultar salen en el catálogo en menos de un minuto sin
-  // reconstruir. Lo que sí hace falta reconstruir es un producto nuevo, una
-  // foto nueva, un nombre o un precio: el catálogo son páginas ya generadas.
-  let r: Response;
-  try {
-    r = await fetch(gancho, { method: "POST", body: "" });
-  } catch (e) {
-    console.error("gancho:", e instanceof Error ? e.message : e);
-    return json({ error: "No se pudo avisar a Netlify. Inténtalo otra vez." }, 502);
-  }
-  if (!r.ok) {
-    console.error("gancho respondió", r.status);
-    return json({ error: `Netlify respondió ${r.status}.` }, 502);
-  }
-
-  await anotar(sql, yo, "publicar", "sitio", 0, null, { cuando: new Date().toISOString() });
-  return json({ ok: true, aviso: "El catálogo se está reconstruyendo. Tarda unos minutos." });
 }
 
 export const config: Config = {

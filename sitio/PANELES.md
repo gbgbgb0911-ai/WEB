@@ -126,15 +126,20 @@ tallas y fotos y dejaría sin referencia los pedidos que los mencionan.
 
 ## Publicar
 
-Un producto nuevo, una foto, un nombre o un precio necesitan reconstruir el
-sitio: el catálogo son páginas ya generadas. Agotar y ocultar no, eso sale
-por `/api/estado` en menos de un minuto.
+No hay que publicar. Todo lo que el equipo guarda en el panel sale en el
+catálogo al instante: un producto nuevo aparece cuando lo ponen visible, una
+foto en cuanto la suben, un precio en cuanto lo cambian.
 
-**El sitio se publica a mano, a propósito.** El dueño prefiere no conectar
-el repositorio a Netlify. Así que el catálogo se sube con
-`sitio/empaquetar.sh` (ver abajo) y el botón **Publicar catálogo** del panel
-avisa, sin pintar un error, que la publicación es manual. Lo que el equipo
-haya guardado espera en la base y sale en la siguiente publicación.
+Cómo funciona: las páginas del catálogo no son archivos, las arma al momento
+`netlify/functions/catalogo.mts` leyendo la base. El borde de Netlify
+guarda cada página armada y la sirve sin llamar a la función, así una
+visita normal es igual de rápida que cuando el sitio era estático. Cuando el
+panel guarda cualquier cambio, la API purga la etiqueta de caché `catalogo`
+y las páginas se vuelven a armar la próxima vez que alguien las pida.
+
+Eso quita de en medio la reconstrucción, el gancho de construcción, el
+repositorio conectado a Netlify y a la persona que desplegaba. El sitio se
+despliega solo cuando cambia el código, con `sitio/empaquetar.sh`.
 
 El repositorio **no debe quedar conectado** a Netlify. Si se conecta y la
 rama de producción es `main`, la construcción publica la raíz del repo y el
@@ -142,11 +147,9 @@ sitio responde "Page not found": pasó una vez. Si aparece conectado, se
 desconecta en Project configuration → Developer settings → Continuous
 deployment → Repository → Manage repository → Unlink.
 
-Si algún día se quiere el botón funcionando solo, hace falta conectar el
-repositorio con la rama de producción correcta y guardar un gancho de
-construcción en `NETLIFY_BUILD_HOOK`. El comando de construcción ya está en
-`netlify.toml` y las imágenes de la extracción están en el repo, así que no
-haría falta nada más.
+Una cosa que sí puede notarse: la base duerme tras unos minutos sin uso en
+el plan gratis de Neon, y la primera página que la despierta tarda cerca de
+un segundo más. Solo esa; las siguientes salen del borde.
 
 ## Desplegar a mano
 
@@ -163,12 +166,9 @@ Qué cambia sin volver a desplegar y qué no:
 
 | Cambio | Hace falta desplegar |
 |---|---|
-| agotar, ocultar, precios, archivar | no: sale por `/api/estado` en menos de un minuto |
+| productos, fotos, precios, colores, tallas, agotar, ocultar | no: sale al instante |
 | cuentas y roles | no |
-| producto nuevo, foto nueva, nombre, precio | sí: el catálogo son páginas ya generadas |
 | diseño, textos, código | sí |
-
-Lo que hace falta reconstruir sale del botón **Publicar catálogo**.
 
 ## Probar los paneles en un navegador
 

@@ -243,7 +243,7 @@ export function crearLista({ rol, fallo }) {
       </form>
       <p class="tarjeta__meta" style="margin-top:8px">
         Nace oculto. Le pones fotos, colores y tallas, y cuando esté listo lo
-        haces visible y publicas.
+        haces visible: aparece en el catálogo al momento.
       </p>`);
 
     $('#forma-nuevo').addEventListener('submit', async (ev) => {

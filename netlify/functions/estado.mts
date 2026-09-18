@@ -60,6 +60,9 @@ function respuesta(cuerpo: unknown, segundos: number) {
       "content-type": "application/json; charset=utf-8",
       // El borde lo guarda; el navegador lo revalida rápido.
       "cache-control": `public, max-age=30, s-maxage=${segundos}, stale-while-revalidate=300`,
+      // Se purga junto con las páginas del catálogo cuando el panel guarda
+      // algo: así no reaparece un "Agotado" viejo encima de una página fresca.
+      "netlify-cache-tag": "catalogo",
     },
   });
 }

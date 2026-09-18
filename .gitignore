@@ -15,4 +15,3 @@ dist/
 deploy-*.zip
 node_modules/
 .netlify/
-sitio/data/catalogo.json
