@@ -1,0 +1,101 @@
+{
+  "id_original": 1188,
+  "url_original": "https://euchelperu.com/producto.php?id=1188",
+  "nombre": "VESTIDO VIVI",
+  "descripcion": "Eleva tu estilo con esta pieza sofisticada y cautivadora. Este vestido largo en un profundo tono borgoña (vino) es la definición de la elegancia moderna. Diseñado para abrazar la silueta con gracia, combina texturas delicadas con un corte que favorece la figura, ideal para eventos de noche, cenas de gala o celebraciones especiales.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1188VES21461",
+  "item_group_id": "1188",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178043661238270968251137.jpg",
+    "https://euchelperu.com/images/productos/178054182515399616548155.jpg",
+    "https://euchelperu.com/images/productos/178054189304649898828210.jpg",
+    "https://euchelperu.com/images/productos/17805419295922687569615.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO VIVI",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3504,
+      "nombre": "Vino",
+      "precio": 85.0,
+      "id_color_confirmado": 3504,
+      "tallas": [
+        {
+          "id_talla": 3852,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178043661238270968251137.jpg",
+        "https://euchelperu.com/images/productos/178054182515399616548155.jpg",
+        "https://euchelperu.com/images/productos/178054189304649898828210.jpg",
+        "https://euchelperu.com/images/productos/17805419295922687569615.jpg"
+      ]
+    },
+    {
+      "id_color": 3530,
+      "nombre": "Rojo",
+      "precio": 85.0,
+      "id_color_confirmado": 3530,
+      "tallas": [
+        {
+          "id_talla": 3875,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17805419295922687569615.jpg",
+        "https://euchelperu.com/images/productos/178043661238270968251137.jpg",
+        "https://euchelperu.com/images/productos/178054182515399616548155.jpg",
+        "https://euchelperu.com/images/productos/178054189304649898828210.jpg"
+      ]
+    },
+    {
+      "id_color": 3531,
+      "nombre": "Marrón",
+      "precio": 85.0,
+      "id_color_confirmado": 3531,
+      "tallas": [
+        {
+          "id_talla": 3876,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054189304649898828210.jpg",
+        "https://euchelperu.com/images/productos/178043661238270968251137.jpg",
+        "https://euchelperu.com/images/productos/178054182515399616548155.jpg",
+        "https://euchelperu.com/images/productos/17805419295922687569615.jpg"
+      ]
+    },
+    {
+      "id_color": 3532,
+      "nombre": "Negro",
+      "precio": 85.0,
+      "id_color_confirmado": 3532,
+      "tallas": [
+        {
+          "id_talla": 4063,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054182515399616548155.jpg",
+        "https://euchelperu.com/images/productos/178043661238270968251137.jpg",
+        "https://euchelperu.com/images/productos/178054189304649898828210.jpg",
+        "https://euchelperu.com/images/productos/17805419295922687569615.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:58:19Z"
+}

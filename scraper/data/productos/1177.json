@@ -1,0 +1,101 @@
+{
+  "id_original": 1177,
+  "url_original": "https://euchelperu.com/producto.php?id=1177",
+  "nombre": "CASACA SUEDE",
+  "descripcion": "",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1177SUEDE32",
+  "item_group_id": "1177",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177924423093868222595661.jpg",
+    "https://euchelperu.com/images/productos/1779680290034187585263.jpg",
+    "https://euchelperu.com/images/productos/178182094686893900099804.jpg",
+    "https://euchelperu.com/images/productos/178182096791367679335675.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CASACA SUEDE",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3484,
+      "nombre": "Marrón",
+      "precio": 99.0,
+      "id_color_confirmado": 3484,
+      "tallas": [
+        {
+          "id_talla": 3832,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177924423093868222595661.jpg",
+        "https://euchelperu.com/images/productos/1779680290034187585263.jpg",
+        "https://euchelperu.com/images/productos/178182094686893900099804.jpg",
+        "https://euchelperu.com/images/productos/178182096791367679335675.jpg"
+      ]
+    },
+    {
+      "id_color": 3496,
+      "nombre": "Crema",
+      "precio": 99.0,
+      "id_color_confirmado": 3496,
+      "tallas": [
+        {
+          "id_talla": 3844,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1779680290034187585263.jpg",
+        "https://euchelperu.com/images/productos/177924423093868222595661.jpg",
+        "https://euchelperu.com/images/productos/178182094686893900099804.jpg",
+        "https://euchelperu.com/images/productos/178182096791367679335675.jpg"
+      ]
+    },
+    {
+      "id_color": 3613,
+      "nombre": "Negro",
+      "precio": 99.0,
+      "id_color_confirmado": 3613,
+      "tallas": [
+        {
+          "id_talla": 3978,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178182096791367679335675.jpg",
+        "https://euchelperu.com/images/productos/177924423093868222595661.jpg",
+        "https://euchelperu.com/images/productos/1779680290034187585263.jpg",
+        "https://euchelperu.com/images/productos/178182094686893900099804.jpg"
+      ]
+    },
+    {
+      "id_color": 3614,
+      "nombre": "Verde Pistacho",
+      "precio": 99.0,
+      "id_color_confirmado": 3614,
+      "tallas": [
+        {
+          "id_talla": 3979,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178182094686893900099804.jpg",
+        "https://euchelperu.com/images/productos/177924423093868222595661.jpg",
+        "https://euchelperu.com/images/productos/1779680290034187585263.jpg",
+        "https://euchelperu.com/images/productos/178182096791367679335675.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:49:51Z"
+}

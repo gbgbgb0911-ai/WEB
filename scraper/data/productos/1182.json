@@ -1,0 +1,59 @@
+{
+  "id_original": 1182,
+  "url_original": "https://euchelperu.com/producto.php?id=1182",
+  "nombre": "blusa satin",
+  "descripcion": "Eleva tu estilo con esta sofisticada camisa corta. Confeccionada en un lujoso satén blanco, esta prenda reinventa un clásico. Su silueta cropped aporta un toque audaz y moderno, perfecto para lucir con pantalones de tiro alto, mientras que los imponentes puños anchos estilo francés (diseñados para gemelos) añaden una dosis de elegancia atemporal. Una pieza versátil que transiciona sin esfuerzo de una reunión de trabajo a una cena elegante",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1182BLU98754",
+  "item_group_id": "1182",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17803603032978971292777.jpg",
+    "https://euchelperu.com/images/productos/178054353662939269470350.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "blusa satin",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3498,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 3498,
+      "tallas": [
+        {
+          "id_talla": 3846,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17803603032978971292777.jpg",
+        "https://euchelperu.com/images/productos/178054353662939269470350.png"
+      ]
+    },
+    {
+      "id_color": 3514,
+      "nombre": "Rojo",
+      "precio": 59.0,
+      "id_color_confirmado": 3514,
+      "tallas": [
+        {
+          "id_talla": 3859,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054353662939269470350.png",
+        "https://euchelperu.com/images/productos/17803603032978971292777.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:52:03Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id_original": 1179,
+  "url_original": "https://euchelperu.com/producto.php?id=1179",
+  "nombre": "MANGUITA",
+  "descripcion": "Capita tejida de diseño moderno y femenino, perfecta para complementar tus outfits con un toque elegante y delicado. Su tejido acanalado y corte ajustado brindan comodidad, estilo y versatilidad para cualquier ocasión.",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1179MAN51869",
+  "item_group_id": "1179",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177924558372787600514363.jpg",
+    "https://euchelperu.com/images/productos/177966391518704255772573.jpg",
+    "https://euchelperu.com/images/productos/177966519059551492020187.jpg",
+    "https://euchelperu.com/images/productos/177966536535722359788342.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MANGUITA",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3486,
+      "nombre": "Blanco",
+      "precio": 49.0,
+      "id_color_confirmado": 3486,
+      "tallas": [
+        {
+          "id_talla": 3833,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177924558372787600514363.jpg",
+        "https://euchelperu.com/images/productos/177966391518704255772573.jpg",
+        "https://euchelperu.com/images/productos/177966519059551492020187.jpg",
+        "https://euchelperu.com/images/productos/177966536535722359788342.jpg"
+      ]
+    },
+    {
+      "id_color": 3487,
+      "nombre": "Marrón",
+      "precio": 49.0,
+      "id_color_confirmado": 3487,
+      "tallas": [
+        {
+          "id_talla": 3835,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177966391518704255772573.jpg",
+        "https://euchelperu.com/images/productos/177924558372787600514363.jpg",
+        "https://euchelperu.com/images/productos/177966519059551492020187.jpg",
+        "https://euchelperu.com/images/productos/177966536535722359788342.jpg"
+      ]
+    },
+    {
+      "id_color": 3488,
+      "nombre": "Crema",
+      "precio": 49.0,
+      "id_color_confirmado": 3488,
+      "tallas": [
+        {
+          "id_talla": 3836,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177966536535722359788342.jpg",
+        "https://euchelperu.com/images/productos/177924558372787600514363.jpg",
+        "https://euchelperu.com/images/productos/177966391518704255772573.jpg",
+        "https://euchelperu.com/images/productos/177966519059551492020187.jpg"
+      ]
+    },
+    {
+      "id_color": 3489,
+      "nombre": "Negro",
+      "precio": 49.0,
+      "id_color_confirmado": 3489,
+      "tallas": [
+        {
+          "id_talla": 3837,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177966519059551492020187.jpg",
+        "https://euchelperu.com/images/productos/177924558372787600514363.jpg",
+        "https://euchelperu.com/images/productos/177966391518704255772573.jpg",
+        "https://euchelperu.com/images/productos/177966536535722359788342.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:51:18Z"
+}

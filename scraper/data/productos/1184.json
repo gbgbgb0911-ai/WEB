@@ -1,0 +1,101 @@
+{
+  "id_original": 1184,
+  "url_original": "https://euchelperu.com/producto.php?id=1184",
+  "nombre": "vestido clock",
+  "descripcion": "La sofisticación hecha prenda. Este vestido largo en un cautivador tono azul acero combina minimalismo y alta costura en un solo diseño. Destaca por su elegante cuello barco y unas fluidas mangas estilo murciélago que aportan un movimiento espectacular. Su corte entallado con pretina alta define la cintura de forma impecable, cayendo en una falda estilizada que estiliza la silueta por completo. Una opción perfecta para eventos, cenas de gala o un cóctel sofisticado.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1184VES77489",
+  "item_group_id": "1184",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178036098538836376662440.jpg",
+    "https://euchelperu.com/images/productos/178054265232883812680102.jpg",
+    "https://euchelperu.com/images/productos/178054269571247837725413.jpg",
+    "https://euchelperu.com/images/productos/178054271999249485277977.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "vestido clock",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3500,
+      "nombre": "Azul acero",
+      "precio": 69.0,
+      "id_color_confirmado": 3500,
+      "tallas": [
+        {
+          "id_talla": 3848,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178036098538836376662440.jpg",
+        "https://euchelperu.com/images/productos/178054265232883812680102.jpg",
+        "https://euchelperu.com/images/productos/178054269571247837725413.jpg",
+        "https://euchelperu.com/images/productos/178054271999249485277977.jpg"
+      ]
+    },
+    {
+      "id_color": 3521,
+      "nombre": "Verde olivo",
+      "precio": 69.0,
+      "id_color_confirmado": 3521,
+      "tallas": [
+        {
+          "id_talla": 3868,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054269571247837725413.jpg",
+        "https://euchelperu.com/images/productos/178036098538836376662440.jpg",
+        "https://euchelperu.com/images/productos/178054265232883812680102.jpg",
+        "https://euchelperu.com/images/productos/178054271999249485277977.jpg"
+      ]
+    },
+    {
+      "id_color": 3522,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 3522,
+      "tallas": [
+        {
+          "id_talla": 3866,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054265232883812680102.jpg",
+        "https://euchelperu.com/images/productos/178036098538836376662440.jpg",
+        "https://euchelperu.com/images/productos/178054269571247837725413.jpg",
+        "https://euchelperu.com/images/productos/178054271999249485277977.jpg"
+      ]
+    },
+    {
+      "id_color": 3523,
+      "nombre": "Marrón",
+      "precio": 69.0,
+      "id_color_confirmado": 3523,
+      "tallas": [
+        {
+          "id_talla": 3867,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054271999249485277977.jpg",
+        "https://euchelperu.com/images/productos/178036098538836376662440.jpg",
+        "https://euchelperu.com/images/productos/178054265232883812680102.jpg",
+        "https://euchelperu.com/images/productos/178054269571247837725413.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:54:48Z"
+}

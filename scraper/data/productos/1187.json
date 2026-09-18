@@ -1,0 +1,86 @@
+{
+  "id_original": 1187,
+  "url_original": "https://euchelperu.com/producto.php?id=1187",
+  "nombre": "CORSET RAYAS",
+  "descripcion": "Eleva tu propuesta de estilo con este corset de inspiración sastrera. Confeccionado en un tejido con un delicado patrón de espiga en tono marrón profundo, esta prenda combina la elegancia clásica con una silueta moderna y audaz. Su diseño cuenta con copas preformadas y varillas laterales que definen la cintura, terminando en un corte en punta que estiliza visualmente el torso. Una pieza clave para lograr un look de alto impacto y gran sofisticación.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1187COR25846",
+  "item_group_id": "1187",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178036395465095956550832.jpg",
+    "https://euchelperu.com/images/productos/178054161812942526056950.jpg",
+    "https://euchelperu.com/images/productos/178054166587512264293333.jpg",
+    "https://euchelperu.com/images/productos/1780541686963513876701.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CORSET RAYAS",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3503,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 3503,
+      "tallas": [
+        {
+          "id_talla": 3851,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178036395465095956550832.jpg",
+        "https://euchelperu.com/images/productos/178054161812942526056950.jpg",
+        "https://euchelperu.com/images/productos/178054166587512264293333.jpg",
+        "https://euchelperu.com/images/productos/1780541686963513876701.jpg"
+      ]
+    },
+    {
+      "id_color": 3555,
+      "nombre": "plomo claro",
+      "precio": null,
+      "id_color_confirmado": 3555,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1780541686963513876701.jpg",
+        "https://euchelperu.com/images/productos/178036395465095956550832.jpg",
+        "https://euchelperu.com/images/productos/178054161812942526056950.jpg",
+        "https://euchelperu.com/images/productos/178054166587512264293333.jpg"
+      ]
+    },
+    {
+      "id_color": 3556,
+      "nombre": "plomo oscuro",
+      "precio": null,
+      "id_color_confirmado": 3556,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054166587512264293333.jpg",
+        "https://euchelperu.com/images/productos/178036395465095956550832.jpg",
+        "https://euchelperu.com/images/productos/178054161812942526056950.jpg",
+        "https://euchelperu.com/images/productos/1780541686963513876701.jpg"
+      ]
+    },
+    {
+      "id_color": 3557,
+      "nombre": "Beige",
+      "precio": null,
+      "id_color_confirmado": 3557,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054161812942526056950.jpg",
+        "https://euchelperu.com/images/productos/178036395465095956550832.jpg",
+        "https://euchelperu.com/images/productos/178054166587512264293333.jpg",
+        "https://euchelperu.com/images/productos/1780541686963513876701.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:57:54Z"
+}

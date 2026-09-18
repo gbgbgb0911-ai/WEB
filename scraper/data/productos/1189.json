@@ -1,0 +1,101 @@
+{
+  "id_original": 1189,
+  "url_original": "https://euchelperu.com/producto.php?id=1189",
+  "nombre": "VESTIDO MILU",
+  "descripcion": "Luce sofisticada en tu próximo evento especial con este impresionante vestido largo color verde esmeralda. Este elegante vestido hasta el suelo está diseñado para realzar tu figura y crear una silueta impactante.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1189VES80221",
+  "item_group_id": "1189",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17804370938258919502725.jpg",
+    "https://euchelperu.com/images/productos/178054136442120289796640.jpg",
+    "https://euchelperu.com/images/productos/178054140998051877151032.jpg",
+    "https://euchelperu.com/images/productos/17805414337972184527392.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO MILU",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3505,
+      "nombre": "Verde esmeralda",
+      "precio": 69.0,
+      "id_color_confirmado": 3505,
+      "tallas": [
+        {
+          "id_talla": 3853,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17804370938258919502725.jpg",
+        "https://euchelperu.com/images/productos/178054136442120289796640.jpg",
+        "https://euchelperu.com/images/productos/178054140998051877151032.jpg",
+        "https://euchelperu.com/images/productos/17805414337972184527392.jpg"
+      ]
+    },
+    {
+      "id_color": 3552,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 3552,
+      "tallas": [
+        {
+          "id_talla": 4058,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054136442120289796640.jpg",
+        "https://euchelperu.com/images/productos/17804370938258919502725.jpg",
+        "https://euchelperu.com/images/productos/178054140998051877151032.jpg",
+        "https://euchelperu.com/images/productos/17805414337972184527392.jpg"
+      ]
+    },
+    {
+      "id_color": 3553,
+      "nombre": "Marrón",
+      "precio": 69.0,
+      "id_color_confirmado": 3553,
+      "tallas": [
+        {
+          "id_talla": 4059,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054140998051877151032.jpg",
+        "https://euchelperu.com/images/productos/17804370938258919502725.jpg",
+        "https://euchelperu.com/images/productos/178054136442120289796640.jpg",
+        "https://euchelperu.com/images/productos/17805414337972184527392.jpg"
+      ]
+    },
+    {
+      "id_color": 3554,
+      "nombre": "Azul acero",
+      "precio": 69.0,
+      "id_color_confirmado": 3554,
+      "tallas": [
+        {
+          "id_talla": 4060,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17805414337972184527392.jpg",
+        "https://euchelperu.com/images/productos/17804370938258919502725.jpg",
+        "https://euchelperu.com/images/productos/178054136442120289796640.jpg",
+        "https://euchelperu.com/images/productos/178054140998051877151032.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:00:03Z"
+}

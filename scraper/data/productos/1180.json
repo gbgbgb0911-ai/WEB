@@ -1,0 +1,41 @@
+{
+  "id_original": 1180,
+  "url_original": "https://euchelperu.com/producto.php?id=1180",
+  "nombre": "abrigo piel",
+  "descripcion": "",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": 120.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1180ABR84575",
+  "item_group_id": "1180",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178035967953466229524401.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "abrigo piel",
+  "precio_listado_normal": 120.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3497,
+      "nombre": "Blanco",
+      "precio": 120.0,
+      "id_color_confirmado": 3497,
+      "tallas": [
+        {
+          "id_talla": 3845,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178035967953466229524401.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:51:45Z"
+}

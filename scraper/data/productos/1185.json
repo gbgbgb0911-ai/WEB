@@ -1,0 +1,96 @@
+{
+  "id_original": 1185,
+  "url_original": "https://euchelperu.com/producto.php?id=1185",
+  "nombre": "vestido isis",
+  "descripcion": "Encuentra el equilibrio perfecto entre lo tierno y lo chic. Este vestido corto en un clásico azul marino destaca por su favorecedor escote cuadrado y un delicado lazo frontal que le da un toque ultra femenino. Las mangas largas y la falda con un sutil vuelo en corte \"A\" crean una silueta encantadora y súper cómoda. Confeccionado en un tejido con textura suave, es la prenda ideal para lucir un look look coqueto y relajado en cualquier temporada.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1185VES38448",
+  "item_group_id": "1185",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178036226382463321377759.jpg",
+    "https://euchelperu.com/images/productos/178054226311861576978259.jpg",
+    "https://euchelperu.com/images/productos/178054239158496349677885.jpg",
+    "https://euchelperu.com/images/productos/178054247606295415580356.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "vestido isis",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3501,
+      "nombre": "azul",
+      "precio": 59.0,
+      "id_color_confirmado": 3501,
+      "tallas": [
+        {
+          "id_talla": 3849,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178036226382463321377759.jpg",
+        "https://euchelperu.com/images/productos/178054226311861576978259.jpg",
+        "https://euchelperu.com/images/productos/178054239158496349677885.jpg",
+        "https://euchelperu.com/images/productos/178054247606295415580356.jpg"
+      ]
+    },
+    {
+      "id_color": 3524,
+      "nombre": "plomo",
+      "precio": 59.0,
+      "id_color_confirmado": 3524,
+      "tallas": [
+        {
+          "id_talla": 3869,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054247606295415580356.jpg",
+        "https://euchelperu.com/images/productos/178036226382463321377759.jpg",
+        "https://euchelperu.com/images/productos/178054226311861576978259.jpg",
+        "https://euchelperu.com/images/productos/178054239158496349677885.jpg"
+      ]
+    },
+    {
+      "id_color": 3526,
+      "nombre": "negro",
+      "precio": 59.0,
+      "id_color_confirmado": 3526,
+      "tallas": [
+        {
+          "id_talla": 3871,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054226311861576978259.jpg",
+        "https://euchelperu.com/images/productos/178036226382463321377759.jpg",
+        "https://euchelperu.com/images/productos/178054239158496349677885.jpg",
+        "https://euchelperu.com/images/productos/178054247606295415580356.jpg"
+      ]
+    },
+    {
+      "id_color": 3558,
+      "nombre": "Beige",
+      "precio": null,
+      "id_color_confirmado": 3558,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054239158496349677885.jpg",
+        "https://euchelperu.com/images/productos/178036226382463321377759.jpg",
+        "https://euchelperu.com/images/productos/178054226311861576978259.jpg",
+        "https://euchelperu.com/images/productos/178054247606295415580356.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:55:49Z"
+}

@@ -1,0 +1,125 @@
+{
+  "id_original": 1192,
+  "url_original": "https://euchelperu.com/producto.php?id=1192",
+  "nombre": "VESTIDO MERLY",
+  "descripcion": "La combinación perfecta entre audacia y sofisticación. Este vestido mini en un cautivador tono borgoña está diseñado para convertirse en el centro de atención. Su silueta asimétrica y los detalles metálicos estratégicos crean un look moderno, glamuroso e increíblemente favorecedor.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 60.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1192VES63269",
+  "item_group_id": "1192",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178044019911032704189245.jpg",
+    "https://euchelperu.com/images/productos/178053993258704270317031.jpg",
+    "https://euchelperu.com/images/productos/178054000349939643213504.jpg",
+    "https://euchelperu.com/images/productos/178054006713838807766631.jpg",
+    "https://euchelperu.com/images/productos/178054017502897733842403.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO MERLY",
+  "precio_listado_normal": 60.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3508,
+      "nombre": "Vino",
+      "precio": 60.0,
+      "id_color_confirmado": 3508,
+      "tallas": [
+        {
+          "id_talla": 3856,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178044019911032704189245.jpg",
+        "https://euchelperu.com/images/productos/178053993258704270317031.jpg",
+        "https://euchelperu.com/images/productos/178054000349939643213504.jpg",
+        "https://euchelperu.com/images/productos/178054006713838807766631.jpg",
+        "https://euchelperu.com/images/productos/178054017502897733842403.jpg"
+      ]
+    },
+    {
+      "id_color": 3538,
+      "nombre": "Blanco",
+      "precio": 60.0,
+      "id_color_confirmado": 3538,
+      "tallas": [
+        {
+          "id_talla": 4045,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178053993258704270317031.jpg",
+        "https://euchelperu.com/images/productos/178044019911032704189245.jpg",
+        "https://euchelperu.com/images/productos/178054000349939643213504.jpg",
+        "https://euchelperu.com/images/productos/178054006713838807766631.jpg",
+        "https://euchelperu.com/images/productos/178054017502897733842403.jpg"
+      ]
+    },
+    {
+      "id_color": 3539,
+      "nombre": "Negro",
+      "precio": 60.0,
+      "id_color_confirmado": 3539,
+      "tallas": [
+        {
+          "id_talla": 4046,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054000349939643213504.jpg",
+        "https://euchelperu.com/images/productos/178044019911032704189245.jpg",
+        "https://euchelperu.com/images/productos/178053993258704270317031.jpg",
+        "https://euchelperu.com/images/productos/178054006713838807766631.jpg",
+        "https://euchelperu.com/images/productos/178054017502897733842403.jpg"
+      ]
+    },
+    {
+      "id_color": 3540,
+      "nombre": "Marrón",
+      "precio": 60.0,
+      "id_color_confirmado": 3540,
+      "tallas": [
+        {
+          "id_talla": 4047,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054006713838807766631.jpg",
+        "https://euchelperu.com/images/productos/178044019911032704189245.jpg",
+        "https://euchelperu.com/images/productos/178053993258704270317031.jpg",
+        "https://euchelperu.com/images/productos/178054000349939643213504.jpg",
+        "https://euchelperu.com/images/productos/178054017502897733842403.jpg"
+      ]
+    },
+    {
+      "id_color": 3541,
+      "nombre": "Verde Pistacho",
+      "precio": 60.0,
+      "id_color_confirmado": 3541,
+      "tallas": [
+        {
+          "id_talla": 4048,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054017502897733842403.jpg",
+        "https://euchelperu.com/images/productos/178044019911032704189245.jpg",
+        "https://euchelperu.com/images/productos/178053993258704270317031.jpg",
+        "https://euchelperu.com/images/productos/178054000349939643213504.jpg",
+        "https://euchelperu.com/images/productos/178054006713838807766631.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:05:39Z"
+}

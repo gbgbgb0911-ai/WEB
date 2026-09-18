@@ -1,0 +1,125 @@
+{
+  "id_original": 1186,
+  "url_original": "https://euchelperu.com/producto.php?id=1186",
+  "nombre": "cardigan gold",
+  "descripcion": "Una pieza clásica que eleva cualquier outfit al instante. Este cárdigan de punto grueso en un profundo azul marino destaca por sus sofisticados botones dorados con relieve que le aportan un aire de alta costura. Su silueta ligeramente texturizada cuenta con un cuello redondo cerrado y acabados acanalados en puños y pretina, logrando un ajuste impecable. Es la prenda perfecta para abrigarte con elegancia y estilo en los días frescos.",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1186CAR67361",
+  "item_group_id": "1186",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178036248956850863745080.jpg",
+    "https://euchelperu.com/images/productos/178054202809250789411235.jpg",
+    "https://euchelperu.com/images/productos/178054206711647637332113.jpg",
+    "https://euchelperu.com/images/productos/178054209262620517686113.jpg",
+    "https://euchelperu.com/images/productos/178232402749275305456294.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "cardigan gold",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3502,
+      "nombre": "azul",
+      "precio": 59.0,
+      "id_color_confirmado": 3502,
+      "tallas": [
+        {
+          "id_talla": 3850,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178036248956850863745080.jpg",
+        "https://euchelperu.com/images/productos/178054202809250789411235.jpg",
+        "https://euchelperu.com/images/productos/178054206711647637332113.jpg",
+        "https://euchelperu.com/images/productos/178054209262620517686113.jpg",
+        "https://euchelperu.com/images/productos/178232402749275305456294.jpg"
+      ]
+    },
+    {
+      "id_color": 3527,
+      "nombre": "rojo",
+      "precio": 59.0,
+      "id_color_confirmado": 3527,
+      "tallas": [
+        {
+          "id_talla": 3872,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054209262620517686113.jpg",
+        "https://euchelperu.com/images/productos/178036248956850863745080.jpg",
+        "https://euchelperu.com/images/productos/178054202809250789411235.jpg",
+        "https://euchelperu.com/images/productos/178054206711647637332113.jpg",
+        "https://euchelperu.com/images/productos/178232402749275305456294.jpg"
+      ]
+    },
+    {
+      "id_color": 3528,
+      "nombre": "marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 3528,
+      "tallas": [
+        {
+          "id_talla": 3873,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054206711647637332113.jpg",
+        "https://euchelperu.com/images/productos/178036248956850863745080.jpg",
+        "https://euchelperu.com/images/productos/178054202809250789411235.jpg",
+        "https://euchelperu.com/images/productos/178054209262620517686113.jpg",
+        "https://euchelperu.com/images/productos/178232402749275305456294.jpg"
+      ]
+    },
+    {
+      "id_color": 3529,
+      "nombre": "negro",
+      "precio": 59.0,
+      "id_color_confirmado": 3529,
+      "tallas": [
+        {
+          "id_talla": 3874,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054202809250789411235.jpg",
+        "https://euchelperu.com/images/productos/178036248956850863745080.jpg",
+        "https://euchelperu.com/images/productos/178054206711647637332113.jpg",
+        "https://euchelperu.com/images/productos/178054209262620517686113.jpg",
+        "https://euchelperu.com/images/productos/178232402749275305456294.jpg"
+      ]
+    },
+    {
+      "id_color": 3668,
+      "nombre": "Beige",
+      "precio": 59.0,
+      "id_color_confirmado": 3668,
+      "tallas": [
+        {
+          "id_talla": 4062,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178232402749275305456294.jpg",
+        "https://euchelperu.com/images/productos/178036248956850863745080.jpg",
+        "https://euchelperu.com/images/productos/178054202809250789411235.jpg",
+        "https://euchelperu.com/images/productos/178054206711647637332113.jpg",
+        "https://euchelperu.com/images/productos/178054209262620517686113.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:57:18Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id_original": 1175,
+  "url_original": "https://euchelperu.com/producto.php?id=1175",
+  "nombre": "SWEATER KALU",
+  "descripcion": "",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1175KALU123",
+  "item_group_id": "1175",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177924393754413204259694.jpg",
+    "https://euchelperu.com/images/productos/177967976294700464563511.jpg",
+    "https://euchelperu.com/images/productos/177968010032941108049289.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SWEATER KALU",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3482,
+      "nombre": "Beige",
+      "precio": 55.0,
+      "id_color_confirmado": 3482,
+      "tallas": [
+        {
+          "id_talla": 3830,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177924393754413204259694.jpg",
+        "https://euchelperu.com/images/productos/177967976294700464563511.jpg",
+        "https://euchelperu.com/images/productos/177968010032941108049289.jpg"
+      ]
+    },
+    {
+      "id_color": 3494,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 3494,
+      "tallas": [
+        {
+          "id_talla": 3842,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177968010032941108049289.jpg",
+        "https://euchelperu.com/images/productos/177924393754413204259694.jpg",
+        "https://euchelperu.com/images/productos/177967976294700464563511.jpg"
+      ]
+    },
+    {
+      "id_color": 3495,
+      "nombre": "Marrón",
+      "precio": 55.0,
+      "id_color_confirmado": 3495,
+      "tallas": [
+        {
+          "id_talla": 3843,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177967976294700464563511.jpg",
+        "https://euchelperu.com/images/productos/177924393754413204259694.jpg",
+        "https://euchelperu.com/images/productos/177968010032941108049289.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:47:30Z"
+}

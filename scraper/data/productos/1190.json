@@ -1,0 +1,125 @@
+{
+  "id_original": 1190,
+  "url_original": "https://euchelperu.com/producto.php?id=1190",
+  "nombre": "VESTIDO ARIZ",
+  "descripcion": "Atrévete a destacar con una pieza que redefine la elegancia moderna. Este vestido mini en un sofisticado tono café chocolate combina un diseño arquitectónico con detalles de lujo, ideal para una noche de cóctel, una fiesta exclusiva o una cita inolvidable. Deja que el detalle dorado sea el protagonista. Combínalo con sandalias de tacón minimalistas en color oro y un peinado recogido para lucir el diseño del cuello al máximo.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 60.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1190VES77124",
+  "item_group_id": "1190",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178043778514335791046799.jpg",
+    "https://euchelperu.com/images/productos/17805409819146556227859.jpg",
+    "https://euchelperu.com/images/productos/178054111761763810315056.jpg",
+    "https://euchelperu.com/images/productos/178054114557124958233756.jpg",
+    "https://euchelperu.com/images/productos/17805411972899314199613.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ARIZ",
+  "precio_listado_normal": 60.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3506,
+      "nombre": "Marrón",
+      "precio": 60.0,
+      "id_color_confirmado": 3506,
+      "tallas": [
+        {
+          "id_talla": 3854,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178043778514335791046799.jpg",
+        "https://euchelperu.com/images/productos/17805409819146556227859.jpg",
+        "https://euchelperu.com/images/productos/178054111761763810315056.jpg",
+        "https://euchelperu.com/images/productos/178054114557124958233756.jpg",
+        "https://euchelperu.com/images/productos/17805411972899314199613.jpg"
+      ]
+    },
+    {
+      "id_color": 3547,
+      "nombre": "Negro",
+      "precio": 60.0,
+      "id_color_confirmado": 3547,
+      "tallas": [
+        {
+          "id_talla": 4054,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17805409819146556227859.jpg",
+        "https://euchelperu.com/images/productos/178043778514335791046799.jpg",
+        "https://euchelperu.com/images/productos/178054111761763810315056.jpg",
+        "https://euchelperu.com/images/productos/178054114557124958233756.jpg",
+        "https://euchelperu.com/images/productos/17805411972899314199613.jpg"
+      ]
+    },
+    {
+      "id_color": 3548,
+      "nombre": "Blanco",
+      "precio": 60.0,
+      "id_color_confirmado": 3548,
+      "tallas": [
+        {
+          "id_talla": 4055,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054111761763810315056.jpg",
+        "https://euchelperu.com/images/productos/178043778514335791046799.jpg",
+        "https://euchelperu.com/images/productos/17805409819146556227859.jpg",
+        "https://euchelperu.com/images/productos/178054114557124958233756.jpg",
+        "https://euchelperu.com/images/productos/17805411972899314199613.jpg"
+      ]
+    },
+    {
+      "id_color": 3550,
+      "nombre": "Vino",
+      "precio": 60.0,
+      "id_color_confirmado": 3550,
+      "tallas": [
+        {
+          "id_talla": 4056,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17805411972899314199613.jpg",
+        "https://euchelperu.com/images/productos/178043778514335791046799.jpg",
+        "https://euchelperu.com/images/productos/17805409819146556227859.jpg",
+        "https://euchelperu.com/images/productos/178054111761763810315056.jpg",
+        "https://euchelperu.com/images/productos/178054114557124958233756.jpg"
+      ]
+    },
+    {
+      "id_color": 3551,
+      "nombre": "verde oscuro",
+      "precio": 60.0,
+      "id_color_confirmado": 3551,
+      "tallas": [
+        {
+          "id_talla": 4057,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178054114557124958233756.jpg",
+        "https://euchelperu.com/images/productos/178043778514335791046799.jpg",
+        "https://euchelperu.com/images/productos/17805409819146556227859.jpg",
+        "https://euchelperu.com/images/productos/178054111761763810315056.jpg",
+        "https://euchelperu.com/images/productos/17805411972899314199613.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:03:17Z"
+}
