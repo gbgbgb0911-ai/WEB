@@ -1,0 +1,41 @@
+{
+  "id_original": 1072,
+  "url_original": "https://euchelperu.com/producto.php?id=1072",
+  "nombre": "VESTIDO JUSTINA",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "107245ETDF",
+  "item_group_id": "1072",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177592352281425975683644.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO JUSTINA",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3281,
+      "nombre": "Marron c/rayas beige",
+      "precio": 65.0,
+      "id_color_confirmado": 3281,
+      "tallas": [
+        {
+          "id_talla": 3609,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177592352281425975683644.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:05:28Z"
+}

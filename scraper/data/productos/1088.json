@@ -1,0 +1,96 @@
+{
+  "id_original": 1088,
+  "url_original": "https://euchelperu.com/producto.php?id=1088",
+  "nombre": "TANK TOP ENCAJE",
+  "descripcion": "Esta delicada camiseta de tirantes con detalles de encaje es la prenda perfecta para cualquier ocasión. Su diseño simple pero elegante la convierte en una pieza versátil que puedes combinar con jeans para un look casual o con una falda para un evento más formal. El suave tejido y el ajuste cómodo la hacen ideal para el uso diario",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "10882WSSF1",
+  "item_group_id": "1088",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17759474478347507673680.jpg",
+    "https://euchelperu.com/images/productos/177594758857420829777717.jpg",
+    "https://euchelperu.com/images/productos/177594778607827913722379.jpg",
+    "https://euchelperu.com/images/productos/178232745535027432821570.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TANK TOP ENCAJE",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3309,
+      "nombre": "Amarillo",
+      "precio": 45.0,
+      "id_color_confirmado": 3309,
+      "tallas": [
+        {
+          "id_talla": 3637,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17759474478347507673680.jpg",
+        "https://euchelperu.com/images/productos/177594758857420829777717.jpg",
+        "https://euchelperu.com/images/productos/177594778607827913722379.jpg",
+        "https://euchelperu.com/images/productos/178232745535027432821570.jpg"
+      ]
+    },
+    {
+      "id_color": 3310,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 3310,
+      "tallas": [
+        {
+          "id_talla": 3638,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177594758857420829777717.jpg",
+        "https://euchelperu.com/images/productos/17759474478347507673680.jpg",
+        "https://euchelperu.com/images/productos/177594778607827913722379.jpg",
+        "https://euchelperu.com/images/productos/178232745535027432821570.jpg"
+      ]
+    },
+    {
+      "id_color": 3311,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 3311,
+      "tallas": [
+        {
+          "id_talla": 3639,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177594778607827913722379.jpg",
+        "https://euchelperu.com/images/productos/17759474478347507673680.jpg",
+        "https://euchelperu.com/images/productos/177594758857420829777717.jpg",
+        "https://euchelperu.com/images/productos/178232745535027432821570.jpg"
+      ]
+    },
+    {
+      "id_color": 3686,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 3686,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178232745535027432821570.jpg",
+        "https://euchelperu.com/images/productos/17759474478347507673680.jpg",
+        "https://euchelperu.com/images/productos/177594758857420829777717.jpg",
+        "https://euchelperu.com/images/productos/177594778607827913722379.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:11:46Z"
+}

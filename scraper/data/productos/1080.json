@@ -1,0 +1,79 @@
+{
+  "id_original": 1080,
+  "url_original": "https://euchelperu.com/producto.php?id=1080",
+  "nombre": "TOP PENELOPE",
+  "descripcion": "Dale un toque moderno y sofisticado a tu estilo con este top. Su diseño ajustado y favorecedor se adapta perfectamente al cuerpo, resaltando la silueta con elegancia y comodidad. El detalle fruncido en la parte lateral añade un efecto estilizado y dinámico, ideal para crear looks actuales y versátiles. Perfecto para combinar con jeans o prendas más formales, este top es una opción imprescindible para cualquier ocasión. Su tejido suave y ligero garantiza frescura y confort durante todo el día, convirtiéndolo en una pieza clave en tu armario.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1080BVGFTT",
+  "item_group_id": "1080",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177594104168563874055942.png",
+    "https://euchelperu.com/images/productos/177594116486181314758461.png",
+    "https://euchelperu.com/images/productos/177594130157530932731979.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP PENELOPE",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3293,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3293,
+      "tallas": [
+        {
+          "id_talla": 3621,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177594104168563874055942.png",
+        "https://euchelperu.com/images/productos/177594116486181314758461.png",
+        "https://euchelperu.com/images/productos/177594130157530932731979.png"
+      ]
+    },
+    {
+      "id_color": 3294,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 3294,
+      "tallas": [
+        {
+          "id_talla": 3622,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177594116486181314758461.png",
+        "https://euchelperu.com/images/productos/177594104168563874055942.png",
+        "https://euchelperu.com/images/productos/177594130157530932731979.png"
+      ]
+    },
+    {
+      "id_color": 3295,
+      "nombre": "ADRILLO",
+      "precio": 45.0,
+      "id_color_confirmado": 3295,
+      "tallas": [
+        {
+          "id_talla": 3623,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177594130157530932731979.png",
+        "https://euchelperu.com/images/productos/177594104168563874055942.png",
+        "https://euchelperu.com/images/productos/177594116486181314758461.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:09:15Z"
+}

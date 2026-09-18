@@ -1,0 +1,71 @@
+{
+  "id_original": 1078,
+  "url_original": "https://euchelperu.com/producto.php?id=1078",
+  "nombre": "CHAQUETA PELUCHE/CUERINA",
+  "descripcion": "",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "10787UJKUI",
+  "item_group_id": "1078",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17759299214635121716926.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CHAQUETA PELUCHE/CUERINA",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3286,
+      "nombre": "Cafe",
+      "precio": 95.0,
+      "id_color_confirmado": 3286,
+      "tallas": [
+        {
+          "id_talla": 3614,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17759299214635121716926.jpg"
+      ]
+    },
+    {
+      "id_color": 3324,
+      "nombre": "Blanco",
+      "precio": 95.0,
+      "id_color_confirmado": 3324,
+      "tallas": [
+        {
+          "id_talla": 3791,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17759299214635121716926.jpg"
+      ]
+    },
+    {
+      "id_color": 3325,
+      "nombre": "Negro",
+      "precio": 95.0,
+      "id_color_confirmado": 3325,
+      "tallas": [
+        {
+          "id_talla": 3792,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17759299214635121716926.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:08:17Z"
+}

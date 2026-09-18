@@ -1,0 +1,101 @@
+{
+  "id_original": 1079,
+  "url_original": "https://euchelperu.com/producto.php?id=1079",
+  "nombre": "BLUSA CLOCK",
+  "descripcion": "Descubre una prenda que combina elegancia y comodidad en cada detalle. Este top destaca por su diseño moderno y minimalista, con un corte que se ajusta suavemente al cuerpo realzando la silueta sin sacrificar confort. Sus mangas amplias aportan un toque sofisticado y versátil, ideal para elevar cualquier look casual o semi-formal.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "107933ERFGBN",
+  "item_group_id": "1079",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17759372466542789422991.jpg",
+    "https://euchelperu.com/images/productos/177593813773513675059923.jpg",
+    "https://euchelperu.com/images/productos/177593889188668510579277.jpg",
+    "https://euchelperu.com/images/productos/177593928105691829947581.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BLUSA CLOCK",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3287,
+      "nombre": "Blanco",
+      "precio": 49.0,
+      "id_color_confirmado": 3287,
+      "tallas": [
+        {
+          "id_talla": 3615,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17759372466542789422991.jpg",
+        "https://euchelperu.com/images/productos/177593813773513675059923.jpg",
+        "https://euchelperu.com/images/productos/177593889188668510579277.jpg",
+        "https://euchelperu.com/images/productos/177593928105691829947581.jpg"
+      ]
+    },
+    {
+      "id_color": 3288,
+      "nombre": "Negro",
+      "precio": 49.0,
+      "id_color_confirmado": 3288,
+      "tallas": [
+        {
+          "id_talla": 3616,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177593813773513675059923.jpg",
+        "https://euchelperu.com/images/productos/17759372466542789422991.jpg",
+        "https://euchelperu.com/images/productos/177593889188668510579277.jpg",
+        "https://euchelperu.com/images/productos/177593928105691829947581.jpg"
+      ]
+    },
+    {
+      "id_color": 3289,
+      "nombre": "Vino",
+      "precio": 49.0,
+      "id_color_confirmado": 3289,
+      "tallas": [
+        {
+          "id_talla": 3617,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177593889188668510579277.jpg",
+        "https://euchelperu.com/images/productos/17759372466542789422991.jpg",
+        "https://euchelperu.com/images/productos/177593813773513675059923.jpg",
+        "https://euchelperu.com/images/productos/177593928105691829947581.jpg"
+      ]
+    },
+    {
+      "id_color": 3290,
+      "nombre": "Azu marino",
+      "precio": 49.0,
+      "id_color_confirmado": 3290,
+      "tallas": [
+        {
+          "id_talla": 3618,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177593928105691829947581.jpg",
+        "https://euchelperu.com/images/productos/17759372466542789422991.jpg",
+        "https://euchelperu.com/images/productos/177593813773513675059923.jpg",
+        "https://euchelperu.com/images/productos/177593889188668510579277.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:09:06Z"
+}

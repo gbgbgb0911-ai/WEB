@@ -1,0 +1,79 @@
+{
+  "id_original": 1089,
+  "url_original": "https://euchelperu.com/producto.php?id=1089",
+  "nombre": "CHALECO CAMISERO",
+  "descripcion": "Eleva tu estilo casual con esta pieza atemporal y elegante. Este polo tejido sin mangas es la definición de la elegancia sin esfuerzo. Confeccionado en un suave tejido de punto color marfil, destaca por sus refinados ribetes negros que definen su estructura y crean un contraste sofisticado. Su diseño tipo chaleco abotonado te permite llevarlo solo para un look minimalista o sobre una camisa para un estilo 'preppy' y capas.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "108944QASWDFVG",
+  "item_group_id": "1089",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1775948489395948348462.jpg",
+    "https://euchelperu.com/images/productos/177594928044223862277208.jpg",
+    "https://euchelperu.com/images/productos/17759494797529147199615.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CHALECO CAMISERO",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3312,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 3312,
+      "tallas": [
+        {
+          "id_talla": 3640,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1775948489395948348462.jpg",
+        "https://euchelperu.com/images/productos/177594928044223862277208.jpg",
+        "https://euchelperu.com/images/productos/17759494797529147199615.jpg"
+      ]
+    },
+    {
+      "id_color": 3313,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 3313,
+      "tallas": [
+        {
+          "id_talla": 3641,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177594928044223862277208.jpg",
+        "https://euchelperu.com/images/productos/1775948489395948348462.jpg",
+        "https://euchelperu.com/images/productos/17759494797529147199615.jpg"
+      ]
+    },
+    {
+      "id_color": 3314,
+      "nombre": "CREMA",
+      "precio": 59.0,
+      "id_color_confirmado": 3314,
+      "tallas": [
+        {
+          "id_talla": 3642,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17759494797529147199615.jpg",
+        "https://euchelperu.com/images/productos/1775948489395948348462.jpg",
+        "https://euchelperu.com/images/productos/177594928044223862277208.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:13:21Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1087,
+  "url_original": "https://euchelperu.com/producto.php?id=1087",
+  "nombre": "TOP CALU",
+  "descripcion": "Este crop top de manga larga es la prenda que transformará tus outfits de temporada. Con un patrón de rayas en tonos neutros (negro, beige y blanco), su diseño frontal ofrece una estética clásica y sofisticada, mientras que sus mangas acampanadas añaden un movimiento fluido y moderno.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1087132QWS",
+  "item_group_id": "1087",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177594625815596361237703.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP CALU",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3307,
+      "nombre": "CAFE",
+      "precio": 49.0,
+      "id_color_confirmado": 3307,
+      "tallas": [
+        {
+          "id_talla": 3635,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177594625815596361237703.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:11:10Z"
+}

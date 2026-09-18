@@ -1,0 +1,41 @@
+{
+  "id_original": 1090,
+  "url_original": "https://euchelperu.com/producto.php?id=1090",
+  "nombre": "FALDA SHORT BICHOTA",
+  "descripcion": "Esta falda mini es una prenda esencial para tu guardarropa. Su diseño atemporal te permite crear looks para cualquier ocasión, desde un día de oficina hasta una noche de fiesta.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 50.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1090FAL69701",
+  "item_group_id": "1090",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177595065007265766526262.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA SHORT BICHOTA",
+  "precio_listado_normal": 50.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3315,
+      "nombre": "Negro",
+      "precio": 50.0,
+      "id_color_confirmado": 3315,
+      "tallas": [
+        {
+          "id_talla": 3643,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177595065007265766526262.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:13:24Z"
+}

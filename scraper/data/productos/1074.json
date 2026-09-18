@@ -1,0 +1,101 @@
+{
+  "id_original": 1074,
+  "url_original": "https://euchelperu.com/producto.php?id=1074",
+  "nombre": "VESTIDO SABRINA",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "107488KMJNB",
+  "item_group_id": "1074",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177592403794658509315476.jpg",
+    "https://euchelperu.com/images/productos/177612946584688222592603.jpg",
+    "https://euchelperu.com/images/productos/177612953696214442394212.jpg",
+    "https://euchelperu.com/images/productos/177612961922841812981604.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO SABRINA",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3283,
+      "nombre": "Blanco",
+      "precio": 69.0,
+      "id_color_confirmado": 3283,
+      "tallas": [
+        {
+          "id_talla": 3611,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177592403794658509315476.jpg",
+        "https://euchelperu.com/images/productos/177612946584688222592603.jpg",
+        "https://euchelperu.com/images/productos/177612953696214442394212.jpg",
+        "https://euchelperu.com/images/productos/177612961922841812981604.jpg"
+      ]
+    },
+    {
+      "id_color": 3321,
+      "nombre": "Celeste",
+      "precio": 69.0,
+      "id_color_confirmado": 3321,
+      "tallas": [
+        {
+          "id_talla": 3649,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177612961922841812981604.jpg",
+        "https://euchelperu.com/images/productos/177592403794658509315476.jpg",
+        "https://euchelperu.com/images/productos/177612946584688222592603.jpg",
+        "https://euchelperu.com/images/productos/177612953696214442394212.jpg"
+      ]
+    },
+    {
+      "id_color": 3322,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 3322,
+      "tallas": [
+        {
+          "id_talla": 3650,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177612953696214442394212.jpg",
+        "https://euchelperu.com/images/productos/177592403794658509315476.jpg",
+        "https://euchelperu.com/images/productos/177612946584688222592603.jpg",
+        "https://euchelperu.com/images/productos/177612961922841812981604.jpg"
+      ]
+    },
+    {
+      "id_color": 3323,
+      "nombre": "Rojo",
+      "precio": 69.0,
+      "id_color_confirmado": 3323,
+      "tallas": [
+        {
+          "id_talla": 3651,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177612946584688222592603.jpg",
+        "https://euchelperu.com/images/productos/177592403794658509315476.jpg",
+        "https://euchelperu.com/images/productos/177612953696214442394212.jpg",
+        "https://euchelperu.com/images/productos/177612961922841812981604.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:06:17Z"
+}

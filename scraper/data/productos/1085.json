@@ -1,0 +1,41 @@
+{
+  "id_original": 1085,
+  "url_original": "https://euchelperu.com/producto.php?id=1085",
+  "nombre": "CARTERA DE 110",
+  "descripcion": "Este bolso tote de la reconocida marca David Jones combina a la perfección un diseño profesional con detalles de tendencia. Su estructura rectangular y firme lo convierte en el compañero ideal para la oficina, la universidad o tus viajes de fin de semana, ofreciendo un aire de sofisticación inmediata a cualquier conjunto.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1085CAR202586",
+  "item_group_id": "1085",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17759427946967437545939.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CARTERA DE 110",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3299,
+      "nombre": "Negro",
+      "precio": 110.0,
+      "id_color_confirmado": 3299,
+      "tallas": [
+        {
+          "id_talla": 3627,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17759427946967437545939.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:10:30Z"
+}

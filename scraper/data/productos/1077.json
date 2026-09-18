@@ -1,0 +1,41 @@
+{
+  "id_original": 1077,
+  "url_original": "https://euchelperu.com/producto.php?id=1077",
+  "nombre": "TOP BELLOTA",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1077BGT66",
+  "item_group_id": "1077",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177592937614465305740604.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP BELLOTA",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3285,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 3285,
+      "tallas": [
+        {
+          "id_talla": 3613,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177592937614465305740604.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:07:08Z"
+}

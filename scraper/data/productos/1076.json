@@ -1,0 +1,86 @@
+{
+  "id_original": 1076,
+  "url_original": "https://euchelperu.com/producto.php?id=1076",
+  "nombre": "POLO OVERLOOK",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "10767UJN",
+  "item_group_id": "1076",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17759288792693970815522.jpg",
+    "https://euchelperu.com/images/productos/178232777764319468986001.jpg",
+    "https://euchelperu.com/images/productos/178232784607414207598237.jpg",
+    "https://euchelperu.com/images/productos/178232793856718558977526.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "POLO OVERLOOK",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3284,
+      "nombre": "Beige",
+      "precio": 45.0,
+      "id_color_confirmado": 3284,
+      "tallas": [
+        {
+          "id_talla": 3612,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17759288792693970815522.jpg",
+        "https://euchelperu.com/images/productos/178232777764319468986001.jpg",
+        "https://euchelperu.com/images/productos/178232784607414207598237.jpg",
+        "https://euchelperu.com/images/productos/178232793856718558977526.jpg"
+      ]
+    },
+    {
+      "id_color": 3687,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 3687,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178232777764319468986001.jpg",
+        "https://euchelperu.com/images/productos/17759288792693970815522.jpg",
+        "https://euchelperu.com/images/productos/178232784607414207598237.jpg",
+        "https://euchelperu.com/images/productos/178232793856718558977526.jpg"
+      ]
+    },
+    {
+      "id_color": 3688,
+      "nombre": "Camello",
+      "precio": null,
+      "id_color_confirmado": 3688,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178232793856718558977526.jpg",
+        "https://euchelperu.com/images/productos/17759288792693970815522.jpg",
+        "https://euchelperu.com/images/productos/178232777764319468986001.jpg",
+        "https://euchelperu.com/images/productos/178232784607414207598237.jpg"
+      ]
+    },
+    {
+      "id_color": 3689,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 3689,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178232784607414207598237.jpg",
+        "https://euchelperu.com/images/productos/17759288792693970815522.jpg",
+        "https://euchelperu.com/images/productos/178232777764319468986001.jpg",
+        "https://euchelperu.com/images/productos/178232793856718558977526.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:06:53Z"
+}

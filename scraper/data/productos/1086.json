@@ -1,0 +1,101 @@
+{
+  "id_original": 1086,
+  "url_original": "https://euchelperu.com/producto.php?id=1086",
+  "nombre": "POLO RUGBY HILO",
+  "descripcion": "¡Este polo de punto a rayas es una pieza versátil y moderna que no puede faltar en tu armario! Su diseño clásico y sus colores vibrantes lo hacen perfecto para un look casual y fresco. El tejido de punto es suave y cómodo, ideal para los días calurosos. Combínalo con tus jeans favoritos para un estilo relajado o con una falda para un toque más sofisticado. ¡No te quedes sin el tuyo!",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "10860PÑ",
+  "item_group_id": "1086",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17759444041416417661044.jpg",
+    "https://euchelperu.com/images/productos/177594474025653623434662.png",
+    "https://euchelperu.com/images/productos/17759450350304013015411.jpg",
+    "https://euchelperu.com/images/productos/17759452285658225113772.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "POLO RUGBY HILO",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3303,
+      "nombre": "CELESTE",
+      "precio": 49.0,
+      "id_color_confirmado": 3303,
+      "tallas": [
+        {
+          "id_talla": 3631,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17759444041416417661044.jpg",
+        "https://euchelperu.com/images/productos/177594474025653623434662.png",
+        "https://euchelperu.com/images/productos/17759450350304013015411.jpg",
+        "https://euchelperu.com/images/productos/17759452285658225113772.jpg"
+      ]
+    },
+    {
+      "id_color": 3304,
+      "nombre": "AZUL",
+      "precio": 49.0,
+      "id_color_confirmado": 3304,
+      "tallas": [
+        {
+          "id_talla": 3632,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177594474025653623434662.png",
+        "https://euchelperu.com/images/productos/17759444041416417661044.jpg",
+        "https://euchelperu.com/images/productos/17759450350304013015411.jpg",
+        "https://euchelperu.com/images/productos/17759452285658225113772.jpg"
+      ]
+    },
+    {
+      "id_color": 3305,
+      "nombre": "Vino",
+      "precio": 49.0,
+      "id_color_confirmado": 3305,
+      "tallas": [
+        {
+          "id_talla": 3633,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17759450350304013015411.jpg",
+        "https://euchelperu.com/images/productos/17759444041416417661044.jpg",
+        "https://euchelperu.com/images/productos/177594474025653623434662.png",
+        "https://euchelperu.com/images/productos/17759452285658225113772.jpg"
+      ]
+    },
+    {
+      "id_color": 3306,
+      "nombre": "Beige",
+      "precio": 49.0,
+      "id_color_confirmado": 3306,
+      "tallas": [
+        {
+          "id_talla": 3634,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17759452285658225113772.jpg",
+        "https://euchelperu.com/images/productos/17759444041416417661044.jpg",
+        "https://euchelperu.com/images/productos/177594474025653623434662.png",
+        "https://euchelperu.com/images/productos/17759450350304013015411.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:11:07Z"
+}

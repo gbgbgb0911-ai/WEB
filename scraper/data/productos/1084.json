@@ -1,0 +1,101 @@
+{
+  "id_original": 1084,
+  "url_original": "https://euchelperu.com/producto.php?id=1084",
+  "nombre": "TOP DEBORA",
+  "descripcion": "¡Este top halter es la pieza perfecta para cualquier ocasión! Su tejido texturizado y diseño halter te harán lucir sofisticada, mientras que su corte suelto te mantendrá fresca y cómoda durante todo el día. Combínalo con tus jeans favoritos para un look casual y elegante o con una falda para un evento formal. ¡No te quedes sin el tuyo!",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "10845tyhn",
+  "item_group_id": "1084",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177594241045175854256439.jpg",
+    "https://euchelperu.com/images/productos/177594349206109585260890.png",
+    "https://euchelperu.com/images/productos/177594385927026131761874.png",
+    "https://euchelperu.com/images/productos/177594400508616735491678.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP DEBORA",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3298,
+      "nombre": "AZUL MARINO",
+      "precio": 45.0,
+      "id_color_confirmado": 3298,
+      "tallas": [
+        {
+          "id_talla": 3626,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177594241045175854256439.jpg",
+        "https://euchelperu.com/images/productos/177594349206109585260890.png",
+        "https://euchelperu.com/images/productos/177594385927026131761874.png",
+        "https://euchelperu.com/images/productos/177594400508616735491678.png"
+      ]
+    },
+    {
+      "id_color": 3300,
+      "nombre": "NEGRO",
+      "precio": 45.0,
+      "id_color_confirmado": 3300,
+      "tallas": [
+        {
+          "id_talla": 3628,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177594349206109585260890.png",
+        "https://euchelperu.com/images/productos/177594241045175854256439.jpg",
+        "https://euchelperu.com/images/productos/177594385927026131761874.png",
+        "https://euchelperu.com/images/productos/177594400508616735491678.png"
+      ]
+    },
+    {
+      "id_color": 3301,
+      "nombre": "VINO",
+      "precio": 45.0,
+      "id_color_confirmado": 3301,
+      "tallas": [
+        {
+          "id_talla": 3629,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177594385927026131761874.png",
+        "https://euchelperu.com/images/productos/177594241045175854256439.jpg",
+        "https://euchelperu.com/images/productos/177594349206109585260890.png",
+        "https://euchelperu.com/images/productos/177594400508616735491678.png"
+      ]
+    },
+    {
+      "id_color": 3302,
+      "nombre": "Beige",
+      "precio": 45.0,
+      "id_color_confirmado": 3302,
+      "tallas": [
+        {
+          "id_talla": 3630,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177594400508616735491678.png",
+        "https://euchelperu.com/images/productos/177594241045175854256439.jpg",
+        "https://euchelperu.com/images/productos/177594349206109585260890.png",
+        "https://euchelperu.com/images/productos/177594385927026131761874.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:10:15Z"
+}

@@ -1,0 +1,96 @@
+{
+  "id_original": 1073,
+  "url_original": "https://euchelperu.com/producto.php?id=1073",
+  "nombre": "SET ROXY",
+  "descripcion": "",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "10737KJHGF7",
+  "item_group_id": "1073",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177592377411998978812733.jpg",
+    "https://euchelperu.com/images/productos/17761271502432933538731.jpg",
+    "https://euchelperu.com/images/productos/17761273209463630589574.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SET ROXY",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3282,
+      "nombre": "Azul",
+      "precio": 75.0,
+      "id_color_confirmado": 3282,
+      "tallas": [
+        {
+          "id_talla": 3610,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177592377411998978812733.jpg",
+        "https://euchelperu.com/images/productos/17761271502432933538731.jpg",
+        "https://euchelperu.com/images/productos/17761273209463630589574.jpg"
+      ]
+    },
+    {
+      "id_color": 3318,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 3318,
+      "tallas": [
+        {
+          "id_talla": 3646,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17761271502432933538731.jpg",
+        "https://euchelperu.com/images/productos/177592377411998978812733.jpg",
+        "https://euchelperu.com/images/productos/17761273209463630589574.jpg"
+      ]
+    },
+    {
+      "id_color": 3319,
+      "nombre": "Rojo",
+      "precio": 75.0,
+      "id_color_confirmado": 3319,
+      "tallas": [
+        {
+          "id_talla": 3647,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17761273209463630589574.jpg",
+        "https://euchelperu.com/images/productos/177592377411998978812733.jpg",
+        "https://euchelperu.com/images/productos/17761271502432933538731.jpg"
+      ]
+    },
+    {
+      "id_color": 3320,
+      "nombre": "Beige",
+      "precio": 75.0,
+      "id_color_confirmado": 3320,
+      "tallas": [
+        {
+          "id_talla": 3648,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177592377411998978812733.jpg",
+        "https://euchelperu.com/images/productos/17761271502432933538731.jpg",
+        "https://euchelperu.com/images/productos/17761273209463630589574.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:06:04Z"
+}
