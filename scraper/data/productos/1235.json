@@ -1,0 +1,101 @@
+{
+  "id_original": 1235,
+  "url_original": "https://euchelperu.com/producto.php?id=1235",
+  "nombre": "CHAQUETA CHRISTIAN",
+  "descripcion": "",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1235CHA638",
+  "item_group_id": "1235",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178294671375350358599740.jpg",
+    "https://euchelperu.com/images/productos/178294748705227865716335.jpg",
+    "https://euchelperu.com/images/productos/178294759026512943434956.jpg",
+    "https://euchelperu.com/images/productos/178294766378248214542429.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CHAQUETA CHRISTIAN",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3742,
+      "nombre": "Marrón",
+      "precio": 55.0,
+      "id_color_confirmado": 3742,
+      "tallas": [
+        {
+          "id_talla": 4019,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178294671375350358599740.jpg",
+        "https://euchelperu.com/images/productos/178294748705227865716335.jpg",
+        "https://euchelperu.com/images/productos/178294759026512943434956.jpg",
+        "https://euchelperu.com/images/productos/178294766378248214542429.jpg"
+      ]
+    },
+    {
+      "id_color": 3743,
+      "nombre": "Azul acero",
+      "precio": 55.0,
+      "id_color_confirmado": 3743,
+      "tallas": [
+        {
+          "id_talla": 4020,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178294766378248214542429.jpg",
+        "https://euchelperu.com/images/productos/178294671375350358599740.jpg",
+        "https://euchelperu.com/images/productos/178294748705227865716335.jpg",
+        "https://euchelperu.com/images/productos/178294759026512943434956.jpg"
+      ]
+    },
+    {
+      "id_color": 3744,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 3744,
+      "tallas": [
+        {
+          "id_talla": 4021,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178294759026512943434956.jpg",
+        "https://euchelperu.com/images/productos/178294671375350358599740.jpg",
+        "https://euchelperu.com/images/productos/178294748705227865716335.jpg",
+        "https://euchelperu.com/images/productos/178294766378248214542429.jpg"
+      ]
+    },
+    {
+      "id_color": 3745,
+      "nombre": "Crema",
+      "precio": 55.0,
+      "id_color_confirmado": 3745,
+      "tallas": [
+        {
+          "id_talla": 4022,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178294748705227865716335.jpg",
+        "https://euchelperu.com/images/productos/178294671375350358599740.jpg",
+        "https://euchelperu.com/images/productos/178294759026512943434956.jpg",
+        "https://euchelperu.com/images/productos/178294766378248214542429.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:32:04Z"
+}

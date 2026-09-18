@@ -1,0 +1,41 @@
+{
+  "id_original": 1244,
+  "url_original": "https://euchelperu.com/producto.php?id=1244",
+  "nombre": "VESTIDO ARIA",
+  "descripcion": "Deslumbra en tu próxima gala con este impresionante vestido largo en un vibrante color rojo. Este diseño de silueta sirena combina elegancia y audacia, destacando por su profundo escote pronunciado (plunging neckline) tipo cut-out en el centro del busto. El sofisticado cuello halter está adornado con detalles metálicos dorados que aportan un toque de lujo y eliminan la necesidad de collar. El drapeado estratégico en la cintura y a lo largo de la falda estiliza la figura de manera impecable, creando un look escultural y moderno. Perfecto para eventos de alfombra roja, galas o una noche inolvidable.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1244Q5W9E3R8",
+  "item_group_id": "1244",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178390443497266713389538.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ARIA",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3777,
+      "nombre": "Rojo",
+      "precio": 79.0,
+      "id_color_confirmado": 3777,
+      "tallas": [
+        {
+          "id_talla": 4066,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178390443497266713389538.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:39:30Z"
+}

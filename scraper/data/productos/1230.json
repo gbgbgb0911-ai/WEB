@@ -1,0 +1,79 @@
+{
+  "id_original": 1230,
+  "url_original": "https://euchelperu.com/producto.php?id=1230",
+  "nombre": "VESTIDO RIOT",
+  "descripcion": "Deslumbra con la delicadeza de nuestro nuevo vestido corto confeccionado en encaje de alta calidad. Su diseño de manga larga con escote en V equilibra perfectamente la sofisticación con un toque juvenil y fresco. Esta pieza es un básico infaltable para quienes buscan un look romántico y distinguido. Su estructura ajustada en el torso que se abre sutilmente hacia abajo resalta la silueta femenina, convirtiéndolo en la elección ideal para citas, brunch o eventos de día.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1230VES124",
+  "item_group_id": "1230",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178285924369524856353.jpg",
+    "https://euchelperu.com/images/productos/178293147431363733150163.jpg",
+    "https://euchelperu.com/images/productos/178293155369156565087666.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO RIOT",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3713,
+      "nombre": "Blanco",
+      "precio": 69.0,
+      "id_color_confirmado": 3713,
+      "tallas": [
+        {
+          "id_talla": 3946,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178285924369524856353.jpg",
+        "https://euchelperu.com/images/productos/178293147431363733150163.jpg",
+        "https://euchelperu.com/images/productos/178293155369156565087666.jpg"
+      ]
+    },
+    {
+      "id_color": 3725,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 3725,
+      "tallas": [
+        {
+          "id_talla": 4033,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293147431363733150163.jpg",
+        "https://euchelperu.com/images/productos/178285924369524856353.jpg",
+        "https://euchelperu.com/images/productos/178293155369156565087666.jpg"
+      ]
+    },
+    {
+      "id_color": 3726,
+      "nombre": "Ladrillo",
+      "precio": 69.0,
+      "id_color_confirmado": 3726,
+      "tallas": [
+        {
+          "id_talla": 4034,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293155369156565087666.jpg",
+        "https://euchelperu.com/images/productos/178285924369524856353.jpg",
+        "https://euchelperu.com/images/productos/178293147431363733150163.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:28:08Z"
+}

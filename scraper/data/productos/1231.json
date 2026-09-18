@@ -1,0 +1,79 @@
+{
+  "id_original": 1231,
+  "url_original": "https://euchelperu.com/producto.php?id=1231",
+  "nombre": "VESTIDO CORTO AKIRA",
+  "descripcion": "Añade un toque de sofisticación irresistible a tu colección con nuestro vestido corto en tono vino. Esta pieza destaca por su diseño asimétrico de un solo hombro, combinado con una manga larga y fluida que aporta una silueta moderna y dinámica. El cuerpo del vestido presenta un detalle de fruncido lateral que moldea y realza la figura de manera natural, convirtiéndolo en la elección ideal para una noche especial o un evento formal.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1231VES393",
+  "item_group_id": "1231",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178285942658527493190869.jpg",
+    "https://euchelperu.com/images/productos/178293118043063792070260.jpg",
+    "https://euchelperu.com/images/productos/178293124022837894020412.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO CORTO AKIRA",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3714,
+      "nombre": "Vino",
+      "precio": 55.0,
+      "id_color_confirmado": 3714,
+      "tallas": [
+        {
+          "id_talla": 3947,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178285942658527493190869.jpg",
+        "https://euchelperu.com/images/productos/178293118043063792070260.jpg",
+        "https://euchelperu.com/images/productos/178293124022837894020412.jpg"
+      ]
+    },
+    {
+      "id_color": 3723,
+      "nombre": "Marrón",
+      "precio": 55.0,
+      "id_color_confirmado": 3723,
+      "tallas": [
+        {
+          "id_talla": 4031,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293118043063792070260.jpg",
+        "https://euchelperu.com/images/productos/178285942658527493190869.jpg",
+        "https://euchelperu.com/images/productos/178293124022837894020412.jpg"
+      ]
+    },
+    {
+      "id_color": 3724,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 3724,
+      "tallas": [
+        {
+          "id_talla": 4032,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293124022837894020412.jpg",
+        "https://euchelperu.com/images/productos/178285942658527493190869.jpg",
+        "https://euchelperu.com/images/productos/178293118043063792070260.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:28:52Z"
+}

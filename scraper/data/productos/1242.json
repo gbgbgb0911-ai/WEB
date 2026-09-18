@@ -1,0 +1,41 @@
+{
+  "id_original": 1242,
+  "url_original": "https://euchelperu.com/producto.php?id=1242",
+  "nombre": "VESTIDO JULIETTE",
+  "descripcion": "Añade un toque de elegancia a tu armario con este vestido corto de encaje negro. Su diseño de manga larga y escote redondo ofrece un estilo sofisticado y versátil, perfecto para cualquier evento especial o una noche elegante. El delicado detalle de volante en el bajo añade un toque femenino y coqueto. Combínalo con tacones y accesorios sencillos para un look impactante.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1242U4I6O1P7 ",
+  "item_group_id": "1242",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178389863742665418127236.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO JULIETTE",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3775,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 3775,
+      "tallas": [
+        {
+          "id_talla": 4064,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178389863742665418127236.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:39:14Z"
+}

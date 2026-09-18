@@ -1,0 +1,41 @@
+{
+  "id_original": 1254,
+  "url_original": "https://euchelperu.com/producto.php?id=1254",
+  "nombre": "PANTALON HILO RUSS",
+  "descripcion": "La fusión perfecta entre máxima comodidad y estilo actual. Este pantalón de punto es la prenda ideal para quienes buscan un look relajado sin sacrificar la elegancia. Gracias a su tejido suave y su diseño moderno, se convertirá en tu favorito para los días en los que priorizas el confort total.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1254N5K8M2T6",
+  "item_group_id": "1254",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178406468202866286319303.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "PANTALON HILO RUSS",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3790,
+      "nombre": "Marrón",
+      "precio": 55.0,
+      "id_color_confirmado": 3790,
+      "tallas": [
+        {
+          "id_talla": 4079,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178406468202866286319303.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:42:00Z"
+}

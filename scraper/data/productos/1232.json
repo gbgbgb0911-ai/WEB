@@ -1,0 +1,101 @@
+{
+  "id_original": 1232,
+  "url_original": "https://euchelperu.com/producto.php?id=1232",
+  "nombre": "VESTIDO MELANIA",
+  "descripcion": "Redefine tu elegancia con este vestido corto, una pieza esencial que combina minimalismo y un toque moderno. Su diseño de cuello halter, realzado por un detalle metálico central, aporta sofisticación inmediata sin necesidad de accesorios adicionales. La estructura del vestido se ajusta suavemente a la figura, creando una silueta limpia y favorecedora. Ideal para eventos nocturnos, cenas o cualquier ocasión donde desees destacar con clase",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1232VES570",
+  "item_group_id": "1232",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178285962035150134152211.jpg",
+    "https://euchelperu.com/images/productos/178293067553348227333255.jpg",
+    "https://euchelperu.com/images/productos/17829308111381553267667.jpg",
+    "https://euchelperu.com/images/productos/178293091132236517013293.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO MELANIA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3715,
+      "nombre": "verde olivo",
+      "precio": 59.0,
+      "id_color_confirmado": 3715,
+      "tallas": [
+        {
+          "id_talla": 3948,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178285962035150134152211.jpg",
+        "https://euchelperu.com/images/productos/178293067553348227333255.jpg",
+        "https://euchelperu.com/images/productos/17829308111381553267667.jpg",
+        "https://euchelperu.com/images/productos/178293091132236517013293.jpg"
+      ]
+    },
+    {
+      "id_color": 3720,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 3720,
+      "tallas": [
+        {
+          "id_talla": 4028,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293067553348227333255.jpg",
+        "https://euchelperu.com/images/productos/178285962035150134152211.jpg",
+        "https://euchelperu.com/images/productos/17829308111381553267667.jpg",
+        "https://euchelperu.com/images/productos/178293091132236517013293.jpg"
+      ]
+    },
+    {
+      "id_color": 3721,
+      "nombre": "Beige",
+      "precio": 59.0,
+      "id_color_confirmado": 3721,
+      "tallas": [
+        {
+          "id_talla": 4029,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17829308111381553267667.jpg",
+        "https://euchelperu.com/images/productos/178285962035150134152211.jpg",
+        "https://euchelperu.com/images/productos/178293067553348227333255.jpg",
+        "https://euchelperu.com/images/productos/178293091132236517013293.jpg"
+      ]
+    },
+    {
+      "id_color": 3722,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 3722,
+      "tallas": [
+        {
+          "id_talla": 4030,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178293091132236517013293.jpg",
+        "https://euchelperu.com/images/productos/178285962035150134152211.jpg",
+        "https://euchelperu.com/images/productos/178293067553348227333255.jpg",
+        "https://euchelperu.com/images/productos/17829308111381553267667.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:29:41Z"
+}

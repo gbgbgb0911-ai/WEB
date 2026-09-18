@@ -1,0 +1,41 @@
+{
+  "id_original": 1249,
+  "url_original": "https://euchelperu.com/producto.php?id=1249",
+  "nombre": "TOP HALTER",
+  "descripcion": "Luce fresca y sofisticada con este encantador top estilo halter, diseñado para resaltar tus hombros y brindar un toque femenino y moderno a tu outfit. Su delicado color y su textura única lo convierten en la pieza ideal para destacar tanto en ocasiones casuales como en salidas especiales.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1249Z8X2C6V1",
+  "item_group_id": "1249",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178406207101322266414923.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP HALTER",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3785,
+      "nombre": "Rosa",
+      "precio": 45.0,
+      "id_color_confirmado": 3785,
+      "tallas": [
+        {
+          "id_talla": 4074,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178406207101322266414923.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:40:33Z"
+}

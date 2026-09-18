@@ -1,0 +1,41 @@
+{
+  "id_original": 1250,
+  "url_original": "https://euchelperu.com/producto.php?id=1250",
+  "nombre": "VESTIDO TILSA",
+  "descripcion": "Deslumbra en tu próximo evento con este sofisticado vestido largo. Diseñado para resaltar la silueta con elegancia y un toque de modernidad, este vestido es la elección perfecta para quienes buscan un estilo impecable y refinado. Cuenta con un delicado drapeado lateral a la altura de la cintura, que no solo añade interés visual, sino que también ayuda a estilizar y moldear la figura de forma natural.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1250V1B5N9M3",
+  "item_group_id": "1250",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178406227921913389115037.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO TILSA",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3786,
+      "nombre": "Azul",
+      "precio": 75.0,
+      "id_color_confirmado": 3786,
+      "tallas": [
+        {
+          "id_talla": 4075,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178406227921913389115037.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:41:00Z"
+}

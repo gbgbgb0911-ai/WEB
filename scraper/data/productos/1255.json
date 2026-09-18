@@ -1,0 +1,41 @@
+{
+  "id_original": 1255,
+  "url_original": "https://euchelperu.com/producto.php?id=1255",
+  "nombre": "CHAQUETA ZENIT",
+  "descripcion": "Dale un giro audaz y clásico a tu estilo con nuestra chaqueta tipo bomber en efecto piel. Esta prenda es la elección perfecta para quienes buscan un equilibrio ideal entre comodidad, abrigo y una estética urbana sofisticada. Su profundo color marrón chocolate la convierte en un básico versátil que elevará cualquier outfit al instante.",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 135.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1255D6F1G4H7",
+  "item_group_id": "1255",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17840649386501193766113.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CHAQUETA ZENIT",
+  "precio_listado_normal": 135.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3791,
+      "nombre": "Marrón",
+      "precio": 135.0,
+      "id_color_confirmado": 3791,
+      "tallas": [
+        {
+          "id_talla": 4080,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17840649386501193766113.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:42:03Z"
+}

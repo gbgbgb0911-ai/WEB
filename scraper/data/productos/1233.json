@@ -1,0 +1,101 @@
+{
+  "id_original": 1233,
+  "url_original": "https://euchelperu.com/producto.php?id=1233",
+  "nombre": "FALDA SHORT PEACH",
+  "descripcion": "Eleva tus looks casuales con nuestra falda en acabado tipo suede, una pieza imprescindible que combina textura, estilo y comodidad. Su diseño atemporal, con detalles clásicos de bolsillos y costuras visibles, la convierte en el complemento perfecto para cualquier temporada.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1233FAL500",
+  "item_group_id": "1233",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178285976678605377810327.jpg",
+    "https://euchelperu.com/images/productos/178292978774037439246877.jpg",
+    "https://euchelperu.com/images/productos/17829298569213811647553.jpg",
+    "https://euchelperu.com/images/productos/178292987534962551367219.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA SHORT PEACH",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3716,
+      "nombre": "Beige",
+      "precio": 79.0,
+      "id_color_confirmado": 3716,
+      "tallas": [
+        {
+          "id_talla": 3949,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178285976678605377810327.jpg",
+        "https://euchelperu.com/images/productos/178292978774037439246877.jpg",
+        "https://euchelperu.com/images/productos/17829298569213811647553.jpg",
+        "https://euchelperu.com/images/productos/178292987534962551367219.jpg"
+      ]
+    },
+    {
+      "id_color": 3717,
+      "nombre": "Marrón",
+      "precio": 79.0,
+      "id_color_confirmado": 3717,
+      "tallas": [
+        {
+          "id_talla": 4025,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17829298569213811647553.jpg",
+        "https://euchelperu.com/images/productos/178285976678605377810327.jpg",
+        "https://euchelperu.com/images/productos/178292978774037439246877.jpg",
+        "https://euchelperu.com/images/productos/178292987534962551367219.jpg"
+      ]
+    },
+    {
+      "id_color": 3718,
+      "nombre": "Negro",
+      "precio": 79.0,
+      "id_color_confirmado": 3718,
+      "tallas": [
+        {
+          "id_talla": 4026,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178292987534962551367219.jpg",
+        "https://euchelperu.com/images/productos/178285976678605377810327.jpg",
+        "https://euchelperu.com/images/productos/178292978774037439246877.jpg",
+        "https://euchelperu.com/images/productos/17829298569213811647553.jpg"
+      ]
+    },
+    {
+      "id_color": 3719,
+      "nombre": "Vino",
+      "precio": 79.0,
+      "id_color_confirmado": 3719,
+      "tallas": [
+        {
+          "id_talla": 4027,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178292978774037439246877.jpg",
+        "https://euchelperu.com/images/productos/178285976678605377810327.jpg",
+        "https://euchelperu.com/images/productos/17829298569213811647553.jpg",
+        "https://euchelperu.com/images/productos/178292987534962551367219.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:30:58Z"
+}

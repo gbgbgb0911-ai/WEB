@@ -1,0 +1,41 @@
+{
+  "id_original": 1246,
+  "url_original": "https://euchelperu.com/producto.php?id=1246",
+  "nombre": "TOP AMARA",
+  "descripcion": "Eleva tu estilo con este sofisticado top, diseñado para quienes buscan un toque de distinción y romanticismo en su outfit. Presenta un elegante escote asimétrico que resalta la silueta con delicadeza. Sus mangas largas culminan en un diseño acampanado (estilo campana), brindando movimiento y un toque retro-chic muy en tendencia.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1246E2R8T3Y9",
+  "item_group_id": "1246",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178406142357691735539763.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP AMARA",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3782,
+      "nombre": "Vino",
+      "precio": 49.0,
+      "id_color_confirmado": 3782,
+      "tallas": [
+        {
+          "id_talla": 4071,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178406142357691735539763.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:40:24Z"
+}

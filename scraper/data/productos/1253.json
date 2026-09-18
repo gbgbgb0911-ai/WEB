@@ -1,0 +1,41 @@
+{
+  "id_original": 1253,
+  "url_original": "https://euchelperu.com/producto.php?id=1253",
+  "nombre": "FALDA MONACO",
+  "descripcion": "Añade un toque audaz y moderno a tu armario con nuestra minifalda de efecto piel. En un sofisticado tono marrón chocolate, esta prenda es ideal para crear looks con mucha personalidad, combinando un diseño vanguardista con un ajuste favorecedor.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1253N4M6P1Q7",
+  "item_group_id": "1253",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1784064227185517485401.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA MONACO",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3789,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 3789,
+      "tallas": [
+        {
+          "id_talla": 4078,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1784064227185517485401.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:41:57Z"
+}

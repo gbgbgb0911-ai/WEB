@@ -1,0 +1,41 @@
+{
+  "id_original": 1245,
+  "url_original": "https://euchelperu.com/producto.php?id=1245",
+  "nombre": "VESTIDO NAELI",
+  "descripcion": "Apuesta por la elegancia y la versatilidad con este sofisticado minivestido en un clásico color azul marino. Este diseño combina a la perfección una parte superior tipo blusón, con un delicado drapeado que nace del cuello halter, con una falda ceñida al cuerpo que realza tu silueta. El cuello halter alto crea una línea estilizada y moderna, convirtiendo a este vestido en una opción ideal tanto para una cena elegante como para una noche de fiesta. Su tejido suave y elástico garantiza comodidad durante todo el día o la noche.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1245K9H1S4J8",
+  "item_group_id": "1245",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178390537652768457372483.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO NAELI",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3778,
+      "nombre": "Azul",
+      "precio": 45.0,
+      "id_color_confirmado": 3778,
+      "tallas": [
+        {
+          "id_talla": 4067,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178390537652768457372483.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:39:45Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1247,
+  "url_original": "https://euchelperu.com/producto.php?id=1247",
+  "nombre": "TOP ELITE",
+  "descripcion": "Eleva tu estilo diario con este sofisticado top ajustado, una prenda esencial que combina un diseño moderno con un toque clásico. Ideal para el otoño o las noches de entretiempo, este top es perfecto para crear looks versátiles, desde un estilismo casual con tus jeans favoritos hasta un conjunto más pulido para la oficina.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1247G3H1J7K4",
+  "item_group_id": "1247",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17840616995846586331800.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ELITE",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3783,
+      "nombre": "Beige",
+      "precio": 49.0,
+      "id_color_confirmado": 3783,
+      "tallas": [
+        {
+          "id_talla": 4072,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17840616995846586331800.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:40:27Z"
+}

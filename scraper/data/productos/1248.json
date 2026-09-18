@@ -1,0 +1,41 @@
+{
+  "id_original": 1248,
+  "url_original": "https://euchelperu.com/producto.php?id=1248",
+  "nombre": "TOP MAO",
+  "descripcion": "Eleva tu estilo diario con este sofisticado top ajustado, una prenda esencial que combina una textura única con un diseño clásico y refinado. Perfecto para la transición de estaciones o para añadir una capa de elegancia a cualquier look, este top es tan versátil como favorecedor.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1248Y2U8I4O6",
+  "item_group_id": "1248",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17840619035582371312742.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP MAO",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3784,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3784,
+      "tallas": [
+        {
+          "id_talla": 4073,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17840619035582371312742.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:40:30Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1252,
+  "url_original": "https://euchelperu.com/producto.php?id=1252",
+  "nombre": "FALDA ALYA",
+  "descripcion": "Dale un toque clásico y sofisticado a tu estilo con nuestra minifalda de cuadros, una pieza imprescindible que nunca pasa de moda. Con su estampado atemporal en blanco y negro, esta falda es extremadamente versátil y fácil de combinar.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "12524Y1U6I8O",
+  "item_group_id": "1252",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17840638663310983967409.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA ALYA",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3788,
+      "nombre": "Blanco",
+      "precio": 65.0,
+      "id_color_confirmado": 3788,
+      "tallas": [
+        {
+          "id_talla": 4077,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17840638663310983967409.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:41:54Z"
+}

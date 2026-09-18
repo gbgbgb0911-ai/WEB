@@ -1,0 +1,101 @@
+{
+  "id_original": 1243,
+  "url_original": "https://euchelperu.com/producto.php?id=1243",
+  "nombre": "VESTIDO PARIS",
+  "descripcion": "Eleva tu estilo con este encantador vestido corto en un profundo tono burdeos. Este diseño combina un ajuste ceñido y favorecedor con mangas largas de tul semitransparente que añaden un toque de sofisticación etérea. El vestido está delicadamente decorado con un patrón floral aterciopelado tono sobre tono, creando una textura rica y un look romántico. Perfecto para una cita, una fiesta o cualquier evento especial donde quieras destacar con elegancia.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1243A5S9D2F8",
+  "item_group_id": "1243",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178390051196670177970002.jpg",
+    "https://euchelperu.com/images/productos/17839062729867461279797.jpg",
+    "https://euchelperu.com/images/productos/178390728941753109619230.jpg",
+    "https://euchelperu.com/images/productos/178390758208435263943508.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO PARIS",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3776,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 3776,
+      "tallas": [
+        {
+          "id_talla": 4065,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178390051196670177970002.jpg",
+        "https://euchelperu.com/images/productos/17839062729867461279797.jpg",
+        "https://euchelperu.com/images/productos/178390728941753109619230.jpg",
+        "https://euchelperu.com/images/productos/178390758208435263943508.jpg"
+      ]
+    },
+    {
+      "id_color": 3779,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 3779,
+      "tallas": [
+        {
+          "id_talla": 4068,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17839062729867461279797.jpg",
+        "https://euchelperu.com/images/productos/178390051196670177970002.jpg",
+        "https://euchelperu.com/images/productos/178390728941753109619230.jpg",
+        "https://euchelperu.com/images/productos/178390758208435263943508.jpg"
+      ]
+    },
+    {
+      "id_color": 3780,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 3780,
+      "tallas": [
+        {
+          "id_talla": 4069,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178390728941753109619230.jpg",
+        "https://euchelperu.com/images/productos/178390051196670177970002.jpg",
+        "https://euchelperu.com/images/productos/17839062729867461279797.jpg",
+        "https://euchelperu.com/images/productos/178390758208435263943508.jpg"
+      ]
+    },
+    {
+      "id_color": 3781,
+      "nombre": "verde olivo",
+      "precio": 59.0,
+      "id_color_confirmado": 3781,
+      "tallas": [
+        {
+          "id_talla": 4070,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178390758208435263943508.jpg",
+        "https://euchelperu.com/images/productos/178390051196670177970002.jpg",
+        "https://euchelperu.com/images/productos/17839062729867461279797.jpg",
+        "https://euchelperu.com/images/productos/178390728941753109619230.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:39:27Z"
+}

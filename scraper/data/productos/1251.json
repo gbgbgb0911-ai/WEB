@@ -1,0 +1,41 @@
+{
+  "id_original": 1251,
+  "url_original": "https://euchelperu.com/producto.php?id=1251",
+  "nombre": "TOP ESSENCIAL",
+  "descripcion": "Un básico infaltable que combina comodidad y un estilo delicado. Este polo de manga larga en un suave tono rosa claro se adapta perfectamente a la silueta, ofreciendo un look casual y femenino ideal para el día a día.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1251R1G6L3V9",
+  "item_group_id": "1251",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17840632818922037539065.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ESSENCIAL",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3787,
+      "nombre": "Rosado pastel",
+      "precio": 49.0,
+      "id_color_confirmado": 3787,
+      "tallas": [
+        {
+          "id_talla": 4076,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17840632818922037539065.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:41:39Z"
+}
