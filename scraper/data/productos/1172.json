@@ -1,0 +1,41 @@
+{
+  "id_original": 1172,
+  "url_original": "https://euchelperu.com/producto.php?id=1172",
+  "nombre": "TOP DAMARYS",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1172Dbeb9",
+  "item_group_id": "1172",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177924210389699161968390.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP DAMARYS",
+  "precio_listado_normal": 39.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3479,
+      "nombre": "Vino",
+      "precio": 39.0,
+      "id_color_confirmado": 3479,
+      "tallas": [
+        {
+          "id_talla": 3827,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177924210389699161968390.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:45:46Z"
+}

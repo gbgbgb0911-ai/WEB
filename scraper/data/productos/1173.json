@@ -1,0 +1,79 @@
+{
+  "id_original": 1173,
+  "url_original": "https://euchelperu.com/producto.php?id=1173",
+  "nombre": "PANTALON MONET",
+  "descripcion": "",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1173A5EDS",
+  "item_group_id": "1173",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177924258235067817791952.jpg",
+    "https://euchelperu.com/images/productos/178215111789604926845040.jpg",
+    "https://euchelperu.com/images/productos/178215114762134394232403.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "PANTALON MONET",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3480,
+      "nombre": "Gris",
+      "precio": 85.0,
+      "id_color_confirmado": 3480,
+      "tallas": [
+        {
+          "id_talla": 3828,
+          "nombre": "S-M-L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177924258235067817791952.jpg",
+        "https://euchelperu.com/images/productos/178215111789604926845040.jpg",
+        "https://euchelperu.com/images/productos/178215114762134394232403.jpg"
+      ]
+    },
+    {
+      "id_color": 3642,
+      "nombre": "Beige",
+      "precio": 85.0,
+      "id_color_confirmado": 3642,
+      "tallas": [
+        {
+          "id_talla": 3982,
+          "nombre": "S-M-L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178215111789604926845040.jpg",
+        "https://euchelperu.com/images/productos/177924258235067817791952.jpg",
+        "https://euchelperu.com/images/productos/178215114762134394232403.jpg"
+      ]
+    },
+    {
+      "id_color": 3643,
+      "nombre": "Marrón",
+      "precio": 85.0,
+      "id_color_confirmado": 3643,
+      "tallas": [
+        {
+          "id_talla": 3983,
+          "nombre": "S-M-L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178215114762134394232403.jpg",
+        "https://euchelperu.com/images/productos/177924258235067817791952.jpg",
+        "https://euchelperu.com/images/productos/178215111789604926845040.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:46:07Z"
+}

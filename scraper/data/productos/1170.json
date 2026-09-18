@@ -1,0 +1,41 @@
+{
+  "id_original": 1170,
+  "url_original": "https://euchelperu.com/producto.php?id=1170",
+  "nombre": "VESTIDO DALIBEE",
+  "descripcion": "Su diseño destaca por un favorecedor escote en V y finos tirantes ajustables que estilizan la zona del cuello y los hombros. El toque maestro se encuentra en el juego de transparencias de la falda: un forro corto interior ofrece cobertura donde la necesitas, dejando que el encaje se extienda hasta los pies con una caída fluida que aporta movimiento y un sutil toque de sensualidad.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1170VES35978",
+  "item_group_id": "1170",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177922306765585570529830.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO DALIBEE",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3477,
+      "nombre": "Marrón",
+      "precio": 79.0,
+      "id_color_confirmado": 3477,
+      "tallas": [
+        {
+          "id_talla": 3985,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177922306765585570529830.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:45:19Z"
+}

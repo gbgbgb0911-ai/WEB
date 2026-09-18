@@ -1,0 +1,59 @@
+{
+  "id_original": 1169,
+  "url_original": "https://euchelperu.com/producto.php?id=1169",
+  "nombre": "CASACA DUP",
+  "descripcion": "",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1169CAS64941",
+  "item_group_id": "1169",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17782028951917546364422.jpg",
+    "https://euchelperu.com/images/productos/17818233917921038906251.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CASACA DUP",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3476,
+      "nombre": "Marrón",
+      "precio": 95.0,
+      "id_color_confirmado": 3476,
+      "tallas": [
+        {
+          "id_talla": 3826,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17782028951917546364422.jpg",
+        "https://euchelperu.com/images/productos/17818233917921038906251.jpg"
+      ]
+    },
+    {
+      "id_color": 3621,
+      "nombre": "Vino",
+      "precio": 95.0,
+      "id_color_confirmado": 3621,
+      "tallas": [
+        {
+          "id_talla": 3989,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17818233917921038906251.jpg",
+        "https://euchelperu.com/images/productos/17782028951917546364422.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:45:16Z"
+}
