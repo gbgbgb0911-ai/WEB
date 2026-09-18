@@ -76,8 +76,69 @@ a { color: inherit; text-decoration: none; }
 .icono-btn:hover { background: var(--suave); }
 
 .redes { display: none; gap: 2px; }
-.redes a { width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; color: var(--gris); transition: color var(--base) var(--curva); }
-.redes a:hover { color: var(--tinta); }
+.redes a {
+  position: relative;
+  width: 40px; height: 40px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  color: var(--gris);
+  transition: color var(--base) var(--curva), transform var(--base) var(--curva),
+              box-shadow var(--base) var(--curva);
+}
+
+/* El círculo de marca va en un pseudoelemento y no en el fondo del enlace:
+   así aparece creciendo desde el centro sin mover el icono.
+   Sin `z-index: -1`: la cabecera es un contexto de apilamiento con fondo
+   blanco, así que un pseudoelemento por detrás quedaba tapado por ella. El
+   orden de pintado ya deja el ::before debajo del SVG, que es contenido. */
+.redes a::before {
+  content: "";
+  position: absolute; inset: 0; border-radius: 50%;
+  background: var(--marca, var(--tinta));
+  opacity: 0; transform: scale(.55);
+  transition: opacity var(--base) var(--curva), transform var(--base) var(--curva);
+}
+
+/* El icono tiene que ir posicionado. Un pseudoelemento absoluto se pinta en
+   una capa posterior a la del contenido estático, así que el círculo de marca
+   tapaba el SVG entero: solo se veía durante el mecido, porque el `transform`
+   de la animación lo subía de capa por un momento. */
+.redes a svg { position: relative; }
+
+.redes a[data-red="instagram"] {
+  --marca: linear-gradient(45deg, #f09433, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888);
+  --brillo: 211, 37, 92;
+}
+.redes a[data-red="facebook"] { --marca: #1877f2; --brillo: 24, 119, 242; }
+.redes a[data-red="tiktok"]   { --marca: #0a0a0a; --brillo: 37, 244, 238; }
+
+/* Solo donde de verdad se puede pasar el mouse: en un celular, :hover se
+   queda pegado después de tocar y el icono quedaría encendido para siempre.
+   El foco del teclado recibe lo mismo, sin el movimiento. */
+@media (hover: hover) and (pointer: fine) {
+  .redes a:hover {
+    color: #fff;
+    transform: translateY(-2px);
+    box-shadow: 0 0 0 1px rgba(var(--brillo), .35),
+                0 4px 14px rgba(var(--brillo), .45),
+                0 0 22px rgba(var(--brillo), .3);
+  }
+  .redes a:hover::before { opacity: 1; transform: scale(1); }
+  .redes a:hover svg { animation: campanita 600ms var(--curva); }
+}
+
+.redes a:focus-visible { color: #fff; }
+.redes a:focus-visible::before { opacity: 1; transform: scale(1); }
+
+.redes a:active { transform: scale(.94); }
+
+/* El icono se mece una vez al entrar. Dos grados menos que el ejemplo que
+   pidió el cliente: en 18 px, 10 grados se leen como un tirón. */
+@keyframes campanita {
+  0%   { transform: rotate(0); }
+  25%  { transform: rotate(8deg); }
+  75%  { transform: rotate(-8deg); }
+  100% { transform: rotate(0); }
+}
 
 /* menú de categorías */
 
@@ -340,6 +401,10 @@ a { color: inherit; text-decoration: none; }
 }
 
 @media (prefers-reduced-motion: reduce) {
+  /* El color de marca se queda: informa. Lo que se va es el movimiento. */
+  .redes a:hover { transform: none; }
+  .redes a:hover svg { animation: none; }
+  .redes a::before { transform: scale(1); }
   *, *::before, *::after {
     animation-duration: .001ms !important;
     transition-duration: .001ms !important;

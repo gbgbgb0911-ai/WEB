@@ -256,7 +256,8 @@ def cabeza(titulo, descripcion, canonica, og_imagen=None, og_tipo="website"):
 
 def cabecera(categorias, actual=None):
     redes = "".join(
-        f'<a href="{e(u)}" target="_blank" rel="noopener" aria-label="{e(n)}">{ICONOS[n.lower()]}</a>'
+        f'<a href="{e(u)}" target="_blank" rel="noopener" aria-label="{e(n)}"'
+        f' data-red="{n.lower()}">{ICONOS[n.lower()]}</a>'
         for n, u in REDES
     )
     marca_todo = ' aria-current="page"' if actual is None else ""
