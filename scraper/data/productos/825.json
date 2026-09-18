@@ -1,0 +1,168 @@
+{
+  "id_original": 825,
+  "url_original": "https://euchelperu.com/producto.php?id=825",
+  "nombre": "falda shor zenit",
+  "descripcion": "Destaca por su diseño estructural de corte limpio y minimalista, confeccionada en una tela de apariencia firme que integra la sofisticación de una minifalda con la comodidad funcional de un short interior, incluyendo detalles de sastrería como pretina con trabillas para cinturón, un cierre frontal con botón a tono y bolsillos laterales discretos que la convierten en una pieza básica y versátil para cualquier guardarropa moderno.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "825FAL260108",
+  "item_group_id": "825",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1768246787457691818604.jpg",
+    "https://euchelperu.com/images/productos/176824700955445318659651.png",
+    "https://euchelperu.com/images/productos/176824713578499719996788.png",
+    "https://euchelperu.com/images/productos/176824717733951834415222.png",
+    "https://euchelperu.com/images/productos/176824736994575487231744.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "falda shor zenit",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2504,
+      "nombre": "Verde Olivo",
+      "precio": 75.0,
+      "id_color_confirmado": 2504,
+      "tallas": [
+        {
+          "id_talla": 2920,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2921,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1768246787457691818604.jpg",
+        "https://euchelperu.com/images/productos/176824700955445318659651.png",
+        "https://euchelperu.com/images/productos/176824713578499719996788.png",
+        "https://euchelperu.com/images/productos/176824717733951834415222.png",
+        "https://euchelperu.com/images/productos/176824736994575487231744.png"
+      ]
+    },
+    {
+      "id_color": 2505,
+      "nombre": "Hueso",
+      "precio": 75.0,
+      "id_color_confirmado": 2505,
+      "tallas": [
+        {
+          "id_talla": 2922,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2923,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176824700955445318659651.png",
+        "https://euchelperu.com/images/productos/1768246787457691818604.jpg",
+        "https://euchelperu.com/images/productos/176824713578499719996788.png",
+        "https://euchelperu.com/images/productos/176824717733951834415222.png",
+        "https://euchelperu.com/images/productos/176824736994575487231744.png"
+      ]
+    },
+    {
+      "id_color": 2506,
+      "nombre": "Plomo",
+      "precio": 75.0,
+      "id_color_confirmado": 2506,
+      "tallas": [
+        {
+          "id_talla": 2924,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2925,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176824713578499719996788.png",
+        "https://euchelperu.com/images/productos/1768246787457691818604.jpg",
+        "https://euchelperu.com/images/productos/176824700955445318659651.png",
+        "https://euchelperu.com/images/productos/176824717733951834415222.png",
+        "https://euchelperu.com/images/productos/176824736994575487231744.png"
+      ]
+    },
+    {
+      "id_color": 2507,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 2507,
+      "tallas": [
+        {
+          "id_talla": 2926,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2927,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176824717733951834415222.png",
+        "https://euchelperu.com/images/productos/1768246787457691818604.jpg",
+        "https://euchelperu.com/images/productos/176824700955445318659651.png",
+        "https://euchelperu.com/images/productos/176824713578499719996788.png",
+        "https://euchelperu.com/images/productos/176824736994575487231744.png"
+      ]
+    },
+    {
+      "id_color": 2508,
+      "nombre": "Vino",
+      "precio": 75.0,
+      "id_color_confirmado": 2508,
+      "tallas": [
+        {
+          "id_talla": 2928,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2929,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1768246787457691818604.jpg",
+        "https://euchelperu.com/images/productos/176824700955445318659651.png",
+        "https://euchelperu.com/images/productos/176824713578499719996788.png",
+        "https://euchelperu.com/images/productos/176824717733951834415222.png",
+        "https://euchelperu.com/images/productos/176824736994575487231744.png"
+      ]
+    },
+    {
+      "id_color": 2509,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 2509,
+      "tallas": [
+        {
+          "id_talla": 2930,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2931,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176824736994575487231744.png",
+        "https://euchelperu.com/images/productos/1768246787457691818604.jpg",
+        "https://euchelperu.com/images/productos/176824700955445318659651.png",
+        "https://euchelperu.com/images/productos/176824713578499719996788.png",
+        "https://euchelperu.com/images/productos/176824717733951834415222.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:25:38Z"
+}
