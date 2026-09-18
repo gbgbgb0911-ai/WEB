@@ -1,0 +1,41 @@
+{
+  "id_original": 703,
+  "url_original": "https://euchelperu.com/producto.php?id=703",
+  "nombre": "MINI VESTIDO GIOVANNA",
+  "descripcion": "Este vestido corto blanco destaca por su diseño minimalista con un toque romántico. Presenta tirantes finos y un escote recto que aportan una estética limpia y elegante, mientras que su corte ajustado al cuerpo realza la silueta de forma sutil y favorecedora. El detalle protagonista es su terminación con volado en el ruedo, que añade movimiento y un aire delicado al diseño, creando un equilibrio perfecto entre sencillez y feminidad. Ideal para looks frescos y sofisticados.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "703MIN58781",
+  "item_group_id": "703",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176636682076177480593780.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO GIOVANNA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2197,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 2197,
+      "tallas": [
+        {
+          "id_talla": 2587,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176636682076177480593780.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:34:41Z"
+}

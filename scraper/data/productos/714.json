@@ -1,0 +1,69 @@
+{
+  "id_original": 714,
+  "url_original": "https://euchelperu.com/producto.php?id=714",
+  "nombre": "Top Arely Encaje",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7140012",
+  "item_group_id": "714",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176653799205992682480806.jpg",
+    "https://euchelperu.com/images/productos/176685459304482826427697.png",
+    "https://euchelperu.com/images/productos/176685495069747802139227.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2221,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 2221,
+      "tallas": [
+        {
+          "id_talla": 2611,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176653799205992682480806.jpg",
+        "https://euchelperu.com/images/productos/176685459304482826427697.png",
+        "https://euchelperu.com/images/productos/176685495069747802139227.png"
+      ]
+    },
+    {
+      "id_color": 2288,
+      "nombre": "Rojo",
+      "precio": null,
+      "id_color_confirmado": 2288,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176685459304482826427697.png",
+        "https://euchelperu.com/images/productos/176653799205992682480806.jpg",
+        "https://euchelperu.com/images/productos/176685495069747802139227.png"
+      ]
+    },
+    {
+      "id_color": 2289,
+      "nombre": "Acero",
+      "precio": null,
+      "id_color_confirmado": 2289,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176685495069747802139227.png",
+        "https://euchelperu.com/images/productos/176653799205992682480806.jpg",
+        "https://euchelperu.com/images/productos/176685459304482826427697.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:38:27Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id_original": 701,
+  "url_original": "https://euchelperu.com/producto.php?id=701",
+  "nombre": "SET IRINA SATIN",
+  "descripcion": "Este vestido corto en tono rojo intenso combina sensualidad y estilo moderno en un diseño único. Presenta un escote profundo en V que realza el busto con elegancia, acompañado de un cuello tipo choker integrado, creando un look sofisticado y llamativo. Su diseño de dos capas en la parte superior aporta estructura y originalidad, mientras que la falda corta de corte recto equilibra el conjunto, estilizando la figura y ofreciendo un ajuste cómodo y favorecedor. Ideal para quienes buscan destacar con un look atrevido y femenino.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "701SIS00",
+  "item_group_id": "701",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176636489368436607114093.jpg",
+    "https://euchelperu.com/images/productos/17733490228213438559645.jpg",
+    "https://euchelperu.com/images/productos/177334917824333919050004.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SET IRINA SATIN",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2193,
+      "nombre": "Vino",
+      "precio": 110.0,
+      "id_color_confirmado": 2193,
+      "tallas": [
+        {
+          "id_talla": 2583,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176636489368436607114093.jpg",
+        "https://euchelperu.com/images/productos/17733490228213438559645.jpg",
+        "https://euchelperu.com/images/productos/177334917824333919050004.jpg"
+      ]
+    },
+    {
+      "id_color": 2194,
+      "nombre": "Negro",
+      "precio": 110.0,
+      "id_color_confirmado": 2194,
+      "tallas": [
+        {
+          "id_talla": 2584,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177334917824333919050004.jpg",
+        "https://euchelperu.com/images/productos/176636489368436607114093.jpg",
+        "https://euchelperu.com/images/productos/17733490228213438559645.jpg"
+      ]
+    },
+    {
+      "id_color": 2195,
+      "nombre": "Blanco",
+      "precio": 110.0,
+      "id_color_confirmado": 2195,
+      "tallas": [
+        {
+          "id_talla": 2585,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17733490228213438559645.jpg",
+        "https://euchelperu.com/images/productos/176636489368436607114093.jpg",
+        "https://euchelperu.com/images/productos/177334917824333919050004.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:34:14Z"
+}

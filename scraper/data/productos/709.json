@@ -1,0 +1,79 @@
+{
+  "id_original": 709,
+  "url_original": "https://euchelperu.com/producto.php?id=709",
+  "nombre": "SET FLAVIA LENTEJUELAS",
+  "descripcion": "Este vestido mini plateado está diseñado para robar miradas. Confeccionado en un tejido cubierto de lentejuelas brillantes, aporta un efecto luminoso y glamuroso perfecto para la noche. Su escote profundo en V con delicado detalle central realza el busto de forma sensual, mientras que el diseño halter estiliza hombros y espalda, creando una silueta femenina y sofisticada. La caída fluida y el juego de capas añaden movimiento y un toque moderno, convirtiéndolo en una pieza ideal para ocasiones especiales donde el brillo es protagonista.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "709SET33081",
+  "item_group_id": "709",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17664494703472261167958.jpg",
+    "https://euchelperu.com/images/productos/176824284538825563670815.png",
+    "https://euchelperu.com/images/productos/176824288527451318032591.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SET FLAVIA LENTEJUELAS",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2212,
+      "nombre": "Plateado",
+      "precio": 79.0,
+      "id_color_confirmado": 2212,
+      "tallas": [
+        {
+          "id_talla": 2602,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17664494703472261167958.jpg",
+        "https://euchelperu.com/images/productos/176824284538825563670815.png",
+        "https://euchelperu.com/images/productos/176824288527451318032591.png"
+      ]
+    },
+    {
+      "id_color": 2493,
+      "nombre": "Negro",
+      "precio": 79.0,
+      "id_color_confirmado": 2493,
+      "tallas": [
+        {
+          "id_talla": 2909,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176824284538825563670815.png",
+        "https://euchelperu.com/images/productos/17664494703472261167958.jpg",
+        "https://euchelperu.com/images/productos/176824288527451318032591.png"
+      ]
+    },
+    {
+      "id_color": 2494,
+      "nombre": "Beige",
+      "precio": 79.0,
+      "id_color_confirmado": 2494,
+      "tallas": [
+        {
+          "id_talla": 2910,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176824288527451318032591.png",
+        "https://euchelperu.com/images/productos/17664494703472261167958.jpg",
+        "https://euchelperu.com/images/productos/176824284538825563670815.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:35:55Z"
+}

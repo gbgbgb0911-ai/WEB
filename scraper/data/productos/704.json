@@ -1,0 +1,41 @@
+{
+  "id_original": 704,
+  "url_original": "https://euchelperu.com/producto.php?id=704",
+  "nombre": "SET HILLARY ARO TUL",
+  "descripcion": "Este vestido corto blanco combina sensualidad y elegancia en un diseño moderno y sofisticado. Presenta un escote halter profundo con caída tipo drapeado, que se une al centro mediante un aro metálico que aporta un detalle protagonista y llamativo. La parte superior está confeccionada en tela translúcida, creando un contraste delicado con el cuerpo del vestido, que es ajustado y liso, realzando la silueta de forma estilizada. Su diseño equilibra lo atrevido con lo elegante, ideal para destacar sin perder refinamiento.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "704SET45584",
+  "item_group_id": "704",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1766367611222303318857.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SET HILLARY ARO TUL",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2198,
+      "nombre": "Blanco",
+      "precio": 79.0,
+      "id_color_confirmado": 2198,
+      "tallas": [
+        {
+          "id_talla": 2588,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1766367611222303318857.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:34:44Z"
+}

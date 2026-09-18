@@ -1,0 +1,91 @@
+{
+  "id_original": 706,
+  "url_original": "https://euchelperu.com/producto.php?id=706",
+  "nombre": "VESTIDO ANGELA LOMA",
+  "descripcion": "Descubre este vestido corto en tono vino tinto, confeccionado en loma, un material suave, ligero y con excelente caida que brinda confort y un look sofisticado. Su diseño sin mangas y corte ligeramente evasé lo convierten en una prenda versátil y favorecedora para múltiples ocasiones.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "706VANG55",
+  "item_group_id": "706",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176644295433502616098469.jpg",
+    "https://euchelperu.com/images/productos/176825570135563403674572.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ANGELA LOMA",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2202,
+      "nombre": "Vino",
+      "precio": 79.0,
+      "id_color_confirmado": 2202,
+      "tallas": [
+        {
+          "id_talla": 2592,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176644295433502616098469.jpg",
+        "https://euchelperu.com/images/productos/176825570135563403674572.png"
+      ]
+    },
+    {
+      "id_color": 2203,
+      "nombre": "Rojo",
+      "precio": 79.0,
+      "id_color_confirmado": 2203,
+      "tallas": [
+        {
+          "id_talla": 2593,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176644295433502616098469.jpg",
+        "https://euchelperu.com/images/productos/176825570135563403674572.png"
+      ]
+    },
+    {
+      "id_color": 2204,
+      "nombre": "Camel",
+      "precio": 79.0,
+      "id_color_confirmado": 2204,
+      "tallas": [
+        {
+          "id_talla": 2594,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176825570135563403674572.png",
+        "https://euchelperu.com/images/productos/176644295433502616098469.jpg"
+      ]
+    },
+    {
+      "id_color": 2205,
+      "nombre": "Negro",
+      "precio": 79.0,
+      "id_color_confirmado": 2205,
+      "tallas": [
+        {
+          "id_talla": 2595,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176644295433502616098469.jpg",
+        "https://euchelperu.com/images/productos/176825570135563403674572.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:35:42Z"
+}

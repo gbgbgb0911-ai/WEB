@@ -1,0 +1,41 @@
+{
+  "id_original": 712,
+  "url_original": "https://euchelperu.com/producto.php?id=712",
+  "nombre": "Pantalon Extasis bolsillo",
+  "descripcion": "",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7120032",
+  "item_group_id": "712",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176653661175714327585431.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pantalon Extasis bolsillo",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2219,
+      "nombre": "Azul",
+      "precio": 95.0,
+      "id_color_confirmado": 2219,
+      "tallas": [
+        {
+          "id_talla": 2609,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176653661175714327585431.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:37:27Z"
+}

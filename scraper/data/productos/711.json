@@ -1,0 +1,114 @@
+{
+  "id_original": 711,
+  "url_original": "https://euchelperu.com/producto.php?id=711",
+  "nombre": "Corset Vanessa",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "71100023",
+  "item_group_id": "711",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176653628973214116020381.jpg",
+    "https://euchelperu.com/images/productos/176823618782711315358897.png",
+    "https://euchelperu.com/images/productos/176823641806972383450456.png",
+    "https://euchelperu.com/images/productos/176823644339205834185812.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Corset Vanessa",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2215,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 2215,
+      "tallas": [
+        {
+          "id_talla": 2605,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176653628973214116020381.jpg",
+        "https://euchelperu.com/images/productos/176823618782711315358897.png",
+        "https://euchelperu.com/images/productos/176823641806972383450456.png",
+        "https://euchelperu.com/images/productos/176823644339205834185812.png"
+      ]
+    },
+    {
+      "id_color": 2216,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 2216,
+      "tallas": [
+        {
+          "id_talla": 2606,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176823641806972383450456.png",
+        "https://euchelperu.com/images/productos/176653628973214116020381.jpg",
+        "https://euchelperu.com/images/productos/176823618782711315358897.png",
+        "https://euchelperu.com/images/productos/176823644339205834185812.png"
+      ]
+    },
+    {
+      "id_color": 2217,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 2217,
+      "tallas": [
+        {
+          "id_talla": 2607,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176653628973214116020381.jpg",
+        "https://euchelperu.com/images/productos/176823618782711315358897.png",
+        "https://euchelperu.com/images/productos/176823641806972383450456.png",
+        "https://euchelperu.com/images/productos/176823644339205834185812.png"
+      ]
+    },
+    {
+      "id_color": 2218,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 2218,
+      "tallas": [
+        {
+          "id_talla": 2608,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176823644339205834185812.png",
+        "https://euchelperu.com/images/productos/176653628973214116020381.jpg",
+        "https://euchelperu.com/images/productos/176823618782711315358897.png",
+        "https://euchelperu.com/images/productos/176823641806972383450456.png"
+      ]
+    },
+    {
+      "id_color": 2482,
+      "nombre": "Amarillo",
+      "precio": null,
+      "id_color_confirmado": 2482,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176823618782711315358897.png",
+        "https://euchelperu.com/images/productos/176653628973214116020381.jpg",
+        "https://euchelperu.com/images/productos/176823641806972383450456.png",
+        "https://euchelperu.com/images/productos/176823644339205834185812.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:37:24Z"
+}

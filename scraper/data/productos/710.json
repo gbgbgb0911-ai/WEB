@@ -1,0 +1,56 @@
+{
+  "id_original": 710,
+  "url_original": "https://euchelperu.com/producto.php?id=710",
+  "nombre": "TOP BROCHE CUELLO AMARRABLE",
+  "descripcion": "Blusa en color azul profundo, diseñada con un sofisticado escote en V pronunciado que realza el busto de forma elegante y femenina. Su diseño halter estiliza hombros y espalda, aportando un look moderno y sensual sin perder sofisticación. Incorpora un detalle decorativo metálico al frente, que define la cintura y añade un toque distintivo y refinado. Su corte ajustado y estructura favorecedora la convierten en una prenda versátil, ideal para combinar tanto con faldas como con pantalones y crear looks de día o de noche.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "710TOP57255",
+  "item_group_id": "710",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176645177992047718029405.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2213,
+      "nombre": "Acero",
+      "precio": 39.0,
+      "id_color_confirmado": 2213,
+      "tallas": [
+        {
+          "id_talla": 2603,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176645177992047718029405.jpg"
+      ]
+    },
+    {
+      "id_color": 2214,
+      "nombre": "Blanco",
+      "precio": 39.0,
+      "id_color_confirmado": 2214,
+      "tallas": [
+        {
+          "id_talla": 2604,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176645177992047718029405.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:36:02Z"
+}

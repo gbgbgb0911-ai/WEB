@@ -1,0 +1,71 @@
+{
+  "id_original": 705,
+  "url_original": "https://euchelperu.com/producto.php?id=705",
+  "nombre": "MAXI VESTIDO LISBETH ENCAJE",
+  "descripcion": "Descubre nuestro vestido largo negro con delicado encaje, diseñado para realzar tu figura con sofisticación y estilo. Con un corte ceñido que abraza suavemente las curvas y tirantes finos, este modelo combina feminidad y elegancia minimalista. Su tejido semitransparente con patrón floral aporta un toque romántico y chic, ideal para eventos nocturnos, cenas especiales o celebraciones donde quieres lucir única y elegante.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "705MAX82941",
+  "item_group_id": "705",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176644161698920792422217.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2199,
+      "nombre": "Negro",
+      "precio": 110.0,
+      "id_color_confirmado": 2199,
+      "tallas": [
+        {
+          "id_talla": 2589,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176644161698920792422217.jpg"
+      ]
+    },
+    {
+      "id_color": 2200,
+      "nombre": "Rojo",
+      "precio": 110.0,
+      "id_color_confirmado": 2200,
+      "tallas": [
+        {
+          "id_talla": 2590,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176644161698920792422217.jpg"
+      ]
+    },
+    {
+      "id_color": 2201,
+      "nombre": "Blanco",
+      "precio": 110.0,
+      "id_color_confirmado": 2201,
+      "tallas": [
+        {
+          "id_talla": 2591,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176644161698920792422217.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:35:06Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 713,
+  "url_original": "https://euchelperu.com/producto.php?id=713",
+  "nombre": "Pantalon Thiarys",
+  "descripcion": "",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7130025",
+  "item_group_id": "713",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176653742616640188993564.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pantalon Thiarys",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2220,
+      "nombre": "Azul",
+      "precio": 95.0,
+      "id_color_confirmado": 2220,
+      "tallas": [
+        {
+          "id_talla": 2610,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176653742616640188993564.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:38:06Z"
+}

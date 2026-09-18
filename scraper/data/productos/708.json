@@ -1,0 +1,41 @@
+{
+  "id_original": 708,
+  "url_original": "https://euchelperu.com/producto.php?id=708",
+  "nombre": "MINI VESTIDO SABRINA",
+  "descripcion": "Este vestido mini blanco destaca por su diseño halter con cuello alto, que aporta un aire moderno y elegante mientras realza hombros y espalda de forma delicada. Su corte ajustado define la silueta con sutileza, logrando un balance perfecto entre sensualidad y sofisticación. Una prenda limpia y minimalista, ideal para quienes buscan un look refinado sin esfuerzo. Gracias a su diseño versátil, es una pieza clave que se adapta a diferentes ocasiones, convirtiéndose en un imprescindible del clóset femenino.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "708MIN49572",
+  "item_group_id": "708",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176644740742967280746973.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO SABRINA",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2211,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 2211,
+      "tallas": [
+        {
+          "id_talla": 2601,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176644740742967280746973.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:35:45Z"
+}
