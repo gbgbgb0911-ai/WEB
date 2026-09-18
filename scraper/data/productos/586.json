@@ -1,0 +1,41 @@
+{
+  "id_original": 586,
+  "url_original": "https://euchelperu.com/producto.php?id=586",
+  "nombre": "TOP FLOR TUL",
+  "descripcion": "Top con detalle de flor blanca 3D. con forro en el busto. Perfecto para looks de verano y estilo Y2K.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "586  TOP29193",
+  "item_group_id": "586",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176403498367008392623759.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1880,
+      "nombre": "Amarillo",
+      "precio": 45.0,
+      "id_color_confirmado": 1880,
+      "tallas": [
+        {
+          "id_talla": 2167,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176403498367008392623759.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:01:28Z"
+}

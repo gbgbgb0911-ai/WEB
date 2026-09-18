@@ -1,0 +1,41 @@
+{
+  "id_original": 588,
+  "url_original": "https://euchelperu.com/producto.php?id=588",
+  "nombre": "SET MAYRA SHINE",
+  "descripcion": "Set de falda y top en tejido shimmer color nude, con detalle anudado en la cintura y sensual abertura frontal.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "588MAX733573",
+  "item_group_id": "588",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17640909103638223547671.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1882,
+      "nombre": "Beige",
+      "precio": 99.0,
+      "id_color_confirmado": 1882,
+      "tallas": [
+        {
+          "id_talla": 2169,
+          "nombre": "XS"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17640909103638223547671.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:02:02Z"
+}

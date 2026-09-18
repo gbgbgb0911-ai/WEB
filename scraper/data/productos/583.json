@@ -1,0 +1,105 @@
+{
+  "id_original": 583,
+  "url_original": "https://euchelperu.com/producto.php?id=583",
+  "nombre": "VESTIDO FLOR BROCHE",
+  "descripcion": "Vestido con escote de un solo hombro, detalle de fruncido lateral y aplique floral dorado en el hombro. Perfecto para cenas, brunch o eventos elegantes de día.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "583VES30229",
+  "item_group_id": "583",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176403372272424904354838.jpg",
+    "https://euchelperu.com/images/productos/176412149909921634146791.png",
+    "https://euchelperu.com/images/productos/176418441168154996565521.jpg",
+    "https://euchelperu.com/images/productos/17641846061390292956118.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO FLOR BROCHE",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1872,
+      "nombre": "Blanco",
+      "precio": 89.0,
+      "id_color_confirmado": 1872,
+      "tallas": [
+        {
+          "id_talla": 2157,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2158,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176403372272424904354838.jpg",
+        "https://euchelperu.com/images/productos/176412149909921634146791.png",
+        "https://euchelperu.com/images/productos/176418441168154996565521.jpg",
+        "https://euchelperu.com/images/productos/17641846061390292956118.jpg"
+      ]
+    },
+    {
+      "id_color": 1873,
+      "nombre": "Amarillo",
+      "precio": 89.0,
+      "id_color_confirmado": 1873,
+      "tallas": [
+        {
+          "id_talla": 2159,
+          "nombre": "XS"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176418441168154996565521.jpg",
+        "https://euchelperu.com/images/productos/176403372272424904354838.jpg",
+        "https://euchelperu.com/images/productos/176412149909921634146791.png",
+        "https://euchelperu.com/images/productos/17641846061390292956118.jpg"
+      ]
+    },
+    {
+      "id_color": 1874,
+      "nombre": "Beige",
+      "precio": 89.0,
+      "id_color_confirmado": 1874,
+      "tallas": [
+        {
+          "id_talla": 2160,
+          "nombre": "XS"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176412149909921634146791.png",
+        "https://euchelperu.com/images/productos/176403372272424904354838.jpg",
+        "https://euchelperu.com/images/productos/176418441168154996565521.jpg",
+        "https://euchelperu.com/images/productos/17641846061390292956118.jpg"
+      ]
+    },
+    {
+      "id_color": 1875,
+      "nombre": "Negro",
+      "precio": 89.0,
+      "id_color_confirmado": 1875,
+      "tallas": [
+        {
+          "id_talla": 2161,
+          "nombre": "XS"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17641846061390292956118.jpg",
+        "https://euchelperu.com/images/productos/176403372272424904354838.jpg",
+        "https://euchelperu.com/images/productos/176412149909921634146791.png",
+        "https://euchelperu.com/images/productos/176418441168154996565521.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:01:10Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id_original": 584,
+  "url_original": "https://euchelperu.com/producto.php?id=584",
+  "nombre": "VESTDO FLAVIA SHINE",
+  "descripcion": "Este vestido aporta una silueta estilizada y sensual con un toque de glamour gracias a su tela brillante. ¡Serás el centro de atención!",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "584VES93948",
+  "item_group_id": "584",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176403429216314713079090.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTDO FLAVIA SHINE",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1876,
+      "nombre": "Beige",
+      "precio": 79.0,
+      "id_color_confirmado": 1876,
+      "tallas": [
+        {
+          "id_talla": 2162,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2163,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176403429216314713079090.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:01:25Z"
+}

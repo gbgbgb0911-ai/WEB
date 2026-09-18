@@ -1,0 +1,56 @@
+{
+  "id_original": 581,
+  "url_original": "https://euchelperu.com/producto.php?id=581",
+  "nombre": "SET DE PULSERAS SUMMER",
+  "descripcion": "Set de pulseras con inspiración playera. ¡El accesorio perfecto para tu estilo boho-chic!",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 15.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "581SET25270",
+  "item_group_id": "581",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176403266945986371039596.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SET DE PULSERAS SUMMER",
+  "precio_listado_normal": 15.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1868,
+      "nombre": "Diseño 1",
+      "precio": 15.0,
+      "id_color_confirmado": 1868,
+      "tallas": [
+        {
+          "id_talla": 2153,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176403266945986371039596.jpg"
+      ]
+    },
+    {
+      "id_color": 1869,
+      "nombre": "Diseño 2",
+      "precio": 15.0,
+      "id_color_confirmado": 1869,
+      "tallas": [
+        {
+          "id_talla": 2154,
+          "nombre": "único"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176403266945986371039596.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:00:57Z"
+}

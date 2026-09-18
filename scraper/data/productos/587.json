@@ -1,0 +1,59 @@
+{
+  "id_original": 587,
+  "url_original": "https://euchelperu.com/producto.php?id=587",
+  "nombre": "VESTIDO ANNIA BOBOS",
+  "descripcion": "Elegante vestido mini blanco de un solo hombro, ajustado y drapeado.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "587MAX733578",
+  "item_group_id": "587",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17640902158875940089464.jpg",
+    "https://euchelperu.com/images/productos/176419819961904751749340.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ANNIA BOBOS",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1881,
+      "nombre": "Blanco",
+      "precio": 89.0,
+      "id_color_confirmado": 1881,
+      "tallas": [
+        {
+          "id_talla": 2168,
+          "nombre": "XS"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17640902158875940089464.jpg",
+        "https://euchelperu.com/images/productos/176419819961904751749340.png"
+      ]
+    },
+    {
+      "id_color": 1897,
+      "nombre": "Rojo",
+      "precio": 89.0,
+      "id_color_confirmado": 1897,
+      "tallas": [
+        {
+          "id_talla": 2188,
+          "nombre": "XS"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176419819961904751749340.png",
+        "https://euchelperu.com/images/productos/17640902158875940089464.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:01:58Z"
+}

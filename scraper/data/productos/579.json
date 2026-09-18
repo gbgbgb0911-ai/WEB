@@ -1,0 +1,87 @@
+{
+  "id_original": 579,
+  "url_original": "https://euchelperu.com/producto.php?id=579",
+  "nombre": "FALDA SHORT LILY ENCAJE",
+  "descripcion": "ChatGPT dijo: Falda de encaje, con capas asimétricas tipo “puntas de estrella”. Ideal para looks románticos o bohemios.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "579FAL24908",
+  "item_group_id": "579",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176402312161733765911480.png",
+    "https://euchelperu.com/images/productos/176402337788929707619970.png",
+    "https://euchelperu.com/images/productos/17641181082511459617686.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA SHORT LILY ENCAJE",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1854,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 1854,
+      "tallas": [
+        {
+          "id_talla": 2138,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2139,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176402312161733765911480.png",
+        "https://euchelperu.com/images/productos/176402337788929707619970.png",
+        "https://euchelperu.com/images/productos/17641181082511459617686.jpg"
+      ]
+    },
+    {
+      "id_color": 1855,
+      "nombre": "Blanco",
+      "precio": 69.0,
+      "id_color_confirmado": 1855,
+      "tallas": [
+        {
+          "id_talla": 2140,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2141,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17641181082511459617686.jpg",
+        "https://euchelperu.com/images/productos/176402312161733765911480.png",
+        "https://euchelperu.com/images/productos/176402337788929707619970.png"
+      ]
+    },
+    {
+      "id_color": 1856,
+      "nombre": "Amarillo",
+      "precio": 69.0,
+      "id_color_confirmado": 1856,
+      "tallas": [
+        {
+          "id_talla": 2142,
+          "nombre": "S"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176402337788929707619970.png",
+        "https://euchelperu.com/images/productos/176402312161733765911480.png",
+        "https://euchelperu.com/images/productos/17641181082511459617686.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:58:33Z"
+}

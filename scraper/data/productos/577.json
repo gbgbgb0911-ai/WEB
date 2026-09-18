@@ -1,0 +1,86 @@
+{
+  "id_original": 577,
+  "url_original": "https://euchelperu.com/producto.php?id=577",
+  "nombre": "VESTIDO OLENKA BUFANDA",
+  "descripcion": "Vestido corto y ligero de cuello halter alto con estampado de puntos (lunares). Presenta un volante que marca la cintura y una falda corta con borde ondulado, ideal para un look veraniego y coqueto.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "577VES86102",
+  "item_group_id": "577",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176348798496228401411350.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO OLENKA BUFANDA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1780,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 1780,
+      "tallas": [
+        {
+          "id_talla": 2051,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176348798496228401411350.jpg"
+      ]
+    },
+    {
+      "id_color": 1782,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 1782,
+      "tallas": [
+        {
+          "id_talla": 2052,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176348798496228401411350.jpg"
+      ]
+    },
+    {
+      "id_color": 1783,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 1783,
+      "tallas": [
+        {
+          "id_talla": 2053,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176348798496228401411350.jpg"
+      ]
+    },
+    {
+      "id_color": 1784,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 1784,
+      "tallas": [
+        {
+          "id_talla": 2054,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176348798496228401411350.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:57:22Z"
+}
