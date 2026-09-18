@@ -1,0 +1,41 @@
+{
+  "id_original": 1276,
+  "url_original": "https://euchelperu.com/producto.php?id=1276",
+  "nombre": "TOP TINNY",
+  "descripcion": "Eleva tu estilo con este sofisticado top blusón en un delicado tono rosa palo. Diseñado para ofrecer una silueta femenina y elegante, esta prenda combina una caída suave y fluida con detalles románticos. Es la pieza perfecta para transicionar de un look de día a uno de noche con facilidad.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1276TDTR677",
+  "item_group_id": "1276",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178493522266303439131541.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP TINNY",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3813,
+      "nombre": "Rosado",
+      "precio": 45.0,
+      "id_color_confirmado": 3813,
+      "tallas": [
+        {
+          "id_talla": 4102,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178493522266303439131541.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:47:00Z"
+}

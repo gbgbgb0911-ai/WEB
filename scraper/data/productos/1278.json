@@ -1,0 +1,41 @@
+{
+  "id_original": 1278,
+  "url_original": "https://euchelperu.com/producto.php?id=1278",
+  "nombre": "TOP CHLOE",
+  "descripcion": "Elegante top de color rojo vibrante con un sofisticado escote en V pronunciado, que presenta un delicado drapeado fruncido bajo el busto para realzar la silueta y aportar un toque femenino y moderno. Cuenta con mangas cortas de corte holgado y fluido para mayor comodidad, un estilo ceñido en la zona de la cintura y el torso con sutiles pliegues horizontales que estilizan la figura, y una versatilidad ideal para combinar con jeans o pantalones de tiro alto tanto en un look casual como para una salida nocturna.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1278YGT89",
+  "item_group_id": "1278",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178534479071564947165876.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP CHLOE",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3815,
+      "nombre": "Rojo",
+      "precio": 45.0,
+      "id_color_confirmado": 3815,
+      "tallas": [
+        {
+          "id_talla": 4104,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178534479071564947165876.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:47:18Z"
+}

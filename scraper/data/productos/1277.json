@@ -1,0 +1,41 @@
+{
+  "id_original": 1277,
+  "url_original": "https://euchelperu.com/producto.php?id=1277",
+  "nombre": "TOP CLARA ENCAJE",
+  "descripcion": "Aporta un toque de elegancia vintage a tu armario con este cautivador top corto de malla. Confeccionado en un tejido semitransparente y elástico, este top presenta un estampado floral detallado en tonos marrones y moca que evoca la estética nostálgica de los años 90. Su diseño ajustado y los detalles únicos lo convierten en una prenda llamativa y versátil.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1277H887DG",
+  "item_group_id": "1277",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178493540587416360663711.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP CLARA ENCAJE",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3814,
+      "nombre": "Marrón",
+      "precio": 49.0,
+      "id_color_confirmado": 3814,
+      "tallas": [
+        {
+          "id_talla": 4103,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178493540587416360663711.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:47:03Z"
+}

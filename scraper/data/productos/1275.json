@@ -1,0 +1,41 @@
+{
+  "id_original": 1275,
+  "url_original": "https://euchelperu.com/producto.php?id=1275",
+  "nombre": "CHAQUETA TREND CROP",
+  "descripcion": "Una pieza versátil y moderna que no puede faltar en tu clóset. Esta chaqueta corta de mezclilla combina un diseño estructurado con un estilo relajado, ideal para completar cualquier look casual con un toque urbano.",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1275CHAQ481",
+  "item_group_id": "1275",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17848627559406689938947.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CHAQUETA TREND CROP",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3812,
+      "nombre": "Azul",
+      "precio": 85.0,
+      "id_color_confirmado": 3812,
+      "tallas": [
+        {
+          "id_talla": 4101,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17848627559406689938947.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:46:57Z"
+}

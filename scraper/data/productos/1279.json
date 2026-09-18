@@ -1,0 +1,41 @@
+{
+  "id_original": 1279,
+  "url_original": "https://euchelperu.com/producto.php?id=1279",
+  "nombre": "TOP SUA",
+  "descripcion": "Top ajustado con estampado de cuadros diagonales oscuros de estilo tartán, cuello alto tipo mao y una atractiva abertura frontal en forma de lágrima con detalle de botón. Su diseño ceñido y corte a la cintura lo convierten en una prenda versátil e ideal para combinar con jeans de tiro alto, logrando un look urbano, juvenil y lleno de estilo.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1279NHUIUK",
+  "item_group_id": "1279",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1785345268438543012622.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP SUA",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3816,
+      "nombre": "Azul",
+      "precio": 45.0,
+      "id_color_confirmado": 3816,
+      "tallas": [
+        {
+          "id_talla": 4105,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1785345268438543012622.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:47:21Z"
+}

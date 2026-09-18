@@ -1,0 +1,41 @@
+{
+  "id_original": 1273,
+  "url_original": "https://euchelperu.com/producto.php?id=1273",
+  "nombre": "TOP ENCAJE MIA",
+  "descripcion": "Una prenda moderna y versátil de silueta ajustada, ideal para elevar tus looks casuales con un toque vanguardista y sofisticado.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1273TOP328",
+  "item_group_id": "1273",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178485098486652242845240.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ENCAJE MIA",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3810,
+      "nombre": "Marrón",
+      "precio": 49.0,
+      "id_color_confirmado": 3810,
+      "tallas": [
+        {
+          "id_talla": 4099,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178485098486652242845240.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:46:51Z"
+}

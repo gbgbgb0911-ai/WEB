@@ -1,0 +1,41 @@
+{
+  "id_original": 1280,
+  "url_original": "https://euchelperu.com/producto.php?id=1280",
+  "nombre": "TOP MIMY",
+  "descripcion": "Este moderno top ajustado, presentado en un profundo color marrón oliva, destaca por su diseño de cuello alto tipo choker con una sofisticada abertura frontal en forma de lágrima. Confeccionado en un tejido elástico suave, su corte ceñido al cuerpo ofrece una silueta favorecedora. La longitud del dobladillo llega justo a la cintura, ofreciendo un estilo corto pero con cobertura suficiente, siendo una prenda versátil e ideal para combinar con jeans de tiro alto para un look urbano y actual.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1280VGHY898",
+  "item_group_id": "1280",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17853457271346632258206.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP MIMY",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3817,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 3817,
+      "tallas": [
+        {
+          "id_talla": 4106,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17853457271346632258206.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:47:24Z"
+}

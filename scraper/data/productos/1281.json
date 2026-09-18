@@ -1,0 +1,41 @@
+{
+  "id_original": 1281,
+  "url_original": "https://euchelperu.com/producto.php?id=1281",
+  "nombre": "BLUSA ABY",
+  "descripcion": "Elegante top de vestir en color blanco marfil, confeccionado en un tejido de aspecto sedoso y estructurado. Presenta un diseño asimétrico distintivo con un cierre cruzado en el frente, adornado con una hilera vertical de pequeños botones blancos. Cuenta con un cuello alto tipo mao, una solapa superpuesta en el escote y mangas cortas. El corte es ajustado, definiendo la silueta con costuras princesa, y el dobladillo inferior tiene un sutil acabado drapeado o asimétrico. Es una prenda versátil que combina la sofisticación de una blusa formal con un estilo moderno.",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1281JYUYY",
+  "item_group_id": "1281",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178534655827816796719021.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BLUSA ABY",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3818,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 3818,
+      "tallas": [
+        {
+          "id_talla": 4107,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178534655827816796719021.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:47:39Z"
+}
