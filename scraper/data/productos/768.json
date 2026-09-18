@@ -1,0 +1,79 @@
+{
+  "id_original": 768,
+  "url_original": "https://euchelperu.com/producto.php?id=768",
+  "nombre": "Vestido Rebecca",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "76800054",
+  "item_group_id": "768",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176745958413522851823347.jpg",
+    "https://euchelperu.com/images/productos/176792086636050147649871.png",
+    "https://euchelperu.com/images/productos/176792092379312885547096.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Rebecca",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2331,
+      "nombre": "Vino",
+      "precio": 89.0,
+      "id_color_confirmado": 2331,
+      "tallas": [
+        {
+          "id_talla": 2741,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176745958413522851823347.jpg",
+        "https://euchelperu.com/images/productos/176792086636050147649871.png",
+        "https://euchelperu.com/images/productos/176792092379312885547096.png"
+      ]
+    },
+    {
+      "id_color": 2474,
+      "nombre": "Negro",
+      "precio": 89.0,
+      "id_color_confirmado": 2474,
+      "tallas": [
+        {
+          "id_talla": 2893,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176792092379312885547096.png",
+        "https://euchelperu.com/images/productos/176745958413522851823347.jpg",
+        "https://euchelperu.com/images/productos/176792086636050147649871.png"
+      ]
+    },
+    {
+      "id_color": 2475,
+      "nombre": "Beige",
+      "precio": 89.0,
+      "id_color_confirmado": 2475,
+      "tallas": [
+        {
+          "id_talla": 2894,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176792086636050147649871.png",
+        "https://euchelperu.com/images/productos/176745958413522851823347.jpg",
+        "https://euchelperu.com/images/productos/176792092379312885547096.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:55:43Z"
+}

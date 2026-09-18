@@ -102,8 +102,22 @@ def main():
           "`nuevo.php` u `ofertas.php`.")
     else:
         w(f"{len(huerf)} productos existen en `producto.php?id=` pero no se listan en "
-          "ninguna categoría. Probablemente están ocultos a propósito: **confirmar con "
-          "los dueños antes de migrarlos.**")
+          "ninguna categoría.")
+        w("")
+        w("**Verificado en el panel de administración: están DESACTIVADOS.** Se "
+          "comprobó el ID 9 (`Flare Pants Chompero`) en `ll-admin`: punto rojo y "
+          "botón `Activar`, frente al punto verde y `Desactivar` de los productos "
+          "vivos. Su ruta es `Productos/Pantalones`, el mismo menú que el resto, así "
+          "que no son de otra tienda: los dueños los apagaron.")
+        w("")
+        w("Encaja con lo observado: un producto desactivado desaparece de "
+          "`menu.php?subid=`, pero `producto.php?id=` sigue sirviendo la ficha "
+          "completa. De ahí que solo los encuentre el barrido.")
+        w("")
+        w("**Recomendación: migrarlos marcados como inactivos**, no como productos "
+          "vivos ni descartarlos. Ya están extraídos, conservarlos no cuesta nada, y "
+          "así los dueños pueden reactivar lo que quieran sin volver a extraer. La "
+          "decisión de cuáles revivir es de ellos.")
         w("")
         w("| ID | Nombre | Categoría en breadcrumb | Precio |")
         w("|---|---|---|---|")
@@ -317,10 +331,12 @@ def main():
     w("| Campo | Estado | Por qué |")
     w("|---|---|---|")
     w("| Stock numérico | `null` en todos | No hay cantidad pública. El `max=\"5\"` del "
-      "input de cantidad es un límite del formulario, no stock. |")
+      "input de cantidad es un límite del formulario, no stock. **No hace falta "
+      "pedirlo: esta tienda no lleva stock real** — ver nota abajo. |")
     w("| Agotado / disponibilidad real | `null` en todos | `product:availability` dice "
-      "`in stock` en el 100% de las fichas, también en productos que podrían estar "
-      "agotados. Dato inútil: ignorado. |")
+      "`in stock` en el 100% de las fichas, también en productos desactivados. Dato "
+      "público inútil: ignorado. **Sí existe en el panel** (botón `Agotar Stock` y "
+      "estado activo/inactivo): hay que pedirlo. |")
     w("| SKU real | `null` | Solo existe `product:retailer_item_id` (p. ej. "
       "`1102SUP53656`), que es un identificador de retailer, no necesariamente el SKU "
       "interno. Se guarda aparte, sin presumir equivalencia. |")
@@ -330,6 +346,26 @@ def main():
     w("| Costo, margen, proveedor | no existe | Datos internos, nunca públicos. |")
     w("| Orden de catálogo / destacados | parcial | Se puede inferir del orden de las "
       "tarjetas en cada categoría, no hay campo explícito. |")
+    w("")
+    w("### Nota: el stock del panel es nominal, no inventario")
+    w("")
+    w("El panel sí tiene columna `Stock`, desglosada por color y talla. Pero en todas "
+      "las filas inspeccionadas el valor es **1**: `PONCHO` (4 colores), "
+      "`SWEATER JULIETTE` (6), `CHAQUETA CUERO URBAN` (3) y `Flare Pants Chompero` "
+      "(5 colores × 2 tallas) — todo a 1.")
+    w("")
+    w("La conclusión no es *pedir el stock*, es que **la tienda no lleva control de "
+      "inventario**: el 1 está puesto para que el formulario de compra acepte el "
+      "pedido. Si el catálogo nuevo necesita stock, hay que montarlo desde cero con "
+      "los dueños, no migrarlo.")
+    w("")
+    w("### Hallazgo de seguridad: los productos desactivados siguen siendo públicos")
+    w("")
+    w("Un producto desactivado en `ll-admin` desaparece de los listados, pero su ficha "
+      "sigue respondiendo en `producto.php?id=` con nombre, precio, colores, tallas e "
+      "imágenes. Cualquiera con el enlace ve un producto dado de baja, y así se "
+      "encontraron los huérfanos de la sección 3. Conviene avisar a los dueños: en el "
+      "catálogo nuevo, desactivar debería devolver 404.")
     w("")
     w("## 10. Archivos generados")
     w("")
