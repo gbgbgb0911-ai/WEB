@@ -1,0 +1,158 @@
+{
+  "id_original": 721,
+  "url_original": "https://euchelperu.com/producto.php?id=721",
+  "nombre": "Top Brenda espalda",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7210038",
+  "item_group_id": "721",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176653938156132858056706.jpg",
+    "https://euchelperu.com/images/productos/17665400636797780233080.jpg",
+    "https://euchelperu.com/images/productos/17665409504136786149100.jpg",
+    "https://euchelperu.com/images/productos/176654099925536617253044.jpg",
+    "https://euchelperu.com/images/productos/176654105586049832076950.jpg",
+    "https://euchelperu.com/images/productos/176654113803999846672508.jpg",
+    "https://euchelperu.com/images/productos/176654118615772132199685.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Brenda espalda",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2229,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 2229,
+      "tallas": [
+        {
+          "id_talla": 2618,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176653938156132858056706.jpg",
+        "https://euchelperu.com/images/productos/17665400636797780233080.jpg",
+        "https://euchelperu.com/images/productos/17665409504136786149100.jpg",
+        "https://euchelperu.com/images/productos/176654099925536617253044.jpg",
+        "https://euchelperu.com/images/productos/176654105586049832076950.jpg",
+        "https://euchelperu.com/images/productos/176654113803999846672508.jpg",
+        "https://euchelperu.com/images/productos/176654118615772132199685.jpg"
+      ]
+    },
+    {
+      "id_color": 2241,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 2241,
+      "tallas": [
+        {
+          "id_talla": 2630,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176654105586049832076950.jpg",
+        "https://euchelperu.com/images/productos/176653938156132858056706.jpg",
+        "https://euchelperu.com/images/productos/17665400636797780233080.jpg",
+        "https://euchelperu.com/images/productos/17665409504136786149100.jpg",
+        "https://euchelperu.com/images/productos/176654099925536617253044.jpg",
+        "https://euchelperu.com/images/productos/176654113803999846672508.jpg",
+        "https://euchelperu.com/images/productos/176654118615772132199685.jpg"
+      ]
+    },
+    {
+      "id_color": 2242,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 2242,
+      "tallas": [
+        {
+          "id_talla": 2629,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176654099925536617253044.jpg",
+        "https://euchelperu.com/images/productos/176653938156132858056706.jpg",
+        "https://euchelperu.com/images/productos/17665400636797780233080.jpg",
+        "https://euchelperu.com/images/productos/17665409504136786149100.jpg",
+        "https://euchelperu.com/images/productos/176654105586049832076950.jpg",
+        "https://euchelperu.com/images/productos/176654113803999846672508.jpg",
+        "https://euchelperu.com/images/productos/176654118615772132199685.jpg"
+      ]
+    },
+    {
+      "id_color": 2243,
+      "nombre": "Amarillo",
+      "precio": 45.0,
+      "id_color_confirmado": 2243,
+      "tallas": [
+        {
+          "id_talla": 2632,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176654118615772132199685.jpg",
+        "https://euchelperu.com/images/productos/176653938156132858056706.jpg",
+        "https://euchelperu.com/images/productos/17665400636797780233080.jpg",
+        "https://euchelperu.com/images/productos/17665409504136786149100.jpg",
+        "https://euchelperu.com/images/productos/176654099925536617253044.jpg",
+        "https://euchelperu.com/images/productos/176654105586049832076950.jpg",
+        "https://euchelperu.com/images/productos/176654113803999846672508.jpg"
+      ]
+    },
+    {
+      "id_color": 2244,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 2244,
+      "tallas": [
+        {
+          "id_talla": 2628,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17665409504136786149100.jpg",
+        "https://euchelperu.com/images/productos/176653938156132858056706.jpg",
+        "https://euchelperu.com/images/productos/17665400636797780233080.jpg",
+        "https://euchelperu.com/images/productos/176654099925536617253044.jpg",
+        "https://euchelperu.com/images/productos/176654105586049832076950.jpg",
+        "https://euchelperu.com/images/productos/176654113803999846672508.jpg",
+        "https://euchelperu.com/images/productos/176654118615772132199685.jpg"
+      ]
+    },
+    {
+      "id_color": 2245,
+      "nombre": "Rojo",
+      "precio": 45.0,
+      "id_color_confirmado": 2245,
+      "tallas": [
+        {
+          "id_talla": 2631,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176654113803999846672508.jpg",
+        "https://euchelperu.com/images/productos/176653938156132858056706.jpg",
+        "https://euchelperu.com/images/productos/17665400636797780233080.jpg",
+        "https://euchelperu.com/images/productos/17665409504136786149100.jpg",
+        "https://euchelperu.com/images/productos/176654099925536617253044.jpg",
+        "https://euchelperu.com/images/productos/176654105586049832076950.jpg",
+        "https://euchelperu.com/images/productos/176654118615772132199685.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:42:41Z"
+}

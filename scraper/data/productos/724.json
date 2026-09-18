@@ -1,0 +1,71 @@
+{
+  "id_original": 724,
+  "url_original": "https://euchelperu.com/producto.php?id=724",
+  "nombre": "Top Larissa Shine",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7240043",
+  "item_group_id": "724",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176653995689435559236435.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Larissa Shine",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2234,
+      "nombre": "Rosado",
+      "precio": 49.0,
+      "id_color_confirmado": 2234,
+      "tallas": [
+        {
+          "id_talla": 2623,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176653995689435559236435.jpg"
+      ]
+    },
+    {
+      "id_color": 2235,
+      "nombre": "Negro",
+      "precio": 49.0,
+      "id_color_confirmado": 2235,
+      "tallas": [
+        {
+          "id_talla": 2836,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176653995689435559236435.jpg"
+      ]
+    },
+    {
+      "id_color": 2236,
+      "nombre": "Celeste",
+      "precio": 49.0,
+      "id_color_confirmado": 2236,
+      "tallas": [
+        {
+          "id_talla": 2837,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176653995689435559236435.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:43:53Z"
+}

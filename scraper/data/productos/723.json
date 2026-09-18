@@ -1,0 +1,41 @@
+{
+  "id_original": 723,
+  "url_original": "https://euchelperu.com/producto.php?id=723",
+  "nombre": "Maxi vestido Liss brillo",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7230042",
+  "item_group_id": "723",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176653987325902195585035.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Maxi vestido Liss brillo",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2233,
+      "nombre": "Plateado",
+      "precio": 69.0,
+      "id_color_confirmado": 2233,
+      "tallas": [
+        {
+          "id_talla": 2622,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176653987325902195585035.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:42:44Z"
+}
