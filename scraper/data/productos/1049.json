@@ -1,0 +1,59 @@
+{
+  "id_original": 1049,
+  "url_original": "https://euchelperu.com/producto.php?id=1049",
+  "nombre": "CAMISACO CUERINA",
+  "descripcion": "¡La pieza que tu armario gritaba por tener! El equilibrio perfecto entre lo rebelde y lo sofisticado. Diseñada con un corte ligeramente overside para que puedas usarla sobre tops o sweaters ligeros, su color café profundo la convierte en el básico indispensable de la temporada.",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1049CAM59071",
+  "item_group_id": "1049",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177532333017264395724748.jpg",
+    "https://euchelperu.com/images/productos/177534620577093511373844.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CAMISACO CUERINA",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3228,
+      "nombre": "Marrón",
+      "precio": 85.0,
+      "id_color_confirmado": 3228,
+      "tallas": [
+        {
+          "id_talla": 3530,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177532333017264395724748.jpg",
+        "https://euchelperu.com/images/productos/177534620577093511373844.jpg"
+      ]
+    },
+    {
+      "id_color": 3232,
+      "nombre": "Negro",
+      "precio": 85.0,
+      "id_color_confirmado": 3232,
+      "tallas": [
+        {
+          "id_talla": 3555,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177534620577093511373844.jpg",
+        "https://euchelperu.com/images/productos/177532333017264395724748.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:54:21Z"
+}

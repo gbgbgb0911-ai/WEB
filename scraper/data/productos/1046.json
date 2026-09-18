@@ -1,0 +1,125 @@
+{
+  "id_original": 1046,
+  "url_original": "https://euchelperu.com/producto.php?id=1046",
+  "nombre": "TOP RIB MELODY",
+  "descripcion": "Este top off-shoulder es una prenda moderna y femenina, perfecta para looks casuales y elegantes. Su diseño de hombros descubiertos resalta la silueta, mientras que el detalle fruncido lateral con ajuste de lazo añade un toque único y estilizado. La tela acanalada es suave y cómoda, ideal para usar durante el día o la noche. Combínalo con jeans o faldas para un outfit versátil y a la moda.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1046D6F4G1H7",
+  "item_group_id": "1046",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177524995886932501692156.jpg",
+    "https://euchelperu.com/images/productos/177525031943371535354697.jpg",
+    "https://euchelperu.com/images/productos/1775250846755755988991.jpg",
+    "https://euchelperu.com/images/productos/177525097754707794952510.jpg",
+    "https://euchelperu.com/images/productos/177525119573809477726319.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP RIB MELODY",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3217,
+      "nombre": "CELESTE",
+      "precio": 49.0,
+      "id_color_confirmado": 3217,
+      "tallas": [
+        {
+          "id_talla": 3519,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177524995886932501692156.jpg",
+        "https://euchelperu.com/images/productos/177525031943371535354697.jpg",
+        "https://euchelperu.com/images/productos/1775250846755755988991.jpg",
+        "https://euchelperu.com/images/productos/177525097754707794952510.jpg",
+        "https://euchelperu.com/images/productos/177525119573809477726319.jpg"
+      ]
+    },
+    {
+      "id_color": 3218,
+      "nombre": "Marrón",
+      "precio": 49.0,
+      "id_color_confirmado": 3218,
+      "tallas": [
+        {
+          "id_talla": 3521,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177525031943371535354697.jpg",
+        "https://euchelperu.com/images/productos/177524995886932501692156.jpg",
+        "https://euchelperu.com/images/productos/1775250846755755988991.jpg",
+        "https://euchelperu.com/images/productos/177525097754707794952510.jpg",
+        "https://euchelperu.com/images/productos/177525119573809477726319.jpg"
+      ]
+    },
+    {
+      "id_color": 3219,
+      "nombre": "Gris",
+      "precio": 49.0,
+      "id_color_confirmado": 3219,
+      "tallas": [
+        {
+          "id_talla": 3522,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1775250846755755988991.jpg",
+        "https://euchelperu.com/images/productos/177524995886932501692156.jpg",
+        "https://euchelperu.com/images/productos/177525031943371535354697.jpg",
+        "https://euchelperu.com/images/productos/177525097754707794952510.jpg",
+        "https://euchelperu.com/images/productos/177525119573809477726319.jpg"
+      ]
+    },
+    {
+      "id_color": 3220,
+      "nombre": "Negro",
+      "precio": 49.0,
+      "id_color_confirmado": 3220,
+      "tallas": [
+        {
+          "id_talla": 3520,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177525097754707794952510.jpg",
+        "https://euchelperu.com/images/productos/177524995886932501692156.jpg",
+        "https://euchelperu.com/images/productos/177525031943371535354697.jpg",
+        "https://euchelperu.com/images/productos/1775250846755755988991.jpg",
+        "https://euchelperu.com/images/productos/177525119573809477726319.jpg"
+      ]
+    },
+    {
+      "id_color": 3221,
+      "nombre": "PERLA",
+      "precio": 49.0,
+      "id_color_confirmado": 3221,
+      "tallas": [
+        {
+          "id_talla": 3523,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177525119573809477726319.jpg",
+        "https://euchelperu.com/images/productos/177524995886932501692156.jpg",
+        "https://euchelperu.com/images/productos/177525031943371535354697.jpg",
+        "https://euchelperu.com/images/productos/1775250846755755988991.jpg",
+        "https://euchelperu.com/images/productos/177525097754707794952510.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:52:57Z"
+}

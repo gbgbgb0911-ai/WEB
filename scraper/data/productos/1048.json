@@ -1,0 +1,79 @@
+{
+  "id_original": 1048,
+  "url_original": "https://euchelperu.com/producto.php?id=1048",
+  "nombre": "TOP MANDY",
+  "descripcion": "Top elegante y femenino con diseño drapeado en la parte frontal que estiliza la silueta y aporta un toque sofisticado. Cuenta con mangas cortas, escote barco y cintura ajustada que realza la figura, ideal para combinar con jeans o faldas para un look casual chic o de noche. Confeccionado en tela suave y cómoda para un ajuste perfecto",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1048Z7A4E2U8",
+  "item_group_id": "1048",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177525386438629393261471.png",
+    "https://euchelperu.com/images/productos/177525397667903584975661.png",
+    "https://euchelperu.com/images/productos/177525407766630109121433.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP MANDY",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3225,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3225,
+      "tallas": [
+        {
+          "id_talla": 3527,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177525386438629393261471.png",
+        "https://euchelperu.com/images/productos/177525397667903584975661.png",
+        "https://euchelperu.com/images/productos/177525407766630109121433.png"
+      ]
+    },
+    {
+      "id_color": 3226,
+      "nombre": "ROSADO",
+      "precio": 45.0,
+      "id_color_confirmado": 3226,
+      "tallas": [
+        {
+          "id_talla": 3528,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177525397667903584975661.png",
+        "https://euchelperu.com/images/productos/177525386438629393261471.png",
+        "https://euchelperu.com/images/productos/177525407766630109121433.png"
+      ]
+    },
+    {
+      "id_color": 3227,
+      "nombre": "ROJO",
+      "precio": 45.0,
+      "id_color_confirmado": 3227,
+      "tallas": [
+        {
+          "id_talla": 3529,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177525407766630109121433.png",
+        "https://euchelperu.com/images/productos/177525386438629393261471.png",
+        "https://euchelperu.com/images/productos/177525397667903584975661.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:53:51Z"
+}

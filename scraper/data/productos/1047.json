@@ -1,0 +1,79 @@
+{
+  "id_original": 1047,
+  "url_original": "https://euchelperu.com/producto.php?id=1047",
+  "nombre": "TOP SUECIA",
+  "descripcion": "Este top halter es una prenda elegante y llamativa, perfecta para crear looks modernos y femeninos. Su diseño con escote profundo y fruncido en el centro estiliza la figura, mientras que la caída asimétrica aporta movimiento y un toque sofisticado. Confeccionado en tela suave y ligera, es ideal para combinar con jeans, faldas o pantalones de vestir, logrando un outfit versátil tanto para el día como para la noche.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1047S2A8K4J7",
+  "item_group_id": "1047",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177525239336114667260550.jpg",
+    "https://euchelperu.com/images/productos/177525265941368338115693.jpg",
+    "https://euchelperu.com/images/productos/177525301259339754878540.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP SUECIA",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3222,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 3222,
+      "tallas": [
+        {
+          "id_talla": 3524,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177525239336114667260550.jpg",
+        "https://euchelperu.com/images/productos/177525265941368338115693.jpg",
+        "https://euchelperu.com/images/productos/177525301259339754878540.jpg"
+      ]
+    },
+    {
+      "id_color": 3223,
+      "nombre": "Acero",
+      "precio": 45.0,
+      "id_color_confirmado": 3223,
+      "tallas": [
+        {
+          "id_talla": 3525,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177525265941368338115693.jpg",
+        "https://euchelperu.com/images/productos/177525239336114667260550.jpg",
+        "https://euchelperu.com/images/productos/177525301259339754878540.jpg"
+      ]
+    },
+    {
+      "id_color": 3224,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3224,
+      "tallas": [
+        {
+          "id_talla": 3526,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177525301259339754878540.jpg",
+        "https://euchelperu.com/images/productos/177525239336114667260550.jpg",
+        "https://euchelperu.com/images/productos/177525265941368338115693.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:53:18Z"
+}

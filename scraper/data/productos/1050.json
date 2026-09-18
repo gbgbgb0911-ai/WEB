@@ -1,0 +1,79 @@
+{
+  "id_original": 1050,
+  "url_original": "https://euchelperu.com/producto.php?id=1050",
+  "nombre": "CHAQUETA BOMBER CUERINA",
+  "descripcion": "¡El regreso de un clásico! Dale un giro nostálgico y cool a tus outfits con esta chaqueta bomber. Su silueta voluminosa y los puños elásticos definen el vibe urbano y relajado de esta temporada. Perfecta para un look sin esfuerzo y con mucha personalidad.",
+  "categoria": "Abrigos",
+  "categoria_subid": 2,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1050H4G2D8S5",
+  "item_group_id": "1050",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177532425959866388357354.jpg",
+    "https://euchelperu.com/images/productos/17753246048355459526908.png",
+    "https://euchelperu.com/images/productos/177532474447121734684159.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CHAQUETA BOMBER CUERINA",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3229,
+      "nombre": "Marrón",
+      "precio": 89.0,
+      "id_color_confirmado": 3229,
+      "tallas": [
+        {
+          "id_talla": 3531,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177532474447121734684159.png",
+        "https://euchelperu.com/images/productos/177532425959866388357354.jpg",
+        "https://euchelperu.com/images/productos/17753246048355459526908.png"
+      ]
+    },
+    {
+      "id_color": 3230,
+      "nombre": "Vino",
+      "precio": 89.0,
+      "id_color_confirmado": 3230,
+      "tallas": [
+        {
+          "id_talla": 3532,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177532425959866388357354.jpg",
+        "https://euchelperu.com/images/productos/17753246048355459526908.png",
+        "https://euchelperu.com/images/productos/177532474447121734684159.png"
+      ]
+    },
+    {
+      "id_color": 3231,
+      "nombre": "Negro",
+      "precio": 89.0,
+      "id_color_confirmado": 3231,
+      "tallas": [
+        {
+          "id_talla": 3533,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17753246048355459526908.png",
+        "https://euchelperu.com/images/productos/177532425959866388357354.jpg",
+        "https://euchelperu.com/images/productos/177532474447121734684159.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:55:20Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id_original": 1044,
+  "url_original": "https://euchelperu.com/producto.php?id=1044",
+  "nombre": "TOP ROSSI",
+  "descripcion": "El básico que no es básico. Este top de manga larga redefine el minimalismo con su escote inclinado y detalle fruncido en el costado. Su tono neutro lo convierte en el lienzo perfecto para tus accesorios favoritos.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1044Q7W4E8R1",
+  "item_group_id": "1044",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1775149308080954619945.jpg",
+    "https://euchelperu.com/images/productos/17751493577112310979874.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ROSSI",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3214,
+      "nombre": "Celeste",
+      "precio": 49.0,
+      "id_color_confirmado": 3214,
+      "tallas": [
+        {
+          "id_talla": 3510,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17751493577112310979874.jpg",
+        "https://euchelperu.com/images/productos/1775149308080954619945.jpg"
+      ]
+    },
+    {
+      "id_color": 3215,
+      "nombre": "Blanco",
+      "precio": 49.0,
+      "id_color_confirmado": 3215,
+      "tallas": [
+        {
+          "id_talla": 3511,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1775149308080954619945.jpg",
+        "https://euchelperu.com/images/productos/17751493577112310979874.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:51:54Z"
+}
