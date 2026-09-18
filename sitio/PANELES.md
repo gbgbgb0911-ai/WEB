@@ -90,15 +90,59 @@ de añadir: ni el panel ni las funciones pueden borrar una línea.
 
 | Nombre | Para qué |
 |---|---|
-| `DATABASE_URL` | conexión del rol `panel` |
+| `DATABASE_URL` | conexión del rol `panel`; también la usa la construcción |
 | `NEON_AUTH_BASE_URL` | de dónde baja el JWKS para verificar la firma |
+| `NETLIFY_BUILD_HOOK` | lo que dispara el botón Publicar (ver más abajo) |
 
 Ojo: la API de Netlify acepta la escritura y la descarta en silencio si la
 variable se marca secreta o se le limita el ámbito. Hay que ponerlas sin
 marcar secreto y con ámbito completo, y **comprobar que quedaron** listando
 las variables después. Que responda "upserted" no significa que se guardó.
 
-## Desplegar
+## Subir productos
+
+Cualquiera del equipo puede crear un producto, subirle fotos y ponerle
+colores y tallas. Cambiar el precio, archivar y eliminar es de admin.
+
+El producto **nace oculto**. Se le ponen fotos, colores y tallas, y cuando
+está listo se hace visible y se publica.
+
+Las fotos se encogen en el navegador antes de subirse (1600 px de lado
+mayor). Una función de Netlify no acepta más de 6 MB de cuerpo y una foto de
+celular pasa de eso; y el catálogo nunca las muestra a más de 1400 px. Van a
+Netlify Blobs con el sha-256 del archivo como nombre, así que subir dos veces
+la misma no ocupa el doble, y las sirve `/img/subidas/<clave>` a través del
+CDN de imágenes, que las redimensiona y las pasa a WebP al vuelo.
+
+Los productos creados en el panel llevan **Ref. desde 100001**. La tienda va
+por 1367 y sigue subiendo, así que no chocan nunca y se distinguen de un
+vistazo en el pedido de WhatsApp.
+
+**Eliminar** solo borra los productos creados en el panel, con sus fotos y
+sin vuelta atrás. Los que vinieron de la tienda se archivan: salen del
+catálogo y del panel y se pueden recuperar. Lo impide también un disparador
+en la base, no solo el código, porque borrarlos se llevaría sus colores,
+tallas y fotos y dejaría sin referencia los pedidos que los mencionan.
+
+## Publicar
+
+Un producto nuevo, una foto, un nombre o un precio necesitan reconstruir el
+sitio: el catálogo son páginas ya generadas. El botón **Publicar catálogo**
+del panel de admin lo dispara.
+
+Para que ese botón funcione solo hacen falta dos cosas, una vez:
+
+1. **Conectar el repositorio** en Netlify (Project configuration → Build &
+   deploy → Link repository). El comando de construcción y la versión de
+   Python ya están en `netlify.toml`, y las imágenes de la extracción están
+   en el repo, así que no hace falta nada más.
+2. **Crear un gancho de construcción** (Build hooks → Add build hook) y
+   guardar su URL en la variable de entorno `NETLIFY_BUILD_HOOK`.
+
+Sin eso, el botón avisa que falta configurarlo y el sitio se publica a mano
+con `sitio/empaquetar.sh` (ver abajo).
+
+## Desplegar a mano
 
 ```sh
 sh sitio/empaquetar.sh            # genera el sitio y copia las funciones
@@ -115,8 +159,10 @@ Qué cambia sin volver a desplegar y qué no:
 |---|---|
 | agotar, ocultar, precios, archivar | no: sale por `/api/estado` en menos de un minuto |
 | cuentas y roles | no |
-| producto nuevo o foto nueva | sí: el catálogo son páginas ya generadas |
+| producto nuevo, foto nueva, nombre, precio | sí: el catálogo son páginas ya generadas |
 | diseño, textos, código | sí |
+
+Lo que hace falta reconstruir sale del botón **Publicar catálogo**.
 
 ## Probar los paneles en un navegador
 
