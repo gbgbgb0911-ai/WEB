@@ -1,0 +1,41 @@
+{
+  "id_original": 917,
+  "url_original": "https://euchelperu.com/producto.php?id=917",
+  "nombre": "bikini melocoton soft",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "917BIK98654",
+  "item_group_id": "917",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176973052015441727217561.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini melocoton soft",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2675,
+      "nombre": "naranja",
+      "precio": 110.0,
+      "id_color_confirmado": 2675,
+      "tallas": [
+        {
+          "id_talla": 3107,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176973052015441727217561.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:06:57Z"
+}

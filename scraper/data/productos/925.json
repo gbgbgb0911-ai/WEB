@@ -1,0 +1,41 @@
+{
+  "id_original": 925,
+  "url_original": "https://euchelperu.com/producto.php?id=925",
+  "nombre": "bikini honey glow",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "925bik73829",
+  "item_group_id": "925",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176980920859680379146746.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini honey glow",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2783,
+      "nombre": "Amarillo",
+      "precio": 110.0,
+      "id_color_confirmado": 2783,
+      "tallas": [
+        {
+          "id_talla": 3116,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176980920859680379146746.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:11:51Z"
+}

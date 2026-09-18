@@ -1,0 +1,41 @@
+{
+  "id_original": 916,
+  "url_original": "https://euchelperu.com/producto.php?id=916",
+  "nombre": "bikini zafiro real",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "916bik29872",
+  "item_group_id": "916",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176972973968883724267107.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini zafiro real",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2674,
+      "nombre": "Azul",
+      "precio": 110.0,
+      "id_color_confirmado": 2674,
+      "tallas": [
+        {
+          "id_talla": 3106,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176972973968883724267107.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:06:54Z"
+}

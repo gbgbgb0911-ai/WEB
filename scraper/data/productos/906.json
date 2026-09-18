@@ -1,0 +1,101 @@
+{
+  "id_original": 906,
+  "url_original": "https://euchelperu.com/producto.php?id=906",
+  "nombre": "set amanda capa",
+  "descripcion": "",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "906SET93651",
+  "item_group_id": "906",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176972077376282200638554.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "set amanda capa",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2664,
+      "nombre": "Celeste",
+      "precio": 65.0,
+      "id_color_confirmado": 2664,
+      "tallas": [
+        {
+          "id_talla": 3096,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176972077376282200638554.jpg"
+      ]
+    },
+    {
+      "id_color": 2698,
+      "nombre": "Azul",
+      "precio": null,
+      "id_color_confirmado": 2698,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176972077376282200638554.jpg"
+      ]
+    },
+    {
+      "id_color": 2699,
+      "nombre": "Crema con naranja",
+      "precio": null,
+      "id_color_confirmado": 2699,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176972077376282200638554.jpg"
+      ]
+    },
+    {
+      "id_color": 2731,
+      "nombre": "verde salvia",
+      "precio": null,
+      "id_color_confirmado": 2731,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176972077376282200638554.jpg"
+      ]
+    },
+    {
+      "id_color": 2732,
+      "nombre": "rosa palo",
+      "precio": null,
+      "id_color_confirmado": 2732,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176972077376282200638554.jpg"
+      ]
+    },
+    {
+      "id_color": 2768,
+      "nombre": "Crema con verde olivo",
+      "precio": null,
+      "id_color_confirmado": 2768,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176972077376282200638554.jpg"
+      ]
+    },
+    {
+      "id_color": 2769,
+      "nombre": "Blanco con acero",
+      "precio": null,
+      "id_color_confirmado": 2769,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176972077376282200638554.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:05:25Z"
+}

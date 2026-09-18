@@ -1,0 +1,81 @@
+{
+  "id_original": 899,
+  "url_original": "https://euchelperu.com/producto.php?id=899",
+  "nombre": "vestido sharon amarre",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "899VES85144",
+  "item_group_id": "899",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176971742563212599747939.jpg",
+    "https://euchelperu.com/images/productos/177007750475216891847480.jpg",
+    "https://euchelperu.com/images/productos/177007835752484802119621.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "vestido sharon amarre",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2657,
+      "nombre": "azul",
+      "precio": 85.0,
+      "id_color_confirmado": 2657,
+      "tallas": [
+        {
+          "id_talla": 3088,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176971742563212599747939.jpg",
+        "https://euchelperu.com/images/productos/177007750475216891847480.jpg",
+        "https://euchelperu.com/images/productos/177007835752484802119621.png"
+      ]
+    },
+    {
+      "id_color": 2717,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 2717,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177007750475216891847480.jpg",
+        "https://euchelperu.com/images/productos/176971742563212599747939.jpg",
+        "https://euchelperu.com/images/productos/177007835752484802119621.png"
+      ]
+    },
+    {
+      "id_color": 2718,
+      "nombre": "Amarillo",
+      "precio": null,
+      "id_color_confirmado": 2718,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176971742563212599747939.jpg",
+        "https://euchelperu.com/images/productos/177007750475216891847480.jpg",
+        "https://euchelperu.com/images/productos/177007835752484802119621.png"
+      ]
+    },
+    {
+      "id_color": 2721,
+      "nombre": "verde",
+      "precio": null,
+      "id_color_confirmado": 2721,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177007835752484802119621.png",
+        "https://euchelperu.com/images/productos/176971742563212599747939.jpg",
+        "https://euchelperu.com/images/productos/177007750475216891847480.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:59:30Z"
+}

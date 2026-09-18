@@ -1,0 +1,41 @@
+{
+  "id_original": 928,
+  "url_original": "https://euchelperu.com/producto.php?id=928",
+  "nombre": "bikini latte coast",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "928bik83748",
+  "item_group_id": "928",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176980973526473220893867.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini latte coast",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2786,
+      "nombre": "Marrón",
+      "precio": 99.0,
+      "id_color_confirmado": 2786,
+      "tallas": [
+        {
+          "id_talla": 3119,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176980973526473220893867.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:12:00Z"
+}

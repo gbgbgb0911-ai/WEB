@@ -1,0 +1,41 @@
+{
+  "id_original": 915,
+  "url_original": "https://euchelperu.com/producto.php?id=915",
+  "nombre": "bikini cacao vintage",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "915Marrón ",
+  "item_group_id": "915",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176972915472884580037979.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini cacao vintage",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2673,
+      "nombre": "Marrón",
+      "precio": 110.0,
+      "id_color_confirmado": 2673,
+      "tallas": [
+        {
+          "id_talla": 3105,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176972915472884580037979.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:06:51Z"
+}

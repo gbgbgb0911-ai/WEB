@@ -1,0 +1,69 @@
+{
+  "id_original": 900,
+  "url_original": "https://euchelperu.com/producto.php?id=900",
+  "nombre": "mini vestido cami broche",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "900MIN93495",
+  "item_group_id": "900",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176971767363560695475378.jpg",
+    "https://euchelperu.com/images/productos/17700768597857811078701.png",
+    "https://euchelperu.com/images/productos/17700769733306542773197.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "mini vestido cami broche",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2658,
+      "nombre": "Beige",
+      "precio": 85.0,
+      "id_color_confirmado": 2658,
+      "tallas": [
+        {
+          "id_talla": 3089,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176971767363560695475378.jpg",
+        "https://euchelperu.com/images/productos/17700768597857811078701.png",
+        "https://euchelperu.com/images/productos/17700769733306542773197.jpg"
+      ]
+    },
+    {
+      "id_color": 2719,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 2719,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17700768597857811078701.png",
+        "https://euchelperu.com/images/productos/176971767363560695475378.jpg",
+        "https://euchelperu.com/images/productos/17700769733306542773197.jpg"
+      ]
+    },
+    {
+      "id_color": 2720,
+      "nombre": "Celeste/Verde",
+      "precio": null,
+      "id_color_confirmado": 2720,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17700769733306542773197.jpg",
+        "https://euchelperu.com/images/productos/176971767363560695475378.jpg",
+        "https://euchelperu.com/images/productos/17700768597857811078701.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:00:17Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 913,
+  "url_original": "https://euchelperu.com/producto.php?id=913",
+  "nombre": "moderna camel",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "913CAR98643",
+  "item_group_id": "913",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17697269290555457308162.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "moderna camel",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2671,
+      "nombre": "Beige",
+      "precio": 79.0,
+      "id_color_confirmado": 2671,
+      "tallas": [
+        {
+          "id_talla": 3103,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17697269290555457308162.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:06:25Z"
+}

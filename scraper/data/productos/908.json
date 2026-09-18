@@ -1,0 +1,69 @@
+{
+  "id_original": 908,
+  "url_original": "https://euchelperu.com/producto.php?id=908",
+  "nombre": "maxi vestido luba hilo broche",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "908MAX49903",
+  "item_group_id": "908",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176972113639871557542137.jpg",
+    "https://euchelperu.com/images/productos/17701433885559087124629.jpg",
+    "https://euchelperu.com/images/productos/177014340789772758299576.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "maxi vestido luba hilo broche",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2666,
+      "nombre": "Beige",
+      "precio": 89.0,
+      "id_color_confirmado": 2666,
+      "tallas": [
+        {
+          "id_talla": 3098,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176972113639871557542137.jpg",
+        "https://euchelperu.com/images/productos/17701433885559087124629.jpg",
+        "https://euchelperu.com/images/productos/177014340789772758299576.jpg"
+      ]
+    },
+    {
+      "id_color": 2680,
+      "nombre": "Azul",
+      "precio": null,
+      "id_color_confirmado": 2680,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17701433885559087124629.jpg",
+        "https://euchelperu.com/images/productos/176972113639871557542137.jpg",
+        "https://euchelperu.com/images/productos/177014340789772758299576.jpg"
+      ]
+    },
+    {
+      "id_color": 2710,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 2710,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177014340789772758299576.jpg",
+        "https://euchelperu.com/images/productos/176972113639871557542137.jpg",
+        "https://euchelperu.com/images/productos/17701433885559087124629.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:05:35Z"
+}

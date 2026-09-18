@@ -1,0 +1,54 @@
+{
+  "id_original": 901,
+  "url_original": "https://euchelperu.com/producto.php?id=901",
+  "nombre": "mini vestido rayza hilo",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "901MIN87315",
+  "item_group_id": "901",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176971787461009411175909.jpg",
+    "https://euchelperu.com/images/productos/176989997269098423262033.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "mini vestido rayza hilo",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2659,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 2659,
+      "tallas": [
+        {
+          "id_talla": 3090,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176971787461009411175909.jpg",
+        "https://euchelperu.com/images/productos/176989997269098423262033.jpg"
+      ]
+    },
+    {
+      "id_color": 2737,
+      "nombre": "Beige",
+      "precio": null,
+      "id_color_confirmado": 2737,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176989997269098423262033.jpg",
+        "https://euchelperu.com/images/productos/176971787461009411175909.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:00:35Z"
+}

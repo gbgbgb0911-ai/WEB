@@ -1,0 +1,69 @@
+{
+  "id_original": 903,
+  "url_original": "https://euchelperu.com/producto.php?id=903",
+  "nombre": "top blondy estrella",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "903TOP31785",
+  "item_group_id": "903",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176971966447400722963359.jpg",
+    "https://euchelperu.com/images/productos/177022795785733335040078.jpg",
+    "https://euchelperu.com/images/productos/177022797305708615275099.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "top blondy estrella",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2661,
+      "nombre": "Amarillo",
+      "precio": 49.0,
+      "id_color_confirmado": 2661,
+      "tallas": [
+        {
+          "id_talla": 3093,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176971966447400722963359.jpg",
+        "https://euchelperu.com/images/productos/177022795785733335040078.jpg",
+        "https://euchelperu.com/images/productos/177022797305708615275099.png"
+      ]
+    },
+    {
+      "id_color": 2687,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 2687,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177022795785733335040078.jpg",
+        "https://euchelperu.com/images/productos/176971966447400722963359.jpg",
+        "https://euchelperu.com/images/productos/177022797305708615275099.png"
+      ]
+    },
+    {
+      "id_color": 2688,
+      "nombre": "Celeste",
+      "precio": null,
+      "id_color_confirmado": 2688,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177022797305708615275099.png",
+        "https://euchelperu.com/images/productos/176971966447400722963359.jpg",
+        "https://euchelperu.com/images/productos/177022795785733335040078.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:03:17Z"
+}

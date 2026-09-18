@@ -1,0 +1,41 @@
+{
+  "id_original": 919,
+  "url_original": "https://euchelperu.com/producto.php?id=919",
+  "nombre": "bikini selva oscura",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "919bik54647",
+  "item_group_id": "919",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176973129506267945181822.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini selva oscura",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2677,
+      "nombre": "Negro",
+      "precio": 110.0,
+      "id_color_confirmado": 2677,
+      "tallas": [
+        {
+          "id_talla": 3109,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176973129506267945181822.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:07:39Z"
+}

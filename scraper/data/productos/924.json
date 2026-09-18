@@ -1,0 +1,41 @@
+{
+  "id_original": 924,
+  "url_original": "https://euchelperu.com/producto.php?id=924",
+  "nombre": "bikini aura classy",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "924bik09281",
+  "item_group_id": "924",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176980887988394537076214.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini aura classy",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2782,
+      "nombre": "borgoña/rojo",
+      "precio": 110.0,
+      "id_color_confirmado": 2782,
+      "tallas": [
+        {
+          "id_talla": 3115,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176980887988394537076214.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:11:36Z"
+}

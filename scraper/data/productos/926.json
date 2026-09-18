@@ -1,0 +1,41 @@
+{
+  "id_original": 926,
+  "url_original": "https://euchelperu.com/producto.php?id=926",
+  "nombre": "bikini nectar bloom",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "926bik38891",
+  "item_group_id": "926",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1769809423778429624042.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini nectar bloom",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2784,
+      "nombre": "Amarillo",
+      "precio": 110.0,
+      "id_color_confirmado": 2784,
+      "tallas": [
+        {
+          "id_talla": 3117,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1769809423778429624042.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:11:54Z"
+}

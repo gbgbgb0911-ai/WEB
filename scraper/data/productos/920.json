@@ -1,0 +1,41 @@
+{
+  "id_original": 920,
+  "url_original": "https://euchelperu.com/producto.php?id=920",
+  "nombre": "bikini arena gold",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "920bik37282",
+  "item_group_id": "920",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176973151573073809613234.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini arena gold",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2678,
+      "nombre": "Beige",
+      "precio": 110.0,
+      "id_color_confirmado": 2678,
+      "tallas": [
+        {
+          "id_talla": 3110,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176973151573073809613234.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:07:42Z"
+}

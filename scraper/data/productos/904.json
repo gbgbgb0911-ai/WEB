@@ -1,0 +1,86 @@
+{
+  "id_original": 904,
+  "url_original": "https://euchelperu.com/producto.php?id=904",
+  "nombre": "top lia sastre strapless",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "904TOP58357",
+  "item_group_id": "904",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177022744944426102937725.png",
+    "https://euchelperu.com/images/productos/17702274679326990733019.png",
+    "https://euchelperu.com/images/productos/17702276312465218488433.png",
+    "https://euchelperu.com/images/productos/177022770321329767471321.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "top lia sastre strapless",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2662,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 2662,
+      "tallas": [
+        {
+          "id_talla": 3094,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177022770321329767471321.jpg",
+        "https://euchelperu.com/images/productos/177022744944426102937725.png",
+        "https://euchelperu.com/images/productos/17702274679326990733019.png",
+        "https://euchelperu.com/images/productos/17702276312465218488433.png"
+      ]
+    },
+    {
+      "id_color": 2681,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 2681,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177022744944426102937725.png",
+        "https://euchelperu.com/images/productos/17702274679326990733019.png",
+        "https://euchelperu.com/images/productos/17702276312465218488433.png",
+        "https://euchelperu.com/images/productos/177022770321329767471321.jpg"
+      ]
+    },
+    {
+      "id_color": 2682,
+      "nombre": "gris",
+      "precio": null,
+      "id_color_confirmado": 2682,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17702274679326990733019.png",
+        "https://euchelperu.com/images/productos/177022744944426102937725.png",
+        "https://euchelperu.com/images/productos/17702276312465218488433.png",
+        "https://euchelperu.com/images/productos/177022770321329767471321.jpg"
+      ]
+    },
+    {
+      "id_color": 2738,
+      "nombre": "azul",
+      "precio": null,
+      "id_color_confirmado": 2738,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17702276312465218488433.png",
+        "https://euchelperu.com/images/productos/177022744944426102937725.png",
+        "https://euchelperu.com/images/productos/17702274679326990733019.png",
+        "https://euchelperu.com/images/productos/177022770321329767471321.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:04:28Z"
+}

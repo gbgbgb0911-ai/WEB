@@ -1,0 +1,41 @@
+{
+  "id_original": 923,
+  "url_original": "https://euchelperu.com/producto.php?id=923",
+  "nombre": "bikini pacific garden",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "923BIK83494",
+  "item_group_id": "923",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17698075311714214205295.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini pacific garden",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2781,
+      "nombre": "Fucsia",
+      "precio": 110.0,
+      "id_color_confirmado": 2781,
+      "tallas": [
+        {
+          "id_talla": 3114,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17698075311714214205295.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:11:10Z"
+}

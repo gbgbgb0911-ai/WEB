@@ -1,0 +1,41 @@
+{
+  "id_original": 921,
+  "url_original": "https://euchelperu.com/producto.php?id=921",
+  "nombre": "bikini choco pink",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "921bik94732",
+  "item_group_id": "921",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176973179116252340250387.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini choco pink",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2679,
+      "nombre": "Marrón",
+      "precio": 99.0,
+      "id_color_confirmado": 2679,
+      "tallas": [
+        {
+          "id_talla": 3111,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176973179116252340250387.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:07:46Z"
+}

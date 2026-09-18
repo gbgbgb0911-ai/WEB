@@ -1,0 +1,41 @@
+{
+  "id_original": 927,
+  "url_original": "https://euchelperu.com/producto.php?id=927",
+  "nombre": "bikini paradise petals",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "927bik76540",
+  "item_group_id": "927",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176980958113456230864964.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini paradise petals",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2785,
+      "nombre": "amarillo/marmoleado",
+      "precio": 110.0,
+      "id_color_confirmado": 2785,
+      "tallas": [
+        {
+          "id_talla": 3118,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176980958113456230864964.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:11:57Z"
+}
