@@ -1,0 +1,79 @@
+{
+  "id_original": 700,
+  "url_original": "https://euchelperu.com/producto.php?id=700",
+  "nombre": "SET GABRIELA CAPA",
+  "descripcion": "Este vestido corto en tono marrón chocolate destaca por su diseño sofisticado y moderno. Cuenta con una base ajustada al cuerpo que realza la silueta, combinada con una capa superior de malla translúcida que aporta movimiento, elegancia y un efecto visual único. El diseño incluye cuello alto, mangas largas en tela transparente y un corte en capas asimétricas, logrando un equilibrio perfecto entre sensualidad y sofisticación. Ideal para quienes buscan una pieza diferente, elegante y con personalidad.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "700SET50525",
+  "item_group_id": "700",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17682439602344741144680.png",
+    "https://euchelperu.com/images/productos/17682441944489899959652.png",
+    "https://euchelperu.com/images/productos/176824439876492930194059.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SET GABRIELA CAPA",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2190,
+      "nombre": "Negro",
+      "precio": 89.0,
+      "id_color_confirmado": 2190,
+      "tallas": [
+        {
+          "id_talla": 2580,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17682439602344741144680.png",
+        "https://euchelperu.com/images/productos/17682441944489899959652.png",
+        "https://euchelperu.com/images/productos/176824439876492930194059.png"
+      ]
+    },
+    {
+      "id_color": 2191,
+      "nombre": "Vino",
+      "precio": 89.0,
+      "id_color_confirmado": 2191,
+      "tallas": [
+        {
+          "id_talla": 2581,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17682441944489899959652.png",
+        "https://euchelperu.com/images/productos/17682439602344741144680.png",
+        "https://euchelperu.com/images/productos/176824439876492930194059.png"
+      ]
+    },
+    {
+      "id_color": 2498,
+      "nombre": "Amarillo",
+      "precio": 89.0,
+      "id_color_confirmado": 2498,
+      "tallas": [
+        {
+          "id_talla": 2912,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176824439876492930194059.png",
+        "https://euchelperu.com/images/productos/17682439602344741144680.png",
+        "https://euchelperu.com/images/productos/17682441944489899959652.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:33:28Z"
+}

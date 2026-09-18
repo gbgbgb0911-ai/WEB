@@ -1,0 +1,56 @@
+{
+  "id_original": 698,
+  "url_original": "https://euchelperu.com/producto.php?id=698",
+  "nombre": "VESTIDO ISA BOBOS",
+  "descripcion": "Destaca con este vestido negro sofisticado y moderno, ideal para ocasiones donde quieres un look atrevido pero con clase. Su diseño combina una silueta ajustada en la parte superior con detalles de malla transparente en la falda, creando un equilibrio perfecto entre sensualidad y elegancia. Los detalles laterales en gasa ligera aportan movimiento y fluidez al caminar, haciendo de esta pieza una elección ideal para eventos nocturnos o celebraciones especiales donde el estilo es protagonista.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "698VES77467",
+  "item_group_id": "698",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176636117074659111585140.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ISA BOBOS",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2185,
+      "nombre": "Negro",
+      "precio": 79.0,
+      "id_color_confirmado": 2185,
+      "tallas": [
+        {
+          "id_talla": 2575,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176636117074659111585140.jpg"
+      ]
+    },
+    {
+      "id_color": 2186,
+      "nombre": "Blanco",
+      "precio": 79.0,
+      "id_color_confirmado": 2186,
+      "tallas": [
+        {
+          "id_talla": 2576,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176636117074659111585140.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:33:07Z"
+}
