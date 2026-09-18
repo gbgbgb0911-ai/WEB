@@ -1,5 +1,6 @@
 import type { Config, Context } from "@netlify/functions";
 import { neon } from "@neondatabase/serverless";
+import { almacen, clavePara, TIPOS, TOPE } from "./_lib/fotos.mts";
 import { sesionDe, anotar, json, errorDe, SinPermiso, type Sesion } from "./_lib/sesion.mts";
 
 /* API del panel. Una sola función con ruteo interno, para que el despliegue
@@ -16,6 +17,17 @@ import { sesionDe, anotar, json, errorDe, SinPermiso, type Sesion } from "./_lib
  *   POST /api/panel/producto/:id/precio   { precio, precio_antes }  (admin)
  *   POST /api/panel/producto/:id/archivar { archivado }             (admin)
  *   GET  /api/panel/bitacora?pagina=      (admin)
+ *
+ *   POST   /api/panel/producto                    crear
+ *   POST   /api/panel/producto/:id/datos          nombre, descripcion, categoria
+ *   DELETE /api/panel/producto/:id                (admin, y solo los del panel)
+ *   POST   /api/panel/producto/:id/color          { nombre, precio }
+ *   DELETE /api/panel/color/:id
+ *   POST   /api/panel/color/:id/talla             { nombre }
+ *   DELETE /api/panel/talla/:id
+ *   POST   /api/panel/producto/:id/foto?color=    cuerpo: los bytes de la imagen
+ *   DELETE /api/panel/foto/:id
+ *   POST   /api/panel/publicar                    (admin) reconstruye el sitio
  *
  * Las trabajadoras pueden agotar y ocultar. Archivar y editar precios es de
  * admin. Nada se borra nunca.
@@ -55,6 +67,52 @@ export default async (req: Request, _ctx: Context) => {
     if (partes[0] === "producto" && partes[1] && partes[2] === "estado" && req.method === "POST") {
       const yo = await sesionDe(req, sql, ["admin", "trabajadora"]);
       return await cambiarProducto(req, sql, yo, Number(partes[1]));
+    }
+
+    if (partes[0] === "producto" && !partes[1] && req.method === "POST") {
+      const yo = await sesionDe(req, sql, ["admin", "trabajadora"]);
+      return await crear(req, sql, yo);
+    }
+
+    if (partes[0] === "producto" && partes[1] && partes[2] === "datos" && req.method === "POST") {
+      const yo = await sesionDe(req, sql, ["admin", "trabajadora"]);
+      return await guardarDatos(req, sql, yo, Number(partes[1]));
+    }
+
+    if (partes[0] === "producto" && partes[1] && !partes[2] && req.method === "DELETE") {
+      const yo = await sesionDe(req, sql, ["admin"]);
+      return await borrar(sql, yo, Number(partes[1]));
+    }
+
+    if (partes[0] === "producto" && partes[1] && partes[2] === "color" && req.method === "POST") {
+      const yo = await sesionDe(req, sql, ["admin", "trabajadora"]);
+      return await agregarColor(req, sql, yo, Number(partes[1]));
+    }
+
+    if (partes[0] === "color" && partes[1] && partes[2] === "talla" && req.method === "POST") {
+      const yo = await sesionDe(req, sql, ["admin", "trabajadora"]);
+      return await agregarTalla(req, sql, yo, Number(partes[1]));
+    }
+
+    if ((partes[0] === "color" || partes[0] === "talla") && partes[1]
+        && !partes[2] && req.method === "DELETE") {
+      const yo = await sesionDe(req, sql, ["admin", "trabajadora"]);
+      return await borrarVariante(sql, yo, partes[0], Number(partes[1]));
+    }
+
+    if (partes[0] === "producto" && partes[1] && partes[2] === "foto" && req.method === "POST") {
+      const yo = await sesionDe(req, sql, ["admin", "trabajadora"]);
+      return await subirFoto(req, sql, yo, Number(partes[1]));
+    }
+
+    if (partes[0] === "foto" && partes[1] && req.method === "DELETE") {
+      const yo = await sesionDe(req, sql, ["admin", "trabajadora"]);
+      return await borrarFoto(sql, yo, Number(partes[1]));
+    }
+
+    if (partes[0] === "publicar" && req.method === "POST") {
+      const yo = await sesionDe(req, sql, ["admin"]);
+      return await publicar(sql, yo);
     }
 
     if (partes[0] === "producto" && partes[1] && partes[2] === "precio" && req.method === "POST") {
@@ -368,6 +426,271 @@ async function bitacora(req: Request, sql: any) {
      order by b.id desc
      limit 40 offset ${(pagina - 1) * 40}`;
   return json({ movimientos: filas, pagina });
+}
+
+/* ------------------------------------------------- crear y editar productos */
+
+/** Slug al estilo del catálogo: id + nombre sin acentos. */
+function babosa(texto: string) {
+  const limpio = (texto || "")
+    .normalize("NFKD").replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^A-Za-z0-9]+/g, "-").replace(/^-+|-+$/g, "").toLowerCase();
+  return limpio || "producto";
+}
+
+function textoDe(v: unknown, tope: number) {
+  return typeof v === "string" ? v.trim().slice(0, tope) : "";
+}
+
+async function crear(req: Request, sql: any, yo: Sesion) {
+  const cuerpo = await req.json().catch(() => ({})) as Record<string, unknown>;
+  const nombre = textoDe(cuerpo.nombre, 160);
+  if (nombre.length < 3) throw new SinPermiso(400, "Ponle un nombre de al menos 3 letras.");
+
+  const precio = numeroONulo(cuerpo.precio);
+  if (precio === undefined) throw new SinPermiso(400, "Precio inválido");
+
+  const subid = cuerpo.subid === null || cuerpo.subid === "" || cuerpo.subid === undefined
+    ? null : Number(cuerpo.subid);
+  if (subid !== null && !Number.isInteger(subid)) throw new SinPermiso(400, "Categoría inválida");
+
+  // Nace oculto. Un producto a medio subir (sin foto, sin tallas) no tiene
+  // por qué aparecer en el catálogo mientras lo terminan.
+  const [p] = await sql`
+    insert into catalogo.producto (slug, nombre, descripcion, subid, precio, visible, editado_por)
+    values ('pendiente', ${nombre}, ${textoDe(cuerpo.descripcion, 4000)},
+            ${subid}, ${precio}, false, ${yo.email})
+    returning id`;
+
+  const [conSlug] = await sql`
+    update catalogo.producto set slug = ${`${p.id}-${babosa(nombre)}`}
+     where id = ${p.id} returning id, slug, nombre`;
+
+  await anotar(sql, yo, "crear", "producto", p.id, null, { nombre });
+  return json(conSlug, 201);
+}
+
+async function guardarDatos(req: Request, sql: any, yo: Sesion, id: number) {
+  if (!Number.isInteger(id)) throw new SinPermiso(400, "Id inválido");
+  const cuerpo = await req.json().catch(() => ({})) as Record<string, unknown>;
+
+  const [antes] = await sql`
+    select id, nombre, descripcion, subid, visible from catalogo.producto where id = ${id}`;
+  if (!antes) return json({ error: "Producto no encontrado" }, 404);
+
+  const nombre = textoDe(cuerpo.nombre, 160) || antes.nombre;
+  if (nombre.length < 3) throw new SinPermiso(400, "Ponle un nombre de al menos 3 letras.");
+
+  const descripcion = typeof cuerpo.descripcion === "string"
+    ? textoDe(cuerpo.descripcion, 4000) : antes.descripcion;
+  const subid = cuerpo.subid === undefined ? antes.subid
+    : (cuerpo.subid === null || cuerpo.subid === "" ? null : Number(cuerpo.subid));
+  if (subid !== null && !Number.isInteger(subid)) throw new SinPermiso(400, "Categoría inválida");
+
+  // El slug solo se recalcula mientras el producto nunca se haya publicado.
+  // Después, cambiarlo rompería el enlace que ya salió por WhatsApp.
+  const nuncaPublicado = antes.id >= 100001 && !antes.visible;
+  const slug = nuncaPublicado ? `${id}-${babosa(nombre)}` : null;
+
+  const [despues] = await sql`
+    update catalogo.producto
+       set nombre = ${nombre}, descripcion = ${descripcion}, subid = ${subid},
+           slug = coalesce(${slug}, slug),
+           editado_en = now(), editado_por = ${yo.email}
+     where id = ${id}
+    returning id, slug, nombre, descripcion, subid`;
+
+  await anotar(sql, yo, "editar-datos", "producto", id,
+               { nombre: antes.nombre }, { nombre: despues.nombre });
+  return json(despues);
+}
+
+async function borrar(sql: any, yo: Sesion, id: number) {
+  if (!Number.isInteger(id)) throw new SinPermiso(400, "Id inválido");
+
+  const [p] = await sql`select id, nombre from catalogo.producto where id = ${id}`;
+  if (!p) return json({ error: "Producto no encontrado" }, 404);
+
+  if (id < 100001) {
+    // La base también lo impide con un disparador; esto es para dar un
+    // mensaje que se entienda en vez de un error de Postgres.
+    throw new SinPermiso(409,
+      "Este producto vino de la tienda. Archívalo: sale del catálogo y del panel, " +
+      "y se puede recuperar. Borrarlo dejaría sin referencia los pedidos que lo mencionan.");
+  }
+
+  // Las fotos que solo usaba este producto se van con él.
+  const fotos = await sql`
+    select i.hash from catalogo.imagen i
+     where i.producto_id = ${id} and i.fuente = 'subida'
+       and not exists (select 1 from catalogo.imagen o
+                        where o.hash = i.hash and o.producto_id <> ${id})`;
+
+  await sql`delete from catalogo.producto where id = ${id}`;
+
+  const tienda = almacen();
+  for (const f of fotos) {
+    try { await tienda.delete(f.hash); }
+    catch (e) { console.error("foto huérfana:", f.hash, e instanceof Error ? e.message : e); }
+  }
+
+  await anotar(sql, yo, "borrar", "producto", id, { nombre: p.nombre }, null);
+  return json({ borrado: id, fotos: fotos.length });
+}
+
+/* -------------------------------------------------------- colores y tallas */
+
+async function agregarColor(req: Request, sql: any, yo: Sesion, productoId: number) {
+  if (!Number.isInteger(productoId)) throw new SinPermiso(400, "Id inválido");
+  const cuerpo = await req.json().catch(() => ({})) as Record<string, unknown>;
+  const nombre = textoDe(cuerpo.nombre, 80) || "Único";
+  const precio = numeroONulo(cuerpo.precio);
+  if (precio === undefined) throw new SinPermiso(400, "Precio inválido");
+
+  const [existe] = await sql`select id from catalogo.producto where id = ${productoId}`;
+  if (!existe) return json({ error: "Producto no encontrado" }, 404);
+
+  const [c] = await sql`
+    insert into catalogo.color (producto_id, nombre, precio, orden)
+    values (${productoId}, ${nombre}, ${precio},
+            coalesce((select max(orden) + 1 from catalogo.color where producto_id = ${productoId}), 0))
+    returning id, nombre, precio, agotado, orden`;
+
+  await anotar(sql, yo, "agregar", "color", c.id, null, { producto: productoId, nombre });
+  return json(c, 201);
+}
+
+async function agregarTalla(req: Request, sql: any, yo: Sesion, colorId: number) {
+  if (!Number.isInteger(colorId)) throw new SinPermiso(400, "Id inválido");
+  const cuerpo = await req.json().catch(() => ({})) as Record<string, unknown>;
+  const nombre = textoDe(cuerpo.nombre, 24);
+  if (!nombre) throw new SinPermiso(400, "Ponle nombre a la talla.");
+
+  const [color] = await sql`select id, producto_id from catalogo.color where id = ${colorId}`;
+  if (!color) return json({ error: "Color no encontrado" }, 404);
+
+  const [ya] = await sql`
+    select id from catalogo.talla where color_id = ${colorId} and nombre = ${nombre}`;
+  if (ya) throw new SinPermiso(409, `Este color ya tiene la talla ${nombre}.`);
+
+  const [tl] = await sql`
+    insert into catalogo.talla (color_id, nombre, orden)
+    values (${colorId}, ${nombre},
+            coalesce((select max(orden) + 1 from catalogo.talla where color_id = ${colorId}), 0))
+    returning id, color_id, nombre, agotado, orden`;
+
+  await anotar(sql, yo, "agregar", "talla", tl.id, null, { color: colorId, nombre });
+  return json(tl, 201);
+}
+
+async function borrarVariante(sql: any, yo: Sesion, tipo: "color" | "talla", id: number) {
+  if (!Number.isInteger(id)) throw new SinPermiso(400, "Id inválido");
+
+  const filas = tipo === "color"
+    ? await sql`delete from catalogo.color where id = ${id} returning id, nombre, producto_id`
+    : await sql`delete from catalogo.talla where id = ${id} returning id, nombre, color_id`;
+  if (!filas[0]) return json({ error: "No encontrado" }, 404);
+
+  await anotar(sql, yo, "borrar", tipo, id, { nombre: filas[0].nombre }, null);
+  return json({ borrado: id });
+}
+
+/* ------------------------------------------------------------------ fotos */
+
+async function subirFoto(req: Request, sql: any, yo: Sesion, productoId: number) {
+  if (!Number.isInteger(productoId)) throw new SinPermiso(400, "Id inválido");
+
+  const tipo = (req.headers.get("content-type") || "").split(";")[0].trim();
+  const extension = TIPOS[tipo];
+  if (!extension) throw new SinPermiso(415, "Solo JPG, PNG o WebP.");
+
+  const bytes = await req.arrayBuffer();
+  if (!bytes.byteLength) throw new SinPermiso(400, "Llegó vacía.");
+  if (bytes.byteLength > TOPE) {
+    throw new SinPermiso(413, "La foto pesa demasiado. El panel la encoge antes de subirla; " +
+                              "si llegó así, vuelve a intentarlo.");
+  }
+
+  const [producto] = await sql`select id from catalogo.producto where id = ${productoId}`;
+  if (!producto) return json({ error: "Producto no encontrado" }, 404);
+
+  const pedido = new URL(req.url).searchParams.get("color");
+  let colorId: number | null = null;
+  if (pedido) {
+    colorId = Number(pedido);
+    if (!Number.isInteger(colorId)) throw new SinPermiso(400, "Color inválido");
+    const [c] = await sql`
+      select id from catalogo.color where id = ${colorId} and producto_id = ${productoId}`;
+    if (!c) throw new SinPermiso(400, "Ese color no es de este producto.");
+  }
+
+  const clave = await clavePara(bytes, extension);
+  try {
+    // La clave es el hash del contenido: subir dos veces la misma foto
+    // sobreescribe lo mismo y no ocupa el doble.
+    await almacen().set(clave, bytes, { metadata: { tipo, subio: yo.email } });
+  } catch (e) {
+    console.error("blobs:", e instanceof Error ? e.message : e);
+    return json({ error: "No se pudo guardar la foto. Inténtalo otra vez." }, 502);
+  }
+
+  const [img] = await sql`
+    insert into catalogo.imagen (producto_id, color_id, hash, fuente, orden)
+    values (${productoId}, ${colorId}, ${clave}, 'subida',
+            coalesce((select max(orden) + 1 from catalogo.imagen where producto_id = ${productoId}), 0))
+    returning id, hash, color_id, fuente, orden`;
+
+  await anotar(sql, yo, "subir-foto", "producto", productoId, null, { foto: clave });
+  return json({ ...img, ruta: `/img/subidas/${clave}` }, 201);
+}
+
+async function borrarFoto(sql: any, yo: Sesion, id: number) {
+  if (!Number.isInteger(id)) throw new SinPermiso(400, "Id inválido");
+
+  const [img] = await sql`
+    select id, hash, fuente, producto_id from catalogo.imagen where id = ${id}`;
+  if (!img) return json({ error: "Foto no encontrada" }, 404);
+
+  await sql`delete from catalogo.imagen where id = ${id}`;
+
+  // Solo se borra del almacén si ningún otro producto la estaba usando.
+  if (img.fuente === "subida") {
+    const [otra] = await sql`select id from catalogo.imagen where hash = ${img.hash} limit 1`;
+    if (!otra) {
+      try { await almacen().delete(img.hash); }
+      catch (e) { console.error("blobs borrar:", e instanceof Error ? e.message : e); }
+    }
+  }
+
+  await anotar(sql, yo, "borrar-foto", "producto", img.producto_id, { foto: img.hash }, null);
+  return json({ borrado: id });
+}
+
+/* --------------------------------------------------------------- publicar */
+
+async function publicar(sql: any, yo: Sesion) {
+  const gancho = Netlify.env.get("NETLIFY_BUILD_HOOK");
+  if (!gancho) {
+    return json({ error: "Falta configurar el gancho de construcción en Netlify." }, 503);
+  }
+
+  // Agotar y ocultar salen en el catálogo en menos de un minuto sin
+  // reconstruir. Lo que sí hace falta reconstruir es un producto nuevo, una
+  // foto nueva, un nombre o un precio: el catálogo son páginas ya generadas.
+  let r: Response;
+  try {
+    r = await fetch(gancho, { method: "POST", body: "" });
+  } catch (e) {
+    console.error("gancho:", e instanceof Error ? e.message : e);
+    return json({ error: "No se pudo avisar a Netlify. Inténtalo otra vez." }, 502);
+  }
+  if (!r.ok) {
+    console.error("gancho respondió", r.status);
+    return json({ error: `Netlify respondió ${r.status}.` }, 502);
+  }
+
+  await anotar(sql, yo, "publicar", "sitio", 0, null, { cuando: new Date().toISOString() });
+  return json({ ok: true, aviso: "El catálogo se está reconstruyendo. Tarda unos minutos." });
 }
 
 export const config: Config = {

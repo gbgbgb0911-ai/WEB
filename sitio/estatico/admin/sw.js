@@ -10,7 +10,7 @@
  * hash del archivo) y ahorran datos a quien trabaja con el celular.
  */
 
-const VERSION = 'admin-v2';
+const VERSION = 'admin-v3';
 const ARMAZON = [
   '/admin/',
   '/admin/panel.js',
@@ -21,6 +21,7 @@ const ARMAZON = [
   '/panel/ui.js',
   '/panel/lista.js',
   '/panel/clave.js',
+  '/panel/foto.js',
   '/logo.svg',
   '/admin/icono-192.png',
 ];

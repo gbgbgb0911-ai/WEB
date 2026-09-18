@@ -4,6 +4,16 @@
 
   var WA = document.documentElement.dataset.wa || '';
 
+  /* Ruta pública de una imagen. Las de la extracción son un hash de 16 hex y
+     viven como WebP estáticos; las que sube el equipo llevan la extensión del
+     archivo (`<32 hex>.jpg`) y las redimensiona el CDN de imágenes al vuelo.
+     El punto alcanza para distinguirlas. Igual que ruta_img() del generador. */
+  function rutaImg(h, medida) {
+    if (String(h).indexOf('.') === -1) return '/img/webp/' + h + '-' + medida + '.webp';
+    var ancho = medida === 'thumb' ? 500 : 1400;
+    return '/.netlify/images?url=/img/subidas/' + h + '&w=' + ancho + '&fm=webp&q=82';
+  }
+
   /* --------------------------------------------- revelado al hacer scroll */
 
   function revelar() {
@@ -64,7 +74,7 @@
       var html = lista.map(function (p) {
         var precio = 'S/ ' + p.p + (p.a ? ' <span style="text-decoration:line-through;color:#d3255c">S/ ' + p.a + '</span>' : '');
         return '<a class="buscador__item" href="/p/' + p.u + '/">' +
-          '<img src="/img/webp/' + p.i + '-thumb.webp" alt="" loading="lazy" width="40" height="52">' +
+          '<img src="' + rutaImg(p.i, 'thumb') + '" alt="" loading="lazy" width="40" height="52">' +
           '<span><span class="buscador__item-nombre">' + p.n + '</span><br>' +
           '<span class="buscador__item-meta">' + precio + ' &middot; ' + p.c + '</span></span></a>';
       }).join('');
@@ -156,14 +166,14 @@
       var fotos = (c.imagenes && c.imagenes.length) ? c.imagenes : prod.imagenes;
       if (!fotos.length || !principal) return;
 
-      principal.src = '/img/webp/' + fotos[0] + '-full.webp';
+      principal.src = rutaImg(fotos[0], 'full');
       principal.alt = prod.nombre + (c.nombre ? ', ' + c.nombre : '');
 
       if (tiras) {
         tiras.innerHTML = fotos.map(function (h, i) {
           return '<button type="button" data-foto="' + h + '" aria-current="' + (i === 0 ? 'true' : 'false') +
             '" aria-label="Foto ' + (i + 1) + '">' +
-            '<img src="/img/webp/' + h + '-thumb.webp" alt="" loading="lazy"></button>';
+            '<img src="' + rutaImg(h, 'thumb') + '" alt="" loading="lazy"></button>';
         }).join('');
         tiras.hidden = fotos.length < 2;
       }
@@ -217,7 +227,7 @@
       tiras.addEventListener('click', function (e) {
         var b = e.target.closest('[data-foto]');
         if (!b || !principal) return;
-        principal.src = '/img/webp/' + b.dataset.foto + '-full.webp';
+        principal.src = rutaImg(b.dataset.foto, 'full');
         var todos = tiras.querySelectorAll('[data-foto]');
         for (var i = 0; i < todos.length; i++) todos[i].setAttribute('aria-current', todos[i] === b ? 'true' : 'false');
       });

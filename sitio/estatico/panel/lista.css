@@ -168,3 +168,62 @@
           border-radius: 14px 14px 0 0; }
   .hoja.esta { transform: translate(-50%, 0); }
 }
+
+/* ------------------------------------------------- fotos dentro de la hoja */
+
+.miniaturas {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(74px, 1fr));
+  gap: 8px; margin-top: 10px;
+}
+.miniatura { position: relative; }
+.miniatura img {
+  width: 100%; aspect-ratio: 3 / 4; object-fit: cover;
+  border-radius: 6px; background: var(--suave);
+}
+.miniatura__quitar {
+  position: absolute; top: -6px; right: -6px;
+  width: 26px; height: 26px; border-radius: 50%;
+  border: 1px solid var(--linea); background: var(--papel);
+  font-size: 15px; line-height: 1; cursor: pointer; color: var(--cuerpo);
+  box-shadow: 0 1px 4px rgba(0,0,0,.14);
+}
+.miniatura__quitar:hover { background: var(--tinta); color: var(--papel); border-color: var(--tinta); }
+.miniatura__color {
+  position: absolute; left: 0; right: 0; bottom: 0;
+  background: rgba(10,10,10,.72); color: #fff;
+  font-size: 9px; font-weight: 600; text-align: center;
+  padding: 2px 3px; border-radius: 0 0 6px 6px;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+
+/* La etiqueta que envuelve el input de archivo se comporta como botón. */
+label.btn { cursor: pointer; }
+
+.tarjeta__foto--vacia {
+  display: grid; place-items: center;
+  font-size: 9px; letter-spacing: .08em; text-transform: uppercase; color: var(--gris);
+  border: 1px dashed var(--linea);
+}
+
+.sello--nuevo { color: #1f5c7a; border-color: #b6d8e6; background: #eef7fb; }
+
+/* -------------------------------------------------- tallas con su quitador */
+
+.talla-caja { position: relative; display: inline-flex; }
+.talla__quitar {
+  position: absolute; top: -7px; right: -7px;
+  width: 20px; height: 20px; border-radius: 50%;
+  border: 1px solid var(--linea); background: var(--papel);
+  font-size: 12px; line-height: 1; cursor: pointer; color: var(--gris);
+  padding: 0;
+}
+.talla__quitar:hover { background: var(--acento); color: #fff; border-color: var(--acento); }
+.talla--mas { border-style: dashed; color: var(--gris); }
+
+.area {
+  width: 100%; padding: 10px 12px; resize: vertical;
+  border: 1px solid var(--linea); border-radius: var(--radio);
+  background: var(--papel); color: var(--tinta);
+  font: inherit; font-size: 15px;
+}
+.area:focus { outline: none; border-color: var(--tinta); }

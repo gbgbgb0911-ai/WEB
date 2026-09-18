@@ -20,6 +20,17 @@ export URL
 rm -rf "$SALIDA"
 mkdir -p "$SALIDA"
 
+# El catálogo sale de la base, no del JSON del scraping: así llevan los
+# precios que el equipo cambió y los productos que subió. Si no hay
+# DATABASE_URL se genera del scraping, que sirve para mirar el sitio sin
+# credenciales pero no refleja el panel.
+if [ -n "$DATABASE_URL" ]; then
+  mkdir -p "$RAIZ/sitio/data"
+  node "$RAIZ/sitio/exportar.mjs" > "$RAIZ/sitio/data/catalogo.json"
+else
+  echo "aviso: sin DATABASE_URL, el sitio sale del scraping y no del panel" >&2
+fi
+
 python3 "$RAIZ/sitio/generar.py" --salida "$SALIDA/dist"
 
 cp -r "$RAIZ/netlify" "$SALIDA/netlify"

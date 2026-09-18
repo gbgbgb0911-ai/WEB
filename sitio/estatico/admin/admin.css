@@ -125,3 +125,7 @@
   .pestanas { padding: 0 16px; }
   .pestana { flex: 0 0 auto; }
 }
+
+.fila-botones { display: flex; gap: 8px; margin-top: 6px; }
+.fila-botones .btn { flex: 1; padding: 0 10px; }
+#aviso-publicar { margin: 6px 2px 0; }

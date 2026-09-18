@@ -37,7 +37,10 @@ function aPanel() {
   $('#rol').textContent = yo.rol === 'admin' ? 'Administración' : 'Equipo';
   const enlace = $('#a-admin');
   if (enlace) enlace.classList.toggle('oculto', yo.rol !== 'admin');
-  if (!lista) lista = crearLista({ rol: yo.rol, fallo });
+  if (!lista) {
+    lista = crearLista({ rol: yo.rol, fallo });
+    $('#btn-nuevo').addEventListener('click', () => lista.nuevo());
+  }
 }
 
 $('#forma-entrar').addEventListener('submit', async (ev) => {

@@ -4,6 +4,7 @@
   "description": "Catálogo web de Euchel Perú: sitio estático más funciones de estado e intención",
   "dependencies": {
     "@neondatabase/serverless": "^1.0.2",
+    "@netlify/blobs": "^11.1.0",
     "jose": "^6.2.12"
   },
   "devDependencies": {

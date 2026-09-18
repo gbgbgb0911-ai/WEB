@@ -89,9 +89,59 @@ def soles(v) -> str:
     return f"{v:.0f}" if float(v).is_integer() else f"{v:.2f}"
 
 
+# ------------------------------------------------------------------ imágenes
+
+def subida(h: str) -> bool:
+    """¿La subió el equipo desde el panel?
+
+    Las de la extracción son un hash de 16 hex sin extensión y viven como
+    WebP estáticos. Las subidas llevan la extensión del archivo original
+    (`<32 hex>.jpg`) y viven en el almacén de Netlify, así que el punto
+    alcanza para distinguirlas."""
+    return "." in h
+
+
+def ruta_img(h: str, medida: str) -> str:
+    """Ruta pública de una imagen. `medida` es 'thumb' o 'full'."""
+    if subida(h):
+        # El CDN de imágenes de Netlify la redimensiona y la pasa a WebP al
+        # vuelo, así que una foto subida se comporta igual que una generada
+        # sin tener que reconvertirla en la construcción.
+        ancho = 500 if medida == "thumb" else 1400
+        return f"/.netlify/images?url=/img/subidas/{h}&w={ancho}&fm=webp&q=82"
+    return f"/img/webp/{h}-{medida}.webp"
+
+
 # --------------------------------------------------------------- preparar datos
 
+CATALOGO = Path(__file__).resolve().parent / "data" / "catalogo.json"
+
+
 def cargar(incluir_ocultos: bool):
+    """El catálogo sale de la base si hay exportación, y si no del scraping.
+
+    La base es la que manda: lleva los precios que el equipo cambió desde el
+    panel y los productos que subió. Leer el JSON del scraping revertía lo
+    primero y no veía lo segundo. El camino del scraping se queda para poder
+    generar el sitio sin credenciales."""
+    if CATALOGO.exists():
+        datos = json.loads(CATALOGO.read_text("utf-8"))
+        productos = datos["productos"]
+        if not incluir_ocultos:
+            productos = [x for x in productos if x.get("visible")]
+        usados = set()
+        for x in productos:
+            usados.update(x["galeria"])
+            for c in x["colores"]:
+                usados.update(c["imagenes"])
+        incompletos = sum(len(x.get("colores_incompletos") or []) for x in productos)
+        productos.sort(key=lambda x: -x["id"])
+        return productos, usados, incompletos
+
+    return cargar_del_scraping(incluir_ocultos)
+
+
+def cargar_del_scraping(incluir_ocultos: bool):
     productos = json.loads((DATOS / "productos_completo.json").read_text("utf-8"))
     mapa = json.loads((DATOS / "imagenes_map.json").read_text("utf-8"))
 
@@ -148,7 +198,7 @@ def cargar(incluir_ocultos: bool):
         })
 
     limpios.sort(key=lambda x: -x["id"])
-    return limpios, usados
+    return limpios, usados, sum(len(x["colores_incompletos"]) for x in limpios)
 
 
 def por_categoria(productos):
@@ -167,7 +217,10 @@ def cabeza(titulo, descripcion, canonica, og_imagen=None, og_tipo="website"):
     if og_imagen and BASE_URL:
         # JPEG servido al vuelo por el CDN de imágenes de Netlify: WhatsApp lee
         # mal el WebP en las vistas previas. Ver brand/pedido-whatsapp.md.
-        ruta = f"/.netlify/images?url=/img/webp/{og_imagen}-full.webp&w=900&fm=jpg&q=78"
+        if subida(og_imagen):
+            ruta = f"/.netlify/images?url=/img/subidas/{og_imagen}&w=900&fm=jpg&q=78"
+        else:
+            ruta = f"/.netlify/images?url=/img/webp/{og_imagen}-full.webp&w=900&fm=jpg&q=78"
         og_img = (
             f'<meta property="og:image" content="{e(BASE_URL + ruta)}">\n'
             f'<meta property="og:image:alt" content="{e(titulo)}">\n'
@@ -257,7 +310,7 @@ def tarjeta(p, primera=False):
     perezosa = "" if primera else 'loading="lazy" '
     if foto:
         img = (
-            f'<img src="/img/webp/{foto}-thumb.webp" alt="{e(p["nombre"])}" '
+            f'<img src="{ruta_img(foto, "thumb")}" alt="{e(p["nombre"])}" '
             f'width="500" height="667" {perezosa}decoding="async">'
         )
     else:
@@ -333,7 +386,7 @@ def pagina_ficha(p, categorias):
       </div>"""
 
     principal = (
-        f'<img data-foto-principal src="/img/webp/{foto}-full.webp" alt="{e(p["nombre"])}" '
+        f'<img data-foto-principal src="{ruta_img(foto, "full")}" alt="{e(p["nombre"])}" '
         f'width="1400" height="1867" decoding="async">'
         if foto else '<div style="width:100%;height:100%"></div>'
     )
@@ -457,7 +510,8 @@ def copiar_imagenes(usados, salida: Path):
     destino.mkdir(parents=True, exist_ok=True)
 
     copiadas, faltantes = 0, 0
-    for h in sorted(usados):
+    # Las subidas no se copian: las sirve una función desde el almacén.
+    for h in sorted(x for x in usados if not subida(x)):
         for medida in ("thumb", "full"):
             src = origen / f"{h}-{medida}.webp"
             dst = destino / f"{h}-{medida}.webp"
@@ -486,14 +540,13 @@ def main():
         shutil.rmtree(salida)
     salida.mkdir(parents=True)
 
-    productos, usados = cargar(args.incluir_ocultos)
+    productos, usados, incompletos = cargar(args.incluir_ocultos)
     categorias = por_categoria(productos)
     print(f"{len(productos)} productos · {len(categorias)} categorías · {len(usados)} imágenes")
 
-    ocultos = sum(len(p["colores_incompletos"]) for p in productos)
-    if ocultos:
-        afectados = sum(1 for p in productos if p["colores_incompletos"])
-        print(f"AVISO: {ocultos} colores en {afectados} productos no se publican "
+    if incompletos:
+        afectados = sum(1 for p in productos if p.get("colores_incompletos"))
+        print(f"AVISO: {incompletos} colores en {afectados} productos no se publican "
               f"(sin tallas ni precio en el panel de la tienda). Ver reporte.")
 
     # portada

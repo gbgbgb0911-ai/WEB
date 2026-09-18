@@ -48,7 +48,11 @@ function aPanel() {
   // El correo debajo del nombre: en este panel el rol siempre es el mismo,
   // así que decirlo no aportaba nada y se veía dos veces lo mismo.
   $('#correo').textContent = yo.email;
-  if (!lista) lista = crearLista({ rol: yo.rol, fallo });
+  if (!lista) {
+    lista = crearLista({ rol: yo.rol, fallo });
+    $('#btn-nuevo').addEventListener('click', () => lista.nuevo());
+    $('#btn-publicar').addEventListener('click', publicar);
+  }
 }
 
 $('#forma-entrar').addEventListener('submit', async (ev) => {
@@ -231,6 +235,28 @@ function masPedidos(items) {
         <span class="pedido__clics">${numero(p.clics)}</span>
       </div>`;
   }).join('');
+}
+
+/* -------------------------------------------------------------- publicar */
+
+async function publicar(ev) {
+  const boton = ev.currentTarget;
+  if (!confirm('¿Publicar el catálogo? Se reconstruye el sitio con los productos, '
+             + 'fotos y precios de ahora. Tarda unos minutos.')) return;
+
+  boton.disabled = true;
+  boton.textContent = 'Publicando…';
+  try {
+    const r = await api('publicar', { cuerpo: {} });
+    brindis(r.aviso || 'El catálogo se está reconstruyendo.');
+    $('#aviso-publicar').textContent =
+      'Publicado hace un momento. El catálogo tarda unos minutos en mostrarlo.';
+  } catch (e) {
+    fallo(e);
+  } finally {
+    boton.disabled = false;
+    boton.textContent = 'Publicar catálogo';
+  }
 }
 
 /* ----------------------------------------------------------------- equipo */
