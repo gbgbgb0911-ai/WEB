@@ -1,0 +1,79 @@
+{
+  "id_original": 796,
+  "url_original": "https://euchelperu.com/producto.php?id=796",
+  "nombre": "Top Aldama hilo",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "7960055",
+  "item_group_id": "796",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176771318253672186424382.jpg",
+    "https://euchelperu.com/images/productos/176771913534399617635964.jpg",
+    "https://euchelperu.com/images/productos/176771915636639790737059.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Aldama hilo",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2363,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 2363,
+      "tallas": [
+        {
+          "id_talla": 2773,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176771318253672186424382.jpg",
+        "https://euchelperu.com/images/productos/176771913534399617635964.jpg",
+        "https://euchelperu.com/images/productos/176771915636639790737059.jpg"
+      ]
+    },
+    {
+      "id_color": 2385,
+      "nombre": "Negro",
+      "precio": 45.0,
+      "id_color_confirmado": 2385,
+      "tallas": [
+        {
+          "id_talla": 2870,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176771913534399617635964.jpg",
+        "https://euchelperu.com/images/productos/176771318253672186424382.jpg",
+        "https://euchelperu.com/images/productos/176771915636639790737059.jpg"
+      ]
+    },
+    {
+      "id_color": 2386,
+      "nombre": "Beige",
+      "precio": 45.0,
+      "id_color_confirmado": 2386,
+      "tallas": [
+        {
+          "id_talla": 2871,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176771915636639790737059.jpg",
+        "https://euchelperu.com/images/productos/176771318253672186424382.jpg",
+        "https://euchelperu.com/images/productos/176771913534399617635964.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:11:48Z"
+}

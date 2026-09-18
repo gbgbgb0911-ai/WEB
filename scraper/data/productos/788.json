@@ -1,0 +1,59 @@
+{
+  "id_original": 788,
+  "url_original": "https://euchelperu.com/producto.php?id=788",
+  "nombre": "Camelia Bag",
+  "descripcion": "El básico que no puede faltar en tu armario. Nuestra nueva cartera en tono nude es la definición de elegancia atemporal. Con su acabado brillante y su estructura estructurada, es el toque final perfecto para un look impecable.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "788CAR79778",
+  "item_group_id": "788",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176747537413210519973604.jpg",
+    "https://euchelperu.com/images/productos/176748136624452257248415.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Camelia Bag",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2351,
+      "nombre": "Beige",
+      "precio": 69.0,
+      "id_color_confirmado": 2351,
+      "tallas": [
+        {
+          "id_talla": 2761,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176747537413210519973604.jpg",
+        "https://euchelperu.com/images/productos/176748136624452257248415.jpg"
+      ]
+    },
+    {
+      "id_color": 2358,
+      "nombre": "Negro",
+      "precio": 79.0,
+      "id_color_confirmado": 2358,
+      "tallas": [
+        {
+          "id_talla": 2768,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176748136624452257248415.jpg",
+        "https://euchelperu.com/images/productos/176747537413210519973604.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:10:10Z"
+}

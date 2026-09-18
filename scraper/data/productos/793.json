@@ -1,0 +1,41 @@
+{
+  "id_original": 793,
+  "url_original": "https://euchelperu.com/producto.php?id=793",
+  "nombre": "Sand Hobo",
+  "descripcion": "Nuestra cartera en tono arena es el accesorio perfecto para quienes aman los colores neutros y las texturas naturales. Un diseño minimalista que eleva cualquier outfit diario.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "793Beige oscuro",
+  "item_group_id": "793",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17674820849999238399225.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Sand Hobo",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2359,
+      "nombre": "Beige oscuro",
+      "precio": 79.0,
+      "id_color_confirmado": 2359,
+      "tallas": [
+        {
+          "id_talla": 2769,
+          "nombre": "CAR48873"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17674820849999238399225.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:10:16Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 787,
+  "url_original": "https://euchelperu.com/producto.php?id=787",
+  "nombre": "Cherry Bomb",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "787CAR47379",
+  "item_group_id": "787",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176747491995614986086798.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2350,
+      "nombre": "Cherry Bomb",
+      "precio": 75.0,
+      "id_color_confirmado": 2350,
+      "tallas": [
+        {
+          "id_talla": 2760,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176747491995614986086798.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:09:40Z"
+}

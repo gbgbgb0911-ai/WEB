@@ -1,0 +1,59 @@
+{
+  "id_original": 801,
+  "url_original": "https://euchelperu.com/producto.php?id=801",
+  "nombre": "Conjunto Vania satin",
+  "descripcion": "",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "8010060",
+  "item_group_id": "801",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17677153064401069301051.jpg",
+    "https://euchelperu.com/images/productos/17677434881532333566823.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Conjunto Vania satin",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2368,
+      "nombre": "Champagne",
+      "precio": 110.0,
+      "id_color_confirmado": 2368,
+      "tallas": [
+        {
+          "id_talla": 2778,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17677153064401069301051.jpg",
+        "https://euchelperu.com/images/productos/17677434881532333566823.png"
+      ]
+    },
+    {
+      "id_color": 2435,
+      "nombre": "Blanco",
+      "precio": 110.0,
+      "id_color_confirmado": 2435,
+      "tallas": [
+        {
+          "id_talla": 2823,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17677434881532333566823.png",
+        "https://euchelperu.com/images/productos/17677153064401069301051.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:13:54Z"
+}

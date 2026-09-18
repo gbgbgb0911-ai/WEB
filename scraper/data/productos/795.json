@@ -1,0 +1,59 @@
+{
+  "id_original": 795,
+  "url_original": "https://euchelperu.com/producto.php?id=795",
+  "nombre": "Luna Velvet",
+  "descripcion": "Nuestra cartera Luna Velvet combina la suavidad de la gamuza negra con acabados en cuero sintético premium, creando una pieza que se siente tan bien como se ve.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "795CAR47379443",
+  "item_group_id": "795",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17674880850190198532147.jpg",
+    "https://euchelperu.com/images/productos/17674882804258259712204.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2361,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 2361,
+      "tallas": [
+        {
+          "id_talla": 2771,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17674880850190198532147.jpg",
+        "https://euchelperu.com/images/productos/17674882804258259712204.jpg"
+      ]
+    },
+    {
+      "id_color": 2362,
+      "nombre": "Beige claro",
+      "precio": 75.0,
+      "id_color_confirmado": 2362,
+      "tallas": [
+        {
+          "id_talla": 2772,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17674882804258259712204.jpg",
+        "https://euchelperu.com/images/productos/17674880850190198532147.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:10:49Z"
+}
