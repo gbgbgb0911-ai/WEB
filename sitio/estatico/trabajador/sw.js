@@ -10,7 +10,10 @@
  * hash del archivo) y ahorran datos a quien trabaja con el celular.
  */
 
-const VERSION = 'panel-v3';
+// Las cachés se comparten con el catálogo (sw.js en la raíz) y el panel de
+// admin. Cada service worker limpia solo las suyas, las de su prefijo.
+const VERSION = 'panel-v4';
+const PREFIJO = 'panel-';
 const ARMAZON = [
   '/trabajador/',
   '/trabajador/panel.js',
@@ -38,7 +41,7 @@ self.addEventListener('install', (ev) => {
 self.addEventListener('activate', (ev) => {
   ev.waitUntil(
     caches.keys()
-      .then((claves) => Promise.all(claves.filter((k) => k !== VERSION).map((k) => caches.delete(k))))
+      .then((claves) => Promise.all(claves.filter((k) => k.startsWith(PREFIJO) && k !== VERSION).map((k) => caches.delete(k))))
       .then(() => self.clients.claim())
   );
 });

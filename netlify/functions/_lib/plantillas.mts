@@ -115,7 +115,7 @@ ${og}<link rel="icon" href="/favicon.png" type="image/png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap">
-<link rel="stylesheet" href="${css()}">
+<link rel="stylesheet" href="${css()}" onerror="if(!this.dataset.r){this.dataset.r=1;this.href='/estilos.css?r='+Date.now()}">
 </head>
 <body>
 <a class="oculto-visual" href="#principal">Saltar al contenido</a>
@@ -267,7 +267,7 @@ export function paginaFicha(base: string, original: Producto, categorias: Catego
       </div>` : "";
 
   const principal = foto
-    ? `<img data-foto-principal src="${rutaImg(foto, "full")}" alt="${e(p.nombre)}" width="1400" height="1867" decoding="async">`
+    ? `<img data-foto-principal src="${rutaImg(foto, "full")}" alt="${e(p.nombre)}" width="1400" height="1867" decoding="async" onerror="if(!this.dataset.r){this.dataset.r=1;this.src=this.src+(this.src.indexOf('?')<0?'?':'&')+'r='+Date.now()}">`
     : '<div style="width:100%;height:100%"></div>';
 
   // Agotado: el botón sale ya desactivado. Mismo aspecto que pone app.js
