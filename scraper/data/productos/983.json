@@ -1,0 +1,129 @@
+{
+  "id_original": 983,
+  "url_original": "https://euchelperu.com/producto.php?id=983",
+  "nombre": "Top Mariana Blonda",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "983TOP66412",
+  "item_group_id": "983",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177223037885729399940823.jpg",
+    "https://euchelperu.com/images/productos/177223054841177825380848.png",
+    "https://euchelperu.com/images/productos/177223060546840164188628.png",
+    "https://euchelperu.com/images/productos/177412400012272130468252.png",
+    "https://euchelperu.com/images/productos/177412412181769364481892.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Mariana Blonda",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2980,
+      "nombre": "beige",
+      "precio": 49.0,
+      "id_color_confirmado": 2980,
+      "tallas": [
+        {
+          "id_talla": 3300,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177223037885729399940823.jpg",
+        "https://euchelperu.com/images/productos/177223054841177825380848.png",
+        "https://euchelperu.com/images/productos/177223060546840164188628.png",
+        "https://euchelperu.com/images/productos/177412400012272130468252.png",
+        "https://euchelperu.com/images/productos/177412412181769364481892.png"
+      ]
+    },
+    {
+      "id_color": 2981,
+      "nombre": "blanco con rayas azules",
+      "precio": 49.0,
+      "id_color_confirmado": 2981,
+      "tallas": [
+        {
+          "id_talla": 3301,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177223054841177825380848.png",
+        "https://euchelperu.com/images/productos/177223037885729399940823.jpg",
+        "https://euchelperu.com/images/productos/177223060546840164188628.png",
+        "https://euchelperu.com/images/productos/177412400012272130468252.png",
+        "https://euchelperu.com/images/productos/177412412181769364481892.png"
+      ]
+    },
+    {
+      "id_color": 2982,
+      "nombre": "blanco con rayas café",
+      "precio": 49.0,
+      "id_color_confirmado": 2982,
+      "tallas": [
+        {
+          "id_talla": 3302,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177223060546840164188628.png",
+        "https://euchelperu.com/images/productos/177223037885729399940823.jpg",
+        "https://euchelperu.com/images/productos/177223054841177825380848.png",
+        "https://euchelperu.com/images/productos/177412400012272130468252.png",
+        "https://euchelperu.com/images/productos/177412412181769364481892.png"
+      ]
+    },
+    {
+      "id_color": 3103,
+      "nombre": "Celeste",
+      "precio": null,
+      "id_color_confirmado": 3103,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177412400012272130468252.png",
+        "https://euchelperu.com/images/productos/177223037885729399940823.jpg",
+        "https://euchelperu.com/images/productos/177223054841177825380848.png",
+        "https://euchelperu.com/images/productos/177223060546840164188628.png",
+        "https://euchelperu.com/images/productos/177412412181769364481892.png"
+      ]
+    },
+    {
+      "id_color": 3104,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 3104,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177412412181769364481892.png",
+        "https://euchelperu.com/images/productos/177223037885729399940823.jpg",
+        "https://euchelperu.com/images/productos/177223054841177825380848.png",
+        "https://euchelperu.com/images/productos/177223060546840164188628.png",
+        "https://euchelperu.com/images/productos/177412400012272130468252.png"
+      ]
+    },
+    {
+      "id_color": 3105,
+      "nombre": "Blanco c/ rayas azules",
+      "precio": null,
+      "id_color_confirmado": 3105,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177223037885729399940823.jpg",
+        "https://euchelperu.com/images/productos/177223054841177825380848.png",
+        "https://euchelperu.com/images/productos/177223060546840164188628.png",
+        "https://euchelperu.com/images/productos/177412400012272130468252.png",
+        "https://euchelperu.com/images/productos/177412412181769364481892.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:27:53Z"
+}
