@@ -62,6 +62,7 @@ export function crearLista({ rol, fallo }) {
     if (!p.agotado && p.colores_agotados > 0) {
       sellos.push(`<span class="sello sello--parcial">${p.colores_agotados} de ${p.colores} sin stock</span>`);
     }
+    if (p.archivado) sellos.push('<span class="sello sello--oculto">Archivado</span>');
     if (p.id >= 100001) sellos.push('<span class="sello sello--nuevo">Del panel</span>');
 
     li.innerHTML = foto + `
@@ -416,8 +417,11 @@ export function crearLista({ rol, fallo }) {
       ${soloAdmin}
 
       <div class="pie-hoja">
-        <a class="btn btn--linea" style="flex:1" href="/p/${escapar(d.slug)}/"
-           target="_blank" rel="noopener">Ver en el catálogo</a>
+        ${d.visible && !d.archivado
+          ? `<a class="btn btn--linea" style="flex:1" href="/p/${escapar(d.slug)}/"
+               target="_blank" rel="noopener">Ver en el catálogo</a>`
+          : `<span class="btn btn--linea" style="flex:1;opacity:.6;cursor:default"
+               aria-disabled="true">${d.archivado ? 'Archivado' : 'Oculto'}: no está en el catálogo</span>`}
       </div>`;
 
     $('.hoja__cerrar', vista.hoja).addEventListener('click', cerrarHoja);

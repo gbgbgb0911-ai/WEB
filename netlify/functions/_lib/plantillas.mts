@@ -155,7 +155,14 @@ export function pie(): string {
 
 /* ---------------------------------------------------------------- tarjeta */
 
-export function tarjeta(p: Producto, primera = false): string {
+/** Con todos los colores agotados, el producto está agotado. */
+function agotadoPorColores(p: Producto): Producto {
+  const todos = p.colores.length > 0 && p.colores.every((c) => c.agotado);
+  return todos && !p.agotado ? { ...p, agotado: true } : p;
+}
+
+export function tarjeta(original: Producto, primera = false): string {
+  const p = agotadoPorColores(original);
   const foto = p.galeria[0] || null;
   const perezosa = primera ? "" : 'loading="lazy" ';
   const img = foto
@@ -210,7 +217,16 @@ export function paginaListado(base: string, titulo: string, etiqueta: string,
 ` + pie();
 }
 
-export function paginaFicha(base: string, p: Producto, categorias: Categoria[]): string {
+export function paginaFicha(base: string, original: Producto, categorias: Categoria[]): string {
+  // Un color agotado no se ofrece. Y si todos lo están, el producto lo está,
+  // aunque nadie haya tocado la palanca general: el equipo agota color por
+  // color y no tiene por qué acordarse de la general.
+  const disponibles = original.colores.filter((c) => !c.agotado);
+  const p: Producto = {
+    ...original,
+    colores: disponibles,
+    agotado: original.agotado || (original.colores.length > 0 && disponibles.length === 0),
+  };
   const cat = categorias.find((c) => c.nombre === p.categoria) || null;
   const foto = p.galeria[0] || null;
   const volver = cat ? `/c/${e(cat.slug)}/` : "/";

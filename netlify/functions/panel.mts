@@ -9,6 +9,9 @@ import { sesionDe, anotar, json, errorDe, SinPermiso, type Sesion } from "./_lib
  *
  *   GET  /api/panel/yo
  *   GET  /api/panel/productos?q=&cat=&estado=&pagina=
+ *        estado: activo | agotado | oculto | archivado (este último solo
+ *        muestra archivados; los demás los excluyen: archivar los saca del
+ *        panel, y este filtro es la única puerta para recuperarlos)
  *   GET  /api/panel/producto/:id
  *   POST /api/panel/producto/:id/estado   { agotado?, visible? }
  *   POST /api/panel/color/:id/estado      { agotado }
@@ -173,12 +176,12 @@ async function listar(req: Request, sql: any, _yo: Sesion) {
              where co.producto_id = p.id and co.agotado) as colores_agotados
       from catalogo.producto p
       left join catalogo.categoria c on c.subid = p.subid
-     where not p.archivado
+     where (case when ${estado} = 'archivado' then p.archivado else not p.archivado end)
        and (${porId}::int is null or p.id = ${porId}::int)
        and (${q} = '' or ${porId}::int is not null
             or p.nombre ilike '%' || ${q} || '%')
        and (${cat || null}::int is null or p.subid = ${cat || null}::int)
-       and (${estado} = '' or
+       and (${estado} = '' or ${estado} = 'archivado' or
             (${estado} = 'agotado'  and p.agotado) or
             (${estado} = 'oculto'   and not p.visible) or
             (${estado} = 'activo'   and p.visible and not p.agotado))
@@ -188,12 +191,12 @@ async function listar(req: Request, sql: any, _yo: Sesion) {
   const [{ total }] = await sql`
     select count(*)::int as total
       from catalogo.producto p
-     where not p.archivado
+     where (case when ${estado} = 'archivado' then p.archivado else not p.archivado end)
        and (${porId}::int is null or p.id = ${porId}::int)
        and (${q} = '' or ${porId}::int is not null
             or p.nombre ilike '%' || ${q} || '%')
        and (${cat || null}::int is null or p.subid = ${cat || null}::int)
-       and (${estado} = '' or
+       and (${estado} = '' or ${estado} = 'archivado' or
             (${estado} = 'agotado'  and p.agotado) or
             (${estado} = 'oculto'   and not p.visible) or
             (${estado} = 'activo'   and p.visible and not p.agotado))`;
