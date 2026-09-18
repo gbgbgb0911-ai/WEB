@@ -1,0 +1,43 @@
+{
+  "id_original": 877,
+  "url_original": "https://euchelperu.com/producto.php?id=877",
+  "nombre": "BKINI ROSSETA",
+  "descripcion": "Lleva la elegancia a la orilla del mar con este diseño que juega con las texturas y la asimetría para un look de resort inigualable. Textura de Lujo: El bikini está confeccionado en un tejido con relieve de micro-perlas en tono crema, que aporta una sensación táctil exquisita y un brillo sutil bajo el sol. Diseño Vanguardista: Destaca por su top de estilo halter asimétrico, que se une a una delicada capa de malla (mesh) calada que cae sutilmente sobre el abdomen. Detalle Central: Presenta un elegante aro metálico dorado en forma de eslabón que une las piezas del busto, añadiendo un toque de alta costura playera. Ajuste Estilizado: El bottom coordina perfectamente con la misma textura, incluyendo lazos laterales delgados que permiten ajustar la prenda a tu medida mientras estilizan la cadera.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "877BKN116",
+  "item_group_id": "877",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17691354350150583167659.jpg",
+    "https://euchelperu.com/images/productos/176913544294006728820892.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BKINI ROSSETA",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2629,
+      "nombre": "UNICO COLOR",
+      "precio": 110.0,
+      "id_color_confirmado": 2629,
+      "tallas": [
+        {
+          "id_talla": 3060,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17691354350150583167659.jpg",
+        "https://euchelperu.com/images/productos/176913544294006728820892.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:46:04Z"
+}

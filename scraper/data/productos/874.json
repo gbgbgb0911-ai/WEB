@@ -1,0 +1,41 @@
+{
+  "id_original": 874,
+  "url_original": "https://euchelperu.com/producto.php?id=874",
+  "nombre": "BIKINI RUBI",
+  "descripcion": "Captura la magia del océano con este conjunto de tres piezas que combina elegancia, texturas delicadas y un toque náutico irresistible. Diseño del Top: Bikini de estilo halter en un suave tono crema, confeccionado con un tejido de encaje calado que aporta una textura romántica y femenina. Detalle Protagonista: El centro del pecho destaca con una espectacular estrella de mar dorada, convirtiéndose en el foco de atención de todo el look. Complemento Ideal: Incluye un pareo a juego en el mismo encaje ligero, perfecto para lucir un outfit coordinado y sofisticado a la orilla de la piscina o el mar. Estilo: Una pieza clave para quienes buscan un estilo \"Mermaid-core\" de lujo, resaltando el bronceado de forma natural y chic.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "874BKN114",
+  "item_group_id": "874",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176913284963861800356364.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI RUBI",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2626,
+      "nombre": "UNICO COLOR",
+      "precio": 110.0,
+      "id_color_confirmado": 2626,
+      "tallas": [
+        {
+          "id_talla": 3057,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176913284963861800356364.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:45:07Z"
+}

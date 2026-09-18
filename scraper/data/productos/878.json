@@ -1,0 +1,146 @@
+{
+  "id_original": 878,
+  "url_original": "https://euchelperu.com/producto.php?id=878",
+  "nombre": "TOP BABI BROCHE",
+  "descripcion": "Eleva tu estilo con esta pieza de diseño artístico que combina elegancia etérea y detalles marinos de lujo. Diseño Vanguardista: Top de estilo halter en un suave tono verde salvia con un sofisticado efecto drapeado que crea un movimiento fluido y elegante. Detalle Protagonista: Presenta un impactante broche de concha dorada en el cuello, que sirve como punto focal y añade un aire de exclusividad costera. Corte Atrevido: El diseño incluye una apertura central (cut-out) que estiliza el torso, aportando un toque moderno y audaz a la silueta. Versatilidad: Una prenda ideal para combinar con faldas mini blancas o pantalones de lino, perfecta para un evento especial frente al mar o una cena elegante.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "878TOP80029",
+  "item_group_id": "878",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176921234523447853824096.png",
+    "https://euchelperu.com/images/productos/176921239815220641096010.png",
+    "https://euchelperu.com/images/productos/176921250197327351286034.png",
+    "https://euchelperu.com/images/productos/1769212588960751929760.png",
+    "https://euchelperu.com/images/productos/176981333261975658729941.jpg",
+    "https://euchelperu.com/images/productos/176981335576612807880420.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP BABI BROCHE",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2630,
+      "nombre": "Rosado marmoleado",
+      "precio": 55.0,
+      "id_color_confirmado": 2630,
+      "tallas": [
+        {
+          "id_talla": 3062,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176921234523447853824096.png",
+        "https://euchelperu.com/images/productos/176921239815220641096010.png",
+        "https://euchelperu.com/images/productos/176921250197327351286034.png",
+        "https://euchelperu.com/images/productos/1769212588960751929760.png",
+        "https://euchelperu.com/images/productos/176981333261975658729941.jpg",
+        "https://euchelperu.com/images/productos/176981335576612807880420.jpg"
+      ]
+    },
+    {
+      "id_color": 2631,
+      "nombre": "Marrón marmoleado",
+      "precio": 55.0,
+      "id_color_confirmado": 2631,
+      "tallas": [
+        {
+          "id_talla": 3063,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176921239815220641096010.png",
+        "https://euchelperu.com/images/productos/176921234523447853824096.png",
+        "https://euchelperu.com/images/productos/176921250197327351286034.png",
+        "https://euchelperu.com/images/productos/1769212588960751929760.png",
+        "https://euchelperu.com/images/productos/176981333261975658729941.jpg",
+        "https://euchelperu.com/images/productos/176981335576612807880420.jpg"
+      ]
+    },
+    {
+      "id_color": 2632,
+      "nombre": "Verde marmoleado",
+      "precio": 55.0,
+      "id_color_confirmado": 2632,
+      "tallas": [
+        {
+          "id_talla": 3064,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176921250197327351286034.png",
+        "https://euchelperu.com/images/productos/176921234523447853824096.png",
+        "https://euchelperu.com/images/productos/176921239815220641096010.png",
+        "https://euchelperu.com/images/productos/1769212588960751929760.png",
+        "https://euchelperu.com/images/productos/176981333261975658729941.jpg",
+        "https://euchelperu.com/images/productos/176981335576612807880420.jpg"
+      ]
+    },
+    {
+      "id_color": 2633,
+      "nombre": "Celeste marmoleado",
+      "precio": 55.0,
+      "id_color_confirmado": 2633,
+      "tallas": [
+        {
+          "id_talla": 3061,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176981333261975658729941.jpg",
+        "https://euchelperu.com/images/productos/176921234523447853824096.png",
+        "https://euchelperu.com/images/productos/176921239815220641096010.png",
+        "https://euchelperu.com/images/productos/176921250197327351286034.png",
+        "https://euchelperu.com/images/productos/1769212588960751929760.png",
+        "https://euchelperu.com/images/productos/176981335576612807880420.jpg"
+      ]
+    },
+    {
+      "id_color": 2634,
+      "nombre": "Fucsia marmoleado",
+      "precio": 55.0,
+      "id_color_confirmado": 2634,
+      "tallas": [
+        {
+          "id_talla": 3065,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1769212588960751929760.png",
+        "https://euchelperu.com/images/productos/176921234523447853824096.png",
+        "https://euchelperu.com/images/productos/176921239815220641096010.png",
+        "https://euchelperu.com/images/productos/176921250197327351286034.png",
+        "https://euchelperu.com/images/productos/176981333261975658729941.jpg",
+        "https://euchelperu.com/images/productos/176981335576612807880420.jpg"
+      ]
+    },
+    {
+      "id_color": 2797,
+      "nombre": "verde olivo marmoleado",
+      "precio": null,
+      "id_color_confirmado": 2797,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176981335576612807880420.jpg",
+        "https://euchelperu.com/images/productos/176921234523447853824096.png",
+        "https://euchelperu.com/images/productos/176921239815220641096010.png",
+        "https://euchelperu.com/images/productos/176921250197327351286034.png",
+        "https://euchelperu.com/images/productos/1769212588960751929760.png",
+        "https://euchelperu.com/images/productos/176981333261975658729941.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:47:24Z"
+}

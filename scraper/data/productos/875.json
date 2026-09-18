@@ -1,0 +1,41 @@
+{
+  "id_original": 875,
+  "url_original": "https://euchelperu.com/producto.php?id=875",
+  "nombre": "BIKINI ORQUIDEA",
+  "descripcion": "Añade un toque romántico y artístico a tu estilo playero con este conjunto de tres piezas que destaca por su delicado estampado botánico. Bikini de Dos Piezas: Presenta un bottom de corte minimalista con tiras laterales y un top coordinado, ambos con un vibrante estampado de orquídeas en tonos rosa y fucsia. Cover-Up de Tendencia: Incluye un top de malla (mesh) semitransparente en color rosa pastel, diseñado con mangas cortas y detalles de lazos laterales ajustables para un look moderno y versátil. Detalle Artístico: La pieza de mesh cuenta con una impresión de flor de gran formato que se funde perfectamente con el diseño del bikini, creando un efecto visual sofisticado y femenino. Vibe: Es el conjunto perfecto para un \"beach club\" o una sesión de fotos al atardecer, combinando frescura y elegancia en cada detalle.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "875BKN115",
+  "item_group_id": "875",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176913303465780488527117.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI ORQUIDEA",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2627,
+      "nombre": "Rosado",
+      "precio": 110.0,
+      "id_color_confirmado": 2627,
+      "tallas": [
+        {
+          "id_talla": 3058,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176913303465780488527117.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:45:21Z"
+}

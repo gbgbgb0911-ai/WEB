@@ -1,0 +1,45 @@
+{
+  "id_original": 883,
+  "url_original": "https://euchelperu.com/producto.php?id=883",
+  "nombre": "BIKINI",
+  "descripcion": "Siente la brisa del océano con este conjunto de tres piezas que combina un color refrescante con detalles de lujo inspirados en el mar. Diseño del Top: Bikini de estilo triangular en un delicado tono celeste pastel, con tirantes ajustables que garantizan un ajuste perfecto y cómodo. Detalles de Encanto: El conjunto destaca por sus aplicaciones de estrellas de mar doradas tanto en el centro del top como en la cintura del pareo, aportando un toque brillante y sofisticado. Pareo a Juego: Incluye una falda pareo larga confeccionada en una malla ligera y semitransparente, diseñada con un drapeado lateral que estiliza la figura. Estilo: Una pieza ideal para un \"look de sirena\" moderno, perfecta para destacar en un club de playa o en tus próximas fotos de vacaciones.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "883BKN110",
+  "item_group_id": "883",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176921538208966704022922.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2641,
+      "nombre": "UNICO COLOR",
+      "precio": 110.0,
+      "id_color_confirmado": 2641,
+      "tallas": [
+        {
+          "id_talla": 3073,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3074,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176921538208966704022922.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:49:08Z"
+}

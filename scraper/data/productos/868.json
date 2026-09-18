@@ -1,0 +1,45 @@
+{
+  "id_original": 868,
+  "url_original": "https://euchelperu.com/producto.php?id=868",
+  "nombre": "BIKINI VAQUERO",
+  "descripcion": "Luce un estilo impecable y glamuroso este verano con nuestro conjunto de tres piezas que redefine el lujo playero. Bikini de Dos Piezas: Presenta un top de triángulo clásico en tono crema que se complementa con un bottom de la misma tonalidad, diseñado para un ajuste cómodo y favorecedor. Salida de Baño \"Cover-Up\": El toque estrella es este vestido de malla en tejido tipo crochet calado que permite ver el bikini sutilmente, aportando textura y un aire bohemio. Detalle de Escote: El vestido cuenta con un escote tipo drapeado o \"cowl neck\" muy profundo que realza el busto de forma elegante y femenina. Accesorio de Lujo: Incluye un broche dorado en forma de flor en uno de los tirantes, añadiendo un destello de brillo sofisticado a tu look de resort.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 120.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "868BIK190126",
+  "item_group_id": "868",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176913060853878470590797.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI VAQUERO",
+  "precio_listado_normal": 120.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2620,
+      "nombre": "UNICO COLOR",
+      "precio": 120.0,
+      "id_color_confirmado": 2620,
+      "tallas": [
+        {
+          "id_talla": 3049,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3050,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176913060853878470590797.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:43:24Z"
+}

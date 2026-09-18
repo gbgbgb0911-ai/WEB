@@ -1,0 +1,41 @@
+{
+  "id_original": 870,
+  "url_original": "https://euchelperu.com/producto.php?id=870",
+  "nombre": "BIKINI VANE",
+  "descripcion": "Eleva tu estilo playero con este conjunto de tres piezas que captura la esencia del lujo bajo el sol. Diseño del Top: Bikini de estilo balconette en color crema, con tirantes anchos que brindan soporte y comodidad. Detalle Icónico: El centro del top destaca con un broche dorado en forma de sol con una perla central, aportando un toque de brillo sofisticado. Complemento Perfecto: Incluye una mini falda tipo pareo a juego, ajustable con lazos laterales y decorada con el mismo detalle de sol dorado en la cadera. Vibe: Ideal para un día de yate o un club de playa exclusivo, donde la elegancia y el confort se encuentran.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "870BKN110",
+  "item_group_id": "870",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176913125272138883218914.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI VANE",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2622,
+      "nombre": "UNICO COLOR",
+      "precio": 110.0,
+      "id_color_confirmado": 2622,
+      "tallas": [
+        {
+          "id_talla": 3053,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176913125272138883218914.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:44:06Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 873,
+  "url_original": "https://euchelperu.com/producto.php?id=873",
+  "nombre": "BIKINI LIRI",
+  "descripcion": "Añade un toque artístico y audaz a tu maleta de vacaciones con este conjunto de tres piezas que combina transparencia y color de forma espectacular. Bikini Base: Incluye un top de estilo triangular clásico en color negro sólido, diseñado para ofrecer un ajuste minimalista y elegante. Top de Malla: Se complementa con un crop top de manga corta confeccionado en malla negra semitransparente, que destaca por un impresionante estampado de lirio en tonos naranja y amarillo que cubre parte del pecho. Falda a Juego: El set se completa con una mini falda de mesh coordinada, con el mismo motivo floral en el lateral, perfecta para crear un look de playa sofisticado y con movimiento. Vibe: Una opción versátil y moderna, ideal para pasar del sol a un almuerzo frente al mar con total estilo.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "873BKN113",
+  "item_group_id": "873",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176913205047782262398775.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI LIRI",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2625,
+      "nombre": "Negro",
+      "precio": 110.0,
+      "id_color_confirmado": 2625,
+      "tallas": [
+        {
+          "id_talla": 3056,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176913205047782262398775.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:44:39Z"
+}

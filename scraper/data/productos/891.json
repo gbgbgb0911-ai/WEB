@@ -1,0 +1,91 @@
+{
+  "id_original": 891,
+  "url_original": "https://euchelperu.com/producto.php?id=891",
+  "nombre": "Top rose encaje",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "891top77116",
+  "item_group_id": "891",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176971273571023403570311.jpg",
+    "https://euchelperu.com/images/productos/176988424833385785794045.png",
+    "https://euchelperu.com/images/productos/176988872288384222049970.png",
+    "https://euchelperu.com/images/productos/176988882917218227152915.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top rose encaje",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2649,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 2649,
+      "tallas": [
+        {
+          "id_talla": 3081,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176971273571023403570311.jpg",
+        "https://euchelperu.com/images/productos/176988424833385785794045.png",
+        "https://euchelperu.com/images/productos/176988872288384222049970.png",
+        "https://euchelperu.com/images/productos/176988882917218227152915.png"
+      ]
+    },
+    {
+      "id_color": 2723,
+      "nombre": "celeste pastel",
+      "precio": null,
+      "id_color_confirmado": 2723,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176988872288384222049970.png",
+        "https://euchelperu.com/images/productos/176971273571023403570311.jpg",
+        "https://euchelperu.com/images/productos/176988424833385785794045.png",
+        "https://euchelperu.com/images/productos/176988882917218227152915.png"
+      ]
+    },
+    {
+      "id_color": 2725,
+      "nombre": "rosa pastel",
+      "precio": null,
+      "id_color_confirmado": 2725,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176988882917218227152915.png",
+        "https://euchelperu.com/images/productos/176971273571023403570311.jpg",
+        "https://euchelperu.com/images/productos/176988424833385785794045.png",
+        "https://euchelperu.com/images/productos/176988872288384222049970.png"
+      ]
+    },
+    {
+      "id_color": 2726,
+      "nombre": "amarillo",
+      "precio": 45.0,
+      "id_color_confirmado": 2726,
+      "tallas": [
+        {
+          "id_talla": 3383,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176988424833385785794045.png",
+        "https://euchelperu.com/images/productos/176971273571023403570311.jpg",
+        "https://euchelperu.com/images/productos/176988872288384222049970.png",
+        "https://euchelperu.com/images/productos/176988882917218227152915.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:51:37Z"
+}

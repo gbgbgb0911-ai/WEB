@@ -1,0 +1,41 @@
+{
+  "id_original": 880,
+  "url_original": "https://euchelperu.com/producto.php?id=880",
+  "nombre": "TOP KARO ENCAJE",
+  "descripcion": "Dale un toque de frescura y romanticismo a tu armario con este top que celebra la delicadeza de la naturaleza en cada detalle. Diseño Romántico: Top de estilo halter con escote en V, diseñado con un cuerpo ligero y fluido que aporta frescura y comodidad. Detalles Bordados: Destaca por su exquisito bordado de flores en 3D en color blanco, que resalta sobre el fondo verde oliva, creando una textura visual encantadora. Ajuste Delicado: Cuenta con un lazo frontal ajustable que permite personalizar el cierre y añade un detalle coqueto al diseño. Combinación Perfecta: Su tono verde vibrante lo hace ideal para lucir con faldas blancas o jeans claros, perfecto para un paseo por la tarde o una salida casual con estilo.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "880KARO1901",
+  "item_group_id": "880",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176921377045379108549804.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP KARO ENCAJE",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2638,
+      "nombre": "Verde",
+      "precio": 55.0,
+      "id_color_confirmado": 2638,
+      "tallas": [
+        {
+          "id_talla": 3069,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176921377045379108549804.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:49:02Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id_original": 869,
+  "url_original": "https://euchelperu.com/producto.php?id=869",
+  "nombre": "BIKINI ANNY",
+  "descripcion": "Impacta con un look audaz y sofisticado que combina la elegancia del negro con la frescura de los detalles florales. Diseño Innovador: Traje de baño de una pieza con un atrevido panel central de malla transparente (mesh) negra que crea un efecto visual de \"cut-out\" y estiliza la cintura. Estampado Vibrante: Destaca por sus grandes flores en tonos rosa y fucsia estratégicamente ubicadas en el top y la cadera para un contraste espectacular sobre el fondo negro. Corte Favorecedor: Presenta un cuello redondo con tirantes delgados y un bottom de corte alto que alarga visualmente las piernas. Estilo Versátil: Una pieza única que también puedes usar como \"body\" combinado con tus shorts favoritos para un look de playa completo.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "869BKN110",
+  "item_group_id": "869",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17691308683358547689155.jpg",
+    "https://euchelperu.com/images/productos/176913108801456588071864.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI ANNY",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2621,
+      "nombre": "UNICO COLOR",
+      "precio": 110.0,
+      "id_color_confirmado": 2621,
+      "tallas": [
+        {
+          "id_talla": 3051,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3052,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17691308683358547689155.jpg",
+        "https://euchelperu.com/images/productos/176913108801456588071864.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:44:03Z"
+}

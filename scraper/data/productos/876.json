@@ -1,0 +1,43 @@
+{
+  "id_original": 876,
+  "url_original": "https://euchelperu.com/producto.php?id=876",
+  "nombre": "BIKINI ORIANA",
+  "descripcion": "Enamórate de este conjunto que combina la dulzura del estilo coquette con la calidez de un atardecer de verano. Diseño del Top: Presenta un top de tirantes finos con un delicado vuelo tipo peplum y detalles de volantes en el pecho, brindando un aire retro y muy femenino. Estampado Floral: Confeccionado en una suave paleta de tonos melocotón y naranja, decorado con un estampado de flores silvestres que evoca un jardín en pleno verano. Detalles Delicados: El bottom de corte clásico incluye un pequeño lazo decorativo en el centro, manteniendo la estética detallista y romántica de todo el set. Vibe: La elección perfecta para quienes buscan un look de playa tierno, cómodo y lleno de estilo.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "876BKN116",
+  "item_group_id": "876",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176913454177457740620383.jpg",
+    "https://euchelperu.com/images/productos/17691345512343781918307.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI ORIANA",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2628,
+      "nombre": "UNICO COLOR",
+      "precio": 110.0,
+      "id_color_confirmado": 2628,
+      "tallas": [
+        {
+          "id_talla": 3059,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176913454177457740620383.jpg",
+        "https://euchelperu.com/images/productos/17691345512343781918307.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:45:25Z"
+}

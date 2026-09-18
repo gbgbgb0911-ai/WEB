@@ -1,0 +1,41 @@
+{
+  "id_original": 866,
+  "url_original": "https://euchelperu.com/producto.php?id=866",
+  "nombre": "BIKINI LUANA",
+  "descripcion": "Conecta con la naturaleza y el lujo con este diseño de inspiración orgánica y tonos cálidos. Diseño: Top de corte triangular con un estampado geométrico que combina tonos tierra, blanco y ocre para un look bohemio y sofisticado. Detalles de Lujo: Presenta elegantes aros metálicos dorados en el centro del pecho y en los laterales de la cadera, añadiendo un toque de brillo bajo el sol. Ajuste: Bottom de tiro bajo con tiras finas y ajustables para resaltar la silueta de forma femenina. Estilo: La pieza perfecta para quienes buscan un estilo \"Resort\" exclusivo y atemporal.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "866BKN154",
+  "item_group_id": "866",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176912997093259615567570.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI LUANA",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2616,
+      "nombre": "UNICO COLOR",
+      "precio": 99.0,
+      "id_color_confirmado": 2616,
+      "tallas": [
+        {
+          "id_talla": 3044,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176912997093259615567570.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:42:36Z"
+}

@@ -1,0 +1,105 @@
+{
+  "id_original": 890,
+  "url_original": "https://euchelperu.com/producto.php?id=890",
+  "nombre": "Top tessa sastre",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "890top42991",
+  "item_group_id": "890",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176971016109849771322775.jpg",
+    "https://euchelperu.com/images/productos/177014761186382106484008.jpg",
+    "https://euchelperu.com/images/productos/177014762525928704761691.jpg",
+    "https://euchelperu.com/images/productos/177014763913550924213721.jpg",
+    "https://euchelperu.com/images/productos/177014767072879924937630.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top tessa sastre",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2648,
+      "nombre": "Rojo",
+      "precio": 59.0,
+      "id_color_confirmado": 2648,
+      "tallas": [
+        {
+          "id_talla": 3080,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176971016109849771322775.jpg",
+        "https://euchelperu.com/images/productos/177014761186382106484008.jpg",
+        "https://euchelperu.com/images/productos/177014762525928704761691.jpg",
+        "https://euchelperu.com/images/productos/177014763913550924213721.jpg",
+        "https://euchelperu.com/images/productos/177014767072879924937630.jpg"
+      ]
+    },
+    {
+      "id_color": 2693,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 2693,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177014761186382106484008.jpg",
+        "https://euchelperu.com/images/productos/176971016109849771322775.jpg",
+        "https://euchelperu.com/images/productos/177014762525928704761691.jpg",
+        "https://euchelperu.com/images/productos/177014763913550924213721.jpg",
+        "https://euchelperu.com/images/productos/177014767072879924937630.jpg"
+      ]
+    },
+    {
+      "id_color": 2694,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 2694,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177014762525928704761691.jpg",
+        "https://euchelperu.com/images/productos/176971016109849771322775.jpg",
+        "https://euchelperu.com/images/productos/177014761186382106484008.jpg",
+        "https://euchelperu.com/images/productos/177014763913550924213721.jpg",
+        "https://euchelperu.com/images/productos/177014767072879924937630.jpg"
+      ]
+    },
+    {
+      "id_color": 2695,
+      "nombre": "Amarillo",
+      "precio": null,
+      "id_color_confirmado": 2695,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177014763913550924213721.jpg",
+        "https://euchelperu.com/images/productos/176971016109849771322775.jpg",
+        "https://euchelperu.com/images/productos/177014761186382106484008.jpg",
+        "https://euchelperu.com/images/productos/177014762525928704761691.jpg",
+        "https://euchelperu.com/images/productos/177014767072879924937630.jpg"
+      ]
+    },
+    {
+      "id_color": 2697,
+      "nombre": "Celeste",
+      "precio": null,
+      "id_color_confirmado": 2697,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177014767072879924937630.jpg",
+        "https://euchelperu.com/images/productos/176971016109849771322775.jpg",
+        "https://euchelperu.com/images/productos/177014761186382106484008.jpg",
+        "https://euchelperu.com/images/productos/177014762525928704761691.jpg",
+        "https://euchelperu.com/images/productos/177014763913550924213721.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:50:11Z"
+}

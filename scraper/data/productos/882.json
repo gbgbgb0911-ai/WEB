@@ -1,0 +1,45 @@
+{
+  "id_original": 882,
+  "url_original": "https://euchelperu.com/producto.php?id=882",
+  "nombre": "BIKINI KENDAL",
+  "descripcion": "Apuesta por la elegancia atemporal con este bikini que combina una silueta clásica con un acabado de lujo, ideal para destacar bajo el sol. Diseño del Top: Presenta un top de estilo triangular clásico con copas movibles, permitiendo un ajuste personalizado y cómodo. Corte del Bottom: La parte inferior es de corte alto y tipo tanga, diseñada para alargar visualmente las piernas y brindar una silueta estilizada y moderna. Tono y Textura: Confeccionado en un sofisticado color champagne con acabado satinado, que aporta un brillo sutil y resalta el bronceado de forma espectacular. Versatilidad: Su diseño de tiras delgadas para amarrar al cuello y la espalda lo convierte en un básico imprescindible y fácil de combinar con cualquier salida de baño.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "882BKN152",
+  "item_group_id": "882",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17692152080891412069141.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI KENDAL",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2640,
+      "nombre": "UNICO COLOR",
+      "precio": 99.0,
+      "id_color_confirmado": 2640,
+      "tallas": [
+        {
+          "id_talla": 3071,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3072,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17692152080891412069141.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:49:05Z"
+}

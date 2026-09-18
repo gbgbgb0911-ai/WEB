@@ -1,0 +1,83 @@
+{
+  "id_original": 867,
+  "url_original": "https://euchelperu.com/producto.php?id=867",
+  "nombre": "BIKINI DANAE",
+  "descripcion": "Luce un estilo bohemio y sofisticado con este diseño que celebra las texturas naturales y el detalle hecho a mano. Diseño y Textura: El conjunto presenta una base en tono marrón tierra con un intrincado tejido tipo red, decorado con bordados de cordón blanco en relieve que forman elegantes motivos orgánicos. Top Estructurado: Cuenta con copas con aro para brindar mayor soporte y realce, junto con tirantes delgados ajustables para un calce perfecto. Bottom Ajustable: La braga coordina con el mismo diseño artesanal y dispone de lazos laterales para adaptar el ajuste a tu comodidad. Vibe: Ideal para quienes buscan un look de playa exclusivo, con una estética artesanal que resalta sobre la arena.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "867BKN155",
+  "item_group_id": "867",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176913020253287438636582.jpg",
+    "https://euchelperu.com/images/productos/176913024948084386664189.jpg",
+    "https://euchelperu.com/images/productos/176913028916735926712110.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI DANAE",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2617,
+      "nombre": "Marrón",
+      "precio": 99.0,
+      "id_color_confirmado": 2617,
+      "tallas": [
+        {
+          "id_talla": 3045,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 3046,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176913020253287438636582.jpg",
+        "https://euchelperu.com/images/productos/176913024948084386664189.jpg",
+        "https://euchelperu.com/images/productos/176913028916735926712110.jpg"
+      ]
+    },
+    {
+      "id_color": 2618,
+      "nombre": "Negro",
+      "precio": 99.0,
+      "id_color_confirmado": 2618,
+      "tallas": [
+        {
+          "id_talla": 3047,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176913024948084386664189.jpg",
+        "https://euchelperu.com/images/productos/176913020253287438636582.jpg",
+        "https://euchelperu.com/images/productos/176913028916735926712110.jpg"
+      ]
+    },
+    {
+      "id_color": 2619,
+      "nombre": "Rosado",
+      "precio": 99.0,
+      "id_color_confirmado": 2619,
+      "tallas": [
+        {
+          "id_talla": 3048,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176913028916735926712110.jpg",
+        "https://euchelperu.com/images/productos/176913020253287438636582.jpg",
+        "https://euchelperu.com/images/productos/176913024948084386664189.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:42:57Z"
+}

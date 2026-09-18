@@ -1,0 +1,54 @@
+{
+  "id_original": 892,
+  "url_original": "https://euchelperu.com/producto.php?id=892",
+  "nombre": "Set estrella broche",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "892set65938",
+  "item_group_id": "892",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17697135178137078660860.jpg",
+    "https://euchelperu.com/images/productos/177007468457084868029304.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Set estrella broche",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2650,
+      "nombre": "rojo/blanco",
+      "precio": 79.0,
+      "id_color_confirmado": 2650,
+      "tallas": [
+        {
+          "id_talla": 3082,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17697135178137078660860.jpg",
+        "https://euchelperu.com/images/productos/177007468457084868029304.png"
+      ]
+    },
+    {
+      "id_color": 2733,
+      "nombre": "negro/blanco",
+      "precio": null,
+      "id_color_confirmado": 2733,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177007468457084868029304.png",
+        "https://euchelperu.com/images/productos/17697135178137078660860.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:51:43Z"
+}

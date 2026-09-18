@@ -1,0 +1,41 @@
+{
+  "id_original": 872,
+  "url_original": "https://euchelperu.com/producto.php?id=872",
+  "nombre": "BIKINI SHEYLA",
+  "descripcion": "Deslumbra con un look luminoso y artesanal que celebra la esencia del verano en un impecable tono crema. Diseño del Top: Bikini de triángulo clásico con una sofisticada textura de red calada, perfecto para un estilo bohemio y chic. Detalles Costeros: Tanto el top como el bottom están decorados con conchas naturales que añaden un toque orgánico y único a la prenda. Complemento Versátil: Incluye un pareo de malla (mesh) a juego con lazos ajustables, ideal para transicionar del agua al club de playa con total elegancia. Ajuste a Medida: Las tiras delgadas permiten un ajuste personalizado al cuello, espalda y cadera, resaltando tu silueta de forma delicada.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "872BKN112",
+  "item_group_id": "872",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176913171407642133029512.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI SHEYLA",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2624,
+      "nombre": "Perla",
+      "precio": 110.0,
+      "id_color_confirmado": 2624,
+      "tallas": [
+        {
+          "id_talla": 3055,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176913171407642133029512.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:44:24Z"
+}

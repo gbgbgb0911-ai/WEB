@@ -1,0 +1,41 @@
+{
+  "id_original": 871,
+  "url_original": "https://euchelperu.com/producto.php?id=871",
+  "nombre": "BIKINI CAROLINA",
+  "descripcion": "Eleva tu look de playa con este conjunto de inspiración artesanal en tonos tierra, diseñado para quienes aman los detalles únicos y naturales. Diseño del Top: Bikini de corte triangular clásico en un cálido tono marrón terracota, con una textura de micro-panal que añade profundidad y estilo. Detalles Orgánicos: Tanto el top como el bottom están decorados con pequeñas conchas de mar naturales, creando un contraste artesanal y fresco. Complemento de Tendencia: Incluye una mini falda de malla (mesh) a juego, ideal para usar como salida de baño, con lazos laterales ajustables para un calce perfecto. Ajuste Personalizado: El diseño cuenta con tiras finas para amarrar al cuello y la espalda, permitiendo adaptar la prenda a tu silueta con total comodidad.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "871BKN111",
+  "item_group_id": "871",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176913154132129872727941.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI CAROLINA",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2623,
+      "nombre": "Marrón",
+      "precio": 110.0,
+      "id_color_confirmado": 2623,
+      "tallas": [
+        {
+          "id_talla": 3054,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176913154132129872727941.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:44:09Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id_original": 879,
+  "url_original": "https://euchelperu.com/producto.php?id=879",
+  "nombre": "TOP BELINDA LENTEJUELAS",
+  "descripcion": "Deslumbra en cada movimiento con este top diseñado para ser el centro de atención en tus noches de fiesta y eventos especiales. Diseño de Impacto: Top de estilo halter con un escote drapeado profundo que realza la silueta de forma sofisticada y audaz. Brillo Inigualable: Confeccionado totalmente en lentejuelas circulares que capturan la luz desde cualquier ángulo, en un elegante tono vino tinto o borgoña. Ajuste Favorecedor: Su corte crop y la caída fluida del tejido permiten combinarlo perfectamente con prendas de tiro alto para un look equilibrado y chic. Estilo Versátil: Úsalo con una minifalda blanca para un contraste fresco o con pantalones de cuero para un outfit más rebelde y nocturno.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "879BE1901",
+  "item_group_id": "879",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17692128459243164591578.jpg",
+    "https://euchelperu.com/images/productos/176921310435886613661258.png",
+    "https://euchelperu.com/images/productos/176988963711854867311235.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP BELINDA LENTEJUELAS",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2635,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 2635,
+      "tallas": [
+        {
+          "id_talla": 3066,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17692128459243164591578.jpg",
+        "https://euchelperu.com/images/productos/176921310435886613661258.png",
+        "https://euchelperu.com/images/productos/176988963711854867311235.png"
+      ]
+    },
+    {
+      "id_color": 2636,
+      "nombre": "Celeste",
+      "precio": 59.0,
+      "id_color_confirmado": 2636,
+      "tallas": [
+        {
+          "id_talla": 3067,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176921310435886613661258.png",
+        "https://euchelperu.com/images/productos/17692128459243164591578.jpg",
+        "https://euchelperu.com/images/productos/176988963711854867311235.png"
+      ]
+    },
+    {
+      "id_color": 2745,
+      "nombre": "Beige",
+      "precio": null,
+      "id_color_confirmado": 2745,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176988963711854867311235.png",
+        "https://euchelperu.com/images/productos/17692128459243164591578.jpg",
+        "https://euchelperu.com/images/productos/176921310435886613661258.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:48:59Z"
+}
