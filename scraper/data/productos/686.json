@@ -1,0 +1,57 @@
+{
+  "id_original": 686,
+  "url_original": "https://euchelperu.com/producto.php?id=686",
+  "nombre": "Bikini Lilly",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "686BKN15200",
+  "item_group_id": "686",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17662503369576149812167.jpg",
+    "https://euchelperu.com/images/productos/176625035566265804915293.jpg",
+    "https://euchelperu.com/images/productos/17662503730445144880947.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Lilly",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2168,
+      "nombre": "Blanco",
+      "precio": 110.0,
+      "id_color_confirmado": 2168,
+      "tallas": [
+        {
+          "id_talla": 2531,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2532,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2533,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2534,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17662503369576149812167.jpg",
+        "https://euchelperu.com/images/productos/176625035566265804915293.jpg",
+        "https://euchelperu.com/images/productos/17662503730445144880947.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:29:27Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 671,
+  "url_original": "https://euchelperu.com/producto.php?id=671",
+  "nombre": "MINI VESTIDO TAMMY COPA",
+  "descripcion": "Presenta un corpiño estructurado de estilo corset que realza la silueta, complementado con tirantes finos y un detalle de lazo frontal en el busto fruncido. Su falda con vuelo ligero crea un look romántico, femenino y fresco, ideal para el día.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "671MIN40298",
+  "item_group_id": "671",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17660080561264232047711.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO TAMMY COPA",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2135,
+      "nombre": "Beige",
+      "precio": 65.0,
+      "id_color_confirmado": 2135,
+      "tallas": [
+        {
+          "id_talla": 2474,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17660080561264232047711.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:27:36Z"
+}

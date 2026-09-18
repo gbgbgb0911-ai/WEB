@@ -1,0 +1,53 @@
+{
+  "id_original": 687,
+  "url_original": "https://euchelperu.com/producto.php?id=687",
+  "nombre": "Bikini April",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "687BKN15287",
+  "item_group_id": "687",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176625168301178662235641.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini April",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2169,
+      "nombre": "Rosado",
+      "precio": 99.0,
+      "id_color_confirmado": 2169,
+      "tallas": [
+        {
+          "id_talla": 2535,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2536,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2537,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2538,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176625168301178662235641.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:30:06Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id_original": 678,
+  "url_original": "https://euchelperu.com/producto.php?id=678",
+  "nombre": "Bikini Emily",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "678BKN11078",
+  "item_group_id": "678",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176624636831216173585580.jpg",
+    "https://euchelperu.com/images/productos/17662464070773480073445.jpg",
+    "https://euchelperu.com/images/productos/176624641482591954378746.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Emily",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2160,
+      "nombre": "Blanco",
+      "precio": 110.0,
+      "id_color_confirmado": 2160,
+      "tallas": [
+        {
+          "id_talla": 2499,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2500,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2501,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2502,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176624636831216173585580.jpg",
+        "https://euchelperu.com/images/productos/17662464070773480073445.jpg",
+        "https://euchelperu.com/images/productos/176624641482591954378746.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:28:14Z"
+}

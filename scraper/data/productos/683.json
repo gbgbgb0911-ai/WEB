@@ -1,0 +1,53 @@
+{
+  "id_original": 683,
+  "url_original": "https://euchelperu.com/producto.php?id=683",
+  "nombre": "Bikini Amelia",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "683BKN15276",
+  "item_group_id": "683",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176624869423906551046699.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Amelia",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2165,
+      "nombre": "Negro",
+      "precio": 99.0,
+      "id_color_confirmado": 2165,
+      "tallas": [
+        {
+          "id_talla": 2519,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2520,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2521,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2522,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176624869423906551046699.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:28:30Z"
+}

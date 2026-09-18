@@ -1,0 +1,55 @@
+{
+  "id_original": 685,
+  "url_original": "https://euchelperu.com/producto.php?id=685",
+  "nombre": "Bikini Blake",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "685BKN15276",
+  "item_group_id": "685",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176624992693943118788301.jpg",
+    "https://euchelperu.com/images/productos/176624995259519889211325.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Blake",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2167,
+      "nombre": "Rojo",
+      "precio": 110.0,
+      "id_color_confirmado": 2167,
+      "tallas": [
+        {
+          "id_talla": 2527,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2528,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2529,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2530,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176624992693943118788301.jpg",
+        "https://euchelperu.com/images/productos/176624995259519889211325.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:29:12Z"
+}

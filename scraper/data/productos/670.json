@@ -1,0 +1,79 @@
+{
+  "id_original": 670,
+  "url_original": "https://euchelperu.com/producto.php?id=670",
+  "nombre": "SET LISA BRILLOS ARO",
+  "descripcion": "Espectacular conjunto de dos piezas confeccionado en tela con destellos brillantes. El top de cuello halter presenta un escote profundo y un diseño drapeado que cae en ondas delicadas. La minifalda ajustada a juego destaca por su detalle de cinturón con una hebilla metálica en forma de corazón, creando un look audaz y sofisticado.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "670SET99968",
+  "item_group_id": "670",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176600773595647666648266.jpg",
+    "https://euchelperu.com/images/productos/176601717459643341273832.png",
+    "https://euchelperu.com/images/productos/176601722598382254846744.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SET LISA BRILLOS ARO",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2134,
+      "nombre": "Vino",
+      "precio": 79.0,
+      "id_color_confirmado": 2134,
+      "tallas": [
+        {
+          "id_talla": 2473,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176600773595647666648266.jpg",
+        "https://euchelperu.com/images/productos/176601717459643341273832.png",
+        "https://euchelperu.com/images/productos/176601722598382254846744.png"
+      ]
+    },
+    {
+      "id_color": 2152,
+      "nombre": "Blanco",
+      "precio": 79.0,
+      "id_color_confirmado": 2152,
+      "tallas": [
+        {
+          "id_talla": 2491,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176601717459643341273832.png",
+        "https://euchelperu.com/images/productos/176600773595647666648266.jpg",
+        "https://euchelperu.com/images/productos/176601722598382254846744.png"
+      ]
+    },
+    {
+      "id_color": 2153,
+      "nombre": "Negro",
+      "precio": 79.0,
+      "id_color_confirmado": 2153,
+      "tallas": [
+        {
+          "id_talla": 2492,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176601722598382254846744.png",
+        "https://euchelperu.com/images/productos/176600773595647666648266.jpg",
+        "https://euchelperu.com/images/productos/176601717459643341273832.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:27:33Z"
+}

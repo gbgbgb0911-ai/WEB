@@ -1,0 +1,41 @@
+{
+  "id_original": 672,
+  "url_original": "https://euchelperu.com/producto.php?id=672",
+  "nombre": "MINI VESTIDO LUA",
+  "descripcion": "Vestido corto y ajustado confeccionado en una tela tipo satén con un acabado brillante y sofisticado. Presenta un elegante escote drapeado y tirantes finos que resaltan los hombros.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "672MIN32218",
+  "item_group_id": "672",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176600822066595128292924.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO LUA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2136,
+      "nombre": "Azul",
+      "precio": 59.0,
+      "id_color_confirmado": 2136,
+      "tallas": [
+        {
+          "id_talla": 2475,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176600822066595128292924.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:27:39Z"
+}

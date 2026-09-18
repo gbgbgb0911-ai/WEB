@@ -1,0 +1,55 @@
+{
+  "id_original": 679,
+  "url_original": "https://euchelperu.com/producto.php?id=679",
+  "nombre": "Bikini Janet",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "679BKN110786",
+  "item_group_id": "679",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17662472540610988647391.jpg",
+    "https://euchelperu.com/images/productos/176624726331537359685714.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Janet",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2161,
+      "nombre": "Amarillo",
+      "precio": 110.0,
+      "id_color_confirmado": 2161,
+      "tallas": [
+        {
+          "id_talla": 2503,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2504,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2505,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2506,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17662472540610988647391.jpg",
+        "https://euchelperu.com/images/productos/176624726331537359685714.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:28:17Z"
+}

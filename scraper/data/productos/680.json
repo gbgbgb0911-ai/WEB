@@ -1,0 +1,55 @@
+{
+  "id_original": 680,
+  "url_original": "https://euchelperu.com/producto.php?id=680",
+  "nombre": "Bikini 99",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "680BKN1528989",
+  "item_group_id": "680",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176624754098155961717760.jpg",
+    "https://euchelperu.com/images/productos/176624756181888331552304.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini 99",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2162,
+      "nombre": "Azul",
+      "precio": 99.0,
+      "id_color_confirmado": 2162,
+      "tallas": [
+        {
+          "id_talla": 2507,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2508,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2509,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2510,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176624754098155961717760.jpg",
+        "https://euchelperu.com/images/productos/176624756181888331552304.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:28:20Z"
+}

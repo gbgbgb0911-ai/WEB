@@ -1,0 +1,53 @@
+{
+  "id_original": 682,
+  "url_original": "https://euchelperu.com/producto.php?id=682",
+  "nombre": "Bikini Lexie",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "682BKN15265",
+  "item_group_id": "682",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176624824515349824616531.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Bikini Lexie",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2164,
+      "nombre": "Negro",
+      "precio": 99.0,
+      "id_color_confirmado": 2164,
+      "tallas": [
+        {
+          "id_talla": 2515,
+          "nombre": "XS"
+        },
+        {
+          "id_talla": 2516,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2517,
+          "nombre": "M"
+        },
+        {
+          "id_talla": 2518,
+          "nombre": "L"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176624824515349824616531.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:28:26Z"
+}
