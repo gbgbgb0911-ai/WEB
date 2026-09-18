@@ -1,0 +1,119 @@
+{
+  "id_original": 560,
+  "url_original": "https://euchelperu.com/producto.php?id=560",
+  "nombre": "VESTIDO LILY SHINE ARO",
+  "descripcion": "Vestido midi de brillo metálico. ¡Máximo glamour para tu próxima fiesta! Presenta un sofisticado escote drapeado, tirantes dobles y una abertura lateral en la falda que añade un toque seductor. Su silueta entallada es perfecta para brillar en cocteles y celebraciones.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "560VES061125",
+  "item_group_id": "560",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176342718311067701375080.jpg",
+    "https://euchelperu.com/images/productos/17652979992876790073450.jpg",
+    "https://euchelperu.com/images/productos/176529805018220338970858.jpg",
+    "https://euchelperu.com/images/productos/176653970475315309576895.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO LILY SHINE ARO",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1744,
+      "nombre": "Dorado",
+      "precio": 75.0,
+      "id_color_confirmado": 1744,
+      "tallas": [
+        {
+          "id_talla": 2013,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176342718311067701375080.jpg",
+        "https://euchelperu.com/images/productos/17652979992876790073450.jpg",
+        "https://euchelperu.com/images/productos/176529805018220338970858.jpg",
+        "https://euchelperu.com/images/productos/176653970475315309576895.jpg"
+      ]
+    },
+    {
+      "id_color": 1745,
+      "nombre": "Negro",
+      "precio": 75.0,
+      "id_color_confirmado": 1745,
+      "tallas": [
+        {
+          "id_talla": 2014,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176529805018220338970858.jpg",
+        "https://euchelperu.com/images/productos/176342718311067701375080.jpg",
+        "https://euchelperu.com/images/productos/17652979992876790073450.jpg",
+        "https://euchelperu.com/images/productos/176653970475315309576895.jpg"
+      ]
+    },
+    {
+      "id_color": 1746,
+      "nombre": "Plateado",
+      "precio": 75.0,
+      "id_color_confirmado": 1746,
+      "tallas": [
+        {
+          "id_talla": 2015,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17652979992876790073450.jpg",
+        "https://euchelperu.com/images/productos/176342718311067701375080.jpg",
+        "https://euchelperu.com/images/productos/176529805018220338970858.jpg",
+        "https://euchelperu.com/images/productos/176653970475315309576895.jpg"
+      ]
+    },
+    {
+      "id_color": 1747,
+      "nombre": "Rojo",
+      "precio": 75.0,
+      "id_color_confirmado": 1747,
+      "tallas": [
+        {
+          "id_talla": 2016,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176342718311067701375080.jpg",
+        "https://euchelperu.com/images/productos/17652979992876790073450.jpg",
+        "https://euchelperu.com/images/productos/176529805018220338970858.jpg",
+        "https://euchelperu.com/images/productos/176653970475315309576895.jpg"
+      ]
+    },
+    {
+      "id_color": 2232,
+      "nombre": "Celeste",
+      "precio": 79.0,
+      "id_color_confirmado": 2232,
+      "tallas": [
+        {
+          "id_talla": 2621,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176653970475315309576895.jpg",
+        "https://euchelperu.com/images/productos/176342718311067701375080.jpg",
+        "https://euchelperu.com/images/productos/17652979992876790073450.jpg",
+        "https://euchelperu.com/images/productos/176529805018220338970858.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:48:06Z"
+}

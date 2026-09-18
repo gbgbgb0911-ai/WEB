@@ -1,0 +1,119 @@
+{
+  "id_original": 574,
+  "url_original": "https://euchelperu.com/producto.php?id=574",
+  "nombre": "VESTIDO ALONDRA VARILLA",
+  "descripcion": "Vestido de noche estilo corsé. Una pieza impactante y sensual en satén azul marino. El diseño presenta un bustier de encaje con transparencias que define el torso, y una falda larga entallada con una abertura lateral que revela un panel de encaje a juego.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 120.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "574VES17853",
+  "item_group_id": "574",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176348671975882808943011.jpg",
+    "https://euchelperu.com/images/productos/17652947514863625456231.jpg",
+    "https://euchelperu.com/images/productos/176529484542436262095298.jpg",
+    "https://euchelperu.com/images/productos/176529490688886289046737.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ALONDRA VARILLA",
+  "precio_listado_normal": 120.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1777,
+      "nombre": "Azul marino",
+      "precio": 120.0,
+      "id_color_confirmado": 1777,
+      "tallas": [
+        {
+          "id_talla": 2122,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176348671975882808943011.jpg",
+        "https://euchelperu.com/images/productos/17652947514863625456231.jpg",
+        "https://euchelperu.com/images/productos/176529484542436262095298.jpg",
+        "https://euchelperu.com/images/productos/176529490688886289046737.jpg"
+      ]
+    },
+    {
+      "id_color": 1841,
+      "nombre": "Negro",
+      "precio": 120.0,
+      "id_color_confirmado": 1841,
+      "tallas": [
+        {
+          "id_talla": 2123,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17652947514863625456231.jpg",
+        "https://euchelperu.com/images/productos/176348671975882808943011.jpg",
+        "https://euchelperu.com/images/productos/176529484542436262095298.jpg",
+        "https://euchelperu.com/images/productos/176529490688886289046737.jpg"
+      ]
+    },
+    {
+      "id_color": 1842,
+      "nombre": "Verde",
+      "precio": 120.0,
+      "id_color_confirmado": 1842,
+      "tallas": [
+        {
+          "id_talla": 2124,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176529490688886289046737.jpg",
+        "https://euchelperu.com/images/productos/176348671975882808943011.jpg",
+        "https://euchelperu.com/images/productos/17652947514863625456231.jpg",
+        "https://euchelperu.com/images/productos/176529484542436262095298.jpg"
+      ]
+    },
+    {
+      "id_color": 1843,
+      "nombre": "Vino",
+      "precio": 120.0,
+      "id_color_confirmado": 1843,
+      "tallas": [
+        {
+          "id_talla": 2125,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176529484542436262095298.jpg",
+        "https://euchelperu.com/images/productos/176348671975882808943011.jpg",
+        "https://euchelperu.com/images/productos/17652947514863625456231.jpg",
+        "https://euchelperu.com/images/productos/176529490688886289046737.jpg"
+      ]
+    },
+    {
+      "id_color": 2010,
+      "nombre": "Rosado",
+      "precio": 120.0,
+      "id_color_confirmado": 2010,
+      "tallas": [
+        {
+          "id_talla": 2343,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176348671975882808943011.jpg",
+        "https://euchelperu.com/images/productos/17652947514863625456231.jpg",
+        "https://euchelperu.com/images/productos/176529484542436262095298.jpg",
+        "https://euchelperu.com/images/productos/176529490688886289046737.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:53:23Z"
+}
