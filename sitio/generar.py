@@ -534,13 +534,18 @@ def main():
              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
              f"{cuerpo}</urlset>\n")
     escribir(salida / "robots.txt",
-             "User-agent: *\nAllow: /\n" +
+             "User-agent: *\nAllow: /\n"
+             "Disallow: /trabajador/\nDisallow: /admin/\n" +
              (f"Sitemap: {BASE_URL}/sitemap.xml\n" if BASE_URL else ""))
 
-    # estáticos
-    for f in ESTATICO.iterdir():
+    # estáticos. Recursivo: los paneles del equipo son subcarpetas
+    # (estatico/trabajador/, estatico/admin/) con su propio index, manifiesto
+    # y service worker.
+    for f in ESTATICO.rglob("*"):
         if f.is_file():
-            shutil.copy2(f, salida / f.name)
+            destino = salida / f.relative_to(ESTATICO)
+            destino.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(f, destino)
     shutil.copy2(RAIZ / "brand" / "logo.svg", salida / "logo.svg")
     shutil.copy2(RAIZ / "brand" / "favicon.png", salida / "favicon.png")
 

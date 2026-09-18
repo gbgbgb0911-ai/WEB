@@ -3,7 +3,7 @@
    - HTML: red primero (el catálogo cambia), con caché de respaldo si no hay señal.
    - CSS/JS/imágenes: caché primero (nunca cambian sin cambiar de nombre de despliegue).
 */
-var VERSION = 'euchel-v1';
+var VERSION = 'euchel-v2';
 var BASE = VERSION + '-base';
 var ASEO = [BASE];
 
@@ -43,6 +43,13 @@ self.addEventListener('fetch', function (e) {
   var url;
   try { url = new URL(req.url); } catch (err) { return; }
   if (url.origin !== location.origin) return;
+
+  // La API y el auth nunca se cachean. El estado en vivo (qué está agotado,
+  // qué está oculto) cambia varias veces al día: servirlo de caché mostraba
+  // agotado lo que ya volvió, y para siempre, porque la rama de estáticos es
+  // caché primero. Los paneles montan su propio service worker, pero este
+  // controla el sitio entero, así que el corte va aquí también.
+  if (url.pathname.indexOf('/api/') === 0 || url.pathname.indexOf('/auth/') === 0) return;
 
   var esHTML = req.mode === 'navigate' ||
     (req.headers.get('accept') || '').indexOf('text/html') !== -1;

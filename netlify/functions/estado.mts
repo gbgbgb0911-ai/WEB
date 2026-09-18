@@ -31,13 +31,13 @@ export default async (_req: Request, _context: Context) => {
     const [productos, colores, tallas] = await Promise.all([
       sql`select id, visible, agotado
             from catalogo.producto
-           where not archivado and (not visible or agotado)` as Promise<Fila[]>,
+           where not archivado and (not visible or agotado)` as unknown as Promise<Fila[]>,
       sql`select id as color_id, agotado
             from catalogo.color
-           where agotado` as Promise<Variante[]>,
+           where agotado` as unknown as Promise<Variante[]>,
       sql`select color_id, nombre
             from catalogo.talla
-           where agotado` as Promise<Talla[]>,
+           where agotado` as unknown as Promise<Talla[]>,
     ]);
 
     return respuesta({

@@ -1,4 +1,4 @@
-# Euchel — catálogo cliente (Fase 1). Sitio estático: sin base de datos.
+# Euchel — catálogo público y paneles del equipo.
 
 [build]
   command = "python3 sitio/generar.py --salida dist"
@@ -6,6 +6,39 @@
 
 [build.environment]
   PYTHON_VERSION = "3.11"
+
+# --- Sesión del equipo.
+#
+# Neon Auth vive en un dominio propio (…neonauth…aws.neon.tech) y entrega la
+# cookie de sesión con `SameSite=None; Partitioned`. Desde el sitio esa cookie
+# es de tercero, y Safari (iPhone) bloquea las cookies de tercero: la
+# trabajadora entraría y al primer refresco estaría fuera. Pasando el auth por
+# este dominio la cookie la escribe `euchel-catalogo` y es de primera parte,
+# así que funciona igual en iPhone y en Android, y además desaparece el CORS.
+#
+# La cookie llega con `Path=/`, así que el punto de montaje no importa.
+# El token que firma Neon sigue diciendo `iss` de su propio dominio: por eso
+# NEON_AUTH_BASE_URL (que usa la función para el JWKS) apunta al de Neon, no
+# a este.
+
+[[redirects]]
+  from = "/auth/*"
+  to = "https://ep-delicate-poetry-ar49pls1.neonauth.c-4.us-west-2.aws.neon.tech/euchel/auth/:splat"
+  status = 200
+  force = true
+
+# Los paneles son SPA de una sola página: cualquier ruta interna sirve su
+# index. Van después del proxy para no comerse /auth/*.
+
+[[redirects]]
+  from = "/trabajador/*"
+  to = "/trabajador/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/index.html"
+  status = 200
 
 # El CDN de imágenes convierte los WebP a JPEG al vuelo para las vistas
 # previas de WhatsApp, que leen mal el WebP. Ver brand/pedido-whatsapp.md.
@@ -29,6 +62,18 @@
   for = "/sw.js"
   [headers.values]
     Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/trabajador/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+    Cache-Control = "no-cache"
 
 [[headers]]
   for = "/*"

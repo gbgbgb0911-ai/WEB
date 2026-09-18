@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Panel Euchel</title>
+<meta name="description" content="Panel del equipo Euchel: agotar y ocultar productos del catálogo.">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0a0a0a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Panel Euchel">
+<link rel="manifest" href="/trabajador/manifest.webmanifest">
+<link rel="icon" href="/favicon.png">
+<link rel="apple-touch-icon" href="/trabajador/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="/panel/base.css">
+<link rel="stylesheet" href="/trabajador/panel.css">
+</head>
+<body>
+
+<!-- ------------------------------------------------------------- entrar -->
+<main class="entrada" id="entrada" hidden>
+  <div class="entrada__caja">
+    <img class="entrada__logo" src="/logo.svg" alt="Euchel" width="168" height="32">
+    <p class="entrada__titulo">Panel del equipo</p>
+
+    <div class="aviso aviso--malo oculto" id="entrada-error" role="alert"></div>
+
+    <form id="forma-entrar" novalidate>
+      <label class="campo">
+        <span>Correo</span>
+        <input type="email" name="email" autocomplete="username"
+               inputmode="email" autocapitalize="off" spellcheck="false" required>
+      </label>
+      <label class="campo">
+        <span>Clave</span>
+        <input type="password" name="clave" autocomplete="current-password" required>
+      </label>
+      <button class="btn btn--ancho" type="submit" id="btn-entrar">Entrar</button>
+    </form>
+  </div>
+</main>
+
+<!-- ------------------------------------------------------------- panel -->
+<div id="panel" hidden>
+  <div class="sinsenal oculto" id="sinsenal" role="status">Sin conexión. Los cambios no se guardan.</div>
+
+  <header class="tope">
+    <div class="tope__fila">
+      <span class="tope__marca">
+        <img src="/logo.svg" alt="Euchel" width="104" height="20">
+      </span>
+      <span class="tope__quien">
+        <b id="quien"></b>
+        <span class="eyebrow" id="rol"></span>
+      </span>
+      <button class="btn btn--texto" type="button" id="btn-salir">Salir</button>
+    </div>
+  </header>
+
+  <main class="envase">
+    <div class="filtros">
+      <div class="buscador">
+        <label class="solo-lectores" for="q">Buscar por nombre o referencia</label>
+        <input id="q" type="search" placeholder="Nombre o Ref. del pedido"
+               inputmode="search" autocomplete="off" enterkeyhint="search">
+        <button class="buscador__limpiar oculto" type="button" id="limpiar"
+                aria-label="Limpiar búsqueda">&times;</button>
+      </div>
+
+      <div class="fichas" role="group" aria-label="Filtrar por estado">
+        <button class="ficha" type="button" data-estado="" aria-pressed="true">Todos</button>
+        <button class="ficha" type="button" data-estado="activo" aria-pressed="false">Activos</button>
+        <button class="ficha" type="button" data-estado="agotado" aria-pressed="false">Agotados</button>
+        <button class="ficha" type="button" data-estado="oculto" aria-pressed="false">Ocultos</button>
+      </div>
+
+      <label class="solo-lectores" for="cat">Categoría</label>
+      <select id="cat" class="oculto"></select>
+
+      <p class="cuenta" id="cuenta" role="status"></p>
+    </div>
+
+    <ul class="lista" id="lista"></ul>
+    <p class="vacio oculto" id="vacio">No hay productos con ese filtro.</p>
+    <div style="margin-top:14px">
+      <button class="btn btn--linea btn--ancho oculto" type="button" id="btn-mas">Ver más</button>
+    </div>
+  </main>
+</div>
+
+<div class="velo oculto" id="velo"></div>
+<section class="hoja" id="hoja" role="dialog" aria-modal="true" aria-labelledby="hoja-titulo" hidden></section>
+<div class="brindis" id="brindis" role="status" aria-live="polite"></div>
+
+<script type="module" src="/trabajador/panel.js"></script>
+</body>
+</html>
