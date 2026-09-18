@@ -1,0 +1,119 @@
+/* Panel de administración: lo que el panel del equipo no tiene.
+ * Las pestañas, el tablero de pedidos, las cuentas y la bitácora. */
+
+.pestanas {
+  display: flex; gap: 2px; overflow-x: auto;
+  max-width: 900px; margin: 0 auto; padding: 0 8px;
+  scrollbar-width: none;
+}
+.pestanas::-webkit-scrollbar { display: none; }
+.pestana {
+  flex: 1 0 auto; min-height: 42px; padding: 0 14px;
+  border: 0; border-bottom: 2px solid transparent;
+  background: transparent; color: var(--gris);
+  font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase;
+  cursor: pointer; white-space: nowrap;
+  transition: color var(--rapido) var(--curva), border-color var(--rapido) var(--curva);
+}
+.pestana[aria-selected="true"] { color: var(--tinta); border-bottom-color: var(--tinta); }
+
+.rango { display: flex; gap: 6px; overflow-x: auto; padding: 12px 0 4px; scrollbar-width: none; }
+.rango::-webkit-scrollbar { display: none; }
+
+/* ---------------------------------------------------------------- bloques */
+
+.bloque {
+  background: var(--papel); border: 1px solid var(--linea-suave);
+  border-radius: var(--radio); padding: 14px; margin-top: 12px;
+}
+.bloque__titulo {
+  margin: 0 0 12px;
+  font-size: 11px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase;
+  color: var(--gris);
+}
+
+/* ------------------------------------------------------------------- KPIs */
+
+.kpis { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 12px; }
+.kpi {
+  background: var(--papel); border: 1px solid var(--linea-suave);
+  border-radius: var(--radio); padding: 12px 14px;
+  opacity: 0; transform: translateY(8px);
+  animation: entra var(--base) var(--curva) forwards;
+}
+.kpi__cifra { font-size: 26px; font-weight: 700; line-height: 1.1; letter-spacing: -.01em; }
+.kpi__nota { font-size: 11px; color: var(--gris); margin-top: 3px; }
+.kpi--ancho { grid-column: 1 / -1; }
+
+/* ----------------------------------------------------------------- barras */
+
+.barras { display: grid; gap: 7px; }
+.barra { display: grid; grid-template-columns: 1fr auto; gap: 8px; align-items: center; }
+.barra__etiqueta { font-size: 12px; min-width: 0; overflow: hidden; text-overflow: ellipsis;
+  white-space: nowrap; }
+.barra__cifra { font-size: 12px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.barra__pista { grid-column: 1 / -1; height: 5px; border-radius: 3px; background: var(--suave); overflow: hidden; }
+.barra__relleno {
+  height: 100%; border-radius: 3px; background: var(--tinta);
+  width: 0; animation: crece var(--lento, 600ms) var(--curva) forwards;
+}
+@keyframes crece { to { width: var(--hasta); } }
+
+/* --------------------------------------------------------------- por día */
+
+.dias { display: flex; align-items: flex-end; gap: 2px; height: 96px; margin-top: 4px; }
+.dia {
+  flex: 1 1 0; min-width: 2px; border-radius: 2px 2px 0 0;
+  background: var(--tinta);
+  height: 0; animation: sube var(--base) var(--curva) forwards;
+}
+.dia--cero { background: var(--linea-suave); }
+@keyframes sube { to { height: var(--hasta); } }
+.dias__pie { display: flex; justify-content: space-between; font-size: 10px;
+  color: var(--gris); margin-top: 5px; }
+
+/* ------------------------------------------------------------ más pedidos */
+
+.pedido {
+  display: grid; grid-template-columns: 30px 52px 1fr auto; gap: 10px; align-items: center;
+  padding: 9px 0; border-bottom: 1px solid var(--linea-suave);
+}
+.pedido:last-child { border-bottom: 0; }
+.pedido__puesto { font-size: 13px; font-weight: 700; color: var(--gris); text-align: center; }
+.pedido__foto { width: 52px; height: 64px; object-fit: cover; border-radius: 5px; background: var(--suave); }
+.pedido__nombre { font-size: 13px; font-weight: 600; line-height: 1.3;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  background: none; border: 0; padding: 0; text-align: left; cursor: pointer; }
+.pedido__meta { font-size: 11px; color: var(--gris); margin-top: 2px; }
+.pedido__clics { font-size: 16px; font-weight: 700; font-variant-numeric: tabular-nums; }
+
+/* ---------------------------------------------------------------- cuentas */
+
+.cuenta-fila {
+  display: grid; grid-template-columns: 1fr auto; gap: 10px; align-items: center;
+  padding: 11px 0; border-bottom: 1px solid var(--linea-suave);
+}
+.cuenta-fila:last-child { border-bottom: 0; }
+.cuenta-fila b { font-size: 13px; font-weight: 600; }
+.cuenta-fila--yo { background: #fbfbfb; }
+.cuenta-acciones { display: flex; gap: 6px; }
+.cuenta-acciones .palanca { min-width: 92px; flex: 0 0 auto; }
+
+/* --------------------------------------------------------------- bitácora */
+
+.movimiento { padding: 10px 0; border-bottom: 1px solid var(--linea-suave); font-size: 12px; }
+.movimiento:last-child { border-bottom: 0; }
+.movimiento__tope { display: flex; gap: 8px; align-items: baseline; }
+.movimiento__cuando { color: var(--gris); font-size: 11px; margin-left: auto; white-space: nowrap; }
+.movimiento__que { color: var(--gris); margin-top: 2px; }
+
+/* ---------------------------------------------------------------- precios */
+
+.precios { margin-top: 10px; }
+
+@media (min-width: 640px) {
+  .kpis { grid-template-columns: repeat(4, 1fr); }
+  .kpi--ancho { grid-column: auto; }
+  .pestanas { padding: 0 16px; }
+  .pestana { flex: 0 0 auto; }
+}

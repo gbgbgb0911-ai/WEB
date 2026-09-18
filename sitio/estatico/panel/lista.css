@@ -1,21 +1,5 @@
-/* Panel de la trabajadora: buscar un producto y marcarlo agotado u oculto. */
-
-.envase { max-width: 900px; margin: 0 auto; padding: 0 12px 96px; }
-
-/* --------------------------------------------------------------- entrar */
-
-.entrada {
-  min-height: 100vh; min-height: 100dvh;
-  display: grid; place-items: center; padding: 24px 16px;
-  background: var(--papel);
-}
-.entrada__caja { width: 100%; max-width: 340px; }
-.entrada__logo { width: 168px; height: 32px; object-fit: contain; margin: 0 auto 6px; }
-.entrada__titulo {
-  text-align: center; margin: 0 0 22px;
-  font-size: 11px; font-weight: 700; letter-spacing: .18em;
-  text-transform: uppercase; color: var(--gris);
-}
+/* Lista de productos: filtros, tarjetas y la hoja de detalle.
+ * Lo usan el panel de la trabajadora y el de administración. */
 
 /* --------------------------------------------------------------- filtros */
 

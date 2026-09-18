@@ -1,4 +1,4 @@
-/* Service worker del panel del equipo.
+/* Service worker del panel de administración. Igual que el del equipo:
  *
  * Conservador a propósito. El panel sirve para cambiar datos, así que nada de
  * servir respuestas viejas de la API: /api/* y /auth/* nunca se cachean. Lo
@@ -10,17 +10,18 @@
  * hash del archivo) y ahorran datos a quien trabaja con el celular.
  */
 
-const VERSION = 'panel-v1';
+const VERSION = 'admin-v1';
 const ARMAZON = [
-  '/trabajador/',
-  '/trabajador/panel.js',
+  '/admin/',
+  '/admin/panel.js',
+  '/admin/admin.css',
   '/panel/base.css',
   '/panel/lista.css',
   '/panel/sesion.js',
   '/panel/ui.js',
   '/panel/lista.js',
   '/logo.svg',
-  '/trabajador/icono-192.png',
+  '/admin/icono-192.png',
 ];
 
 self.addEventListener('install', (ev) => {
@@ -67,7 +68,7 @@ self.addEventListener('fetch', (ev) => {
       if (r.ok) caches.open(VERSION).then((c) => c.put(req, r.clone()));
       return r;
     }).catch(() => caches.match(req).then((hit) => hit
-      || (req.mode === 'navigate' ? caches.match('/trabajador/') : undefined)
+      || (req.mode === 'navigate' ? caches.match('/admin/') : undefined)
       || new Response('Sin conexión.', { status: 503, headers: { 'content-type': 'text/plain; charset=utf-8' } })))
   );
 });
