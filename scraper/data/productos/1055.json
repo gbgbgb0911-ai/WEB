@@ -1,0 +1,79 @@
+{
+  "id_original": 1055,
+  "url_original": "https://euchelperu.com/producto.php?id=1055",
+  "nombre": "CARDIGAN ZARA",
+  "descripcion": "Eleva tus básicos con este body cárdigan de diseño impecable. Su silueta ajustada ofrece una base pulida, mientras que los volantes de tul y los puños aportan una textura inesperada y elegante. Los ribetes a lo largo del escote en V y la abotonadura central con detalles dorados completan esta pieza que transiciona sin esfuerzo del día a la noche.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1055089OIUJK",
+  "item_group_id": "1055",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177584284418681991133942.jpg",
+    "https://euchelperu.com/images/productos/17758458169732127499716.jpg",
+    "https://euchelperu.com/images/productos/177584605175690800237119.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CARDIGAN ZARA",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3260,
+      "nombre": "Beige",
+      "precio": 55.0,
+      "id_color_confirmado": 3260,
+      "tallas": [
+        {
+          "id_talla": 3588,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17758458169732127499716.jpg",
+        "https://euchelperu.com/images/productos/177584284418681991133942.jpg",
+        "https://euchelperu.com/images/productos/177584605175690800237119.jpg"
+      ]
+    },
+    {
+      "id_color": 3261,
+      "nombre": "Camel",
+      "precio": 55.0,
+      "id_color_confirmado": 3261,
+      "tallas": [
+        {
+          "id_talla": 3589,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177584284418681991133942.jpg",
+        "https://euchelperu.com/images/productos/17758458169732127499716.jpg",
+        "https://euchelperu.com/images/productos/177584605175690800237119.jpg"
+      ]
+    },
+    {
+      "id_color": 3262,
+      "nombre": "Perla",
+      "precio": 55.0,
+      "id_color_confirmado": 3262,
+      "tallas": [
+        {
+          "id_talla": 3590,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177584605175690800237119.jpg",
+        "https://euchelperu.com/images/productos/177584284418681991133942.jpg",
+        "https://euchelperu.com/images/productos/17758458169732127499716.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:00:14Z"
+}

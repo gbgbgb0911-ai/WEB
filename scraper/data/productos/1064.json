@@ -1,0 +1,41 @@
+{
+  "id_original": 1064,
+  "url_original": "https://euchelperu.com/producto.php?id=1064",
+  "nombre": "clean soft",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1064CAR76767",
+  "item_group_id": "1064",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17758635225159539427519.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "clean soft",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3273,
+      "nombre": "Marrón",
+      "precio": 79.0,
+      "id_color_confirmado": 3273,
+      "tallas": [
+        {
+          "id_talla": 3601,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17758635225159539427519.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:04:34Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id_original": 1056,
+  "url_original": "https://euchelperu.com/producto.php?id=1056",
+  "nombre": "CHOMPA ROMY RAYADO",
+  "descripcion": "El compañero ideal. Este sweater ligero destaca por su versatilidad y su tacto suave. La combinación de colores lo convierte en una pieza fácil de integrar en cualquier clóset. Ya sea para un look de oficina relajado o un café de fin de semana, su corte impecable asegura que siempre te veas bien arreglada.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1056123WED",
+  "item_group_id": "1056",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177584308586770608742982.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CHOMPA ROMY RAYADO",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3263,
+      "nombre": "Marrón c/ beige",
+      "precio": 59.0,
+      "id_color_confirmado": 3263,
+      "tallas": [
+        {
+          "id_talla": 3591,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177584308586770608742982.jpg"
+      ]
+    },
+    {
+      "id_color": 3264,
+      "nombre": "Rojo c/ negro",
+      "precio": 59.0,
+      "id_color_confirmado": 3264,
+      "tallas": [
+        {
+          "id_talla": 3592,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177584308586770608742982.jpg"
+      ]
+    },
+    {
+      "id_color": 3265,
+      "nombre": "Gris c/ negro",
+      "precio": 59.0,
+      "id_color_confirmado": 3265,
+      "tallas": [
+        {
+          "id_talla": 3593,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177584308586770608742982.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:00:47Z"
+}

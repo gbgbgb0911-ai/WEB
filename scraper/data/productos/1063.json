@@ -1,0 +1,41 @@
+{
+  "id_original": 1063,
+  "url_original": "https://euchelperu.com/producto.php?id=1063",
+  "nombre": "NUBE CHIC",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1063cart09877",
+  "item_group_id": "1063",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177586337563567299727876.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "NUBE CHIC",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3272,
+      "nombre": "Blanco",
+      "precio": 85.0,
+      "id_color_confirmado": 3272,
+      "tallas": [
+        {
+          "id_talla": 3600,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177586337563567299727876.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:04:19Z"
+}

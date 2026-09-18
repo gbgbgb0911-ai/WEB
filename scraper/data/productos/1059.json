@@ -1,0 +1,41 @@
+{
+  "id_original": 1059,
+  "url_original": "https://euchelperu.com/producto.php?id=1059",
+  "nombre": "LEOPARD QUEEN",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1059CAR3354",
+  "item_group_id": "1059",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177586257342217290776842.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "LEOPARD QUEEN",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3268,
+      "nombre": "Negro c/ rayas narajas",
+      "precio": 85.0,
+      "id_color_confirmado": 3268,
+      "tallas": [
+        {
+          "id_talla": 3596,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177586257342217290776842.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:02:50Z"
+}

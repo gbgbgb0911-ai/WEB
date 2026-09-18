@@ -1,0 +1,96 @@
+{
+  "id_original": 1054,
+  "url_original": "https://euchelperu.com/producto.php?id=1054",
+  "nombre": "CARDIGAN PRESS",
+  "descripcion": "Una pieza atemporal que respira sofisticación. Este cárdigan de punto fino presenta el icónico diseño de rayas marineras, pero lo que realmente eleva esta prenda son sus botones metálicos dorados, que añaden un toque de luz y lujo discreto. Su cuello redondo y corte recto lo convierten en la prenda perfecta para un look pulido y femenino.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "105411QWE",
+  "item_group_id": "1054",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177584231268280607334676.jpg",
+    "https://euchelperu.com/images/productos/177584512571756754618990.jpg",
+    "https://euchelperu.com/images/productos/177584536665841333292246.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CARDIGAN PRESS",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3256,
+      "nombre": "Blanco c/ líneas negras",
+      "precio": 65.0,
+      "id_color_confirmado": 3256,
+      "tallas": [
+        {
+          "id_talla": 3584,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177584231268280607334676.jpg",
+        "https://euchelperu.com/images/productos/177584512571756754618990.jpg",
+        "https://euchelperu.com/images/productos/177584536665841333292246.png"
+      ]
+    },
+    {
+      "id_color": 3257,
+      "nombre": "Beige c/ líneas azules",
+      "precio": 65.0,
+      "id_color_confirmado": 3257,
+      "tallas": [
+        {
+          "id_talla": 3585,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177584512571756754618990.jpg",
+        "https://euchelperu.com/images/productos/177584231268280607334676.jpg",
+        "https://euchelperu.com/images/productos/177584536665841333292246.png"
+      ]
+    },
+    {
+      "id_color": 3258,
+      "nombre": "Beige c/ líneas negras",
+      "precio": 65.0,
+      "id_color_confirmado": 3258,
+      "tallas": [
+        {
+          "id_talla": 3586,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177584536665841333292246.png",
+        "https://euchelperu.com/images/productos/177584231268280607334676.jpg",
+        "https://euchelperu.com/images/productos/177584512571756754618990.jpg"
+      ]
+    },
+    {
+      "id_color": 3259,
+      "nombre": "Negra c/ líneas blancas",
+      "precio": 65.0,
+      "id_color_confirmado": 3259,
+      "tallas": [
+        {
+          "id_talla": 3587,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177584231268280607334676.jpg",
+        "https://euchelperu.com/images/productos/177584512571756754618990.jpg",
+        "https://euchelperu.com/images/productos/177584536665841333292246.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:59:52Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id_original": 1057,
+  "url_original": "https://euchelperu.com/producto.php?id=1057",
+  "nombre": "glam rubi",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1057CAR29122",
+  "item_group_id": "1057",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177586232098604593824842.jpg",
+    "https://euchelperu.com/images/productos/17761831148115922880789.jpg",
+    "https://euchelperu.com/images/productos/177618341547901693270672.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "glam rubi",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3266,
+      "nombre": "rojo",
+      "precio": 85.0,
+      "id_color_confirmado": 3266,
+      "tallas": [
+        {
+          "id_talla": 3594,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177586232098604593824842.jpg",
+        "https://euchelperu.com/images/productos/17761831148115922880789.jpg",
+        "https://euchelperu.com/images/productos/177618341547901693270672.jpg"
+      ]
+    },
+    {
+      "id_color": 3326,
+      "nombre": "Negro",
+      "precio": 85.0,
+      "id_color_confirmado": 3326,
+      "tallas": [
+        {
+          "id_talla": 3652,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17761831148115922880789.jpg",
+        "https://euchelperu.com/images/productos/177586232098604593824842.jpg",
+        "https://euchelperu.com/images/productos/177618341547901693270672.jpg"
+      ]
+    },
+    {
+      "id_color": 3327,
+      "nombre": "Perla",
+      "precio": 85.0,
+      "id_color_confirmado": 3327,
+      "tallas": [
+        {
+          "id_talla": 3653,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177618341547901693270672.jpg",
+        "https://euchelperu.com/images/productos/177586232098604593824842.jpg",
+        "https://euchelperu.com/images/productos/17761831148115922880789.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:01:32Z"
+}

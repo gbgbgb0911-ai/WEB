@@ -1,0 +1,79 @@
+{
+  "id_original": 1053,
+  "url_original": "https://euchelperu.com/producto.php?id=1053",
+  "nombre": "CHOMPA CAMISERO GABY",
+  "descripcion": "El combo perfecto entre lo clásico y lo trendy llegó a nuestra colección. Este sweater liviano de rayas es la pieza versátil que tu clóset necesita para esos días de media estación. Con un aire nostálgico de los años 90 y un corte impecable, es la opción segura para verte arreglada sin esfuerzo.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1053987Y6TF",
+  "item_group_id": "1053",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177584063841665906851637.jpg",
+    "https://euchelperu.com/images/productos/17758444578262971839024.jpg",
+    "https://euchelperu.com/images/productos/177584471361658147420552.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CHOMPA CAMISERO GABY",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3253,
+      "nombre": "Gris c/negro",
+      "precio": 65.0,
+      "id_color_confirmado": 3253,
+      "tallas": [
+        {
+          "id_talla": 3581,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177584063841665906851637.jpg",
+        "https://euchelperu.com/images/productos/17758444578262971839024.jpg",
+        "https://euchelperu.com/images/productos/177584471361658147420552.jpg"
+      ]
+    },
+    {
+      "id_color": 3254,
+      "nombre": "Azul c/rojo",
+      "precio": 65.0,
+      "id_color_confirmado": 3254,
+      "tallas": [
+        {
+          "id_talla": 3582,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17758444578262971839024.jpg",
+        "https://euchelperu.com/images/productos/177584063841665906851637.jpg",
+        "https://euchelperu.com/images/productos/177584471361658147420552.jpg"
+      ]
+    },
+    {
+      "id_color": 3255,
+      "nombre": "Marrón c/ crema",
+      "precio": 65.0,
+      "id_color_confirmado": 3255,
+      "tallas": [
+        {
+          "id_talla": 3583,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177584471361658147420552.jpg",
+        "https://euchelperu.com/images/productos/177584063841665906851637.jpg",
+        "https://euchelperu.com/images/productos/17758444578262971839024.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:59:40Z"
+}

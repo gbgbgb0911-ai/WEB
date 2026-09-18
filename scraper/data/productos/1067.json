@@ -1,0 +1,41 @@
+{
+  "id_original": 1067,
+  "url_original": "https://euchelperu.com/producto.php?id=1067",
+  "nombre": "LATE CONTRAST",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1067CAR32422",
+  "item_group_id": "1067",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17758641620707540889959.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "LATE CONTRAST",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3276,
+      "nombre": "Beige",
+      "precio": 79.0,
+      "id_color_confirmado": 3276,
+      "tallas": [
+        {
+          "id_talla": 3607,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17758641620707540889959.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:05:05Z"
+}

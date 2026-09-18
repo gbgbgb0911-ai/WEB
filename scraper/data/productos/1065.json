@@ -1,0 +1,101 @@
+{
+  "id_original": 1065,
+  "url_original": "https://euchelperu.com/producto.php?id=1065",
+  "nombre": "MERLOT MUSE",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1065CAR88483",
+  "item_group_id": "1065",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177586371599316998238976.jpg",
+    "https://euchelperu.com/images/productos/177618437092692980587851.jpg",
+    "https://euchelperu.com/images/productos/177618448231573389436830.jpg",
+    "https://euchelperu.com/images/productos/177618481188032357889183.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MERLOT MUSE",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3274,
+      "nombre": "Vino",
+      "precio": 95.0,
+      "id_color_confirmado": 3274,
+      "tallas": [
+        {
+          "id_talla": 3602,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177586371599316998238976.jpg",
+        "https://euchelperu.com/images/productos/177618437092692980587851.jpg",
+        "https://euchelperu.com/images/productos/177618448231573389436830.jpg",
+        "https://euchelperu.com/images/productos/177618481188032357889183.jpg"
+      ]
+    },
+    {
+      "id_color": 3328,
+      "nombre": "Negro",
+      "precio": 95.0,
+      "id_color_confirmado": 3328,
+      "tallas": [
+        {
+          "id_talla": 3654,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177618437092692980587851.jpg",
+        "https://euchelperu.com/images/productos/177586371599316998238976.jpg",
+        "https://euchelperu.com/images/productos/177618448231573389436830.jpg",
+        "https://euchelperu.com/images/productos/177618481188032357889183.jpg"
+      ]
+    },
+    {
+      "id_color": 3329,
+      "nombre": "Blanco",
+      "precio": 95.0,
+      "id_color_confirmado": 3329,
+      "tallas": [
+        {
+          "id_talla": 3655,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177618448231573389436830.jpg",
+        "https://euchelperu.com/images/productos/177586371599316998238976.jpg",
+        "https://euchelperu.com/images/productos/177618437092692980587851.jpg",
+        "https://euchelperu.com/images/productos/177618481188032357889183.jpg"
+      ]
+    },
+    {
+      "id_color": 3330,
+      "nombre": "Camel",
+      "precio": 95.0,
+      "id_color_confirmado": 3330,
+      "tallas": [
+        {
+          "id_talla": 3656,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177618481188032357889183.jpg",
+        "https://euchelperu.com/images/productos/177586371599316998238976.jpg",
+        "https://euchelperu.com/images/productos/177618437092692980587851.jpg",
+        "https://euchelperu.com/images/productos/177618448231573389436830.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:04:46Z"
+}

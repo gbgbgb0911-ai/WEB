@@ -1,0 +1,41 @@
+{
+  "id_original": 1060,
+  "url_original": "https://euchelperu.com/producto.php?id=1060",
+  "nombre": "AMOUR BLACK",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1060CAR09997",
+  "item_group_id": "1060",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177586275628672540857633.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "AMOUR BLACK",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3269,
+      "nombre": "NEGRO",
+      "precio": 89.0,
+      "id_color_confirmado": 3269,
+      "tallas": [
+        {
+          "id_talla": 3597,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177586275628672540857633.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:02:53Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 1058,
+  "url_original": "https://euchelperu.com/producto.php?id=1058",
+  "nombre": "EBANO CHIC",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1058CAR55543",
+  "item_group_id": "1058",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17758624517492181092607.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "EBANO CHIC",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3267,
+      "nombre": "Negro",
+      "precio": 110.0,
+      "id_color_confirmado": 3267,
+      "tallas": [
+        {
+          "id_talla": 3595,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17758624517492181092607.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T04:02:11Z"
+}
