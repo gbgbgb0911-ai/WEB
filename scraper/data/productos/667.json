@@ -1,0 +1,101 @@
+{
+  "id_original": 667,
+  "url_original": "https://euchelperu.com/producto.php?id=667",
+  "nombre": "Conjunto Emma",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "6670031",
+  "item_group_id": "667",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176591468608846883959917.jpg",
+    "https://euchelperu.com/images/productos/176592113733061913347786.jpg",
+    "https://euchelperu.com/images/productos/176592115271395977297313.jpg",
+    "https://euchelperu.com/images/productos/176592116766644435360495.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Conjunto Emma",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2123,
+      "nombre": "Verde olivo",
+      "precio": 85.0,
+      "id_color_confirmado": 2123,
+      "tallas": [
+        {
+          "id_talla": 2462,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176591468608846883959917.jpg",
+        "https://euchelperu.com/images/productos/176592113733061913347786.jpg",
+        "https://euchelperu.com/images/productos/176592115271395977297313.jpg",
+        "https://euchelperu.com/images/productos/176592116766644435360495.jpg"
+      ]
+    },
+    {
+      "id_color": 2131,
+      "nombre": "Blanco",
+      "precio": 85.0,
+      "id_color_confirmado": 2131,
+      "tallas": [
+        {
+          "id_talla": 2470,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176592113733061913347786.jpg",
+        "https://euchelperu.com/images/productos/176591468608846883959917.jpg",
+        "https://euchelperu.com/images/productos/176592115271395977297313.jpg",
+        "https://euchelperu.com/images/productos/176592116766644435360495.jpg"
+      ]
+    },
+    {
+      "id_color": 2132,
+      "nombre": "Negro",
+      "precio": 85.0,
+      "id_color_confirmado": 2132,
+      "tallas": [
+        {
+          "id_talla": 2471,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176592115271395977297313.jpg",
+        "https://euchelperu.com/images/productos/176591468608846883959917.jpg",
+        "https://euchelperu.com/images/productos/176592113733061913347786.jpg",
+        "https://euchelperu.com/images/productos/176592116766644435360495.jpg"
+      ]
+    },
+    {
+      "id_color": 2133,
+      "nombre": "Beige",
+      "precio": 85.0,
+      "id_color_confirmado": 2133,
+      "tallas": [
+        {
+          "id_talla": 2472,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176592116766644435360495.jpg",
+        "https://euchelperu.com/images/productos/176591468608846883959917.jpg",
+        "https://euchelperu.com/images/productos/176592113733061913347786.jpg",
+        "https://euchelperu.com/images/productos/176592115271395977297313.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:26:17Z"
+}

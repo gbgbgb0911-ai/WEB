@@ -1,0 +1,59 @@
+{
+  "id_original": 669,
+  "url_original": "https://euchelperu.com/producto.php?id=669",
+  "nombre": "Vestido Alejandra Encaje",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "669027",
+  "item_group_id": "669",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17659158212170375741453.jpg",
+    "https://euchelperu.com/images/productos/17659182888840473287236.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Alejandra Encaje",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2125,
+      "nombre": "Rojo",
+      "precio": 79.0,
+      "id_color_confirmado": 2125,
+      "tallas": [
+        {
+          "id_talla": 2464,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17659158212170375741453.jpg",
+        "https://euchelperu.com/images/productos/17659182888840473287236.jpg"
+      ]
+    },
+    {
+      "id_color": 2126,
+      "nombre": "Blanco",
+      "precio": 79.0,
+      "id_color_confirmado": 2126,
+      "tallas": [
+        {
+          "id_talla": 2465,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17659182888840473287236.jpg",
+        "https://euchelperu.com/images/productos/17659158212170375741453.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:26:59Z"
+}

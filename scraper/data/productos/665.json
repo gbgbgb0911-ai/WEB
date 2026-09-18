@@ -1,0 +1,101 @@
+{
+  "id_original": 665,
+  "url_original": "https://euchelperu.com/producto.php?id=665",
+  "nombre": "Top Jane",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "665023",
+  "item_group_id": "665",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17659136356714656097316.jpg",
+    "https://euchelperu.com/images/productos/17659137608795298760469.jpg",
+    "https://euchelperu.com/images/productos/176591378993846127920054.jpg",
+    "https://euchelperu.com/images/productos/17659138078293498350158.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Top Jane",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2116,
+      "nombre": "Marrón",
+      "precio": 49.0,
+      "id_color_confirmado": 2116,
+      "tallas": [
+        {
+          "id_talla": 2457,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17659136356714656097316.jpg",
+        "https://euchelperu.com/images/productos/17659137608795298760469.jpg",
+        "https://euchelperu.com/images/productos/176591378993846127920054.jpg",
+        "https://euchelperu.com/images/productos/17659138078293498350158.jpg"
+      ]
+    },
+    {
+      "id_color": 2117,
+      "nombre": "Blanco",
+      "precio": 49.0,
+      "id_color_confirmado": 2117,
+      "tallas": [
+        {
+          "id_talla": 2459,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17659137608795298760469.jpg",
+        "https://euchelperu.com/images/productos/17659136356714656097316.jpg",
+        "https://euchelperu.com/images/productos/176591378993846127920054.jpg",
+        "https://euchelperu.com/images/productos/17659138078293498350158.jpg"
+      ]
+    },
+    {
+      "id_color": 2118,
+      "nombre": "Negro",
+      "precio": 49.0,
+      "id_color_confirmado": 2118,
+      "tallas": [
+        {
+          "id_talla": 2458,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176591378993846127920054.jpg",
+        "https://euchelperu.com/images/productos/17659136356714656097316.jpg",
+        "https://euchelperu.com/images/productos/17659137608795298760469.jpg",
+        "https://euchelperu.com/images/productos/17659138078293498350158.jpg"
+      ]
+    },
+    {
+      "id_color": 2119,
+      "nombre": "Rojo",
+      "precio": 49.0,
+      "id_color_confirmado": 2119,
+      "tallas": [
+        {
+          "id_talla": 2460,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17659138078293498350158.jpg",
+        "https://euchelperu.com/images/productos/17659136356714656097316.jpg",
+        "https://euchelperu.com/images/productos/17659137608795298760469.jpg",
+        "https://euchelperu.com/images/productos/176591378993846127920054.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:25:34Z"
+}

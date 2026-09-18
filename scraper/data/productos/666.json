@@ -1,0 +1,59 @@
+{
+  "id_original": 666,
+  "url_original": "https://euchelperu.com/producto.php?id=666",
+  "nombre": "Mini vestido plus corrugado",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "666032",
+  "item_group_id": "666",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176591435207497641968067.jpg",
+    "https://euchelperu.com/images/productos/176591899478460358229203.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Mini vestido plus corrugado",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2122,
+      "nombre": "Rojo",
+      "precio": 59.0,
+      "id_color_confirmado": 2122,
+      "tallas": [
+        {
+          "id_talla": 2461,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176591435207497641968067.jpg",
+        "https://euchelperu.com/images/productos/176591899478460358229203.jpg"
+      ]
+    },
+    {
+      "id_color": 2128,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 2128,
+      "tallas": [
+        {
+          "id_talla": 2467,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176591899478460358229203.jpg",
+        "https://euchelperu.com/images/productos/176591435207497641968067.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:25:41Z"
+}
