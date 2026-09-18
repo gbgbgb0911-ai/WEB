@@ -252,7 +252,10 @@ async function publicar(ev) {
     $('#aviso-publicar').textContent =
       'Publicado hace un momento. El catálogo tarda unos minutos en mostrarlo.';
   } catch (e) {
-    fallo(e);
+    // Que la publicación sea a mano no es un fallo del panel: se dice sin
+    // alarmar, y los cambios quedan guardados igual.
+    if (/a mano/.test(e.message || '')) brindis(e.message);
+    else fallo(e);
   } finally {
     boton.disabled = false;
     boton.textContent = 'Publicar catálogo';

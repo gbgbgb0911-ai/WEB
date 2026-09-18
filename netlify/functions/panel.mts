@@ -671,7 +671,12 @@ async function borrarFoto(sql: any, yo: Sesion, id: number) {
 async function publicar(sql: any, yo: Sesion) {
   const gancho = Netlify.env.get("NETLIFY_BUILD_HOOK");
   if (!gancho) {
-    return json({ error: "Falta configurar el gancho de construcción en Netlify." }, 503);
+    // No es un fallo: el sitio se publica a mano a propósito. El panel lo
+    // dice con esas palabras en vez de pintar un error rojo.
+    return json({
+      codigo: "sin-gancho",
+      error: "El catálogo se publica a mano. Avisa a quien mantiene el sitio.",
+    }, 503);
   }
 
   // Agotar y ocultar salen en el catálogo en menos de un minuto sin

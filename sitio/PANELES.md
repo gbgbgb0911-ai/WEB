@@ -127,20 +127,26 @@ tallas y fotos y dejaría sin referencia los pedidos que los mencionan.
 ## Publicar
 
 Un producto nuevo, una foto, un nombre o un precio necesitan reconstruir el
-sitio: el catálogo son páginas ya generadas. El botón **Publicar catálogo**
-del panel de admin lo dispara.
+sitio: el catálogo son páginas ya generadas. Agotar y ocultar no, eso sale
+por `/api/estado` en menos de un minuto.
 
-Para que ese botón funcione solo hacen falta dos cosas, una vez:
+**El sitio se publica a mano, a propósito.** El dueño prefiere no conectar
+el repositorio a Netlify. Así que el catálogo se sube con
+`sitio/empaquetar.sh` (ver abajo) y el botón **Publicar catálogo** del panel
+avisa, sin pintar un error, que la publicación es manual. Lo que el equipo
+haya guardado espera en la base y sale en la siguiente publicación.
 
-1. **Conectar el repositorio** en Netlify (Project configuration → Build &
-   deploy → Link repository). El comando de construcción y la versión de
-   Python ya están en `netlify.toml`, y las imágenes de la extracción están
-   en el repo, así que no hace falta nada más.
-2. **Crear un gancho de construcción** (Build hooks → Add build hook) y
-   guardar su URL en la variable de entorno `NETLIFY_BUILD_HOOK`.
+El repositorio **no debe quedar conectado** a Netlify. Si se conecta y la
+rama de producción es `main`, la construcción publica la raíz del repo y el
+sitio responde "Page not found": pasó una vez. Si aparece conectado, se
+desconecta en Project configuration → Developer settings → Continuous
+deployment → Repository → Manage repository → Unlink.
 
-Sin eso, el botón avisa que falta configurarlo y el sitio se publica a mano
-con `sitio/empaquetar.sh` (ver abajo).
+Si algún día se quiere el botón funcionando solo, hace falta conectar el
+repositorio con la rama de producción correcta y guardar un gancho de
+construcción en `NETLIFY_BUILD_HOOK`. El comando de construcción ya está en
+`netlify.toml` y las imágenes de la extracción están en el repo, así que no
+haría falta nada más.
 
 ## Desplegar a mano
 
