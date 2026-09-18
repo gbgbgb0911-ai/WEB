@@ -1,0 +1,75 @@
+{
+  "id_original": 748,
+  "url_original": "https://euchelperu.com/producto.php?id=748",
+  "nombre": "VESTIDO ZOE STRAPLESS:",
+  "descripcion": "Este elegante vestido largo destaca por su diseño moderno y sofisticado. Confeccionado en un tejido suave y ligeramente elástico, presenta una silhouette ceñida que realza la figura, acompañado de un detalle cut-out lateral que aporta un toque de tendencia y sensualidad sutil. Su tono marrón profundo lo convierte en una pieza versátil y chic, ideal para eventos nocturnos, fiestas o salidas especiales.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "748VES89157",
+  "item_group_id": "748",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17670524584322249204341.jpg",
+    "https://euchelperu.com/images/productos/176792138938688542129597.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ZOE STRAPLESS:",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2311,
+      "nombre": "Marrón",
+      "precio": 65.0,
+      "id_color_confirmado": 2311,
+      "tallas": [
+        {
+          "id_talla": 2721,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17670524584322249204341.jpg",
+        "https://euchelperu.com/images/productos/176792138938688542129597.png"
+      ]
+    },
+    {
+      "id_color": 2476,
+      "nombre": "Amarillo",
+      "precio": 65.0,
+      "id_color_confirmado": 2476,
+      "tallas": [
+        {
+          "id_talla": 2895,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176792138938688542129597.png",
+        "https://euchelperu.com/images/productos/17670524584322249204341.jpg"
+      ]
+    },
+    {
+      "id_color": 2477,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 2477,
+      "tallas": [
+        {
+          "id_talla": 2896,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17670524584322249204341.jpg",
+        "https://euchelperu.com/images/productos/176792138938688542129597.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:50:52Z"
+}

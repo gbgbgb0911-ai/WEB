@@ -1,0 +1,59 @@
+{
+  "id_original": 746,
+  "url_original": "https://euchelperu.com/producto.php?id=746",
+  "nombre": "SET ALEJANDRA",
+  "descripcion": "Añade un toque fresco y moderno a tu colección con este mono corto estampado floral. Confeccionado en un tejido suave y cómodo, presenta un diseño sin hombros con un detalle de nudo en el pecho que resalta la silueta y aporta un estilo femenino y chic. El estampado floral en tonos claros sobre fondo oscuro crea un contraste elegante ideal para looks de verano o días informales con estilo.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "746SET96497",
+  "item_group_id": "746",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176704941971268331221994.jpg",
+    "https://euchelperu.com/images/productos/176774668132131109110606.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SET ALEJANDRA",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2309,
+      "nombre": "Negro",
+      "precio": 89.0,
+      "id_color_confirmado": 2309,
+      "tallas": [
+        {
+          "id_talla": 2719,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176704941971268331221994.jpg",
+        "https://euchelperu.com/images/productos/176774668132131109110606.png"
+      ]
+    },
+    {
+      "id_color": 2438,
+      "nombre": "Celeste",
+      "precio": 89.0,
+      "id_color_confirmado": 2438,
+      "tallas": [
+        {
+          "id_talla": 2832,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176774668132131109110606.png",
+        "https://euchelperu.com/images/productos/176704941971268331221994.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:50:40Z"
+}

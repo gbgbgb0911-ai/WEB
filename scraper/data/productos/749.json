@@ -1,0 +1,41 @@
+{
+  "id_original": 749,
+  "url_original": "https://euchelperu.com/producto.php?id=749",
+  "nombre": "FALDA RAINBOW",
+  "descripcion": "Dale un toque fresco y moderno a tu catálogo con esta mini falda confeccionada en tejido de punto suave y estructurado. Presenta un diseño de rayas horizontales en una paleta de azules y blancos, que le da personalidad y versatilidad para combinar con camisetas, blusas o tops lisos. Su corte recto y ajustado, junto con una longitud corta, la convierte en una prenda ideal para looks casuales y juveniles.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "749FAL94313",
+  "item_group_id": "749",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176705259219450421721461.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA RAINBOW",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2312,
+      "nombre": "AZULADO",
+      "precio": 59.0,
+      "id_color_confirmado": 2312,
+      "tallas": [
+        {
+          "id_talla": 2722,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176705259219450421721461.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:51:07Z"
+}

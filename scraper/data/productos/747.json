@@ -1,0 +1,41 @@
+{
+  "id_original": 747,
+  "url_original": "https://euchelperu.com/producto.php?id=747",
+  "nombre": "SET VANESSA LENTEJUELA",
+  "descripcion": "Este conjunto de dos piezas es ideal para quienes buscan un look sofisticado y lleno de estilo. Confeccionado en un tejido cubierto de lentejuelas que reflejan la luz con movimiento, el conjunto incluye un top ajustado con tirantes finos y un corte recto al frente, que aporta un toque moderno y femenino, así como una falda larga recta que estiliza la figura. El tono champán brillante le da un aire elegante perfecto para fiestas, eventos nocturnos o celebraciones especiales.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "747SET36538",
+  "item_group_id": "747",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176705212261961990872761.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SET VANESSA LENTEJUELA",
+  "precio_listado_normal": 89.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2310,
+      "nombre": "Dorado",
+      "precio": 89.0,
+      "id_color_confirmado": 2310,
+      "tallas": [
+        {
+          "id_talla": 2720,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176705212261961990872761.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T01:50:43Z"
+}
