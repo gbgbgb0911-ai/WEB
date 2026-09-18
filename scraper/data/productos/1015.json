@@ -1,0 +1,119 @@
+{
+  "id_original": 1015,
+  "url_original": "https://euchelperu.com/producto.php?id=1015",
+  "nombre": "polo jimena ojál",
+  "descripcion": "Top de manga corta y cuello barco en color rosa pastel. Una prenda básica de silueta ceñida y minimalista, confeccionada en tejido elástico para un ajuste cómodo y favorecedor.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1015POL21806",
+  "item_group_id": "1015",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177428729986673698239769.jpg",
+    "https://euchelperu.com/images/productos/17742874049748792835816.jpg",
+    "https://euchelperu.com/images/productos/177428752572164920937461.jpg",
+    "https://euchelperu.com/images/productos/17742875892900448430515.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "polo jimena ojál",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3118,
+      "nombre": "Rosado pastel",
+      "precio": 45.0,
+      "id_color_confirmado": 3118,
+      "tallas": [
+        {
+          "id_talla": 3389,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177428729986673698239769.jpg",
+        "https://euchelperu.com/images/productos/17742874049748792835816.jpg",
+        "https://euchelperu.com/images/productos/177428752572164920937461.jpg",
+        "https://euchelperu.com/images/productos/17742875892900448430515.jpg"
+      ]
+    },
+    {
+      "id_color": 3119,
+      "nombre": "Vino",
+      "precio": 45.0,
+      "id_color_confirmado": 3119,
+      "tallas": [
+        {
+          "id_talla": 3390,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17742874049748792835816.jpg",
+        "https://euchelperu.com/images/productos/177428729986673698239769.jpg",
+        "https://euchelperu.com/images/productos/177428752572164920937461.jpg",
+        "https://euchelperu.com/images/productos/17742875892900448430515.jpg"
+      ]
+    },
+    {
+      "id_color": 3120,
+      "nombre": "Amarillo pastel",
+      "precio": 45.0,
+      "id_color_confirmado": 3120,
+      "tallas": [
+        {
+          "id_talla": 3391,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177428752572164920937461.jpg",
+        "https://euchelperu.com/images/productos/177428729986673698239769.jpg",
+        "https://euchelperu.com/images/productos/17742874049748792835816.jpg",
+        "https://euchelperu.com/images/productos/17742875892900448430515.jpg"
+      ]
+    },
+    {
+      "id_color": 3121,
+      "nombre": "Celeste pastel",
+      "precio": 45.0,
+      "id_color_confirmado": 3121,
+      "tallas": [
+        {
+          "id_talla": 3392,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17742875892900448430515.jpg",
+        "https://euchelperu.com/images/productos/177428729986673698239769.jpg",
+        "https://euchelperu.com/images/productos/17742874049748792835816.jpg",
+        "https://euchelperu.com/images/productos/177428752572164920937461.jpg"
+      ]
+    },
+    {
+      "id_color": 3122,
+      "nombre": "Blanco",
+      "precio": 45.0,
+      "id_color_confirmado": 3122,
+      "tallas": [
+        {
+          "id_talla": 3393,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177428729986673698239769.jpg",
+        "https://euchelperu.com/images/productos/17742874049748792835816.jpg",
+        "https://euchelperu.com/images/productos/177428752572164920937461.jpg",
+        "https://euchelperu.com/images/productos/17742875892900448430515.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:33:35Z"
+}
