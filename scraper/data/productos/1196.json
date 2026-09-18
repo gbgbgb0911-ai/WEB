@@ -1,0 +1,41 @@
+{
+  "id_original": 1196,
+  "url_original": "https://euchelperu.com/producto.php?id=1196",
+  "nombre": "PANTALÓN ALGODÓN",
+  "descripcion": "Redescubre la comodidad sin sacrificar el estilo. Este pantalón de corte wide leg es la pieza básica que tu armario necesita. Diseñado para ofrecer una silueta fluida y relajada, es perfecto tanto para un día de trabajo como para un fin de semana de descanso absoluto.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1196PAN48759",
+  "item_group_id": "1196",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178104257039755618777996.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "PANTALÓN ALGODÓN",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3565,
+      "nombre": "Azul",
+      "precio": 59.0,
+      "id_color_confirmado": 3565,
+      "tallas": [
+        {
+          "id_talla": 3883,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178104257039755618777996.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:09:03Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id_original": 1195,
+  "url_original": "https://euchelperu.com/producto.php?id=1195",
+  "nombre": "BLUSA MANGA CORTA",
+  "descripcion": "Eleva tu estilo cotidiano con esta blusa de inspiración retro que combina sofisticación y comodidad. Su diseño entallado y los detalles cuidadosamente pensados la convierten en una pieza versátil, perfecta tanto para un look de oficina moderno como para una salida casual de fin de semana.",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "11954K2J6H8G",
+  "item_group_id": "1195",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17810422468236421635189.jpg",
+    "https://euchelperu.com/images/productos/178175164802716312068479.jpg",
+    "https://euchelperu.com/images/productos/17817516704502302193630.jpg",
+    "https://euchelperu.com/images/productos/178175169188504405019652.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BLUSA MANGA CORTA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3564,
+      "nombre": "Marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 3564,
+      "tallas": [
+        {
+          "id_talla": 3882,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17810422468236421635189.jpg",
+        "https://euchelperu.com/images/productos/178175164802716312068479.jpg",
+        "https://euchelperu.com/images/productos/17817516704502302193630.jpg",
+        "https://euchelperu.com/images/productos/178175169188504405019652.jpg"
+      ]
+    },
+    {
+      "id_color": 3598,
+      "nombre": "Negro",
+      "precio": 59.0,
+      "id_color_confirmado": 3598,
+      "tallas": [
+        {
+          "id_talla": 3969,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178175164802716312068479.jpg",
+        "https://euchelperu.com/images/productos/17810422468236421635189.jpg",
+        "https://euchelperu.com/images/productos/17817516704502302193630.jpg",
+        "https://euchelperu.com/images/productos/178175169188504405019652.jpg"
+      ]
+    },
+    {
+      "id_color": 3599,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 3599,
+      "tallas": [
+        {
+          "id_talla": 3970,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17817516704502302193630.jpg",
+        "https://euchelperu.com/images/productos/17810422468236421635189.jpg",
+        "https://euchelperu.com/images/productos/178175164802716312068479.jpg",
+        "https://euchelperu.com/images/productos/178175169188504405019652.jpg"
+      ]
+    },
+    {
+      "id_color": 3600,
+      "nombre": "Beige",
+      "precio": 59.0,
+      "id_color_confirmado": 3600,
+      "tallas": [
+        {
+          "id_talla": 3971,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178175169188504405019652.jpg",
+        "https://euchelperu.com/images/productos/17810422468236421635189.jpg",
+        "https://euchelperu.com/images/productos/178175164802716312068479.jpg",
+        "https://euchelperu.com/images/productos/17817516704502302193630.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:09:00Z"
+}
