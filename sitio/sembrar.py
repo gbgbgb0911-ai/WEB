@@ -15,6 +15,7 @@ para no pisar lo que el equipo haya cambiado desde el panel.
 
 from __future__ import annotations
 
+import argparse
 import json
 import sys
 import unicodedata
@@ -48,9 +49,23 @@ def main():
     mapa = json.loads((DATOS / "imagenes_map.json").read_text("utf-8"))
     hash_de = lambda u: (mapa.get(u) or {}).get("hash")
 
-    w = sys.stdout.write
-    w("-- Carga inicial del catálogo Euchel. Generado por sitio/sembrar.py\n")
-    w("begin;\n\n")
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--json", action="store_true",
+                    help="emite las sentencias como array JSON, para cargarlas "
+                         "por HTTP con el driver de Neon (el puerto 5432 puede "
+                         "estar bloqueado por la red de salida)")
+    args = ap.parse_args()
+
+    sentencias = []
+    if args.json:
+        def w(texto):
+            t = texto.strip()
+            if t and not t.startswith("--"):
+                sentencias.append(t.rstrip(";"))
+    else:
+        w = sys.stdout.write
+        w("-- Carga inicial del catálogo Euchel. Generado por sitio/sembrar.py\n")
+        w("begin;\n\n")
 
     def lote(tabla, columnas, filas, conflicto, actualiza, por_tanda=400):
         """Un INSERT por tanda en vez de uno por fila. Con 8.000 sentencias
@@ -101,13 +116,28 @@ def main():
          "id", "producto_id = excluded.producto_id, nombre = excluded.nombre, "
                "precio = excluded.precio, orden = excluded.orden")
 
-    # --- tallas
+    # --- tallas. Se deduplican por (color, nombre): la tienda tiene al menos
+    # un color con la misma talla dos veces (producto 312, color 605, talla
+    # "32"), y un INSERT con la fila repetida rompe el ON CONFLICT.
     w("\n-- tallas\n")
-    lote("catalogo.talla", ["color_id", "nombre", "orden"],
-         [(c["id_color"], t.get("nombre"), orden)
-          for p in productos
-          for c in (p.get("colores") or []) if c.get("id_color") is not None
-          for orden, t in enumerate(c.get("tallas") or [])],
+    filas_talla, vistas_talla, repetidas = [], set(), 0
+    for p in productos:
+        for c in p.get("colores") or []:
+            if c.get("id_color") is None:
+                continue
+            orden = 0
+            for t in c.get("tallas") or []:
+                clave = (c["id_color"], t.get("nombre"))
+                if clave in vistas_talla:
+                    repetidas += 1
+                    continue
+                vistas_talla.add(clave)
+                filas_talla.append((c["id_color"], t.get("nombre"), orden))
+                orden += 1
+    if repetidas:
+        print(f"aviso: {repetidas} tallas repetidas en la tienda, omitidas",
+              file=sys.stderr)
+    lote("catalogo.talla", ["color_id", "nombre", "orden"], filas_talla,
          "color_id, nombre", "orden = excluded.orden")
 
     # --- imágenes de la extracción. Las que suba el equipo (fuente='subida')
@@ -137,6 +167,10 @@ def main():
         )
         w("insert into catalogo.imagen (producto_id, color_id, hash, fuente, orden) "
           f"values {vals};\n")
+
+    if args.json:
+        json.dump(sentencias, sys.stdout, ensure_ascii=False)
+        return
 
     w("\ncommit;\n")
     w("\n-- resumen\n")
