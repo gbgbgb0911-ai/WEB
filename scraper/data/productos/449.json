@@ -1,0 +1,41 @@
+{
+  "id_original": 449,
+  "url_original": "https://euchelperu.com/producto.php?id=449",
+  "nombre": "TOP LEOPARDO",
+  "descripcion": "Desata tu lado más feroz con este top de leopardo que combina estilo, actitud y un toque atrevido. Su diseño ajustado realza tu figura.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "449ppp",
+  "item_group_id": "449",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176082861581834394823744.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1266,
+      "nombre": "Negro",
+      "precio": 39.0,
+      "id_color_confirmado": 1266,
+      "tallas": [
+        {
+          "id_talla": 1510,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176082861581834394823744.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:57:49Z"
+}

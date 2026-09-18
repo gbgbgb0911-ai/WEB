@@ -1,0 +1,141 @@
+{
+  "id_original": 438,
+  "url_original": "https://euchelperu.com/producto.php?id=438",
+  "nombre": "Vestido Cuello Tortuga",
+  "descripcion": "Vestido largo con cuello tortuga, de corte elegante y silueta estilizada. Ideal para ocasiones formales o looks sofisticados.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "438VES22316",
+  "item_group_id": "438",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176020675878599221428992.jpg",
+    "https://euchelperu.com/images/productos/17604006579740121359016.jpg",
+    "https://euchelperu.com/images/productos/176083780929195463237348.jpg",
+    "https://euchelperu.com/images/productos/176262457908996778846186.jpg",
+    "https://euchelperu.com/images/productos/176262481565994289810527.jpg",
+    "https://euchelperu.com/images/productos/17626248469694323933093.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1247,
+      "nombre": "Verde",
+      "precio": 75.0,
+      "id_color_confirmado": 1247,
+      "tallas": [
+        {
+          "id_talla": 1491,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176020675878599221428992.jpg",
+        "https://euchelperu.com/images/productos/17604006579740121359016.jpg",
+        "https://euchelperu.com/images/productos/176083780929195463237348.jpg",
+        "https://euchelperu.com/images/productos/176262457908996778846186.jpg",
+        "https://euchelperu.com/images/productos/176262481565994289810527.jpg",
+        "https://euchelperu.com/images/productos/17626248469694323933093.jpg"
+      ]
+    },
+    {
+      "id_color": 1248,
+      "nombre": "Marrón",
+      "precio": 75.0,
+      "id_color_confirmado": 1248,
+      "tallas": [
+        {
+          "id_talla": 1492,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17604006579740121359016.jpg",
+        "https://euchelperu.com/images/productos/176262481565994289810527.jpg",
+        "https://euchelperu.com/images/productos/176020675878599221428992.jpg",
+        "https://euchelperu.com/images/productos/176083780929195463237348.jpg",
+        "https://euchelperu.com/images/productos/176262457908996778846186.jpg",
+        "https://euchelperu.com/images/productos/17626248469694323933093.jpg"
+      ]
+    },
+    {
+      "id_color": 1249,
+      "nombre": "Rojo",
+      "precio": 75.0,
+      "id_color_confirmado": 1249,
+      "tallas": [
+        {
+          "id_talla": 1493,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176262457908996778846186.jpg",
+        "https://euchelperu.com/images/productos/176020675878599221428992.jpg",
+        "https://euchelperu.com/images/productos/17604006579740121359016.jpg",
+        "https://euchelperu.com/images/productos/176083780929195463237348.jpg",
+        "https://euchelperu.com/images/productos/176262481565994289810527.jpg",
+        "https://euchelperu.com/images/productos/17626248469694323933093.jpg"
+      ]
+    },
+    {
+      "id_color": 1250,
+      "nombre": "Perla",
+      "precio": 75.0,
+      "id_color_confirmado": 1250,
+      "tallas": [
+        {
+          "id_talla": 1494,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176020675878599221428992.jpg",
+        "https://euchelperu.com/images/productos/17604006579740121359016.jpg",
+        "https://euchelperu.com/images/productos/176083780929195463237348.jpg",
+        "https://euchelperu.com/images/productos/176262457908996778846186.jpg",
+        "https://euchelperu.com/images/productos/176262481565994289810527.jpg",
+        "https://euchelperu.com/images/productos/17626248469694323933093.jpg"
+      ]
+    },
+    {
+      "id_color": 1272,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 1272,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176083780929195463237348.jpg",
+        "https://euchelperu.com/images/productos/176020675878599221428992.jpg",
+        "https://euchelperu.com/images/productos/17604006579740121359016.jpg",
+        "https://euchelperu.com/images/productos/176262457908996778846186.jpg",
+        "https://euchelperu.com/images/productos/176262481565994289810527.jpg",
+        "https://euchelperu.com/images/productos/17626248469694323933093.jpg"
+      ]
+    },
+    {
+      "id_color": 1583,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 1583,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17626248469694323933093.jpg",
+        "https://euchelperu.com/images/productos/176020675878599221428992.jpg",
+        "https://euchelperu.com/images/productos/17604006579740121359016.jpg",
+        "https://euchelperu.com/images/productos/176083780929195463237348.jpg",
+        "https://euchelperu.com/images/productos/176262457908996778846186.jpg",
+        "https://euchelperu.com/images/productos/176262481565994289810527.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:55:31Z"
+}

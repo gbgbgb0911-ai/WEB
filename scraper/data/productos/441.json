@@ -1,0 +1,41 @@
+{
+  "id_original": 441,
+  "url_original": "https://euchelperu.com/producto.php?id=441",
+  "nombre": "TOP AURORA",
+  "descripcion": "Femenino, versátil y con un toque sofisticado. El Top Aurora Terracota combina un diseño off shoulder con un delicado fruncido frontal que resalta la figura de manera sutil y elegante.Su tono cálido terracota aporta un aire moderno y distinguido, ideal para combinar con faldas, pantalones o jeans de tiro alto.El tejido suave y elástico brinda comodidad y ajuste perfecto, haciéndolo ideal para cualquier ocasión.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 29.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "4417864",
+  "item_group_id": "441",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176021229011837218080615.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1254,
+      "nombre": "Terracota",
+      "precio": 45.0,
+      "id_color_confirmado": 1254,
+      "tallas": [
+        {
+          "id_talla": 1498,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176021229011837218080615.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:55:51Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id_original": 443,
+  "url_original": "https://euchelperu.com/producto.php?id=443",
+  "nombre": "TOP DIOSA TUL",
+  "descripcion": "Minimalista, fresco y lleno de actitud. Su diseño ajustado realza tu figura mientras ofrece comodidad y estilo. Perfecto para días de verano, playa o looks urbanos con un toque atrevido. Combínalo con la falda Diosa Tul para un conjunto de impacto.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 15.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "443bbbb",
+  "item_group_id": "443",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17604905356582514124864.jpg",
+    "https://euchelperu.com/images/productos/176049055231009829622305.jpg",
+    "https://euchelperu.com/images/productos/176049056234532250274579.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1258,
+      "nombre": "Azul",
+      "precio": 35.0,
+      "id_color_confirmado": 1258,
+      "tallas": [
+        {
+          "id_talla": 1502,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17604905356582514124864.jpg",
+        "https://euchelperu.com/images/productos/176049055231009829622305.jpg",
+        "https://euchelperu.com/images/productos/176049056234532250274579.jpg"
+      ]
+    },
+    {
+      "id_color": 1259,
+      "nombre": "Negro",
+      "precio": 35.0,
+      "id_color_confirmado": 1259,
+      "tallas": [
+        {
+          "id_talla": 1503,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176049055231009829622305.jpg",
+        "https://euchelperu.com/images/productos/17604905356582514124864.jpg",
+        "https://euchelperu.com/images/productos/176049056234532250274579.jpg"
+      ]
+    },
+    {
+      "id_color": 1260,
+      "nombre": "Blanco",
+      "precio": 35.0,
+      "id_color_confirmado": 1260,
+      "tallas": [
+        {
+          "id_talla": 1504,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176049056234532250274579.jpg",
+        "https://euchelperu.com/images/productos/17604905356582514124864.jpg",
+        "https://euchelperu.com/images/productos/176049055231009829622305.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:57:03Z"
+}

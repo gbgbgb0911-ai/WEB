@@ -1,0 +1,41 @@
+{
+  "id_original": 439,
+  "url_original": "https://euchelperu.com/producto.php?id=439",
+  "nombre": "VESTIDO FUSIÓN AZUL",
+  "descripcion": "Destaca con elegancia y seguridad con nuestro Vestido Fusión Azul, una pieza diseñada para realzar tu silueta con un toque sofisticado y moderno.Confeccionado en una tela suave y elástica que se ajusta perfectamente al cuerpo, cuenta con detalle fruncido en la cintura que estiliza la figura y una abertura lateral que aporta sensualidad sin perder la elegancia.Su tono azul profundo lo convierte en la elección ideal para eventos, cenas o salidas nocturnas, mientras que los breteles delgados y el corte midi equilibran perfectamente delicadeza y confianza. ✨ Detalles: Color: Azul eléctrico Corte: Midi con abertura lateral Breteles delgados Tela con elasticidad y ajuste perfecto Diseño fruncido en la zona del abdomen 📍 Ideal para: eventos, cenas, fiestas o una noche especial.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "43912345q",
+  "item_group_id": "439",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176020752359545929097060.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1251,
+      "nombre": "Azul",
+      "precio": 75.0,
+      "id_color_confirmado": 1251,
+      "tallas": [
+        {
+          "id_talla": 1495,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176020752359545929097060.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:55:34Z"
+}

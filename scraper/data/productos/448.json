@@ -1,0 +1,41 @@
+{
+  "id_original": 448,
+  "url_original": "https://euchelperu.com/producto.php?id=448",
+  "nombre": "BLUSA JEAN",
+  "descripcion": "La mezclilla nunca pasa de moda y esta blusa lo prueba. Con un diseño moderno y versátil, es perfecta para combinar con absolutamente todo. Su corte femenino la convierten en una pieza clave para cualquier temporada.",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 70.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "448jeam",
+  "item_group_id": "448",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176082781052783373044715.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BLUSA JEAN",
+  "precio_listado_normal": 70.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1265,
+      "nombre": "Azul",
+      "precio": 70.0,
+      "id_color_confirmado": 1265,
+      "tallas": [
+        {
+          "id_talla": 1509,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176082781052783373044715.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-17T23:57:33Z"
+}
