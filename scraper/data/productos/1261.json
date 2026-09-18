@@ -1,0 +1,41 @@
+{
+  "id_original": 1261,
+  "url_original": "https://euchelperu.com/producto.php?id=1261",
+  "nombre": "TOP BISS",
+  "descripcion": "Define tu silueta con este sofisticado top de inspiración corset, una prenda diseñada para quienes buscan un equilibrio perfecto entre estructura y estilo moderno. Su diseño entallado y detalles cuidadosamente pensados lo convierten en la pieza central ideal para cualquier outfit, desde un look casual hasta una propuesta más elegante.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "12611K5H9S3J",
+  "item_group_id": "1261",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178406709571856639164679.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP BISS",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3797,
+      "nombre": "CAMEL",
+      "precio": 55.0,
+      "id_color_confirmado": 3797,
+      "tallas": [
+        {
+          "id_talla": 4086,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178406709571856639164679.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:42:44Z"
+}

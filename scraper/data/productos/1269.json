@@ -1,0 +1,41 @@
+{
+  "id_original": 1269,
+  "url_original": "https://euchelperu.com/producto.php?id=1269",
+  "nombre": "VESTIDO IRENE",
+  "descripcion": "Deslumbra con este sofisticado y vibrante vestido corto en un intenso tono azul Klein, perfecto para destacar en eventos nocturnos o fiestas. Su diseño combina elegancia y sensualidad con un toque moderno.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1269VEST126",
+  "item_group_id": "1269",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178484516304867236920732.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO IRENE",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3806,
+      "nombre": "Azul",
+      "precio": 59.0,
+      "id_color_confirmado": 3806,
+      "tallas": [
+        {
+          "id_talla": 4095,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178484516304867236920732.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:44:37Z"
+}

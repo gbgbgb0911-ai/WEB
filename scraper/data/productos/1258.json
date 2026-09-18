@@ -1,0 +1,41 @@
+{
+  "id_original": 1258,
+  "url_original": "https://euchelperu.com/producto.php?id=1258",
+  "nombre": "SWEATER MUSE",
+  "descripcion": "Consigue un look relajado y chic con este sweater de tejido acanalado, diseñado para ofrecerte comodidad absoluta sin perder el estilo. Su corte holgado y su suave textura lo convierten en la pieza ideal para combinar en cualquier ocasión casual, brindándote libertad de movimiento y un aire moderno y despreocupado.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1258B7M3V9N4",
+  "item_group_id": "1258",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17840658545877797059222.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SWEATER MUSE",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3794,
+      "nombre": "olivo",
+      "precio": 55.0,
+      "id_color_confirmado": 3794,
+      "tallas": [
+        {
+          "id_talla": 4083,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17840658545877797059222.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:42:22Z"
+}

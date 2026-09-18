@@ -1,0 +1,41 @@
+{
+  "id_original": 1260,
+  "url_original": "https://euchelperu.com/producto.php?id=1260",
+  "nombre": "TOP LUNETH",
+  "descripcion": "Eleva tu look con este top de malla elegante y versátil, diseñado para quienes buscan un estilo contemporáneo con un toque de sofisticación. Su diseño ligero y su silueta única lo convierten en la pieza perfecta para destacar en salidas nocturnas o eventos especiales, ofreciendo un equilibrio ideal entre elegancia y tendencia.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1260L4K9J3H7",
+  "item_group_id": "1260",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178406650344379941879420.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP LUNETH",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3796,
+      "nombre": "Azul",
+      "precio": 45.0,
+      "id_color_confirmado": 3796,
+      "tallas": [
+        {
+          "id_talla": 4085,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178406650344379941879420.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:42:40Z"
+}

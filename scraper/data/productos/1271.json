@@ -1,0 +1,41 @@
+{
+  "id_original": 1271,
+  "url_original": "https://euchelperu.com/producto.php?id=1271",
+  "nombre": "TOP ASIA MANGA LARGA",
+  "descripcion": "Este conjunto combina a la perfección una pieza de inspiración vintage con el estilo urbano moderno. Es ideal para lograr un look sofisticado y audaz, perfecto para una salida nocturna o un evento casual con estilo.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1271TOP974",
+  "item_group_id": "1271",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178485039446571985971171.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP ASIA MANGA LARGA",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3808,
+      "nombre": "Marrón",
+      "precio": 55.0,
+      "id_color_confirmado": 3808,
+      "tallas": [
+        {
+          "id_talla": 4097,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178485039446571985971171.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:45:57Z"
+}

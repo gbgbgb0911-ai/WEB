@@ -1,0 +1,41 @@
+{
+  "id_original": 1270,
+  "url_original": "https://euchelperu.com/producto.php?id=1270",
+  "nombre": "MINI VESTIDO ELSY",
+  "descripcion": "Eleva tu estilo al siguiente nivel con este impactante vestido corto en un luminoso color blanco. Diseñado para deslumbrar, este modelo combina una elegancia arquitectónica con un toque audaz y sensual, perfecto para una noche de fiesta o un evento especial.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1270MINI900",
+  "item_group_id": "1270",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17848455257958351373706.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO ELSY",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3807,
+      "nombre": "Blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 3807,
+      "tallas": [
+        {
+          "id_talla": 4096,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17848455257958351373706.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:45:42Z"
+}

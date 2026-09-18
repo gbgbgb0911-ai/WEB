@@ -1,0 +1,41 @@
+{
+  "id_original": 1257,
+  "url_original": "https://euchelperu.com/producto.php?id=1257",
+  "nombre": "CHAQUETA DENIM BLUE",
+  "descripcion": "Eleva tus looks casuales con nuestra chaqueta de mezclilla en un clásico tono azul oscuro. Con su corte moderno y versátil, esta prenda es el complemento perfecto para añadir un toque urbano y desenfadado a cualquier conjunto.",
+  "categoria": "Chaquetas",
+  "categoria_subid": 9,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1257T4Y1U7I2",
+  "item_group_id": "1257",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178406565293938144115755.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CHAQUETA DENIM BLUE",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3793,
+      "nombre": "Azul",
+      "precio": 95.0,
+      "id_color_confirmado": 3793,
+      "tallas": [
+        {
+          "id_talla": 4082,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178406565293938144115755.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:42:08Z"
+}

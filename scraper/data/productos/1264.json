@@ -1,0 +1,41 @@
+{
+  "id_original": 1264,
+  "url_original": "https://euchelperu.com/producto.php?id=1264",
+  "nombre": "SWEATER CLOUD",
+  "descripcion": "Eleva tu estilo casual con este sofisticado suéter de punto. Su diseño de rayas horizontales en tonos tierra y azul marino sobre un fondo crema evoca un estilo náutico renovado y atemporal, ideal para añadir un toque de distinción a tus outfits diarios.",
+  "categoria": "Sweaters",
+  "categoria_subid": 4,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1264F2K8J1H6",
+  "item_group_id": "1264",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17840675807469894346665.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "SWEATER CLOUD",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3800,
+      "nombre": "Beige",
+      "precio": 55.0,
+      "id_color_confirmado": 3800,
+      "tallas": [
+        {
+          "id_talla": 4089,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17840675807469894346665.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:43:28Z"
+}

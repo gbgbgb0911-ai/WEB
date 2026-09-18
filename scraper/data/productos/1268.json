@@ -1,0 +1,41 @@
+{
+  "id_original": 1268,
+  "url_original": "https://euchelperu.com/producto.php?id=1268",
+  "nombre": "CONJUNTO AITANA",
+  "descripcion": "Cautivador conjunto de dos piezas en un elegante tono vino, confeccionado en delicado tejido de encaje con patrón floral. Ideal para destacar con un estilo sofisticado y moderno en cualquier ocasión especial.",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1268CONJ393",
+  "item_group_id": "1268",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178484426167039445390069.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "CONJUNTO AITANA",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3805,
+      "nombre": "Vino",
+      "precio": 59.0,
+      "id_color_confirmado": 3805,
+      "tallas": [
+        {
+          "id_talla": 4094,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178484426167039445390069.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:44:34Z"
+}

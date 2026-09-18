@@ -1,0 +1,41 @@
+{
+  "id_original": 1259,
+  "url_original": "https://euchelperu.com/producto.php?id=1259",
+  "nombre": "FALDA ECO CUERO",
+  "descripcion": "Lleva tu estilo al siguiente nivel con nuestra minifalda de efecto cuero. Una prenda audaz, moderna y con un acabado brillante que no pasará desapercibida. Perfecta para quienes buscan un look con mucha actitud, ideal para salir de noche o darle un toque rebelde a tu outfit diario.",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "12592P7T4Z9F",
+  "item_group_id": "1259",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17840661098204194744549.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "FALDA ECO CUERO",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3795,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 3795,
+      "tallas": [
+        {
+          "id_talla": 4084,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17840661098204194744549.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:42:25Z"
+}

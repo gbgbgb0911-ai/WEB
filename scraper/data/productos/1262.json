@@ -1,0 +1,41 @@
+{
+  "id_original": 1262,
+  "url_original": "https://euchelperu.com/producto.php?id=1262",
+  "nombre": "TOP LAZITO",
+  "descripcion": "Eleva tu estilo con este sofisticado chaleco de corte sastre, una pieza que combina la estética clásica con un diseño contemporáneo. Perfecto para crear looks con un toque ejecutivo o para añadir un nivel superior de elegancia a tus conjuntos casuales, este chaleco es una prenda versátil que no puede faltar en tu guardarropa.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "12625X9M2C7W",
+  "item_group_id": "1262",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178406723514211458677769.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP LAZITO",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3798,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 3798,
+      "tallas": [
+        {
+          "id_talla": 4087,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178406723514211458677769.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:42:59Z"
+}

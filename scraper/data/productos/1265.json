@@ -1,0 +1,56 @@
+{
+  "id_original": 1265,
+  "url_original": "https://euchelperu.com/producto.php?id=1265",
+  "nombre": "TOP BORDO PLISADO",
+  "descripcion": "Luce sofisticada y segura con este encantador top estilo halter, diseñado para resaltar tu figura con un toque de elegancia moderna. Su diseño único, que combina un escote profundo con un delicado drapeado, lo convierte en la pieza estrella para tus looks más especiales.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "12659W4M2Q7B",
+  "item_group_id": "1265",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178406776374483495662578.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP BORDO PLISADO",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3801,
+      "nombre": "Beige",
+      "precio": 49.0,
+      "id_color_confirmado": 3801,
+      "tallas": [
+        {
+          "id_talla": 4090,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178406776374483495662578.jpg"
+      ]
+    },
+    {
+      "id_color": 3804,
+      "nombre": "Marrón",
+      "precio": 49.0,
+      "id_color_confirmado": 3804,
+      "tallas": [
+        {
+          "id_talla": 4093,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178406776374483495662578.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:43:47Z"
+}

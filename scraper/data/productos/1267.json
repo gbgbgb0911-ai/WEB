@@ -1,0 +1,41 @@
+{
+  "id_original": 1267,
+  "url_original": "https://euchelperu.com/producto.php?id=1267",
+  "nombre": "WIDE LEG CADERA BLANCO",
+  "descripcion": "Dale un toque de frescura y luminosidad a tu guardarropa con este pantalón de estilo wide leg en color blanco. Esta prenda es la elección perfecta para quienes buscan un equilibrio entre comodidad y un estilo impecable, logrando una silueta estilizada y moderna que nunca pasa de moda.",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 95.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1267O5P8A3S9",
+  "item_group_id": "1267",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178406821479640544466982.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "WIDE LEG CADERA BLANCO",
+  "precio_listado_normal": 95.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3803,
+      "nombre": "Blanco",
+      "precio": 95.0,
+      "id_color_confirmado": 3803,
+      "tallas": [
+        {
+          "id_talla": 4092,
+          "nombre": "S-M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178406821479640544466982.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:43:53Z"
+}

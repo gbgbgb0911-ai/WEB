@@ -1,0 +1,41 @@
+{
+  "id_original": 1263,
+  "url_original": "https://euchelperu.com/producto.php?id=1263",
+  "nombre": "TOP BRENDA ESPALDA",
+  "descripcion": "La pieza fundamental que todo armario necesita. Este top sin mangas destaca por su diseño minimalista y su ajuste impecable, convirtiéndose en el aliado perfecto para crear infinidad de looks, desde los más informales hasta los más pulidos.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 45.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "1263P4T2Z7F5",
+  "item_group_id": "1263",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/178406739576447205431803.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "TOP BRENDA ESPALDA",
+  "precio_listado_normal": 45.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 3799,
+      "nombre": "Marrón",
+      "precio": 45.0,
+      "id_color_confirmado": 3799,
+      "tallas": [
+        {
+          "id_talla": 4088,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178406739576447205431803.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T05:43:13Z"
+}
