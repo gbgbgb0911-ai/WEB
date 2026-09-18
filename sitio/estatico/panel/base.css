@@ -125,8 +125,9 @@ a { color: inherit; text-decoration: none; }
 
 .btn--texto {
   background: transparent; border-color: transparent; color: var(--gris);
-  padding: 0 10px; letter-spacing: .08em;
+  padding: 0 7px; letter-spacing: .06em;
 }
+@media (min-width: 420px) { .btn--texto { padding: 0 10px; letter-spacing: .08em; } }
 .btn--texto:hover { background: var(--suave); color: var(--tinta); }
 
 .btn--ancho { width: 100%; }

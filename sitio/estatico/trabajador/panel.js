@@ -13,6 +13,7 @@ import { entrar, salir, sesionAbierta, ErrorPermiso } from '/panel/sesion.js';
 import { $, brindis, hacerFallo, vigilarSenal, montarHoja, montarPWA,
          cerrarHoja } from '/panel/ui.js';
 import { crearLista } from '/panel/lista.js';
+import { montarCambioClave } from '/panel/clave.js';
 
 let yo = null;
 let lista = null;
@@ -70,6 +71,7 @@ $('#btn-salir').addEventListener('click', async () => {
 
 vigilarSenal();
 montarHoja();
+montarCambioClave({ fallo });
 montarPWA('/trabajador/sw.js', '/trabajador/');
 
 (async function arrancar() {

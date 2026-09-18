@@ -94,14 +94,14 @@
 /* ---------------------------------------------------------------- cuentas */
 
 .cuenta-fila {
-  display: grid; grid-template-columns: 1fr auto; gap: 10px; align-items: center;
+  display: grid; grid-template-columns: 1fr; gap: 8px; align-items: center;
   padding: 11px 0; border-bottom: 1px solid var(--linea-suave);
 }
 .cuenta-fila:last-child { border-bottom: 0; }
 .cuenta-fila b { font-size: 13px; font-weight: 600; }
 .cuenta-fila--yo { background: #fbfbfb; }
-.cuenta-acciones { display: flex; gap: 6px; }
-.cuenta-acciones .palanca { min-width: 92px; flex: 0 0 auto; }
+.cuenta-acciones { display: flex; flex-wrap: wrap; gap: 6px; justify-content: flex-end; }
+.cuenta-acciones .palanca { flex: 0 0 auto; min-width: 0; padding: 0 10px; }
 
 /* --------------------------------------------------------------- bitácora */
 
@@ -114,6 +114,10 @@
 /* ---------------------------------------------------------------- precios */
 
 .precios { margin-top: 10px; }
+
+@media (min-width: 520px) {
+  .cuenta-fila { grid-template-columns: 1fr auto; }
+}
 
 @media (min-width: 640px) {
   .kpis { grid-template-columns: repeat(4, 1fr); }

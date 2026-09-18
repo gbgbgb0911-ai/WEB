@@ -17,6 +17,7 @@ import { entrar, salir, api, sesionAbierta, ErrorPermiso, ErrorSesion, ErrorRed 
 import { $, escapar, moneda, numero, fecha, brindis, hacerFallo, vigilarSenal,
          montarHoja, montarPWA, cerrarHoja } from '/panel/ui.js';
 import { crearLista } from '/panel/lista.js';
+import { montarCambioClave } from '/panel/clave.js';
 
 const AUTH = '/auth';
 
@@ -276,7 +277,8 @@ async function cuentas() {
           <button class="palanca" type="button" data-rol="${u.role === 'admin' ? 'trabajadora' : 'admin'}">
             ${u.role === 'admin' ? 'Pasar a equipo' : 'Hacer admin'}</button>
           <button class="palanca" type="button" data-ban="${u.banned ? '0' : '1'}"
-                  aria-pressed="${!!u.banned}">${u.banned ? 'Reactivar' : 'Suspender'}</button>`}
+                  aria-pressed="${!!u.banned}">${u.banned ? 'Reactivar' : 'Suspender'}</button>
+          <button class="palanca" type="button" data-clave="1">Clave nueva</button>`}
         </div>
       </div>`;
   }).join('');
@@ -290,6 +292,21 @@ $('#cuentas').addEventListener('click', async (ev) => {
   boton.disabled = true;
 
   try {
+    if (boton.dataset.clave) {
+      // No hay recuperación por correo: si alguien olvida su clave, se le
+      // pone una temporal desde aquí y la cambia al entrar.
+      const nueva = prompt('Clave temporal nueva (mínimo 10 caracteres):');
+      if (!nueva) { boton.disabled = false; return; }
+      if (nueva.length < 10) {
+        brindis('Necesita al menos 10 caracteres.', true);
+        boton.disabled = false; return;
+      }
+      await authAdmin('set-user-password', { cuerpo: { userId: id, newPassword: nueva } });
+      brindis('Clave cambiada. Pásasela por un medio privado.');
+      boton.disabled = false;
+      return;
+    }
+
     if (boton.dataset.rol) {
       await authAdmin('set-role', { cuerpo: { userId: id, role: boton.dataset.rol } });
       brindis('Rol cambiado.');
@@ -404,6 +421,7 @@ $('#btn-mas-bitacora').addEventListener('click', () => {
 
 vigilarSenal();
 montarHoja();
+montarCambioClave({ fallo });
 montarPWA('/admin/sw.js', '/admin/');
 
 (async function arrancar() {

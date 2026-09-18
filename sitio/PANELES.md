@@ -22,6 +22,16 @@ Las crea una administradora desde el panel, en la pestaña **Equipo**: nombre,
 correo, rol y una clave temporal. La clave se le pasa por un medio privado y
 se le dice que la cambie.
 
+El correo es solo el nombre de usuario. No se verifica y no hay
+recuperación por correo, así que `maria@euchel.pe` funciona aunque ese buzón
+no exista. Lo que sí hace falta es que cada persona tenga el suyo: la
+bitácora dice quién cambió qué, y con una cuenta compartida eso no sirve de
+nada.
+
+Cada quien cambia su clave desde el botón **Clave** del encabezado. Si
+alguien la olvida, una administradora le pone una temporal desde la pestaña
+Equipo, botón **Clave nueva** de su fila.
+
 Cuando alguien deja el equipo, se **suspende** su cuenta. No se borra: la
 bitácora tiene que seguir diciendo quién hizo cada cambio.
 
