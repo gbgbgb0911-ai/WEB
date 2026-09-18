@@ -1,0 +1,79 @@
+{
+  "id_original": 944,
+  "url_original": "https://euchelperu.com/producto.php?id=944",
+  "nombre": "vestido florentina",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "9444K7B2N9Z",
+  "item_group_id": "944",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177152441505157511935123.jpg",
+    "https://euchelperu.com/images/productos/17715302827889474381851.jpg",
+    "https://euchelperu.com/images/productos/17715306044621750379831.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2838,
+      "nombre": "Blanco c/ marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 2838,
+      "tallas": [
+        {
+          "id_talla": 3156,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177152441505157511935123.jpg",
+        "https://euchelperu.com/images/productos/17715302827889474381851.jpg",
+        "https://euchelperu.com/images/productos/17715306044621750379831.jpg"
+      ]
+    },
+    {
+      "id_color": 2839,
+      "nombre": "Negro c/ marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 2839,
+      "tallas": [
+        {
+          "id_talla": 3185,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17715302827889474381851.jpg",
+        "https://euchelperu.com/images/productos/177152441505157511935123.jpg",
+        "https://euchelperu.com/images/productos/17715306044621750379831.jpg"
+      ]
+    },
+    {
+      "id_color": 2840,
+      "nombre": "Marron c/ beige",
+      "precio": 59.0,
+      "id_color_confirmado": 2840,
+      "tallas": [
+        {
+          "id_talla": 3186,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17715306044621750379831.jpg",
+        "https://euchelperu.com/images/productos/177152441505157511935123.jpg",
+        "https://euchelperu.com/images/productos/17715302827889474381851.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:18:33Z"
+}

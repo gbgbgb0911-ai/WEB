@@ -1,0 +1,101 @@
+{
+  "id_original": 945,
+  "url_original": "https://euchelperu.com/producto.php?id=945",
+  "nombre": "vestido maggie hilo",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "945O9P1A3S5",
+  "item_group_id": "945",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177153131951271776181140.jpg",
+    "https://euchelperu.com/images/productos/177153167918247905411356.jpg",
+    "https://euchelperu.com/images/productos/17716100224734954585885.jpg",
+    "https://euchelperu.com/images/productos/177161007903774559037146.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "vestido maggie hilo",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2841,
+      "nombre": "blanco c/ verde",
+      "precio": 59.0,
+      "id_color_confirmado": 2841,
+      "tallas": [
+        {
+          "id_talla": 3157,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177153131951271776181140.jpg",
+        "https://euchelperu.com/images/productos/177153167918247905411356.jpg",
+        "https://euchelperu.com/images/productos/17716100224734954585885.jpg",
+        "https://euchelperu.com/images/productos/177161007903774559037146.jpg"
+      ]
+    },
+    {
+      "id_color": 2842,
+      "nombre": "blanco c/ celeste",
+      "precio": 59.0,
+      "id_color_confirmado": 2842,
+      "tallas": [
+        {
+          "id_talla": 3187,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177153167918247905411356.jpg",
+        "https://euchelperu.com/images/productos/177153131951271776181140.jpg",
+        "https://euchelperu.com/images/productos/17716100224734954585885.jpg",
+        "https://euchelperu.com/images/productos/177161007903774559037146.jpg"
+      ]
+    },
+    {
+      "id_color": 2843,
+      "nombre": "amarillo c/ blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 2843,
+      "tallas": [
+        {
+          "id_talla": 3188,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17716100224734954585885.jpg",
+        "https://euchelperu.com/images/productos/177153131951271776181140.jpg",
+        "https://euchelperu.com/images/productos/177153167918247905411356.jpg",
+        "https://euchelperu.com/images/productos/177161007903774559037146.jpg"
+      ]
+    },
+    {
+      "id_color": 2844,
+      "nombre": "verde c/ blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 2844,
+      "tallas": [
+        {
+          "id_talla": 3189,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177161007903774559037146.jpg",
+        "https://euchelperu.com/images/productos/177153131951271776181140.jpg",
+        "https://euchelperu.com/images/productos/177153167918247905411356.jpg",
+        "https://euchelperu.com/images/productos/17716100224734954585885.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:18:57Z"
+}

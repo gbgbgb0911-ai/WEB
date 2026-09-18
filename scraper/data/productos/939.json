@@ -1,0 +1,125 @@
+{
+  "id_original": 939,
+  "url_original": "https://euchelperu.com/producto.php?id=939",
+  "nombre": "Vestido Jazmin Copa Aro",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "939VES50202",
+  "item_group_id": "939",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177146042066446631175301.png",
+    "https://euchelperu.com/images/productos/177146057127912178628012.png",
+    "https://euchelperu.com/images/productos/177146065236800562058305.png",
+    "https://euchelperu.com/images/productos/177146080094705987285692.png",
+    "https://euchelperu.com/images/productos/177146088021556884569128.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Jazmin Copa Aro",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2813,
+      "nombre": "blanco",
+      "precio": 79.0,
+      "id_color_confirmado": 2813,
+      "tallas": [
+        {
+          "id_talla": 3133,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177146042066446631175301.png",
+        "https://euchelperu.com/images/productos/177146057127912178628012.png",
+        "https://euchelperu.com/images/productos/177146065236800562058305.png",
+        "https://euchelperu.com/images/productos/177146080094705987285692.png",
+        "https://euchelperu.com/images/productos/177146088021556884569128.png"
+      ]
+    },
+    {
+      "id_color": 2814,
+      "nombre": "vino",
+      "precio": 79.0,
+      "id_color_confirmado": 2814,
+      "tallas": [
+        {
+          "id_talla": 3134,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177146057127912178628012.png",
+        "https://euchelperu.com/images/productos/177146042066446631175301.png",
+        "https://euchelperu.com/images/productos/177146065236800562058305.png",
+        "https://euchelperu.com/images/productos/177146080094705987285692.png",
+        "https://euchelperu.com/images/productos/177146088021556884569128.png"
+      ]
+    },
+    {
+      "id_color": 2815,
+      "nombre": "rosado",
+      "precio": 79.0,
+      "id_color_confirmado": 2815,
+      "tallas": [
+        {
+          "id_talla": 3135,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177146065236800562058305.png",
+        "https://euchelperu.com/images/productos/177146042066446631175301.png",
+        "https://euchelperu.com/images/productos/177146057127912178628012.png",
+        "https://euchelperu.com/images/productos/177146080094705987285692.png",
+        "https://euchelperu.com/images/productos/177146088021556884569128.png"
+      ]
+    },
+    {
+      "id_color": 2816,
+      "nombre": "negro",
+      "precio": 79.0,
+      "id_color_confirmado": 2816,
+      "tallas": [
+        {
+          "id_talla": 3136,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177146080094705987285692.png",
+        "https://euchelperu.com/images/productos/177146042066446631175301.png",
+        "https://euchelperu.com/images/productos/177146057127912178628012.png",
+        "https://euchelperu.com/images/productos/177146065236800562058305.png",
+        "https://euchelperu.com/images/productos/177146088021556884569128.png"
+      ]
+    },
+    {
+      "id_color": 2817,
+      "nombre": "rojo",
+      "precio": 79.0,
+      "id_color_confirmado": 2817,
+      "tallas": [
+        {
+          "id_talla": 3137,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177146088021556884569128.png",
+        "https://euchelperu.com/images/productos/177146042066446631175301.png",
+        "https://euchelperu.com/images/productos/177146057127912178628012.png",
+        "https://euchelperu.com/images/productos/177146065236800562058305.png",
+        "https://euchelperu.com/images/productos/177146080094705987285692.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:14:45Z"
+}

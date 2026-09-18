@@ -1,0 +1,41 @@
+{
+  "id_original": 933,
+  "url_original": "https://euchelperu.com/producto.php?id=933",
+  "nombre": "bikini moka dream",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "933bik64537",
+  "item_group_id": "933",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176981071982453583927183.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini moka dream",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2791,
+      "nombre": "Marrón",
+      "precio": 99.0,
+      "id_color_confirmado": 2791,
+      "tallas": [
+        {
+          "id_talla": 3123,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176981071982453583927183.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:12:29Z"
+}

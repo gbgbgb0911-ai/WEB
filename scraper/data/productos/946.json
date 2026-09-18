@@ -1,0 +1,41 @@
+{
+  "id_original": 946,
+  "url_original": "https://euchelperu.com/producto.php?id=946",
+  "nombre": "vestido jedat",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "946T2Y4U6I8",
+  "item_group_id": "946",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177153242362111402044994.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "vestido jedat",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2845,
+      "nombre": "blanco",
+      "precio": 49.0,
+      "id_color_confirmado": 2845,
+      "tallas": [
+        {
+          "id_talla": 3158,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177153242362111402044994.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:19:00Z"
+}

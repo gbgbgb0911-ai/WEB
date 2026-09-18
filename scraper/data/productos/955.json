@@ -1,0 +1,41 @@
+{
+  "id_original": 955,
+  "url_original": "https://euchelperu.com/producto.php?id=955",
+  "nombre": "OLIVE",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "955CAR15367",
+  "item_group_id": "955",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17715457644456865428099.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "OLIVE",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2873,
+      "nombre": "beige",
+      "precio": 65.0,
+      "id_color_confirmado": 2873,
+      "tallas": [
+        {
+          "id_talla": 3182,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17715457644456865428099.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:21:49Z"
+}

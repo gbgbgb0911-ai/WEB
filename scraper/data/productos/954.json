@@ -1,0 +1,41 @@
+{
+  "id_original": 954,
+  "url_original": "https://euchelperu.com/producto.php?id=954",
+  "nombre": "RUBY",
+  "descripcion": "",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "954  CAR48873",
+  "item_group_id": "954",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177154562392106106159643.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "RUBY",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2872,
+      "nombre": "vino",
+      "precio": 79.0,
+      "id_color_confirmado": 2872,
+      "tallas": [
+        {
+          "id_talla": 3181,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177154562392106106159643.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:21:46Z"
+}

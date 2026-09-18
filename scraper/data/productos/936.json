@@ -1,0 +1,119 @@
+{
+  "id_original": 936,
+  "url_original": "https://euchelperu.com/producto.php?id=936",
+  "nombre": "set nautica",
+  "descripcion": "",
+  "categoria": "Set",
+  "categoria_subid": 10,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "9365T1Y8U3I",
+  "item_group_id": "936",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177144598882812236876937.jpg",
+    "https://euchelperu.com/images/productos/17714463037767113114117.jpg",
+    "https://euchelperu.com/images/productos/177534974977242372982614.jpg",
+    "https://euchelperu.com/images/productos/177534982419830220823880.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "set nautica",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2803,
+      "nombre": "Amarillo",
+      "precio": 79.0,
+      "id_color_confirmado": 2803,
+      "tallas": [
+        {
+          "id_talla": 3126,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177144598882812236876937.jpg",
+        "https://euchelperu.com/images/productos/17714463037767113114117.jpg",
+        "https://euchelperu.com/images/productos/177534974977242372982614.jpg",
+        "https://euchelperu.com/images/productos/177534982419830220823880.jpg"
+      ]
+    },
+    {
+      "id_color": 2804,
+      "nombre": "Blanco",
+      "precio": 79.0,
+      "id_color_confirmado": 2804,
+      "tallas": [
+        {
+          "id_talla": 3190,
+          "nombre": "standart"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17714463037767113114117.jpg",
+        "https://euchelperu.com/images/productos/177144598882812236876937.jpg",
+        "https://euchelperu.com/images/productos/177534974977242372982614.jpg",
+        "https://euchelperu.com/images/productos/177534982419830220823880.jpg"
+      ]
+    },
+    {
+      "id_color": 2805,
+      "nombre": "Verde",
+      "precio": 79.0,
+      "id_color_confirmado": 2805,
+      "tallas": [
+        {
+          "id_talla": 3191,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177144598882812236876937.jpg",
+        "https://euchelperu.com/images/productos/17714463037767113114117.jpg",
+        "https://euchelperu.com/images/productos/177534974977242372982614.jpg",
+        "https://euchelperu.com/images/productos/177534982419830220823880.jpg"
+      ]
+    },
+    {
+      "id_color": 3236,
+      "nombre": "Celeste",
+      "precio": 79.0,
+      "id_color_confirmado": 3236,
+      "tallas": [
+        {
+          "id_talla": 3558,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177534974977242372982614.jpg",
+        "https://euchelperu.com/images/productos/177144598882812236876937.jpg",
+        "https://euchelperu.com/images/productos/17714463037767113114117.jpg",
+        "https://euchelperu.com/images/productos/177534982419830220823880.jpg"
+      ]
+    },
+    {
+      "id_color": 3237,
+      "nombre": "Negro",
+      "precio": 79.0,
+      "id_color_confirmado": 3237,
+      "tallas": [
+        {
+          "id_talla": 3559,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177534982419830220823880.jpg",
+        "https://euchelperu.com/images/productos/177144598882812236876937.jpg",
+        "https://euchelperu.com/images/productos/17714463037767113114117.jpg",
+        "https://euchelperu.com/images/productos/177534974977242372982614.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:14:03Z"
+}

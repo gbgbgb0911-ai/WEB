@@ -1,0 +1,36 @@
+{
+  "id_original": 932,
+  "url_original": "https://euchelperu.com/producto.php?id=932",
+  "nombre": "vestido aura lunar",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": null,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "932",
+  "item_group_id": "932",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176981058691130103315616.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2790,
+      "nombre": "Beige",
+      "precio": null,
+      "id_color_confirmado": 2790,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176981058691130103315616.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:12:26Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 949,
+  "url_original": "https://euchelperu.com/producto.php?id=949",
+  "nombre": "Pantalón Lina",
+  "descripcion": "",
+  "categoria": "Pantalones",
+  "categoria_subid": 6,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "949PAN56645",
+  "item_group_id": "949",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177154226307515717688308.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Pantalón Lina",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2858,
+      "nombre": "blanco con rayas negras",
+      "precio": 55.0,
+      "id_color_confirmado": 2858,
+      "tallas": [
+        {
+          "id_talla": 3171,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177154226307515717688308.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:21:04Z"
+}

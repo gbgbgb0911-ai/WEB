@@ -1,0 +1,41 @@
+{
+  "id_original": 938,
+  "url_original": "https://euchelperu.com/producto.php?id=938",
+  "nombre": "Mini Vestido Dana",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "938X1C9V2B9",
+  "item_group_id": "938",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177145787437602899470313.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Mini Vestido Dana",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2811,
+      "nombre": "verde",
+      "precio": 65.0,
+      "id_color_confirmado": 2811,
+      "tallas": [
+        {
+          "id_talla": 3131,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177145787437602899470313.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:14:06Z"
+}

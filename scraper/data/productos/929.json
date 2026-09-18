@@ -1,0 +1,41 @@
+{
+  "id_original": 929,
+  "url_original": "https://euchelperu.com/producto.php?id=929",
+  "nombre": "bikini rivera mosaic",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "929bik28373",
+  "item_group_id": "929",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176980990032285804327800.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini rivera mosaic",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2787,
+      "nombre": "Amarillo",
+      "precio": 99.0,
+      "id_color_confirmado": 2787,
+      "tallas": [
+        {
+          "id_talla": 3120,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176980990032285804327800.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:12:05Z"
+}

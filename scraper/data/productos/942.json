@@ -1,0 +1,101 @@
+{
+  "id_original": 942,
+  "url_original": "https://euchelperu.com/producto.php?id=942",
+  "nombre": "Vestido Salomé",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "942J8K4L6Z7",
+  "item_group_id": "942",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177146542758389115985030.png",
+    "https://euchelperu.com/images/productos/177214819054273571287438.jpg",
+    "https://euchelperu.com/images/productos/17722198131241585662925.jpg",
+    "https://euchelperu.com/images/productos/177221984667386324956941.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Salomé",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2831,
+      "nombre": "blanco",
+      "precio": 79.0,
+      "id_color_confirmado": 2831,
+      "tallas": [
+        {
+          "id_talla": 3149,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177146542758389115985030.png",
+        "https://euchelperu.com/images/productos/177214819054273571287438.jpg",
+        "https://euchelperu.com/images/productos/17722198131241585662925.jpg",
+        "https://euchelperu.com/images/productos/177221984667386324956941.jpg"
+      ]
+    },
+    {
+      "id_color": 2936,
+      "nombre": "verde",
+      "precio": 79.0,
+      "id_color_confirmado": 2936,
+      "tallas": [
+        {
+          "id_talla": 3253,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177214819054273571287438.jpg",
+        "https://euchelperu.com/images/productos/177146542758389115985030.png",
+        "https://euchelperu.com/images/productos/17722198131241585662925.jpg",
+        "https://euchelperu.com/images/productos/177221984667386324956941.jpg"
+      ]
+    },
+    {
+      "id_color": 2959,
+      "nombre": "amarillo",
+      "precio": 79.0,
+      "id_color_confirmado": 2959,
+      "tallas": [
+        {
+          "id_talla": 3276,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17722198131241585662925.jpg",
+        "https://euchelperu.com/images/productos/177146542758389115985030.png",
+        "https://euchelperu.com/images/productos/177214819054273571287438.jpg",
+        "https://euchelperu.com/images/productos/177221984667386324956941.jpg"
+      ]
+    },
+    {
+      "id_color": 2960,
+      "nombre": "azul",
+      "precio": 79.0,
+      "id_color_confirmado": 2960,
+      "tallas": [
+        {
+          "id_talla": 3277,
+          "nombre": "standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177221984667386324956941.jpg",
+        "https://euchelperu.com/images/productos/177146542758389115985030.png",
+        "https://euchelperu.com/images/productos/177214819054273571287438.jpg",
+        "https://euchelperu.com/images/productos/17722198131241585662925.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:15:46Z"
+}

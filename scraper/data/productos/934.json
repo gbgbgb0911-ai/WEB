@@ -1,0 +1,105 @@
+{
+  "id_original": 934,
+  "url_original": "https://euchelperu.com/producto.php?id=934",
+  "nombre": "falda taylor lentejuela",
+  "descripcion": "",
+  "categoria": "Faldas",
+  "categoria_subid": 7,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "934FAL300126",
+  "item_group_id": "934",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176981082452539924398414.jpg",
+    "https://euchelperu.com/images/productos/176981258544690665290350.jpg",
+    "https://euchelperu.com/images/productos/17698126679328133542443.jpg",
+    "https://euchelperu.com/images/productos/176981288841673909430745.jpg",
+    "https://euchelperu.com/images/productos/178214978445865888512036.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "falda taylor lentejuela",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2792,
+      "nombre": "Celeste",
+      "precio": 69.0,
+      "id_color_confirmado": 2792,
+      "tallas": [
+        {
+          "id_talla": 3124,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176981082452539924398414.jpg",
+        "https://euchelperu.com/images/productos/176981258544690665290350.jpg",
+        "https://euchelperu.com/images/productos/17698126679328133542443.jpg",
+        "https://euchelperu.com/images/productos/176981288841673909430745.jpg",
+        "https://euchelperu.com/images/productos/178214978445865888512036.jpg"
+      ]
+    },
+    {
+      "id_color": 2793,
+      "nombre": "Negro",
+      "precio": null,
+      "id_color_confirmado": 2793,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176981258544690665290350.jpg",
+        "https://euchelperu.com/images/productos/176981082452539924398414.jpg",
+        "https://euchelperu.com/images/productos/17698126679328133542443.jpg",
+        "https://euchelperu.com/images/productos/176981288841673909430745.jpg",
+        "https://euchelperu.com/images/productos/178214978445865888512036.jpg"
+      ]
+    },
+    {
+      "id_color": 2794,
+      "nombre": "rosa pastel",
+      "precio": null,
+      "id_color_confirmado": 2794,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17698126679328133542443.jpg",
+        "https://euchelperu.com/images/productos/176981082452539924398414.jpg",
+        "https://euchelperu.com/images/productos/176981258544690665290350.jpg",
+        "https://euchelperu.com/images/productos/176981288841673909430745.jpg",
+        "https://euchelperu.com/images/productos/178214978445865888512036.jpg"
+      ]
+    },
+    {
+      "id_color": 2796,
+      "nombre": "Blanco",
+      "precio": null,
+      "id_color_confirmado": 2796,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176981288841673909430745.jpg",
+        "https://euchelperu.com/images/productos/176981082452539924398414.jpg",
+        "https://euchelperu.com/images/productos/176981258544690665290350.jpg",
+        "https://euchelperu.com/images/productos/17698126679328133542443.jpg",
+        "https://euchelperu.com/images/productos/178214978445865888512036.jpg"
+      ]
+    },
+    {
+      "id_color": 3629,
+      "nombre": "verde claro",
+      "precio": null,
+      "id_color_confirmado": 3629,
+      "tallas": [],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/178214978445865888512036.jpg",
+        "https://euchelperu.com/images/productos/176981082452539924398414.jpg",
+        "https://euchelperu.com/images/productos/176981258544690665290350.jpg",
+        "https://euchelperu.com/images/productos/17698126679328133542443.jpg",
+        "https://euchelperu.com/images/productos/176981288841673909430745.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:13:44Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 952,
+  "url_original": "https://euchelperu.com/producto.php?id=952",
+  "nombre": "Correa Maite",
+  "descripcion": "",
+  "categoria": "Correas",
+  "categoria_subid": 14,
+  "precio_base": 25.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "952COR30906",
+  "item_group_id": "952",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177154501192844605598460.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Correa Maite",
+  "precio_listado_normal": 25.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2870,
+      "nombre": "negro, marrón y café",
+      "precio": 25.0,
+      "id_color_confirmado": 2870,
+      "tallas": [
+        {
+          "id_talla": 3179,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177154501192844605598460.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:21:39Z"
+}

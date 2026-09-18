@@ -1,0 +1,41 @@
+{
+  "id_original": 931,
+  "url_original": "https://euchelperu.com/producto.php?id=931",
+  "nombre": "bikini estela de mar",
+  "descripcion": "",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "931bik87273",
+  "item_group_id": "931",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176981028459264379548580.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "bikini estela de mar",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2789,
+      "nombre": "Beige",
+      "precio": 110.0,
+      "id_color_confirmado": 2789,
+      "tallas": [
+        {
+          "id_talla": 3122,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176981028459264379548580.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:12:11Z"
+}

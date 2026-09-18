@@ -1,0 +1,41 @@
+{
+  "id_original": 935,
+  "url_original": "https://euchelperu.com/producto.php?id=935",
+  "nombre": "top mia lentejuelas",
+  "descripcion": "",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 49.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "935TOP300126",
+  "item_group_id": "935",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176981277133813424353051.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "top mia lentejuelas",
+  "precio_listado_normal": 49.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2795,
+      "nombre": "Beige",
+      "precio": 49.0,
+      "id_color_confirmado": 2795,
+      "tallas": [
+        {
+          "id_talla": 3125,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176981277133813424353051.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:13:47Z"
+}

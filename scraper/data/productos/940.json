@@ -1,0 +1,101 @@
+{
+  "id_original": 940,
+  "url_original": "https://euchelperu.com/producto.php?id=940",
+  "nombre": "Vestido Hilo Bico",
+  "descripcion": "",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "940VES90669",
+  "item_group_id": "940",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/177146135216387712951406.jpg",
+    "https://euchelperu.com/images/productos/177146155322372409736761.png",
+    "https://euchelperu.com/images/productos/177146166769515668495582.png",
+    "https://euchelperu.com/images/productos/177146174491477690339023.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Vestido Hilo Bico",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2820,
+      "nombre": "negro",
+      "precio": 75.0,
+      "id_color_confirmado": 2820,
+      "tallas": [
+        {
+          "id_talla": 3140,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177146135216387712951406.jpg",
+        "https://euchelperu.com/images/productos/177146155322372409736761.png",
+        "https://euchelperu.com/images/productos/177146166769515668495582.png",
+        "https://euchelperu.com/images/productos/177146174491477690339023.png"
+      ]
+    },
+    {
+      "id_color": 2821,
+      "nombre": "blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 2821,
+      "tallas": [
+        {
+          "id_talla": 3141,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177146155322372409736761.png",
+        "https://euchelperu.com/images/productos/177146135216387712951406.jpg",
+        "https://euchelperu.com/images/productos/177146166769515668495582.png",
+        "https://euchelperu.com/images/productos/177146174491477690339023.png"
+      ]
+    },
+    {
+      "id_color": 2822,
+      "nombre": "rojo",
+      "precio": 75.0,
+      "id_color_confirmado": 2822,
+      "tallas": [
+        {
+          "id_talla": 3142,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177146166769515668495582.png",
+        "https://euchelperu.com/images/productos/177146135216387712951406.jpg",
+        "https://euchelperu.com/images/productos/177146155322372409736761.png",
+        "https://euchelperu.com/images/productos/177146174491477690339023.png"
+      ]
+    },
+    {
+      "id_color": 2823,
+      "nombre": "beige",
+      "precio": 75.0,
+      "id_color_confirmado": 2823,
+      "tallas": [
+        {
+          "id_talla": 3143,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177146174491477690339023.png",
+        "https://euchelperu.com/images/productos/177146135216387712951406.jpg",
+        "https://euchelperu.com/images/productos/177146155322372409736761.png",
+        "https://euchelperu.com/images/productos/177146166769515668495582.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:14:58Z"
+}

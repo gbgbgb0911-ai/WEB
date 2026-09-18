@@ -1,0 +1,101 @@
+{
+  "id_original": 951,
+  "url_original": "https://euchelperu.com/producto.php?id=951",
+  "nombre": "Short Luci",
+  "descripcion": "",
+  "categoria": "Shorts",
+  "categoria_subid": 20,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "951A2S8D4F6",
+  "item_group_id": "951",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17715442313350912597531.jpg",
+    "https://euchelperu.com/images/productos/177170040709089308978144.jpg",
+    "https://euchelperu.com/images/productos/177170050186470285783370.jpg",
+    "https://euchelperu.com/images/productos/177170053522352688717679.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Short Luci",
+  "precio_listado_normal": 59.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2866,
+      "nombre": "marrón",
+      "precio": 59.0,
+      "id_color_confirmado": 2866,
+      "tallas": [
+        {
+          "id_talla": 3178,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17715442313350912597531.jpg",
+        "https://euchelperu.com/images/productos/177170040709089308978144.jpg",
+        "https://euchelperu.com/images/productos/177170050186470285783370.jpg",
+        "https://euchelperu.com/images/productos/177170053522352688717679.jpg"
+      ]
+    },
+    {
+      "id_color": 2869,
+      "nombre": "mostaza",
+      "precio": 59.0,
+      "id_color_confirmado": 2869,
+      "tallas": [
+        {
+          "id_talla": 3231,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177170040709089308978144.jpg",
+        "https://euchelperu.com/images/productos/17715442313350912597531.jpg",
+        "https://euchelperu.com/images/productos/177170050186470285783370.jpg",
+        "https://euchelperu.com/images/productos/177170053522352688717679.jpg"
+      ]
+    },
+    {
+      "id_color": 2915,
+      "nombre": "negro",
+      "precio": 59.0,
+      "id_color_confirmado": 2915,
+      "tallas": [
+        {
+          "id_talla": 3232,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177170050186470285783370.jpg",
+        "https://euchelperu.com/images/productos/17715442313350912597531.jpg",
+        "https://euchelperu.com/images/productos/177170040709089308978144.jpg",
+        "https://euchelperu.com/images/productos/177170053522352688717679.jpg"
+      ]
+    },
+    {
+      "id_color": 2916,
+      "nombre": "blanco",
+      "precio": 59.0,
+      "id_color_confirmado": 2916,
+      "tallas": [
+        {
+          "id_talla": 3233,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/177170053522352688717679.jpg",
+        "https://euchelperu.com/images/productos/17715442313350912597531.jpg",
+        "https://euchelperu.com/images/productos/177170040709089308978144.jpg",
+        "https://euchelperu.com/images/productos/177170050186470285783370.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T03:21:36Z"
+}
