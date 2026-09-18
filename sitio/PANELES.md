@@ -170,12 +170,10 @@ Qué cambia sin volver a desplegar y qué no:
 | cuentas y roles | no |
 | diseño, textos, código | sí |
 
-## Probar los paneles en un navegador
+## Probar
 
-Chromium en el contenedor no confía en la CA del proxy de salida, así que ir
-directo a la URL `https` da `ERR_CERT_AUTHORITY_INVALID`. La forma que
-funciona es servir `dist` en `http` local y reenviar `/auth/*` y `/api/*` al
-sitio real desde Node, que sí confía. Hay un arnés así en el historial de
-esta sesión; si hace falta otra vez, lo único con truco es que al bajar la
-cookie por `http` hay que quitarle `Secure` **y el prefijo `__Secure-`** del
-nombre (Chromium rechaza ese prefijo sin https) y devolvérselo al subir.
+Las pruebas de integración están en `sitio/pruebas/` con su propio README:
+permisos por rol, propagación de cada cambio del panel al catálogo público,
+y los flujos de interfaz en navegador. Corren contra producción con cuentas
+de prueba y borran lo que crean. La última corrida completa pasó entera:
+13 rutas × 4 roles, 34 pasos de propagación, 30 pasos de interfaz.

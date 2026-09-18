@@ -259,7 +259,7 @@ async function cambiarProducto(req: Request, sql: any, yo: Sesion, id: number) {
 
   await anotar(sql, yo, "cambiar-estado", "producto", id,
                { visible: antes.visible, agotado: antes.agotado },
-               { visible: despues.visible, agotado: despues.agotado });
+               { visible: despues.visible, agotado: despues.agotado, nombre: despues.nombre });
 
   return json(despues);
 }
@@ -336,7 +336,7 @@ async function archivar(req: Request, sql: any, yo: Sesion, id: number) {
   if (!filas[0]) return json({ error: "Producto no encontrado" }, 404);
 
   await anotar(sql, yo, cuerpo.archivado ? "archivar" : "desarchivar",
-               "producto", id, null, { archivado: cuerpo.archivado });
+               "producto", id, null, { archivado: cuerpo.archivado, nombre: filas[0].nombre });
   return json(filas[0]);
 }
 
@@ -430,10 +430,17 @@ async function bitacora(req: Request, sql: any) {
                                   join catalogo.color co on co.id = ta.color_id
                                   join catalogo.producto p on p.id = co.producto_id
                                  where ta.id = b.entidad_id::int)
-           end as nombre
+           end as nombre_vivo,
+           -- Si el producto ya no existe (se borró uno del panel), el nombre
+           -- que quedó guardado en el propio movimiento es lo único que hay.
+           coalesce(b.despues->>'nombre', b.antes->>'nombre') as nombre_guardado
       from negocio.bitacora b
      order by b.id desc
      limit 40 offset ${(pagina - 1) * 40}`;
+  for (const f of filas) {
+    f.nombre = f.nombre_vivo || f.nombre_guardado || null;
+    delete f.nombre_vivo; delete f.nombre_guardado;
+  }
   return json({ movimientos: filas, pagina });
 }
 
