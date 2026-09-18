@@ -1,0 +1,41 @@
+{
+  "id_original": 864,
+  "url_original": "https://euchelperu.com/producto.php?id=864",
+  "nombre": "BIKINI MARY",
+  "descripcion": "Prepárate para destacar en la playa con este diseño que combina elegancia y frescura. Diseño: Top de estilo halter en color negro con ribetes blancos contrastantes que definen y realzan la figura. Detalle de Lujo: Incluye un sofisticado broche de concha dorada con una perla en el centro, agregando un toque chic y único al escote. Ajuste: Bottom de corte alto diseñado para estilizar y alargar visualmente las piernas. Estilo: La pieza perfecta para un look de playa glamuroso y moderno.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "864BKN152",
+  "item_group_id": "864",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17691293809233461471087.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI MARY",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2614,
+      "nombre": "Negro",
+      "precio": 99.0,
+      "id_color_confirmado": 2614,
+      "tallas": [
+        {
+          "id_talla": 3042,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17691293809233461471087.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:42:28Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 863,
+  "url_original": "https://euchelperu.com/producto.php?id=863",
+  "nombre": "TOP SOLANGE LENTEJUELA",
+  "descripcion": "Eleva tu estilo con esta pieza mágica y llena de luz. Este top es el equilibrio perfecto entre un diseño fresco y un acabado de lujo. Diseño: Estilo halter en tono crema suave con un deslumbrante bordado de lentejuelas doradas que forman motivos de soles, lunas y estrellas. Corte: Presenta un favorecedor escote en V cruzado que estiliza la figura y deja la espalda descubierta para un look veraniego y chic. Versatilidad: Ideal para combinar con prendas de tiro alto, como faldas blancas o pantalones de lino, creando un outfit perfecto para eventos especiales o noches de cóctel.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 59.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "863TOP260119",
+  "item_group_id": "863",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17691232128124925917173.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2611,
+      "nombre": "Amarillo",
+      "precio": 59.0,
+      "id_color_confirmado": 2611,
+      "tallas": [
+        {
+          "id_talla": 3039,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17691232128124925917173.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:42:25Z"
+}

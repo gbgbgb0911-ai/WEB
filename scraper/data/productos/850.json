@@ -1,0 +1,41 @@
+{
+  "id_original": 850,
+  "url_original": "https://euchelperu.com/producto.php?id=850",
+  "nombre": "COLET",
+  "descripcion": "Esta elegante coleta para el cabello (scrunchie) en color marrón chocolate destaca por su diseño de tejido acanalado de alta calidad, realzado por un delicado ribete blanco en contraste que bordea sus pliegues, ofreciendo una sujeción suave y firme que evita el quiebre de la fibra capilar mientras añade un toque de sofisticación clásica y versátil a cualquier peinado casual.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 3.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "850COL76330",
+  "item_group_id": "850",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17684347020282600471683.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "COLET",
+  "precio_listado_normal": 3.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2549,
+      "nombre": "Marrón",
+      "precio": 3.0,
+      "id_color_confirmado": 2549,
+      "tallas": [
+        {
+          "id_talla": 2968,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17684347020282600471683.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:38:02Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id_original": 865,
+  "url_original": "https://euchelperu.com/producto.php?id=865",
+  "nombre": "BIKINI STEPHANY",
+  "descripcion": "Captura la esencia del verano con este diseño de texturas únicas y detalles sofisticados. Diseño y Textura: Top tipo bandeau confeccionado en tela crema plisada, que aporta relieve y un toque de distinción. Detalle Central: Incluye un delicado broche de concha metálica en el centro del pecho, fusionando el estilo náutico con el lujo. Contraste: Tirantes y lazos laterales en un vibrante tono terracota, perfectos para resaltar el bronceado. Ajuste Personalizado: El bottom presenta lazos laterales ajustables, permitiendo una comodidad total y un ajuste a medida.",
+  "categoria": "BIKINIS",
+  "categoria_subid": 21,
+  "precio_base": 99.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "865BKN153",
+  "item_group_id": "865",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176912962291278698897685.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BIKINI STEPHANY",
+  "precio_listado_normal": 99.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2615,
+      "nombre": "Beige",
+      "precio": 99.0,
+      "id_color_confirmado": 2615,
+      "tallas": [
+        {
+          "id_talla": 3043,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176912962291278698897685.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:42:31Z"
+}

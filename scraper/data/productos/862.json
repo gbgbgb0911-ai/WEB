@@ -1,0 +1,59 @@
+{
+  "id_original": 862,
+  "url_original": "https://euchelperu.com/producto.php?id=862",
+  "nombre": "MINI VESTIDO SOLANGE BRILLO",
+  "descripcion": "Deslumbra con este cautivador vestido corto en tono crema. Su diseño destaca por un exquisito bordado de lentejuelas doradas con motivos de lunas y estrellas que capturan la luz en cada movimiento. Silueta: Ajuste bodycon que realza la figura. Detalles: Tirantes finos tipo espagueti y escote en V. Ocasión: Perfecto para fiestas, cócteles o eventos donde quieras brillar con luz propia.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 110.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "862MIN190126",
+  "item_group_id": "862",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17691213422903163119600.png",
+    "https://euchelperu.com/images/productos/17691214253765521161512.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "MINI VESTIDO SOLANGE BRILLO",
+  "precio_listado_normal": 110.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2605,
+      "nombre": "NEGRO",
+      "precio": 110.0,
+      "id_color_confirmado": 2605,
+      "tallas": [
+        {
+          "id_talla": 3029,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17691213422903163119600.png",
+        "https://euchelperu.com/images/productos/17691214253765521161512.png"
+      ]
+    },
+    {
+      "id_color": 2606,
+      "nombre": "ROJO",
+      "precio": 110.0,
+      "id_color_confirmado": 2606,
+      "tallas": [
+        {
+          "id_talla": 3030,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17691214253765521161512.png",
+        "https://euchelperu.com/images/productos/17691213422903163119600.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:42:21Z"
+}

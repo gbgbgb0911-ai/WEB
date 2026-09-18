@@ -1,0 +1,59 @@
+{
+  "id_original": 853,
+  "url_original": "https://euchelperu.com/producto.php?id=853",
+  "nombre": "Sienna Bag",
+  "descripcion": "Este espectacular bolso de mano tejido en paja natural combina una textura artesanal con detalles contemporáneos, presentando un diseño estructurado de base firme que se complementa con una elegante solapa de cuero sintético en color camel y un cierre de hebilla metálica ajustable, convirtiéndose en el accesorio imprescindible para elevar cualquier atuendo veraniego o de playa con un toque de sofisticación rústica.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "853CAR06085",
+  "item_group_id": "853",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176843617548954595173695.jpg",
+    "https://euchelperu.com/images/productos/176843735533685590090342.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Sienna Bag",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2554,
+      "nombre": "Marrón/Beish",
+      "precio": 85.0,
+      "id_color_confirmado": 2554,
+      "tallas": [
+        {
+          "id_talla": 2973,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176843617548954595173695.jpg",
+        "https://euchelperu.com/images/productos/176843735533685590090342.jpg"
+      ]
+    },
+    {
+      "id_color": 2560,
+      "nombre": "Azul/Amarillo/Beish",
+      "precio": 85.0,
+      "id_color_confirmado": 2560,
+      "tallas": [
+        {
+          "id_talla": 2979,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176843735533685590090342.jpg",
+        "https://euchelperu.com/images/productos/176843617548954595173695.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:38:45Z"
+}

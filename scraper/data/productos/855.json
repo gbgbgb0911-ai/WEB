@@ -1,0 +1,75 @@
+{
+  "id_original": 855,
+  "url_original": "https://euchelperu.com/producto.php?id=855",
+  "nombre": "Cherry Night",
+  "descripcion": "Este sofisticado bolso de hombro con silueta de media luna destaca por su acabado en charol de alto brillo en un profundo tono vino tinto, presentando un diseño estructurado y minimalista con un sutil detalle metálico plateado en el centro y una asa delgada ajustable, convirtiéndose en el accesorio de tendencia perfecto para añadir un toque de elegancia retro y nocturna a cualquier atuendo.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "855CAR79778",
+  "item_group_id": "855",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17684371718161445597012.jpg",
+    "https://euchelperu.com/images/productos/176843724005395211352946.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Cherry Night",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2557,
+      "nombre": "Vino",
+      "precio": 69.0,
+      "id_color_confirmado": 2557,
+      "tallas": [
+        {
+          "id_talla": 2976,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17684371718161445597012.jpg",
+        "https://euchelperu.com/images/productos/176843724005395211352946.jpg"
+      ]
+    },
+    {
+      "id_color": 2558,
+      "nombre": "Crema",
+      "precio": 69.0,
+      "id_color_confirmado": 2558,
+      "tallas": [
+        {
+          "id_talla": 2977,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17684371718161445597012.jpg",
+        "https://euchelperu.com/images/productos/176843724005395211352946.jpg"
+      ]
+    },
+    {
+      "id_color": 2559,
+      "nombre": "Blanco",
+      "precio": 69.0,
+      "id_color_confirmado": 2559,
+      "tallas": [
+        {
+          "id_talla": 2978,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176843724005395211352946.jpg",
+        "https://euchelperu.com/images/productos/17684371718161445597012.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:39:36Z"
+}

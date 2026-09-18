@@ -1,0 +1,79 @@
+{
+  "id_original": 857,
+  "url_original": "https://euchelperu.com/producto.php?id=857",
+  "nombre": "Amalfi Bag",
+  "descripcion": "Este sofisticado bolso de hombro con estampado de leopardo destaca por su diseño de silueta estructurada en media luna y herrajes dorados, complementado con una elegante pañoleta decorativa anudada al cierre y una asa larga ajustable en color negro que lo convierte en el accesorio de tendencia ideal para añadir un toque audaz y glamuroso a cualquier atuendo básico.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 79.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "857CAR48873",
+  "item_group_id": "857",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176843794914649442330955.jpg",
+    "https://euchelperu.com/images/productos/17684380360973553736544.jpg",
+    "https://euchelperu.com/images/productos/176843812832400525517891.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "Amalfi Bag",
+  "precio_listado_normal": 79.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2565,
+      "nombre": "Beige",
+      "precio": 79.0,
+      "id_color_confirmado": 2565,
+      "tallas": [
+        {
+          "id_talla": 2984,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176843794914649442330955.jpg",
+        "https://euchelperu.com/images/productos/17684380360973553736544.jpg",
+        "https://euchelperu.com/images/productos/176843812832400525517891.jpg"
+      ]
+    },
+    {
+      "id_color": 2566,
+      "nombre": "Blanco",
+      "precio": 79.0,
+      "id_color_confirmado": 2566,
+      "tallas": [
+        {
+          "id_talla": 2985,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17684380360973553736544.jpg",
+        "https://euchelperu.com/images/productos/176843794914649442330955.jpg",
+        "https://euchelperu.com/images/productos/176843812832400525517891.jpg"
+      ]
+    },
+    {
+      "id_color": 2567,
+      "nombre": "Beige",
+      "precio": 79.0,
+      "id_color_confirmado": 2567,
+      "tallas": [
+        {
+          "id_talla": 2986,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176843812832400525517891.jpg",
+        "https://euchelperu.com/images/productos/176843794914649442330955.jpg",
+        "https://euchelperu.com/images/productos/17684380360973553736544.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:39:57Z"
+}

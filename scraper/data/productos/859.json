@@ -1,0 +1,53 @@
+{
+  "id_original": 859,
+  "url_original": "https://euchelperu.com/producto.php?id=859",
+  "nombre": "short sara",
+  "descripcion": "se define por su favorecedor diseño de tiro alto y estructura clásica de cinco bolsillos, confeccionado en un tejido firme que garantiza durabilidad y estilo; además, su acabado con ruedo doblado aporta un toque casual y sofisticado que lo convierte en el básico de fondo de armario perfecto para crear looks frescos y versátiles.",
+  "categoria": "Shorts",
+  "categoria_subid": 20,
+  "precio_base": 85.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "859SHO130126",
+  "item_group_id": "859",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176850673158050599374258.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "short sara",
+  "precio_listado_normal": 85.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2576,
+      "nombre": "Blanco",
+      "precio": 85.0,
+      "id_color_confirmado": 2576,
+      "tallas": [
+        {
+          "id_talla": 2995,
+          "nombre": "26"
+        },
+        {
+          "id_talla": 2996,
+          "nombre": "28"
+        },
+        {
+          "id_talla": 2997,
+          "nombre": "30"
+        },
+        {
+          "id_talla": 2998,
+          "nombre": "32"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176850673158050599374258.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:40:23Z"
+}

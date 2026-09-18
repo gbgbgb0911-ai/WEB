@@ -1,0 +1,41 @@
+{
+  "id_original": 852,
+  "url_original": "https://euchelperu.com/producto.php?id=852",
+  "nombre": "GANCHO MARMOL",
+  "descripcion": "Este encantador set de tres mini pinzas para el cabello en forma de estrella de mar destaca por su delicado acabado marmoleado en tonos oceánicos (azul lila, menta y blanco perla), ofreciendo una sujeción práctica y estilizada con un diseño de inspiración marina que es ideal para añadir un toque refrescante y veraniego a cualquier peinado.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 5.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "852GAN77506",
+  "item_group_id": "852",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/1768435859340447619805.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2553,
+      "nombre": "azul lila/menta/blanco perla",
+      "precio": 5.0,
+      "id_color_confirmado": 2553,
+      "tallas": [
+        {
+          "id_talla": 2972,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/1768435859340447619805.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:38:39Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id_original": 851,
+  "url_original": "https://euchelperu.com/producto.php?id=851",
+  "nombre": "CLIP ORQUIDEA",
+  "descripcion": "Estos encantadores clips para el cabello en forma de orquídea destacan por su vibrante color fucsia y detalles realistas en los pétalos, incorporando una elegante perla central que añade un toque de sofisticación tropical, convirtiéndolos en el accesorio perfecto para realzar peinados recogidos o sueltos con un estilo exótico y romántico.",
+  "categoria": "Accesorios",
+  "categoria_subid": 19,
+  "precio_base": 5.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "851CLI57552",
+  "item_group_id": "851",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17684351356854076472986.jpg",
+    "https://euchelperu.com/images/productos/176843524203254437997426.jpg",
+    "https://euchelperu.com/images/productos/176843530989232872528473.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2550,
+      "nombre": "Turquesa",
+      "precio": 5.0,
+      "id_color_confirmado": 2550,
+      "tallas": [
+        {
+          "id_talla": 2969,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17684351356854076472986.jpg",
+        "https://euchelperu.com/images/productos/176843524203254437997426.jpg",
+        "https://euchelperu.com/images/productos/176843530989232872528473.jpg"
+      ]
+    },
+    {
+      "id_color": 2551,
+      "nombre": "Rojo/Amarillo/Celeste",
+      "precio": 5.0,
+      "id_color_confirmado": 2551,
+      "tallas": [
+        {
+          "id_talla": 2970,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176843524203254437997426.jpg",
+        "https://euchelperu.com/images/productos/17684351356854076472986.jpg",
+        "https://euchelperu.com/images/productos/176843530989232872528473.jpg"
+      ]
+    },
+    {
+      "id_color": 2552,
+      "nombre": "Colores Pasteles",
+      "precio": 5.0,
+      "id_color_confirmado": 2552,
+      "tallas": [
+        {
+          "id_talla": 2971,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176843530989232872528473.jpg",
+        "https://euchelperu.com/images/productos/17684351356854076472986.jpg",
+        "https://euchelperu.com/images/productos/176843524203254437997426.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:38:36Z"
+}

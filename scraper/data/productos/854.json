@@ -1,0 +1,59 @@
+{
+  "id_original": 854,
+  "url_original": "https://euchelperu.com/producto.php?id=854",
+  "nombre": "Eclipse Bag",
+  "descripcion": "Este elegante bolso de hombro con silueta de media luna destaca por su sofisticada combinación de texturas, presentando un cuerpo confeccionado en un tejido técnico con un sutil patrón de espiga en tonos crema y beige, complementado por una estructurada asa ajustable y detalles en cuero sintético de color marfil, que se integran mediante un cierre central de solapa mínima para ofrecer un accesorio moderno y versátil ideal para elevar cualquier atuendo de diario.",
+  "categoria": "Carteras",
+  "categoria_subid": 12,
+  "precio_base": 89.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "854CAR51216",
+  "item_group_id": "854",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176843639928942386012111.jpg",
+    "https://euchelperu.com/images/productos/17684369822489980239378.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 2555,
+      "nombre": "Crema",
+      "precio": 89.0,
+      "id_color_confirmado": 2555,
+      "tallas": [
+        {
+          "id_talla": 2974,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176843639928942386012111.jpg",
+        "https://euchelperu.com/images/productos/17684369822489980239378.jpg"
+      ]
+    },
+    {
+      "id_color": 2556,
+      "nombre": "Negro",
+      "precio": 89.0,
+      "id_color_confirmado": 2556,
+      "tallas": [
+        {
+          "id_talla": 2975,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17684369822489980239378.jpg",
+        "https://euchelperu.com/images/productos/176843639928942386012111.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T02:39:03Z"
+}
