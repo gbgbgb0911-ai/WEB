@@ -345,12 +345,25 @@ async function tablero(req: Request, sql: any) {
 
 async function bitacora(req: Request, sql: any) {
   const pagina = Math.max(1, Number(new URL(req.url).searchParams.get("pagina")) || 1);
+  // El nombre se resuelve para los tres tipos de fila. Con solo el de
+  // producto, un cambio de talla se leía "talla 1 disponible", que no le dice
+  // nada a nadie.
   const filas = await sql`
     select b.id, b.actor, b.accion, b.entidad, b.entidad_id, b.antes, b.despues,
            b.creado_en,
-           case when b.entidad = 'producto'
-                then (select p.nombre from catalogo.producto p
-                       where p.id = b.entidad_id::int) end as nombre
+           case b.entidad
+             when 'producto' then (select p.nombre from catalogo.producto p
+                                    where p.id = b.entidad_id::int)
+             when 'color' then (select p.nombre || ' · ' || co.nombre
+                                  from catalogo.color co
+                                  join catalogo.producto p on p.id = co.producto_id
+                                 where co.id = b.entidad_id::int)
+             when 'talla' then (select p.nombre || ' · ' || co.nombre || ' · talla ' || ta.nombre
+                                  from catalogo.talla ta
+                                  join catalogo.color co on co.id = ta.color_id
+                                  join catalogo.producto p on p.id = co.producto_id
+                                 where ta.id = b.entidad_id::int)
+           end as nombre
       from negocio.bitacora b
      order by b.id desc
      limit 40 offset ${(pagina - 1) * 40}`;

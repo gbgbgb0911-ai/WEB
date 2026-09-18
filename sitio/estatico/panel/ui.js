@@ -10,8 +10,13 @@ export function escapar(s) {
     .replace(/"/g, '&quot;');
 }
 
+const SOLES = new Intl.NumberFormat('es-PE', { minimumFractionDigits: 2,
+                                               maximumFractionDigits: 2 });
+
 export function moneda(v) {
-  return v === null || v === undefined || v === '' ? '—' : 'S/ ' + Number(v).toFixed(2);
+  // Con separador de miles: el tablero llega a cifras de cinco dígitos y
+  // "S/ 11100.00" se lee mal de un vistazo.
+  return v === null || v === undefined || v === '' ? '—' : 'S/ ' + SOLES.format(Number(v));
 }
 
 export function numero(n) {
