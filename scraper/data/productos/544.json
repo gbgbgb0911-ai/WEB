@@ -1,0 +1,101 @@
+{
+  "id_original": 544,
+  "url_original": "https://euchelperu.com/producto.php?id=544",
+  "nombre": "VESTIDO ALISON BOBOS",
+  "descripcion": "Minivestido con escote en V profundo. La prenda ideal para tus noches de fiesta. Su diseño incluye un favorecedor fruncido lateral que realza la silueta y un volante sutil en la falda para un toque dinámico",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 69.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "544VESAB4516",
+  "item_group_id": "544",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176341713108247676771913.jpg",
+    "https://euchelperu.com/images/productos/176376781639424723564600.png",
+    "https://euchelperu.com/images/productos/176376782812530998825223.png",
+    "https://euchelperu.com/images/productos/176376784134627645322552.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ALISON BOBOS",
+  "precio_listado_normal": 69.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1689,
+      "nombre": "Marrón",
+      "precio": 69.0,
+      "id_color_confirmado": 1689,
+      "tallas": [
+        {
+          "id_talla": 1955,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176341713108247676771913.jpg",
+        "https://euchelperu.com/images/productos/176376781639424723564600.png",
+        "https://euchelperu.com/images/productos/176376782812530998825223.png",
+        "https://euchelperu.com/images/productos/176376784134627645322552.png"
+      ]
+    },
+    {
+      "id_color": 1690,
+      "nombre": "Negro",
+      "precio": 69.0,
+      "id_color_confirmado": 1690,
+      "tallas": [
+        {
+          "id_talla": 1956,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176376781639424723564600.png",
+        "https://euchelperu.com/images/productos/176341713108247676771913.jpg",
+        "https://euchelperu.com/images/productos/176376782812530998825223.png",
+        "https://euchelperu.com/images/productos/176376784134627645322552.png"
+      ]
+    },
+    {
+      "id_color": 1691,
+      "nombre": "Vino",
+      "precio": 69.0,
+      "id_color_confirmado": 1691,
+      "tallas": [
+        {
+          "id_talla": 1957,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176376782812530998825223.png",
+        "https://euchelperu.com/images/productos/176341713108247676771913.jpg",
+        "https://euchelperu.com/images/productos/176376781639424723564600.png",
+        "https://euchelperu.com/images/productos/176376784134627645322552.png"
+      ]
+    },
+    {
+      "id_color": 1692,
+      "nombre": "Blanco",
+      "precio": 69.0,
+      "id_color_confirmado": 1692,
+      "tallas": [
+        {
+          "id_talla": 1958,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176376784134627645322552.png",
+        "https://euchelperu.com/images/productos/176341713108247676771913.jpg",
+        "https://euchelperu.com/images/productos/176376781639424723564600.png",
+        "https://euchelperu.com/images/productos/176376782812530998825223.png"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:42:39Z"
+}

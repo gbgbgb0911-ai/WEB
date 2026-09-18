@@ -1,0 +1,67 @@
+{
+  "id_original": 548,
+  "url_original": "https://euchelperu.com/producto.php?id=548",
+  "nombre": "VESTIDO ROMA",
+  "descripcion": "Minivestido de impacto. Perfecto para destacar en cualquier fiesta o cita especial. Cuenta con un atrevido escote en V profundo, delicados tirantes y una falda corta con un espectacular detalle de rosas en 3D superpuestas",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 75.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "548VERA6713",
+  "item_group_id": "548",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176342087346179124354972.jpg",
+    "https://euchelperu.com/images/productos/17635868106187606551740.png"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ROMA",
+  "precio_listado_normal": 75.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1700,
+      "nombre": "Rojo",
+      "precio": 75.0,
+      "id_color_confirmado": 1700,
+      "tallas": [
+        {
+          "id_talla": 1966,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2055,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176342087346179124354972.jpg",
+        "https://euchelperu.com/images/productos/17635868106187606551740.png"
+      ]
+    },
+    {
+      "id_color": 1701,
+      "nombre": "Blanco",
+      "precio": 75.0,
+      "id_color_confirmado": 1701,
+      "tallas": [
+        {
+          "id_talla": 1967,
+          "nombre": "S"
+        },
+        {
+          "id_talla": 2056,
+          "nombre": "M"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17635868106187606551740.png",
+        "https://euchelperu.com/images/productos/176342087346179124354972.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:43:21Z"
+}

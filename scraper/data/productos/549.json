@@ -1,0 +1,59 @@
+{
+  "id_original": 549,
+  "url_original": "https://euchelperu.com/producto.php?id=549",
+  "nombre": "VESTIDO ORIANA HILO",
+  "descripcion": "Vestido midi tejido estilo halter. Una pieza romántica y de tendencia. Ofrece una silueta entallada y elegante.",
+  "categoria": "Vestidos",
+  "categoria_subid": 8,
+  "precio_base": 65.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "549VEORI4903",
+  "item_group_id": "549",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176529908513370510311952.jpg",
+    "https://euchelperu.com/images/productos/176529918432979675958312.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "VESTIDO ORIANA HILO",
+  "precio_listado_normal": 65.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1706,
+      "nombre": "Negro",
+      "precio": 65.0,
+      "id_color_confirmado": 1706,
+      "tallas": [
+        {
+          "id_talla": 1972,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176529918432979675958312.jpg",
+        "https://euchelperu.com/images/productos/176529908513370510311952.jpg"
+      ]
+    },
+    {
+      "id_color": 1709,
+      "nombre": "Blanco",
+      "precio": 65.0,
+      "id_color_confirmado": 1709,
+      "tallas": [
+        {
+          "id_talla": 1975,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176529908513370510311952.jpg",
+        "https://euchelperu.com/images/productos/176529918432979675958312.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:43:51Z"
+}
