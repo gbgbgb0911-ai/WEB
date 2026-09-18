@@ -1,0 +1,101 @@
+{
+  "id_original": 556,
+  "url_original": "https://euchelperu.com/producto.php?id=556",
+  "nombre": "BLUSA MANGA CORTA CORSET",
+  "descripcion": "Blusa entallada con fruncido. Una prenda clave para un look sofisticado y moderno.",
+  "categoria": "Blusas",
+  "categoria_subid": 18,
+  "precio_base": 55.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "556BLU68366",
+  "item_group_id": "556",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/17634254719204028028507.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "ambos",
+  "nombre_listado": "BLUSA MANGA CORTA CORSET",
+  "precio_listado_normal": 55.0,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1729,
+      "nombre": "Celeste",
+      "precio": 55.0,
+      "id_color_confirmado": 1729,
+      "tallas": [
+        {
+          "id_talla": 1998,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17634254719204028028507.jpg"
+      ]
+    },
+    {
+      "id_color": 1730,
+      "nombre": "Negro",
+      "precio": 55.0,
+      "id_color_confirmado": 1730,
+      "tallas": [
+        {
+          "id_talla": 1999,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17634254719204028028507.jpg"
+      ]
+    },
+    {
+      "id_color": 1731,
+      "nombre": "Blanco",
+      "precio": 55.0,
+      "id_color_confirmado": 1731,
+      "tallas": [
+        {
+          "id_talla": 2000,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17634254719204028028507.jpg"
+      ]
+    },
+    {
+      "id_color": 2008,
+      "nombre": "Beige",
+      "precio": 55.0,
+      "id_color_confirmado": 2008,
+      "tallas": [
+        {
+          "id_talla": 2341,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17634254719204028028507.jpg"
+      ]
+    },
+    {
+      "id_color": 2009,
+      "nombre": "rojo",
+      "precio": 55.0,
+      "id_color_confirmado": 2009,
+      "tallas": [
+        {
+          "id_talla": 2342,
+          "nombre": "Standard"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/17634254719204028028507.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:47:22Z"
+}

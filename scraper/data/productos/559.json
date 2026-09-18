@@ -1,0 +1,119 @@
+{
+  "id_original": 559,
+  "url_original": "https://euchelperu.com/producto.php?id=559",
+  "nombre": "TOP MELANY BUFANDA",
+  "descripcion": "Presenta un corte asimétrico de un solo hombro y un largo lazo integrado que puedes anudar al cuello como bufanda o dejar caer para un efecto dramático.",
+  "categoria": "Tops",
+  "categoria_subid": 3,
+  "precio_base": 39.0,
+  "moneda": "PEN",
+  "precio_oferta": null,
+  "retailer_item_id": "559TOP35078",
+  "item_group_id": "559",
+  "marca": "Basic 21 Perú",
+  "imagenes_ficha": [
+    "https://euchelperu.com/images/productos/176342675074728113215544.jpg",
+    "https://euchelperu.com/images/productos/176530705386677558972514.jpg",
+    "https://euchelperu.com/images/productos/176530719787033768020574.jpg",
+    "https://euchelperu.com/images/productos/176530724256303869416092.jpg"
+  ],
+  "stock": null,
+  "agotado": null,
+  "origen": "barrido",
+  "nombre_listado": null,
+  "precio_listado_normal": null,
+  "precio_listado_oferta": null,
+  "colores": [
+    {
+      "id_color": 1739,
+      "nombre": "Acero",
+      "precio": 39.0,
+      "id_color_confirmado": 1739,
+      "tallas": [
+        {
+          "id_talla": 2008,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176342675074728113215544.jpg",
+        "https://euchelperu.com/images/productos/176530705386677558972514.jpg",
+        "https://euchelperu.com/images/productos/176530719787033768020574.jpg",
+        "https://euchelperu.com/images/productos/176530724256303869416092.jpg"
+      ]
+    },
+    {
+      "id_color": 1740,
+      "nombre": "Negro",
+      "precio": 39.0,
+      "id_color_confirmado": 1740,
+      "tallas": [
+        {
+          "id_talla": 2009,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176530705386677558972514.jpg",
+        "https://euchelperu.com/images/productos/176342675074728113215544.jpg",
+        "https://euchelperu.com/images/productos/176530719787033768020574.jpg",
+        "https://euchelperu.com/images/productos/176530724256303869416092.jpg"
+      ]
+    },
+    {
+      "id_color": 1741,
+      "nombre": "Blanco",
+      "precio": 39.0,
+      "id_color_confirmado": 1741,
+      "tallas": [
+        {
+          "id_talla": 2010,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176530719787033768020574.jpg",
+        "https://euchelperu.com/images/productos/176342675074728113215544.jpg",
+        "https://euchelperu.com/images/productos/176530705386677558972514.jpg",
+        "https://euchelperu.com/images/productos/176530724256303869416092.jpg"
+      ]
+    },
+    {
+      "id_color": 1742,
+      "nombre": "Amarillo",
+      "precio": 39.0,
+      "id_color_confirmado": 1742,
+      "tallas": [
+        {
+          "id_talla": 2011,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176530724256303869416092.jpg",
+        "https://euchelperu.com/images/productos/176342675074728113215544.jpg",
+        "https://euchelperu.com/images/productos/176530705386677558972514.jpg",
+        "https://euchelperu.com/images/productos/176530719787033768020574.jpg"
+      ]
+    },
+    {
+      "id_color": 1743,
+      "nombre": "Verde Olivo",
+      "precio": 39.0,
+      "id_color_confirmado": 1743,
+      "tallas": [
+        {
+          "id_talla": 2012,
+          "nombre": "Standar"
+        }
+      ],
+      "imagenes": [
+        "https://euchelperu.com/images/productos/176342675074728113215544.jpg",
+        "https://euchelperu.com/images/productos/176530705386677558972514.jpg",
+        "https://euchelperu.com/images/productos/176530719787033768020574.jpg",
+        "https://euchelperu.com/images/productos/176530724256303869416092.jpg"
+      ]
+    }
+  ],
+  "scraped_at": "2026-09-18T00:47:50Z"
+}
