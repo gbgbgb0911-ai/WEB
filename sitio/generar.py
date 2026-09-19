@@ -36,6 +36,13 @@ AUTH_BASE = os.environ.get(
     "https://ep-delicate-poetry-ar49pls1.neonauth.c-4.us-west-2.aws.neon.tech/euchel/auth",
 ).rstrip("/")
 
+# El único sitio donde hace falta escribir la dirección del sitio: el
+# robots.txt, que tiene que decir dónde está el sitemap en absoluto. Todo lo
+# demás (canónicas, sitemap, vistas previas de WhatsApp) lo arma la función
+# con la dirección por la que entró la visita, así que el dominio se cambia
+# sin tocar código.
+SITIO = os.environ.get("SITIO_BASE", "https://euchelperu.com").rstrip("/")
+
 
 def escribir(destino: Path, contenido: str):
     destino.parent.mkdir(parents=True, exist_ok=True)
@@ -76,7 +83,7 @@ def main():
     escribir(salida / "robots.txt",
              "User-agent: *\nAllow: /\n"
              "Disallow: /trabajador/\nDisallow: /admin/\n"
-             "Sitemap: https://euchel-catalogo.netlify.app/sitemap.xml\n")
+             f"Sitemap: {SITIO}/sitemap.xml\n")
 
     # --- _redirects y _headers.
     #
