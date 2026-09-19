@@ -86,6 +86,47 @@ Lo que sí puede: leer el catálogo, actualizar producto, color y talla,
 insertar en `negocio.intencion` y en `negocio.bitacora`. La bitácora es solo
 de añadir: ni el panel ni las funciones pueden borrar una línea.
 
+## Tallas: cómo quedaron (19 de septiembre de 2026)
+
+Lo pidieron los dueños. Solo hay dos formas de talla en el catálogo:
+
+| Qué | Tallas |
+|---|---|
+| Pantalones jean, faldas y shorts | 26, 28, 30, 32, 34 |
+| Todo lo demás | `Estándar`, una sola |
+
+Un producto cuenta como jean si lo dice el nombre o si ya vendía por número
+antes del cambio. Son 79 productos con número y 883 con `Estándar`.
+
+`Estándar` no se pinta en la ficha: si no hay nada que elegir, no se
+pregunta (ver `tallasVisibles` en `_lib/plantillas.mts`). Así que las fichas
+de todo lo que no sea jean, falda o short salen sin selector de talla.
+
+Antes de esto el campo tenía de todo: `Standar`, `Standard`, `standart`,
+`único`, `S-M`, `28-30-32`, `-`, hasta un código de producto. Nada de eso
+queda.
+
+Lo que había está copiado entero en `catalogo.talla_respaldo_20260919`, y
+en `catalogo.plan_tallas_20260919` queda qué se decidió para cada producto.
+Para devolver un producto a sus tallas de antes:
+
+```sql
+delete from catalogo.talla t using catalogo.color co
+ where t.color_id = co.id and co.producto_id = <id>;
+insert into catalogo.talla (color_id, nombre, agotado, orden)
+select r.color_id, r.nombre, r.agotado, r.orden
+  from catalogo.talla_respaldo_20260919 r
+  join catalogo.color co on co.id = r.color_id
+ where co.producto_id = <id>;
+```
+
+Después hay que tirar la caché del catálogo: cualquier guardado en el panel
+la purga, o un despliegue.
+
+Nota: el calzado (7 productos) también quedó en `Estándar` y antes tenía
+35 a 39. Entra en "todo lo demás", pero si se quiere recuperar, ahí está el
+respaldo.
+
 ## Variables de entorno en Netlify
 
 | Nombre | Para qué |
