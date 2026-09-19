@@ -325,10 +325,15 @@ export function tarjeta(original: Producto, primera = false): string {
      así que anunciarlo era prometer un surtido que igual no está. En su
      lugar, la talla, que sí es lo que se mira antes de entrar. */
   const tallas = tallasVisibles(p);
-  const numericas = tallas.length > 0 && tallas.every((t) => /^\d+$/.test(t));
+  const nums = tallas.every((t) => /^\d+$/.test(t)) ? tallas.map(Number) : null;
+  // "Tallas 26–34" solo si están todas las del medio, con el mismo salto.
+  // Una sandalia con 36, 37 y 39 no puede anunciarse como 36–39: la 38 no
+  // está, y quien viene a por ella se entera al abrir la ficha.
+  const seguidas = nums !== null && nums.length > 2
+    && nums.every((n, i) => i === 0 || n - nums[i - 1] === nums[1] - nums[0]);
   const meta = !tallas.length ? ""
-    : numericas ? `Tallas ${tallas[0]}–${tallas[tallas.length - 1]}`
-    : tallas.length <= 3 ? `Tallas ${tallas.join(", ")}`
+    : seguidas ? `Tallas ${tallas[0]}–${tallas[tallas.length - 1]}`
+    : tallas.length <= 5 ? `Tallas ${tallas.join(", ")}`
     : `${tallas.length} tallas`;
 
   return `<a class="tarjeta revelar" href="/p/${e(p.slug)}/">

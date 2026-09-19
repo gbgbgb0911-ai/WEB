@@ -93,6 +93,7 @@ Lo pidieron los dueños. Solo hay dos formas de talla en el catálogo:
 | Qué | Tallas |
 |---|---|
 | Pantalones jean, faldas y shorts | 26, 28, 30, 32, 34 |
+| Calzado | las suyas, de la 35 a la 39 |
 | Todo lo demás | `Estándar`, una sola |
 
 Un producto cuenta como jean si lo dice el nombre o si ya vendía por número
@@ -123,9 +124,15 @@ select r.color_id, r.nombre, r.agotado, r.orden
 Después hay que tirar la caché del catálogo: cualquier guardado en el panel
 la purga, o un despliegue.
 
-Nota: el calzado (7 productos) también quedó en `Estándar` y antes tenía
-35 a 39. Entra en "todo lo demás", pero si se quiere recuperar, ahí está el
-respaldo.
+El calzado es la excepción: un zapato sin talla no se vende. Se le
+devolvieron las suyas desde el respaldo, y de paso se separaron las
+etiquetas que llevaban varias juntas (`36-37-39` pasó a ser 36, 37 y 39).
+Nueve productos, cada uno con las que de verdad tenía.
+
+En el listado, la tarjeta resume las tallas. Pone un rango (`Tallas 26–34`)
+solo si están todas las del medio con el mismo salto; si falta alguna las
+enumera (`Tallas 36, 37, 39`). Una sandalia sin la 38 no puede anunciarse
+como 36–39.
 
 ## Variables de entorno en Netlify
 

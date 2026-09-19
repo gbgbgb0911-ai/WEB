@@ -49,3 +49,19 @@ assert.ok(agotado.includes("cta--muerto") && agotado.includes("cta--llena"),
   "sin stock, preguntar tiene que ser el botón principal");
 
 console.log("ficha: todo bien");
+
+// El resumen de tallas de la tarjeta: rango solo si están todas las del medio
+{
+  const { tarjeta } = await import("../../netlify/functions/_lib/plantillas.mts");
+  const meta = (tallas: string[]) => {
+    const html = tarjeta(base({ colores: [color("Único", tallas)] }) as any, false);
+    return (html.match(/tarjeta__meta">([^<]*)</) || [])[1] || "";
+  };
+  assert.equal(meta(["26", "28", "30", "32", "34"]), "Tallas 26–34");
+  assert.equal(meta(["36", "37", "38", "39"]), "Tallas 36–39");
+  assert.equal(meta(["36", "37", "39"]), "Tallas 36, 37, 39", "un hueco no puede anunciarse como rango");
+  assert.equal(meta(["35", "36", "37", "39"]), "Tallas 35, 36, 37, 39");
+  assert.equal(meta(["Standar"]), "");
+  assert.equal(meta(["S", "M", "L"]), "Tallas S, M, L");
+  console.log("tarjeta: todo bien");
+}
