@@ -9,13 +9,17 @@ import { sesionDe, anotar, json, errorDe, SinPermiso, type Sesion } from "./_lib
  *
  *   GET  /api/panel/yo
  *   GET  /api/panel/productos?q=&cat=&estado=&pagina=
- *        estado: activo | agotado | oculto | archivado (este último solo
+ *        estado: activo | agotado | oculto | destacado | archivado (el último solo
  *        muestra archivados; los demás los excluyen: archivar los saca del
  *        panel, y este filtro es la única puerta para recuperarlos)
  *   GET  /api/panel/producto/:id
- *   POST /api/panel/producto/:id/estado   { agotado?, visible? }
+ *   POST /api/panel/producto/:id/estado   { agotado?, visible?, destacado? }
+ *        destacado es de admin: sube el producto al principio del catálogo
  *   POST /api/panel/color/:id/estado      { agotado }
  *   POST /api/panel/talla/:id/estado      { agotado }
+ *
+ *   GET  /api/panel/ajustes               cómo se ordena el catálogo
+ *   POST /api/panel/ajustes               { orden_catalogo }              (admin)
  *
  *   GET  /api/panel/tablero?dias=30       (admin)
  *   POST /api/panel/producto/:id/precio   { precio, precio_antes }  (admin)
@@ -140,6 +144,16 @@ async function despachar(req: Request, sql: any, ruta: string, partes: string[])
       return await tablero(req, sql);
     }
 
+    if (partes[0] === "ajustes" && req.method === "GET") {
+      await sesionDe(req, sql, ["admin", "trabajadora"]);
+      return await leerAjustes(sql);
+    }
+
+    if (partes[0] === "ajustes" && req.method === "POST") {
+      const yo = await sesionDe(req, sql, ["admin"]);
+      return await guardarAjustes(req, sql, yo);
+    }
+
     if (partes[0] === "refrescar" && req.method === "POST") {
       // No escribe nada: solo purga. Sirve tras un despliegue (las páginas
       // guardadas en el borde llevan la versión anterior de los estáticos)
@@ -177,7 +191,7 @@ async function listar(req: Request, sql: any, _yo: Sesion) {
   const porId = /^\d+$/.test(q) ? Number(q) : null;
 
   const filas = await sql`
-    select p.id, p.nombre, p.precio, p.visible, p.agotado, p.archivado,
+    select p.id, p.nombre, p.precio, p.visible, p.agotado, p.archivado, p.destacado,
            c.nombre as categoria,
            (select i.hash from catalogo.imagen i
              where i.producto_id = p.id order by i.orden limit 1) as foto,
@@ -194,8 +208,9 @@ async function listar(req: Request, sql: any, _yo: Sesion) {
        and (${estado} = '' or ${estado} = 'archivado' or
             (${estado} = 'agotado'  and p.agotado) or
             (${estado} = 'oculto'   and not p.visible) or
+            (${estado} = 'destacado' and p.destacado) or
             (${estado} = 'activo'   and p.visible and not p.agotado))
-     order by p.id desc
+     order by p.destacado desc, p.id desc
      limit ${PAGINA} offset ${(pagina - 1) * PAGINA}`;
 
   const [{ total }] = await sql`
@@ -209,6 +224,7 @@ async function listar(req: Request, sql: any, _yo: Sesion) {
        and (${estado} = '' or ${estado} = 'archivado' or
             (${estado} = 'agotado'  and p.agotado) or
             (${estado} = 'oculto'   and not p.visible) or
+            (${estado} = 'destacado' and p.destacado) or
             (${estado} = 'activo'   and p.visible and not p.agotado))`;
 
   const categorias = await sql`
@@ -254,22 +270,26 @@ async function cambiarProducto(req: Request, sql: any, yo: Sesion, id: number) {
   const cuerpo = await req.json().catch(() => ({})) as Record<string, unknown>;
 
   const [antes] = await sql`
-    select id, nombre, visible, agotado from catalogo.producto where id = ${id}`;
+    select id, nombre, visible, agotado, destacado from catalogo.producto where id = ${id}`;
   if (!antes) return json({ error: "Producto no encontrado" }, 404);
 
   const agotado = typeof cuerpo.agotado === "boolean" ? cuerpo.agotado : antes.agotado;
   const visible = typeof cuerpo.visible === "boolean" ? cuerpo.visible : antes.visible;
+  // Destacar sube el producto al principio del catálogo: es de admin.
+  const destacado = typeof cuerpo.destacado === "boolean" && yo.rol === "admin"
+    ? cuerpo.destacado : antes.destacado;
 
   const [despues] = await sql`
     update catalogo.producto
-       set agotado = ${agotado}, visible = ${visible},
+       set agotado = ${agotado}, visible = ${visible}, destacado = ${destacado},
            editado_en = now(), editado_por = ${yo.email}
      where id = ${id}
-    returning id, nombre, visible, agotado`;
+    returning id, nombre, visible, agotado, destacado`;
 
   await anotar(sql, yo, "cambiar-estado", "producto", id,
-               { visible: antes.visible, agotado: antes.agotado },
-               { visible: despues.visible, agotado: despues.agotado, nombre: despues.nombre });
+               { visible: antes.visible, agotado: antes.agotado, destacado: antes.destacado },
+               { visible: despues.visible, agotado: despues.agotado,
+                 destacado: despues.destacado, nombre: despues.nombre });
 
   return json(despues);
 }
@@ -381,7 +401,7 @@ async function tablero(req: Request, sql: any) {
   const dias = [7, 30, 90, 365].includes(pedidos) ? pedidos : 30;
   const { desde, unidad } = comienzo(dias);
 
-  const [resumen, porDia, masPedidos, porCategoria, porColor, porTalla, catalogo] =
+  const [resumen, porDia, masPedidos, porCategoria, porColor, porTalla, porBoton, catalogo] =
     await Promise.all([
       sql`select count(*)::int as clics,
                  count(distinct producto_id)::int as productos,
@@ -433,6 +453,13 @@ async function tablero(req: Request, sql: any) {
            where i.creado_en >= ${desde}
         group by 1 order by clics desc limit 12`,
 
+      // Qué botón se toca más. Los clics de antes de que hubiera tres
+      // botones no llevan ninguno: todos eran el de comprar.
+      sql`select coalesce(i.boton, 'compra') as boton, count(*)::int as clics
+            from negocio.intencion i
+           where i.creado_en >= ${desde}
+        group by 1 order by clics desc`,
+
       sql`select count(*)::int as total,
                  count(*) filter (where visible and not agotado and not archivado)::int as activos,
                  count(*) filter (where agotado and not archivado)::int as agotados,
@@ -452,8 +479,40 @@ async function tablero(req: Request, sql: any) {
     por_categoria: porCategoria,
     por_color: porColor,
     por_talla: porTalla,
+    por_boton: porBoton,
     catalogo: catalogo[0],
   });
+}
+
+/* Los ajustes del catálogo. Hoy solo hay uno, el orden, pero la tabla es
+ * clave-valor: el siguiente no necesita otra migración. */
+const ORDENES_VALIDOS = ["novedad", "precio_asc", "precio_desc", "pedidos"];
+
+async function leerAjustes(sql: any) {
+  const filas = await sql`select clave, valor from catalogo.ajuste`;
+  const ajustes: Record<string, string> = { orden_catalogo: "novedad" };
+  for (const f of filas) ajustes[f.clave] = f.valor;
+  return json(ajustes);
+}
+
+async function guardarAjustes(req: Request, sql: any, yo: Sesion) {
+  const cuerpo = await req.json().catch(() => ({})) as Record<string, unknown>;
+  const orden = String(cuerpo.orden_catalogo || "");
+  if (!ORDENES_VALIDOS.includes(orden)) {
+    throw new SinPermiso(400, "Ese orden no existe");
+  }
+
+  const [antes] = await sql`select valor from catalogo.ajuste where clave = 'orden_catalogo'`;
+  await sql`
+    insert into catalogo.ajuste (clave, valor, actualizado_en)
+    values ('orden_catalogo', ${orden}, now())
+    on conflict (clave) do update set valor = excluded.valor, actualizado_en = now()`;
+
+  await anotar(sql, yo, "cambiar-orden", "catalogo", 0,
+               { orden: antes?.valor || "novedad" },
+               { orden, nombre: "Orden del catálogo" });
+
+  return json({ orden_catalogo: orden });
 }
 
 async function bitacora(req: Request, sql: any) {

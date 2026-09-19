@@ -128,6 +128,7 @@
     var elTallaSel = raiz.querySelector('[data-talla-elegida]');
     var cta = raiz.querySelector('[data-cta]');
     var consulta = raiz.querySelector('[data-consulta]');
+    var botonTalla = raiz.querySelector('[data-talla-wa]');
     var principal = raiz.querySelector('[data-foto-principal]');
     var tiras = raiz.querySelector('[data-tiras]');
 
@@ -166,15 +167,18 @@
     // _lib/plantillas.mts). Cada mensaje dice de entrada qué se pregunta, y
     // debajo va la prenda con su enlace: quien atiende no adivina nada.
     var ENCABEZADOS = {
-      compra: 'Hola Euchel, quiero continuar mi compra:',
-      colores: 'Hola Euchel, ¿en qué colores tienen esta prenda?',
-      stock: 'Hola Euchel, ¿tienen disponible esta prenda?'
+      compra: '\uD83D\uDECD\uFE0F Hola Euchel, quiero continuar mi compra:',
+      colores: '\uD83C\uDFA8 Hola Euchel, ¿en qué colores tienen esta prenda?',
+      talla: '\uD83D\uDCCF Hola Euchel, ¿tienen mi talla?',
+      tallas: '\uD83D\uDCCF Hola Euchel, ¿qué tallas hay de esta prenda?',
+      stock: '\u23F3 Hola Euchel, ¿cuándo vuelve esta prenda?'
     };
 
     function armarMensaje(tipo) {
       var lineas = [ENCABEZADOS[tipo] || ENCABEZADOS.compra, '', prod.nombre];
 
-      var t = tallaActual();
+      // En "¿qué tallas hay?" no se manda talla: justo se está preguntando.
+      var t = tipo === 'tallas' ? null : tallaActual();
       if (t) lineas.push('Talla: ' + t);
       if (prod.precio) lineas.push('S/ ' + prod.precio);
       lineas.push('');
@@ -187,6 +191,9 @@
       if (cta && !cta.hasAttribute('aria-disabled')) cta.href = wa + encodeURIComponent(armarMensaje('compra'));
       if (consulta) {
         consulta.href = wa + encodeURIComponent(armarMensaje(consulta.dataset.consulta || 'colores'));
+      }
+      if (botonTalla) {
+        botonTalla.href = wa + encodeURIComponent(armarMensaje(botonTalla.dataset.tallaWa || 'tallas'));
       }
     }
 
@@ -220,24 +227,32 @@
       });
     }
 
-    // El clic se registra en segundo plano: es lo que alimenta el panel
-    // (qué se pide más). sendBeacon no retrasa la apertura de WhatsApp.
-    if (cta) {
-      cta.addEventListener('click', function () {
-        var cuerpo = JSON.stringify({
-          producto_id: prod.id,
-          color_id: null,
-          talla: tallaActual(),
-          precio: Number(prod.precio) || null
-        });
-        try {
-          if (navigator.sendBeacon) {
-            navigator.sendBeacon('/api/intencion', new Blob([cuerpo], { type: 'application/json' }));
-          } else {
-            fetch('/api/intencion', { method: 'POST', body: cuerpo, keepalive: true,
-                                      headers: { 'content-type': 'application/json' } });
-          }
-        } catch (e) { /* si falla, el pedido sigue su curso */ }
+    /* Cada clic se registra en segundo plano, y con el botón que fue: es lo
+       que alimenta el panel (qué se pide y qué se pregunta más). sendBeacon
+       no retrasa la apertura de WhatsApp. */
+    function registrar(boton) {
+      var cuerpo = JSON.stringify({
+        producto_id: prod.id,
+        color_id: null,
+        talla: boton === 'tallas' ? null : tallaActual(),
+        precio: Number(prod.precio) || null,
+        boton: boton
+      });
+      try {
+        if (navigator.sendBeacon) {
+          navigator.sendBeacon('/api/intencion', new Blob([cuerpo], { type: 'application/json' }));
+        } else {
+          fetch('/api/intencion', { method: 'POST', body: cuerpo, keepalive: true,
+                                    headers: { 'content-type': 'application/json' } });
+        }
+      } catch (e) { /* si falla, el pedido sigue su curso */ }
+    }
+
+    var botones = raiz.querySelectorAll('[data-boton]');
+    for (var b = 0; b < botones.length; b++) {
+      botones[b].addEventListener('click', function () {
+        if (this.hasAttribute('aria-disabled')) return;
+        registrar(this.dataset.boton || 'compra');
       });
     }
 

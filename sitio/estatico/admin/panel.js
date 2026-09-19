@@ -75,6 +75,7 @@ $('#forma-entrar').addEventListener('submit', async (ev) => {
     yo = sesion;
     ev.target.reset();
     aPanel();
+    montarOrden();
     await cargarSeccion('tablero');
   } catch (e) {
     caja.textContent = e instanceof ErrorPermiso ? e.message : (e.message || 'No se pudo entrar.');
@@ -113,6 +114,35 @@ async function cargarSeccion(cual) {
     else if (cual === 'equipo') await cuentas();
     else if (cual === 'bitacora') await bitacora(true);
   } catch (e) { cargada.delete(cual); fallo(e); }
+}
+
+/* ------------------------------------------------- orden del catálogo */
+
+/* Lo elige admin y vale para el catálogo entero. Los destacados van por
+   encima de este criterio, así que esto decide el resto de la lista. */
+async function montarOrden() {
+  const sel = $('#orden');
+  if (!sel) return;
+  try {
+    const a = await api('ajustes');
+    sel.value = a.orden_catalogo || 'novedad';
+  } catch (e) { /* si no se puede leer, queda el que trae el HTML */ }
+
+  sel.addEventListener('change', async () => {
+    const antes = sel.dataset.valor || 'novedad';
+    sel.disabled = true;
+    try {
+      await api('ajustes', { cuerpo: { orden_catalogo: sel.value } });
+      sel.dataset.valor = sel.value;
+      brindis('Orden guardado. El catálogo ya sale así.');
+    } catch (e) {
+      sel.value = antes;
+      fallo(e);
+    } finally {
+      sel.disabled = false;
+    }
+  });
+  sel.dataset.valor = sel.value;
 }
 
 /* ---------------------------------------------------------------- pedidos */
@@ -156,8 +186,8 @@ async function tablero() {
     + bloque(d.paso === 'semana' ? 'Pedidos por semana' : 'Pedidos por día',
              porDia(d.por_dia, d.paso))
     + bloque('Lo más pedido', masPedidos(d.mas_pedidos))
+    + bloque('Qué botón tocan', botones(d.por_boton))
     + bloque('Por categoría', barras(d.por_categoria, 'categoria'))
-    + bloque('Colores más pedidos', barras(d.por_color, 'color'))
     + bloque('Tallas más pedidas', barras(d.por_talla, 'talla'))
     + bloque('Estado del catálogo', `
         <div class="barras">
@@ -194,6 +224,27 @@ function fila(etiqueta, valor, tope) {
       <span class="barra__cifra">${numero(valor)}</span>
       <span class="barra__pista"><span class="barra__relleno" style="--hasta:${pct}%"></span></span>
     </div>`;
+}
+
+/* Qué botón de la ficha se toca más. Con nombres de persona, no con los
+   códigos que guarda la base. */
+const NOMBRE_BOTON = {
+  compra: '🛍️ Continuar compra',
+  colores: '🎨 ¿Qué colores hay?',
+  talla: '📏 ¿Tienen mi talla?',
+  tallas: '📏 ¿Qué tallas hay?',
+  stock: '⏳ ¿Cuándo vuelve?',
+};
+
+function botones(items) {
+  if (!items || !items.length) return '<p class="tarjeta__meta">Sin datos todavía.</p>';
+  const total = items.reduce((s, i) => s + i.clics, 0);
+  const tope = Math.max(...items.map((i) => i.clics));
+  return '<div class="barras">' + items.map((i) => {
+    const pct = total ? Math.round((i.clics / total) * 100) : 0;
+    return fila(`${NOMBRE_BOTON[i.boton] || i.boton}  ·  ${pct}%`, i.clics, tope);
+  }).join('') + '</div>' +
+    `<p class="tarjeta__meta" style="margin-top:8px">${numero(total)} toques en total.</p>`;
 }
 
 function barras(items, clave) {
@@ -463,5 +514,6 @@ montarPWA('/admin/sw.js', '/admin/');
   }
   yo = sesion;
   aPanel();
+  montarOrden();
   await cargarSeccion('tablero');
 })();

@@ -8,7 +8,7 @@ import { tallasVisibles, fotosDe, mensajeWa, paginaFicha } from "../../netlify/f
 const base = (extra: any = {}) => ({
   id: 1, slug: "1-x", nombre: "TOP RAISA", descripcion: "", categoria: "Tops",
   categoriaSlug: "tops", subid: 1, precio: 45, antes: null, marca: null,
-  agotado: false, galeria: ["aaa"], colores: [], ...extra,
+  agotado: false, destacado: false, galeria: ["aaa"], colores: [], ...extra,
 }) as any;
 
 const color = (n: string, tallas: string[], agotado = false, imgs: string[] = []) => ({
@@ -37,7 +37,13 @@ const col = mensajeWa("colores", base(), "https://x");
 assert.ok(col.includes("colores"), "el mensaje no dice que pregunta por colores");
 assert.ok(col.includes("TOP RAISA") && col.includes("https://x/p/1-x/"),
   "no se sabe por qué prenda se pregunta");
-assert.ok(mensajeWa("stock", base(), "https://x").includes("disponible"));
+assert.ok(mensajeWa("stock", base(), "https://x").includes("vuelve"));
+
+// Un emoji por intención, al principio: es lo que se ve en la lista de WhatsApp
+assert.ok(mensajeWa("compra", base(), "https://x").startsWith("\u{1F6CD}"), "compra sin bolsas");
+assert.ok(mensajeWa("colores", base(), "https://x").startsWith("\u{1F3A8}"), "colores sin paleta");
+assert.ok(mensajeWa("talla", base(), "https://x").startsWith("\u{1F4CF}"), "talla sin regla");
+assert.ok(mensajeWa("tallas", base(), "https://x").startsWith("\u{1F4CF}"), "tallas sin regla");
 
 // la página: ni rastro del selector de color, y los dos botones
 const html = paginaFicha("https://x", base({ colores: [color("Azul", ["30"]), color("Gris", ["32"])] }),
@@ -45,17 +51,25 @@ const html = paginaFicha("https://x", base({ colores: [color("Azul", ["30"]), co
 assert.ok(!html.includes("data-colores"), "queda el selector de color");
 assert.ok(!html.includes(">Color<"), "queda el título Color");
 assert.ok(html.includes('data-consulta="colores"'), "el botón no pregunta por colores");
+assert.ok(html.includes('data-boton="talla"') && html.includes("¿Tienen mi talla?"),
+  "falta el tercer botón, el de la talla");
+assert.equal((html.match(/data-boton=/g) || []).length, 3, "tienen que ser tres botones");
 assert.ok(html.includes("¿Qué colores hay?"), "el botón no dice para qué sirve");
 assert.ok(html.match(/data-consulta="colores"[^>]*href="[^"]*colores/), "el enlace no lleva el mensaje de colores");
 assert.ok(html.includes("Continuar compra"));
 assert.ok(html.includes("data-tallas") && html.includes(">30<") && html.includes(">32<"));
 assert.ok(!/Ref\.|%20Ref/.test(html), "la Ref. sigue en la página");
 
+const sinTallas = paginaFicha("https://x", base({ colores: [color("Único", ["Standar"])] }),
+  [{ nombre: "Tops", slug: "tops", subid: 1, cuantos: 1 }]);
+assert.ok(sinTallas.includes('data-boton="tallas"') && sinTallas.includes("¿Qué tallas hay?"),
+  "sin tallas que elegir, el botón tiene que preguntar cuáles hay");
+
 const agotado = paginaFicha("https://x", base({ agotado: true, colores: [color("Azul", ["30"])] }),
   [{ nombre: "Tops", slug: "tops", subid: 1, cuantos: 1 }]);
 assert.ok(agotado.includes("cta--muerto") && agotado.includes("cta--llena"),
   "sin stock, preguntar tiene que ser el botón principal");
-assert.ok(agotado.includes('data-consulta="stock"') && agotado.includes("Preguntar si vuelve"),
+assert.ok(agotado.includes(`data-consulta="stock"`) && agotado.includes("¿Cuándo vuelve?"),
   "sin stock, preguntar por el color no sirve de nada");
 
 console.log("ficha: todo bien");

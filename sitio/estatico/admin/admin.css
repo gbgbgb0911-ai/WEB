@@ -129,3 +129,21 @@
   .pestanas { padding: 0 16px; }
   .pestana { flex: 0 0 auto; }
 }
+
+/* --------------------------------------------------- orden del catálogo */
+
+/* Vive encima de la lista de productos: es la única palanca que cambia lo
+   que ve el cliente sin tocar un producto, así que se separa del resto. */
+.orden {
+  display: grid; gap: 6px;
+  padding: 12px; margin-top: 10px;
+  border: 1px solid var(--linea-suave); border-radius: var(--radio);
+  background: var(--suave);
+}
+.orden label {
+  font-size: 11px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase;
+  color: var(--gris);
+}
+.orden__nota { font-size: 11px; color: var(--gris); margin: 0; }
+
+.sello--destacado { background: #fde8ef; color: #a01344; }

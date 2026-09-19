@@ -1,6 +1,7 @@
 import type { Config, Context } from "@netlify/functions";
 import { neon } from "@neondatabase/serverless";
-import { categorias, productos, producto } from "./_lib/catalogo.mts";
+import { categorias, productos, producto, ajuste, ORDEN_POR_DEFECTO, type Orden }
+  from "./_lib/catalogo.mts";
 import { paginaListado, paginaFicha, pagina404, indiceBusqueda, sitemap, TIENDA, css, fijarVersion, fijarHoja, fijarGuion }
   from "./_lib/plantillas.mts";
 import { hoja, guion } from "./_lib/activos.mts";
@@ -52,8 +53,12 @@ export default async (req: Request, ctx: Context) => {
     const m = ruta.match(/^\/(c|p)\/([^/]+)$/);
     if (m) return Response.redirect(`${base}${ruta}/${url.search}`, 301);
 
+    // Cómo se ordena el catálogo lo elige el panel. Por defecto, lo más
+    // nuevo primero: lo que el equipo acaba de subir es lo que quiere enseñar.
+    const orden = await ajuste(sql, "orden_catalogo", ORDEN_POR_DEFECTO) as Orden;
+
     if (ruta === "/") {
-      const [cats, ps] = await Promise.all([categorias(sql), productos(sql)]);
+      const [cats, ps] = await Promise.all([categorias(sql), productos(sql, undefined, orden)]);
       return html(paginaListado(base, `Catálogo · ${TIENDA}`, "Colección", ps, cats, "/",
         `Catálogo completo de ${TIENDA}: ${ps.length} productos. Elige color y talla y continúa tu compra por WhatsApp.`));
     }
@@ -63,7 +68,7 @@ export default async (req: Request, ctx: Context) => {
       const cats = await categorias(sql);
       const actual = cats.find((c) => c.slug === decodeURIComponent(cat[1]));
       if (!actual) return noEncontrada(base, cats);
-      const ps = await productos(sql, actual.subid);
+      const ps = await productos(sql, actual.subid, orden);
       return html(paginaListado(base, `${actual.nombre} · ${TIENDA}`, "Categoría", ps, cats,
         `/c/${actual.slug}/`,
         `${actual.nombre} de ${TIENDA}: ${ps.length} productos. Pide por WhatsApp.`,
@@ -82,13 +87,13 @@ export default async (req: Request, ctx: Context) => {
     }
 
     if (ruta === "/buscar.json") {
-      return new Response(indiceBusqueda(await productos(sql)), {
+      return new Response(indiceBusqueda(await productos(sql, undefined, orden)), {
         headers: { ...cabecerasCache(), "content-type": "application/json; charset=utf-8" },
       });
     }
 
     if (ruta === "/sitemap.xml") {
-      const [cats, ps] = await Promise.all([categorias(sql), productos(sql)]);
+      const [cats, ps] = await Promise.all([categorias(sql), productos(sql, undefined, orden)]);
       return new Response(sitemap(base, cats, ps), {
         headers: { ...cabecerasCache(), "content-type": "application/xml; charset=utf-8" },
       });

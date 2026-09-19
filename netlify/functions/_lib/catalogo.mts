@@ -36,6 +36,7 @@ export type Producto = {
   antes: number | null;
   marca: string | null;
   agotado: boolean;
+  destacado: boolean;
   galeria: string[];
   colores: Color[];
 };
@@ -132,6 +133,7 @@ async function armar(sql: any, base: any[]): Promise<Producto[]> {
       antes: num(p.precio_antes),
       marca: p.marca,
       agotado: p.agotado,
+      destacado: !!p.destacado,
       galeria,
       colores: cols,
     };
@@ -140,17 +142,53 @@ async function armar(sql: any, base: any[]): Promise<Producto[]> {
 
 const CAMPOS = `
     select p.id, p.slug, p.nombre, p.descripcion, p.subid, p.precio,
-           p.precio_antes, p.marca, p.agotado,
+           p.precio_antes, p.marca, p.agotado, p.destacado,
            c.nombre as categoria, c.slug as categoria_slug
       from catalogo.producto p
       left join catalogo.categoria c on c.subid = p.subid
      where p.visible and not p.archivado`;
 
-export async function productos(sql: any, subid?: number): Promise<Producto[]> {
+/* Cómo se ordena el catálogo.
+ *
+ * Lo destacado va primero siempre: es la palanca del día a día, la que usa
+ * quien quiere empujar una prenda esta semana. Debajo, el criterio que esté
+ * elegido en el panel, y por defecto lo más nuevo, que es lo que el equipo
+ * acaba de subir y quiere enseñar.
+ *
+ * Los criterios van en un CASE y no pegados al texto de la consulta: así el
+ * valor entra como parámetro y no hay forma de colar SQL desde el panel. */
+export const ORDENES = ["novedad", "precio_asc", "precio_desc", "pedidos"] as const;
+export type Orden = typeof ORDENES[number];
+
+export const ORDEN_POR_DEFECTO: Orden = "novedad";
+
+const ORDENAR = `
+     order by p.destacado desc,
+       case when $ORD = 'precio_asc'  then p.precio end asc nulls last,
+       case when $ORD = 'precio_desc' then p.precio end desc nulls last,
+       case when $ORD = 'pedidos' then
+         (select count(*) from negocio.intencion i where i.producto_id = p.id)
+       end desc nulls last,
+       p.creado_en desc, p.id desc`;
+
+export async function productos(sql: any, subid?: number,
+                                orden: Orden = ORDEN_POR_DEFECTO): Promise<Producto[]> {
+  const limpio: Orden = ORDENES.includes(orden as Orden) ? orden : ORDEN_POR_DEFECTO;
   const base = subid === undefined
-    ? await sql.query(`${CAMPOS} order by p.creado_en desc, p.id desc`)
-    : await sql.query(`${CAMPOS} and p.subid = $1 order by p.creado_en desc, p.id desc`, [subid]);
+    ? await sql.query(`${CAMPOS} ${ORDENAR.replace(/\$ORD/g, "$1")}`, [limpio])
+    : await sql.query(`${CAMPOS} and p.subid = $2 ${ORDENAR.replace(/\$ORD/g, "$1")}`,
+                      [limpio, subid]);
   return armar(sql, base);
+}
+
+/** Un ajuste del catálogo, con su valor por defecto si no está o falla. */
+export async function ajuste(sql: any, clave: string, porDefecto: string): Promise<string> {
+  try {
+    const filas = await sql`select valor from catalogo.ajuste where clave = ${clave}`;
+    return filas[0]?.valor || porDefecto;
+  } catch {
+    return porDefecto;
+  }
 }
 
 /** Uno por slug. Acepta también el id solo ("/p/1364"), que es lo que

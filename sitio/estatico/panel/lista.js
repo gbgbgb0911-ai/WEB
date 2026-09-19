@@ -56,6 +56,7 @@ export function crearLista({ rol, fallo }) {
       sellos.push(`<span class="sello sello--parcial">${p.colores_agotados} de ${p.colores} sin stock</span>`);
     }
     if (p.archivado) sellos.push('<span class="sello sello--oculto">Archivado</span>');
+    if (p.destacado) sellos.push('<span class="sello sello--destacado">Destacado</span>');
     if (p.id >= 100001) sellos.push('<span class="sello sello--nuevo">Del panel</span>');
 
     li.innerHTML = foto + `
@@ -69,6 +70,8 @@ export function crearLista({ rol, fallo }) {
                   aria-pressed="${p.agotado}">${p.agotado ? 'Agotado' : 'Agotar'}</button>
           <button class="palanca" type="button" data-campo="visible"
                   aria-pressed="${!p.visible}">${p.visible ? 'Ocultar' : 'Oculto'}</button>
+          ${rol === 'admin' ? `<button class="palanca" type="button" data-campo="destacado"
+                  aria-pressed="${!!p.destacado}">${p.destacado ? 'Destacado' : 'Destacar'}</button>` : ''}
         </div>
       </div>`;
     return li;
@@ -190,19 +193,26 @@ export function crearLista({ rol, fallo }) {
     if (!p) return;
 
     const campo = boton.dataset.campo;
-    const antes = { agotado: p.agotado, visible: p.visible };
-    const cuerpo = campo === 'agotado' ? { agotado: !p.agotado } : { visible: !p.visible };
+    const antes = { agotado: p.agotado, visible: p.visible, destacado: p.destacado };
+    const cuerpo = campo === 'agotado' ? { agotado: !p.agotado }
+      : campo === 'destacado' ? { destacado: !p.destacado }
+      : { visible: !p.visible };
 
     Object.assign(p, cuerpo);
     li.replaceWith(tarjeta(p));
     bloquear(id, true);
 
+    const AVISOS = {
+      agotado: () => (p.agotado ? 'Marcado agotado.' : 'Vuelve a estar disponible.'),
+      visible: () => (p.visible ? 'Visible en el catálogo.' : 'Oculto del catálogo.'),
+      destacado: () => (p.destacado ? 'Destacado: sale primero en el catálogo.'
+                                    : 'Ya no está destacado.'),
+    };
+
     try {
       const r = await api(`producto/${id}/estado`, { cuerpo });
-      Object.assign(p, { agotado: r.agotado, visible: r.visible });
-      brindis(campo === 'agotado'
-        ? (p.agotado ? 'Marcado agotado.' : 'Vuelve a estar disponible.')
-        : (p.visible ? 'Visible en el catálogo.' : 'Oculto del catálogo.'));
+      Object.assign(p, { agotado: r.agotado, visible: r.visible, destacado: r.destacado });
+      brindis((AVISOS[campo] || AVISOS.visible)());
     } catch (e) {
       Object.assign(p, antes);
       fallo(e);

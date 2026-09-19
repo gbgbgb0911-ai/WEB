@@ -1,9 +1,10 @@
 import type { Config, Context } from "@netlify/functions";
 import { neon } from "@neondatabase/serverless";
 
-/* Registra un clic en "Continuar compra".
+/* Registra un clic en cualquiera de los botones de la ficha.
  *
- * Esto es el dato del panel: qué productos, colores y tallas piden más.
+ * Esto es el dato del panel: qué productos se piden más y, desde que hay
+ * tres botones, qué se pregunta más: color, talla o si algo vuelve.
  * No hay ventas porque la venta se cierra en WhatsApp y la web no la ve;
  * esto mide intención, que es lo que sí se puede medir con honestidad.
  *
@@ -20,6 +21,7 @@ export default async (req: Request, _context: Context) => {
   try {
     const cuerpo = await req.json() as {
       producto_id?: unknown; color_id?: unknown; talla?: unknown; precio?: unknown;
+      boton?: unknown;
     };
 
     const pid = Number(cuerpo.producto_id);
@@ -29,11 +31,16 @@ export default async (req: Request, _context: Context) => {
     const precio = Number(cuerpo.precio);
     const talla = typeof cuerpo.talla === "string" ? cuerpo.talla.slice(0, 40) : null;
 
+    // Qué botón se tocó. La lista es cerrada: lo que llegue de fuera y no
+    // esté aquí se guarda como "compra", que es lo que era todo antes.
+    const BOTONES = ["compra", "colores", "talla", "tallas", "stock"];
+    const boton = BOTONES.includes(String(cuerpo.boton)) ? String(cuerpo.boton) : "compra";
+
     const sql = neon(url);
     await sql`
-      insert into negocio.intencion (producto_id, color_id, talla, precio, origen)
+      insert into negocio.intencion (producto_id, color_id, talla, precio, origen, boton)
       select ${pid}, ${Number.isInteger(cid) && cid > 0 ? cid : null}, ${talla},
-             ${Number.isFinite(precio) && precio >= 0 ? precio : null}, 'ficha'
+             ${Number.isFinite(precio) && precio >= 0 ? precio : null}, 'ficha', ${boton}
        where exists (select 1 from catalogo.producto where id = ${pid})`;
 
     return new Response(null, { status: 204 });

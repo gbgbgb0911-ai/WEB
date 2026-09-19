@@ -185,10 +185,18 @@ export function fotosDe(p: Producto): string[] {
  *
  * Sin la Ref.: el enlace ya dice cuál es, y el número no le decía nada a
  * quien compra. */
+/* Cada mensaje empieza por su emoji.
+ *
+ * Lo pidió la dueña: en la lista de WhatsApp llegan mensajes de todo tipo y
+ * el emoji dice de un vistazo qué quiere quien escribe, sin abrir el chat.
+ * Bolsas si viene a comprar, paleta si pregunta por color, regla si pregunta
+ * por talla, reloj si espera a que algo vuelva. */
 export const ENCABEZADOS = {
-  compra: "Hola Euchel, quiero continuar mi compra:",
-  colores: "Hola Euchel, ¿en qué colores tienen esta prenda?",
-  stock: "Hola Euchel, ¿tienen disponible esta prenda?",
+  compra: "🛍️ Hola Euchel, quiero continuar mi compra:",
+  colores: "🎨 Hola Euchel, ¿en qué colores tienen esta prenda?",
+  talla: "📏 Hola Euchel, ¿tienen mi talla?",
+  tallas: "📏 Hola Euchel, ¿qué tallas hay de esta prenda?",
+  stock: "⏳ Hola Euchel, ¿cuándo vuelve esta prenda?",
 } as const;
 
 export function mensajeWa(tipo: keyof typeof ENCABEZADOS, p: Producto, base: string,
@@ -429,23 +437,39 @@ export function paginaFicha(base: string, original: Producto, categorias: Catego
    * Agotado: el de comprar sale desactivado y el de preguntar pasa a ser el
    * principal, que es lo que toca hacer cuando algo no está. */
   const wa = (t: keyof typeof ENCABEZADOS) =>
-    `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(mensajeWa(t, p, base))}`;
+    `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(mensajeWa(t, p, base,
+      t === "talla" && tallas.length ? tallas[0] : null))}`;
+
+  /* Tres botones, y cada uno es una pregunta distinta.
+   *
+   * Comprar arriba. Debajo, las dos que se hacen todo el día por WhatsApp:
+   * qué colores hay y si está la talla. El de talla cambia según el producto:
+   * si tiene tallas que elegir pregunta por la elegida, y si no tiene ninguna
+   * pregunta cuáles hay, que es lo que le sirve a quien mira.
+   *
+   * Agotado: comprar se apaga y lo único que queda es preguntar cuándo
+   * vuelve. Preguntar el color de algo que no está no le sirve a nadie. */
+  const botonTalla = tallas.length ? "talla" : "tallas";
+  const etiquetaTalla = tallas.length ? "¿Tienen mi talla?" : "¿Qué tallas hay?";
 
   const cta = p.agotado
-    ? `<a class="cta cta--muerto" data-cta aria-disabled="true">
+    ? `<a class="cta cta--muerto" data-cta data-boton="compra" aria-disabled="true">
           ${ICONOS.whatsapp}<span>Agotado</span>
         </a>
-        <a class="cta cta--llena" data-consulta="stock" href="${wa("stock")}" target="_blank" rel="noopener">
-          ${ICONOS.whatsapp}<span>Preguntar si vuelve</span>
+        <a class="cta cta--llena" data-consulta="stock" data-boton="stock" href="${wa("stock")}" target="_blank" rel="noopener">
+          ${ICONOS.whatsapp}<span>¿Cuándo vuelve?</span>
         </a>
         <div class="cta__nota">Sin stock por ahora. Pregúntanos y te avisamos cuando vuelva.</div>`
-    : `<a class="cta" data-cta href="${wa("compra")}" target="_blank" rel="noopener">
+    : `<a class="cta" data-cta data-boton="compra" href="${wa("compra")}" target="_blank" rel="noopener">
           ${ICONOS.whatsapp}<span>Continuar compra</span>
         </a>
-        <a class="cta cta--suave" data-consulta="colores" href="${wa("colores")}" target="_blank" rel="noopener">
+        <a class="cta cta--suave" data-consulta="colores" data-boton="colores" href="${wa("colores")}" target="_blank" rel="noopener">
           ${ICONOS.whatsapp}<span>¿Qué colores hay?</span>
         </a>
-        <div class="cta__nota">Te decimos por WhatsApp en qué colores queda esta prenda</div>`;
+        <a class="cta cta--suave" data-talla-wa="${botonTalla}" data-boton="${botonTalla}" href="${wa(botonTalla)}" target="_blank" rel="noopener">
+          ${ICONOS.whatsapp}<span>${etiquetaTalla}</span>
+        </a>
+        <div class="cta__nota">Te contestamos por WhatsApp: color, talla y stock al momento</div>`;
 
   // Lo que app.js necesita: las fotos de todo el producto y las tallas que
   // se pueden pedir. Lo que no se puede pedir no se ofrece.

@@ -86,6 +86,43 @@ Lo que sí puede: leer el catálogo, actualizar producto, color y talla,
 insertar en `negocio.intencion` y en `negocio.bitacora`. La bitácora es solo
 de añadir: ni el panel ni las funciones pueden borrar una línea.
 
+## Orden del catálogo
+
+Dos palancas, y se combinan:
+
+1. **Destacar** (admin, en cada producto). Lo destacado sale primero, en la
+   portada y en su categoría. Es la palanca de la semana: subir lo que se
+   quiere mover ahora.
+2. **Orden del catálogo** (admin, encima de la lista de productos). Decide el
+   resto: lo más nuevo primero (por defecto), lo más pedido, o por precio.
+
+Por defecto el catálogo va por novedad, así que lo que el equipo sube hoy
+sale arriba sin que nadie toque nada. Los productos de la extracción
+comparten la fecha de la carga inicial y entre ellos manda el id de la
+tienda; los que nacen en el panel llevan su fecha real y salen delante.
+
+El criterio vive en `catalogo.ajuste`, una tabla clave-valor. No entra
+pegado al texto de la consulta: va como parámetro en un CASE, así que desde
+el panel no se puede colar SQL.
+
+## Los tres botones de la ficha
+
+| Botón | Mensaje que abre |
+|---|---|
+| Continuar compra | 🛍️ quiero continuar mi compra |
+| ¿Qué colores hay? | 🎨 ¿en qué colores tienen esta prenda? |
+| ¿Tienen mi talla? | 📏 ¿tienen mi talla? (con la talla elegida) |
+| ¿Qué tallas hay? | 📏 ¿qué tallas hay? (cuando el producto no tiene tallas) |
+| ¿Cuándo vuelve? | ⏳ cuando está agotado, en lugar de los dos de arriba |
+
+El emoji va al principio: en la lista de WhatsApp se ve qué quiere cada
+quien sin abrir el chat.
+
+Cada toque se guarda en `negocio.intencion.boton`, y el tablero lo enseña en
+"Qué botón tocan", con su reparto en porcentaje. Los clics de antes de que
+hubiera tres botones no llevan ninguno: eran todos el de comprar, y así se
+cuentan.
+
 ## Tallas: cómo quedaron (19 de septiembre de 2026)
 
 Lo pidieron los dueños. Solo hay dos formas de talla en el catálogo:

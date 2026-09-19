@@ -84,11 +84,25 @@
         <button class="ficha" type="button" data-estado="activo" aria-pressed="false">Activos</button>
         <button class="ficha" type="button" data-estado="agotado" aria-pressed="false">Agotados</button>
         <button class="ficha" type="button" data-estado="oculto" aria-pressed="false">Ocultos</button>
+        <button class="ficha" type="button" data-estado="destacado" aria-pressed="false">Destacados</button>
         <button class="ficha" type="button" data-estado="archivado" aria-pressed="false">Archivados</button>
       </div>
       <label class="solo-lectores" for="cat">Categoría</label>
       <select id="cat" class="oculto"></select>
       <p class="cuenta" id="cuenta" role="status"></p>
+    </div>
+
+    <!-- Cómo se ordena el catálogo que ve el cliente. Lo destacado va
+         siempre primero, por encima de lo que diga este selector. -->
+    <div class="orden">
+      <label for="orden">Orden del catálogo</label>
+      <select id="orden" class="selector">
+        <option value="novedad">Lo más nuevo primero</option>
+        <option value="pedidos">Lo más pedido primero</option>
+        <option value="precio_asc">Precio, de menor a mayor</option>
+        <option value="precio_desc">Precio, de mayor a menor</option>
+      </select>
+      <p class="orden__nota">Los destacados salen antes que todo lo demás.</p>
     </div>
 
     <button class="btn btn--ancho" type="button" id="btn-nuevo"
