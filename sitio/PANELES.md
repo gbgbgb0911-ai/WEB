@@ -123,6 +123,22 @@ Cada toque se guarda en `negocio.intencion.boton`, y el tablero lo enseña en
 hubiera tres botones no llevan ninguno: eran todos el de comprar, y así se
 cuentan.
 
+## Quitar un producto del catálogo
+
+Está dentro de la ficha del producto (tocar su nombre en la lista), abajo
+del todo, en rojo de marca. Dice **Eliminar del catálogo**.
+
+Los 962 productos que vinieron de la tienda no se borran: se archivan. Salen
+del catálogo y de la lista del panel, y quedan en el filtro **Archivados**,
+desde donde se devuelven con **Devolver al panel**. Hay un disparador en la
+base que impide borrarlos de verdad, porque la bitácora y los pedidos los
+nombran por su Ref.
+
+Los que nacen en el panel (Ref. 100001 en adelante) sí se borran del todo,
+con sus fotos, y eso no se deshace. El botón lo dice.
+
+Las dos acciones son solo de admin.
+
 ## Tallas: cómo quedaron (19 de septiembre de 2026)
 
 Lo pidieron los dueños. Solo hay dos formas de talla en el catálogo:

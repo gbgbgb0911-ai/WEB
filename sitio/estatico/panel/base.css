@@ -123,6 +123,14 @@ a { color: inherit; text-decoration: none; }
 .btn--linea { background: transparent; color: var(--tinta); }
 .btn--linea:hover { background: var(--suave); }
 
+/* Quitar un producto del catálogo y borrarlo de verdad son las dos únicas
+   acciones que se notan fuera del panel. Se ven de otro color para que
+   nadie las toque de paso. */
+.btn--peligro {
+  background: transparent; border-color: var(--acento); color: var(--acento);
+}
+.btn--peligro:hover { background: var(--acento); color: var(--papel); }
+
 .btn--texto {
   background: transparent; border-color: transparent; color: var(--gris);
   padding: 0 7px; letter-spacing: .06em;

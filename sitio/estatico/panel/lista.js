@@ -356,18 +356,21 @@ export function crearLista({ rol, fallo }) {
           <button class="btn btn--ancho" type="submit">Guardar precio</button>
         </form>
         ${delPanel ? `
-        <button class="btn btn--linea btn--ancho" type="button" id="btn-borrar"
-                style="margin-top:10px">Eliminar producto</button>
+        <button class="btn btn--peligro btn--ancho" type="button" id="btn-borrar"
+                style="margin-top:14px">Eliminar producto</button>
         <p class="tarjeta__meta" style="margin-top:6px">
           Se borra con sus fotos. Esto no se puede deshacer.
         </p>` : `
-        <button class="btn btn--linea btn--ancho" type="button" id="btn-archivar"
-                style="margin-top:10px">
-          ${d.archivado ? 'Sacar del archivo' : 'Archivar producto'}
+        <button class="btn ${d.archivado ? 'btn--linea' : 'btn--peligro'} btn--ancho"
+                type="button" id="btn-archivar" style="margin-top:14px">
+          ${d.archivado ? 'Devolver al panel' : 'Eliminar del catálogo'}
         </button>
         <p class="tarjeta__meta" style="margin-top:6px">
-          Este producto vino de la tienda, así que se archiva en vez de
-          borrarse: sale del catálogo y del panel, y se puede recuperar.
+          ${d.archivado
+            ? 'Vuelve a la lista del panel. Seguirá oculto hasta que lo pongas visible.'
+            : 'Sale del catálogo y de la lista del panel. Este producto vino de la '
+              + 'tienda, así que no se borra del todo: queda en el filtro '
+              + '<b>Archivados</b> por si hay que recuperarlo.'}
         </p>`}
       </div>` : '';
 
@@ -622,11 +625,14 @@ export function crearLista({ rol, fallo }) {
   async function archivar(ev) {
     const boton = ev.currentTarget;
     const nuevo = !detalle.archivado;
-    if (nuevo && !confirm(`¿Archivar "${detalle.nombre}"? Sale del catálogo y del panel. Se puede recuperar.`)) return;
+    if (nuevo && !confirm(`¿Quitar "${detalle.nombre}" del catálogo?\n\n`
+        + 'Deja de verse en la web y sale de la lista del panel. '
+        + 'Queda en el filtro Archivados por si hay que recuperarlo.')) return;
     boton.disabled = true;
     try {
       const r = await api(`producto/${detalle.id}/archivar`, { cuerpo: { archivado: nuevo } });
-      brindis(r.archivado ? 'Producto archivado.' : 'Producto de vuelta en el panel.');
+      brindis(r.archivado ? 'Fuera del catálogo. Queda en Archivados.'
+                          : 'De vuelta en el panel, todavía oculto.');
       cerrarHoja();
       listar(true);
     } catch (e) { fallo(e); boton.disabled = false; }

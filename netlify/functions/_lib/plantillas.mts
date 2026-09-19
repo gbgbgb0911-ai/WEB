@@ -109,6 +109,16 @@ const ICONOS: Record<string, string> = {
   instagram: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"></rect><circle cx="12" cy="12" r="4"></circle><circle cx="17.5" cy="6.5" r="0.9" fill="currentColor"></circle></svg>',
   facebook: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 8h3V4h-3a4 4 0 0 0-4 4v3H7v4h3v6h4v-6h3l1-4h-4V8z"></path></svg>',
   tiktok: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 4v11a3.5 3.5 0 1 1-3.5-3.5M14 4a5 5 0 0 0 5 5"></path></svg>',
+
+  /* Uno por botón, el mismo asunto que el emoji del mensaje: bolsa para
+     comprar, paleta para el color, regla para la talla, reloj para lo que no
+     está. Dibujados en la misma línea que el resto de iconos del sitio, y no
+     con el emoji: el emoji lo pinta cada teléfono a su manera, se ve de otro
+     color y de otro tamaño, y aquí van dentro de un botón. */
+  bolsa: '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6.5 8h11l1 11.5a1.5 1.5 0 0 1-1.5 1.5H7a1.5 1.5 0 0 1-1.5-1.5z"></path><path d="M9 8V6.5a3 3 0 0 1 6 0V8"></path></svg>',
+  paleta: '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3a9 9 0 1 0 0 18c.9 0 1.6-.7 1.6-1.6 0-.4-.2-.8-.4-1.1-.3-.3-.4-.6-.4-1a1.6 1.6 0 0 1 1.6-1.6h1.9A5.6 5.6 0 0 0 22 10.1C21.9 6 17.5 3 12 3z"></path><circle cx="8" cy="8.5" r="1.1" fill="currentColor" stroke="none"></circle><circle cx="12.5" cy="6.8" r="1.1" fill="currentColor" stroke="none"></circle><circle cx="16.8" cy="9.5" r="1.1" fill="currentColor" stroke="none"></circle><circle cx="7" cy="13.2" r="1.1" fill="currentColor" stroke="none"></circle></svg>',
+  regla: '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.9 15.6a1.9 1.9 0 0 1 0 2.7l-2.6 2.6a1.9 1.9 0 0 1-2.7 0L3.1 8.4a1.9 1.9 0 0 1 0-2.7l2.6-2.6a1.9 1.9 0 0 1 2.7 0z"></path><path d="m8.2 6.6 1.7 1.7M11.2 9.6l1.7 1.7M14.2 12.6l1.7 1.7"></path></svg>',
+  reloj: '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M12 7.5V12l3 1.8"></path></svg>',
 };
 
 /* ---------------------------------------------------------------- utilidades */
@@ -454,22 +464,22 @@ export function paginaFicha(base: string, original: Producto, categorias: Catego
 
   const cta = p.agotado
     ? `<a class="cta cta--muerto" data-cta data-boton="compra" aria-disabled="true">
-          ${ICONOS.whatsapp}<span>Agotado</span>
+          ${ICONOS.bolsa}<span>Agotado</span>
         </a>
         <a class="cta cta--llena" data-consulta="stock" data-boton="stock" href="${wa("stock")}" target="_blank" rel="noopener">
-          ${ICONOS.whatsapp}<span>¿Cuándo vuelve?</span>
+          ${ICONOS.reloj}<span>¿Cuándo vuelve?</span>
         </a>
-        <div class="cta__nota">Sin stock por ahora. Pregúntanos y te avisamos cuando vuelva.</div>`
+        <div class="cta__nota">${ICONOS.whatsapp} Te avisamos por WhatsApp cuando vuelva</div>`
     : `<a class="cta" data-cta data-boton="compra" href="${wa("compra")}" target="_blank" rel="noopener">
-          ${ICONOS.whatsapp}<span>Continuar compra</span>
+          ${ICONOS.bolsa}<span>Continuar compra</span>
         </a>
         <a class="cta cta--suave" data-consulta="colores" data-boton="colores" href="${wa("colores")}" target="_blank" rel="noopener">
-          ${ICONOS.whatsapp}<span>¿Qué colores hay?</span>
+          ${ICONOS.paleta}<span>¿Qué colores hay?</span>
         </a>
         <a class="cta cta--suave" data-talla-wa="${botonTalla}" data-boton="${botonTalla}" href="${wa(botonTalla)}" target="_blank" rel="noopener">
-          ${ICONOS.whatsapp}<span>${etiquetaTalla}</span>
+          ${ICONOS.regla}<span>${etiquetaTalla}</span>
         </a>
-        <div class="cta__nota">Te contestamos por WhatsApp: color, talla y stock al momento</div>`;
+        <div class="cta__nota">${ICONOS.whatsapp} Los tres abren WhatsApp con tu mensaje escrito</div>`;
 
   // Lo que app.js necesita: las fotos de todo el producto y las tallas que
   // se pueden pedir. Lo que no se puede pedir no se ofrece.
