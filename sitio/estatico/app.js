@@ -4,6 +4,10 @@
 
   var WA = document.documentElement.dataset.wa || '';
 
+  // Lo rellena ficha() y lo usa estado(): pasar el botón de consulta de
+  // "qué colores hay" a "si vuelve" cuando el producto ya no está.
+  var aConsultarStock = null;
+
   /* Ruta pública de una imagen. Las de la extracción son un hash de 16 hex y
      viven como WebP estáticos; las que sube el equipo llevan la extensión del
      archivo (`<32 hex>.jpg`) y las redimensiona el CDN de imágenes al vuelo.
@@ -158,12 +162,17 @@
       }
     }
 
-    // Los dos mensajes. Sin la Ref.: el enlace ya dice qué producto es, y el
-    // número no le decía nada a quien compra.
+    // Los mismos encabezados que pone el servidor (ver ENCABEZADOS en
+    // _lib/plantillas.mts). Cada mensaje dice de entrada qué se pregunta, y
+    // debajo va la prenda con su enlace: quien atiende no adivina nada.
+    var ENCABEZADOS = {
+      compra: 'Hola Euchel, quiero continuar mi compra:',
+      colores: 'Hola Euchel, ¿en qué colores tienen esta prenda?',
+      stock: 'Hola Euchel, ¿tienen disponible esta prenda?'
+    };
+
     function armarMensaje(tipo) {
-      var lineas = [tipo === 'compra'
-        ? 'Hola Euchel, quiero continuar mi compra:'
-        : 'Hola Euchel, quiero consultar disponibilidad de este producto:', '', prod.nombre];
+      var lineas = [ENCABEZADOS[tipo] || ENCABEZADOS.compra, '', prod.nombre];
 
       var t = tallaActual();
       if (t) lineas.push('Talla: ' + t);
@@ -176,8 +185,21 @@
     function refrescarCta() {
       var wa = 'https://wa.me/' + WA + '?text=';
       if (cta && !cta.hasAttribute('aria-disabled')) cta.href = wa + encodeURIComponent(armarMensaje('compra'));
-      if (consulta) consulta.href = wa + encodeURIComponent(armarMensaje('consulta'));
+      if (consulta) {
+        consulta.href = wa + encodeURIComponent(armarMensaje(consulta.dataset.consulta || 'colores'));
+      }
     }
+
+    // Si /api/estado dice que esto ya no está, el botón deja de preguntar por
+    // colores y pasa a preguntar si vuelve. Preguntar el color de algo que no
+    // hay no le sirve a nadie.
+    aConsultarStock = function () {
+      if (!consulta) return;
+      consulta.dataset.consulta = 'stock';
+      var txt = consulta.querySelector('span');
+      if (txt) txt.textContent = 'Preguntar si vuelve';
+      refrescarCta();
+    };
 
     if (elTallas) {
       elTallas.addEventListener('click', function (e) {
@@ -282,6 +304,7 @@
           // El de preguntar pasa a ser el principal: es lo único que se puede
           // hacer con algo que no está, y sigue llevando a WhatsApp.
           if (consulta) { consulta.classList.remove('cta--suave'); consulta.classList.add('cta--llena'); }
+          if (aConsultarStock) aConsultarStock();
           if (nota) {
             nota.textContent = ocultos.has(pid)
               ? 'Este producto ya no está en el catálogo.'

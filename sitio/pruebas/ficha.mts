@@ -31,14 +31,22 @@ assert.deepEqual(fotosDe(base({ galeria: ["a"], colores: [color("Azul", ["30"], 
 const m = mensajeWa("compra", base(), "https://x", "30");
 assert.ok(!/Ref\./.test(m), "sigue llevando la Ref.");
 assert.ok(m.includes("Talla: 30") && m.includes("S/ 45") && m.includes("https://x/p/1-x/"));
-assert.ok(mensajeWa("consulta", base(), "https://x").includes("consultar disponibilidad"));
+
+// El de colores tiene que decir que pregunta por colores, y de qué prenda
+const col = mensajeWa("colores", base(), "https://x");
+assert.ok(col.includes("colores"), "el mensaje no dice que pregunta por colores");
+assert.ok(col.includes("TOP RAISA") && col.includes("https://x/p/1-x/"),
+  "no se sabe por qué prenda se pregunta");
+assert.ok(mensajeWa("stock", base(), "https://x").includes("disponible"));
 
 // la página: ni rastro del selector de color, y los dos botones
 const html = paginaFicha("https://x", base({ colores: [color("Azul", ["30"]), color("Gris", ["32"])] }),
   [{ nombre: "Tops", slug: "tops", subid: 1, cuantos: 1 }]);
 assert.ok(!html.includes("data-colores"), "queda el selector de color");
 assert.ok(!html.includes(">Color<"), "queda el título Color");
-assert.ok(html.includes("data-consulta") && html.includes("Consultar disponibilidad"));
+assert.ok(html.includes('data-consulta="colores"'), "el botón no pregunta por colores");
+assert.ok(html.includes("¿Qué colores hay?"), "el botón no dice para qué sirve");
+assert.ok(html.match(/data-consulta="colores"[^>]*href="[^"]*colores/), "el enlace no lleva el mensaje de colores");
 assert.ok(html.includes("Continuar compra"));
 assert.ok(html.includes("data-tallas") && html.includes(">30<") && html.includes(">32<"));
 assert.ok(!/Ref\.|%20Ref/.test(html), "la Ref. sigue en la página");
@@ -47,6 +55,8 @@ const agotado = paginaFicha("https://x", base({ agotado: true, colores: [color("
   [{ nombre: "Tops", slug: "tops", subid: 1, cuantos: 1 }]);
 assert.ok(agotado.includes("cta--muerto") && agotado.includes("cta--llena"),
   "sin stock, preguntar tiene que ser el botón principal");
+assert.ok(agotado.includes('data-consulta="stock"') && agotado.includes("Preguntar si vuelve"),
+  "sin stock, preguntar por el color no sirve de nada");
 
 console.log("ficha: todo bien");
 

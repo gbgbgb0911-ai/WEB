@@ -177,17 +177,23 @@ export function fotosDe(p: Producto): string[] {
   return [...new Set(todas)];
 }
 
-/* Los dos mensajes de WhatsApp. Sin la Ref.: el enlace al producto ya dice
-   cuál es, y el número de referencia no le decía nada a quien compra. */
-export function mensajeWa(tipo: "compra" | "consulta", p: Producto, base: string,
+/* Los mensajes de WhatsApp.
+ *
+ * Cada uno dice de entrada qué se está preguntando, y debajo va la prenda
+ * con su nombre, su talla si se eligió, su precio y su enlace. Quien atiende
+ * no tiene que adivinar de qué producto le hablan.
+ *
+ * Sin la Ref.: el enlace ya dice cuál es, y el número no le decía nada a
+ * quien compra. */
+export const ENCABEZADOS = {
+  compra: "Hola Euchel, quiero continuar mi compra:",
+  colores: "Hola Euchel, ¿en qué colores tienen esta prenda?",
+  stock: "Hola Euchel, ¿tienen disponible esta prenda?",
+} as const;
+
+export function mensajeWa(tipo: keyof typeof ENCABEZADOS, p: Producto, base: string,
                           talla: string | null = null): string {
-  const lineas = [
-    tipo === "compra"
-      ? "Hola Euchel, quiero continuar mi compra:"
-      : "Hola Euchel, quiero consultar disponibilidad de este producto:",
-    "",
-    p.nombre,
-  ];
+  const lineas = [ENCABEZADOS[tipo], "", p.nombre];
   if (talla) lineas.push(`Talla: ${talla}`);
   if (p.precio !== null) lineas.push(`S/ ${soles(p.precio)}`);
   lineas.push("", `${base}/p/${p.slug}/`);
@@ -422,24 +428,24 @@ export function paginaFicha(base: string, original: Producto, categorias: Catego
    *
    * Agotado: el de comprar sale desactivado y el de preguntar pasa a ser el
    * principal, que es lo que toca hacer cuando algo no está. */
-  const waCompra = `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(mensajeWa("compra", p, base))}`;
-  const waConsulta = `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(mensajeWa("consulta", p, base))}`;
+  const wa = (t: keyof typeof ENCABEZADOS) =>
+    `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(mensajeWa(t, p, base))}`;
 
   const cta = p.agotado
     ? `<a class="cta cta--muerto" data-cta aria-disabled="true">
           ${ICONOS.whatsapp}<span>Agotado</span>
         </a>
-        <a class="cta cta--llena" data-consulta href="${waConsulta}" target="_blank" rel="noopener">
-          <span>Consultar disponibilidad</span>
+        <a class="cta cta--llena" data-consulta="stock" href="${wa("stock")}" target="_blank" rel="noopener">
+          ${ICONOS.whatsapp}<span>Preguntar si vuelve</span>
         </a>
         <div class="cta__nota">Sin stock por ahora. Pregúntanos y te avisamos cuando vuelva.</div>`
-    : `<a class="cta" data-cta href="${waCompra}" target="_blank" rel="noopener">
+    : `<a class="cta" data-cta href="${wa("compra")}" target="_blank" rel="noopener">
           ${ICONOS.whatsapp}<span>Continuar compra</span>
         </a>
-        <a class="cta cta--suave" data-consulta href="${waConsulta}" target="_blank" rel="noopener">
-          <span>Consultar disponibilidad</span>
+        <a class="cta cta--suave" data-consulta="colores" href="${wa("colores")}" target="_blank" rel="noopener">
+          ${ICONOS.whatsapp}<span>¿Qué colores hay?</span>
         </a>
-        <div class="cta__nota">Te confirmamos color y talla por WhatsApp antes de cerrar el pedido</div>`;
+        <div class="cta__nota">Te decimos por WhatsApp en qué colores queda esta prenda</div>`;
 
   // Lo que app.js necesita: las fotos de todo el producto y las tallas que
   // se pueden pedir. Lo que no se puede pedir no se ofrece.
