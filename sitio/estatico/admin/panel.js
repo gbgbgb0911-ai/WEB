@@ -15,7 +15,7 @@
 import { entrar, salir, api, sesionAbierta, ErrorPermiso, ErrorSesion, ErrorRed }
   from '/panel/sesion.js';
 import { $, escapar, moneda, numero, fecha, brindis, hacerFallo, vigilarSenal,
-         montarHoja, montarPWA, cerrarHoja } from '/panel/ui.js';
+         montarHoja, montarPWA, cerrarHoja, rutaImg } from '/panel/ui.js';
 import { crearLista } from '/panel/lista.js';
 import { montarCambioClave } from '/panel/clave.js';
 
@@ -153,7 +153,8 @@ async function tablero() {
     </div>` : '';
 
   caja.innerHTML = kpis + aviso
-    + bloque('Pedidos por día', porDia(d.por_dia))
+    + bloque(d.paso === 'semana' ? 'Pedidos por semana' : 'Pedidos por día',
+             porDia(d.por_dia, d.paso))
     + bloque('Lo más pedido', masPedidos(d.mas_pedidos))
     + bloque('Por categoría', barras(d.por_categoria, 'categoria'))
     + bloque('Colores más pedidos', barras(d.por_color, 'color'))
@@ -202,17 +203,36 @@ function barras(items, clave) {
     items.map((i) => fila(i[clave], i.clics, tope)).join('') + '</div>';
 }
 
-function porDia(serie) {
+/** "19 sep". Al mediodía para que el uso horario no corra el día. */
+function diaCorto(iso) {
+  const d = new Date(iso + 'T12:00:00');
+  if (isNaN(d)) return iso;
+  // es-PE devuelve "12-set."; se lee mejor "12 set".
+  return d.toLocaleDateString('es-PE', { day: '2-digit', month: 'short' })
+    .replace('-', ' ').replace('.', '');
+}
+
+function porDia(serie, paso) {
   if (!serie || !serie.length) return '<p class="tarjeta__meta">Sin datos todavía.</p>';
   const tope = Math.max(...serie.map((d) => d.clics), 1);
+  const semanal = paso === 'semana';
   const barritas = serie.map((d, i) => {
-    const alto = Math.round((d.clics / tope) * 100);
+    // La barra de un día sin pedidos se ve, en gris: un hueco no distingue
+    // "nadie pidió" de "aquí no hay dato".
+    const alto = d.clics ? Math.max(Math.round((d.clics / tope) * 100), 4) : 3;
+    const cuando = semanal ? `Semana del ${diaCorto(d.dia)}` : diaCorto(d.dia);
+    const cuantos = d.clics === 1 ? '1 pedido' : `${numero(d.clics)} pedidos`;
     return `<span class="dia${d.clics ? '' : ' dia--cero'}"
-      style="--hasta:${Math.max(alto, 2)}%; animation-delay:${Math.min(i, 30) * 12}ms"
-      title="${d.dia}: ${d.clics}"></span>`;
+      style="--hasta:${alto}%; animation-delay:${Math.min(i, 30) * 12}ms"
+      title="${escapar(cuando)}: ${escapar(cuantos)}"></span>`;
   }).join('');
-  return `<div class="dias">${barritas}</div>
-    <div class="dias__pie"><span>${serie[0].dia}</span><span>${serie[serie.length - 1].dia}</span></div>`;
+  const tramos = serie.length;
+  return `<div class="dias" style="--tramos:${tramos}">${barritas}</div>
+    <div class="dias__pie">
+      <span>${diaCorto(serie[0].dia)}</span>
+      <span>máximo ${numero(tope)} en ${semanal ? 'una semana' : 'un día'}</span>
+      <span>${diaCorto(serie[serie.length - 1].dia)}</span>
+    </div>`;
 }
 
 function masPedidos(items) {
@@ -223,7 +243,7 @@ function masPedidos(items) {
     if (!p.visible) sellos.push('oculto');
     return `<div class="pedido">
         <span class="pedido__puesto">${i + 1}</span>
-        ${p.foto ? `<img class="pedido__foto" src="/img/webp/${escapar(p.foto)}-thumb.webp"
+        ${p.foto ? `<img class="pedido__foto" src="${escapar(rutaImg(p.foto, 'thumb'))}"
                         alt="" loading="lazy" width="52" height="64">`
                  : '<div class="pedido__foto"></div>'}
         <div>

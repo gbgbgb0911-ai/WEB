@@ -16,15 +16,8 @@
 
 import { api } from '/panel/sesion.js';
 import { $, escapar, moneda, brindis, abrirHoja, cerrarHoja, hojaAbiertaPara,
-         cabeceraHoja } from '/panel/ui.js';
+         cabeceraHoja, rutaImg } from '/panel/ui.js';
 import { encoger, pesoLegible, ACEPTA } from '/panel/foto.js';
-
-/** Ruta pública de una imagen. Igual que ruta_img() del generador. */
-function rutaImg(h, medida) {
-  if (String(h).indexOf('.') === -1) return `/img/webp/${h}-${medida}.webp`;
-  const ancho = medida === 'thumb' ? 500 : 1400;
-  return `/.netlify/images?url=/img/subidas/${h}&w=${ancho}&fm=webp&q=82`;
-}
 
 export function crearLista({ rol, fallo }) {
   const vista = {

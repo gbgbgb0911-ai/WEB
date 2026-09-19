@@ -13,6 +13,16 @@ export function escapar(s) {
 const SOLES = new Intl.NumberFormat('es-PE', { minimumFractionDigits: 2,
                                                maximumFractionDigits: 2 });
 
+/* Ruta pública de una foto. Las de la extracción son un hash de 16 hex y
+   viven como WebP estáticos; las que sube el equipo llevan la extensión del
+   archivo y las redimensiona el CDN de imágenes al vuelo. El punto alcanza
+   para distinguirlas. Igual que rutaImg() del catálogo. */
+export function rutaImg(h, medida) {
+  if (String(h).indexOf('.') === -1) return `/img/webp/${h}-${medida}.webp`;
+  const ancho = medida === 'thumb' ? 500 : 1400;
+  return `/.netlify/images?url=/img/subidas/${h}&w=${ancho}&fm=webp&q=82`;
+}
+
 export function moneda(v) {
   // Con separador de miles: el tablero llega a cifras de cinco dígitos y
   // "S/ 11100.00" se lee mal de un vistazo.

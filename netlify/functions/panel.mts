@@ -350,10 +350,36 @@ async function archivar(req: Request, sql: any, yo: Sesion, id: number) {
   return json(filas[0]);
 }
 
+/* La tienda vive en Lima, que va cinco horas por detrás de UTC todo el año
+ * (Perú no cambia la hora). Un pedido de las nueve de la noche es de ese día,
+ * no del siguiente, así que los días se cortan en hora de Lima. */
+const LIMA_HORAS = 5;
+
+/** Comienzo del periodo: medianoche en Lima, contando hacia atrás. */
+function comienzo(dias: number): { desde: string; unidad: "day" | "week"; puntos: number } {
+  const unidad = dias === 365 ? "week" : "day";
+  const puntos = dias === 365 ? 53 : dias;
+
+  // Con las horas restadas, los campos UTC de esta fecha son la hora de Lima.
+  const enLima = new Date(Date.now() - LIMA_HORAS * 3600_000);
+  enLima.setUTCHours(0, 0, 0, 0);
+  if (unidad === "week") {
+    // Las semanas empiezan en lunes, como las de Postgres.
+    enLima.setUTCDate(enLima.getUTCDate() - ((enLima.getUTCDay() + 6) % 7));
+    enLima.setUTCDate(enLima.getUTCDate() - (puntos - 1) * 7);
+  } else {
+    enLima.setUTCDate(enLima.getUTCDate() - (puntos - 1));
+  }
+
+  // Y de vuelta al instante real, que es lo que guarda la base.
+  const desde = new Date(enLima.getTime() + LIMA_HORAS * 3600_000).toISOString();
+  return { desde, unidad, puntos };
+}
+
 async function tablero(req: Request, sql: any) {
   const pedidos = Number(new URL(req.url).searchParams.get("dias"));
   const dias = [7, 30, 90, 365].includes(pedidos) ? pedidos : 30;
-  const desde = `${dias} days`;
+  const { desde, unidad } = comienzo(dias);
 
   const [resumen, porDia, masPedidos, porCategoria, porColor, porTalla, catalogo] =
     await Promise.all([
@@ -361,13 +387,22 @@ async function tablero(req: Request, sql: any) {
                  count(distinct producto_id)::int as productos,
                  coalesce(sum(precio), 0)::float as valor
             from negocio.intencion
-           where creado_en > now() - ${desde}::interval`,
+           where creado_en >= ${desde}`,
 
-      sql`select to_char(date_trunc('day', creado_en), 'YYYY-MM-DD') as dia,
-                 count(*)::int as clics
-            from negocio.intencion
-           where creado_en > now() - ${desde}::interval
-        group by 1 order by 1`,
+      // Todos los días del periodo, tengan pedidos o no. Con solo los que
+      // tienen, una semana con un único día de pedidos pintaba una barra
+      // sola que ocupaba el gráfico entero: parecía un bloque negro.
+      sql`with tramos as (
+            select generate_series(${desde}::timestamptz, now(),
+                                   ('1 ' || ${unidad})::interval) as t
+          )
+          select to_char(tr.t at time zone 'America/Lima', 'YYYY-MM-DD') as dia,
+                 count(i.creado_en)::int as clics
+            from tramos tr
+            left join negocio.intencion i
+              on i.creado_en >= tr.t
+             and i.creado_en < tr.t + ('1 ' || ${unidad})::interval
+        group by tr.t order by tr.t`,
 
       sql`select i.producto_id as id, p.nombre, p.precio, p.visible, p.agotado,
                  count(*)::int as clics,
@@ -375,7 +410,7 @@ async function tablero(req: Request, sql: any) {
                    where im.producto_id = p.id order by im.orden limit 1) as foto
             from negocio.intencion i
             join catalogo.producto p on p.id = i.producto_id
-           where i.creado_en > now() - ${desde}::interval
+           where i.creado_en >= ${desde}
         group by i.producto_id, p.nombre, p.precio, p.visible, p.agotado, p.id
         order by clics desc, i.producto_id limit 20`,
 
@@ -384,18 +419,18 @@ async function tablero(req: Request, sql: any) {
             from negocio.intencion i
             join catalogo.producto p on p.id = i.producto_id
        left join catalogo.categoria c on c.subid = p.subid
-           where i.creado_en > now() - ${desde}::interval
+           where i.creado_en >= ${desde}
         group by 1 order by clics desc limit 12`,
 
       sql`select coalesce(co.nombre, 'Sin color') as color, count(*)::int as clics
             from negocio.intencion i
        left join catalogo.color co on co.id = i.color_id
-           where i.creado_en > now() - ${desde}::interval
+           where i.creado_en >= ${desde}
         group by 1 order by clics desc limit 12`,
 
       sql`select coalesce(nullif(i.talla, ''), 'Sin talla') as talla, count(*)::int as clics
             from negocio.intencion i
-           where i.creado_en > now() - ${desde}::interval
+           where i.creado_en >= ${desde}
         group by 1 order by clics desc limit 12`,
 
       sql`select count(*)::int as total,
@@ -412,6 +447,7 @@ async function tablero(req: Request, sql: any) {
     productos_pedidos: resumen[0].productos,
     valor: resumen[0].valor,
     por_dia: porDia,
+    paso: unidad === "week" ? "semana" : "dia",
     mas_pedidos: masPedidos,
     por_categoria: porCategoria,
     por_color: porColor,

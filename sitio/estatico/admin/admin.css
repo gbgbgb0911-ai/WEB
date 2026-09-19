@@ -65,7 +65,10 @@
 
 /* --------------------------------------------------------------- por día */
 
+/* Con 7 barras el hueco de 2px se ve bien; con 90 se come el gráfico, así
+   que el hueco se estrecha cuando hay muchas. */
 .dias { display: flex; align-items: flex-end; gap: 2px; height: 96px; margin-top: 4px; }
+.dias:has(> :nth-child(40)) { gap: 1px; }
 .dia {
   flex: 1 1 0; min-width: 2px; border-radius: 2px 2px 0 0;
   background: var(--tinta);
@@ -73,8 +76,9 @@
 }
 .dia--cero { background: var(--linea-suave); }
 @keyframes sube { to { height: var(--hasta); } }
-.dias__pie { display: flex; justify-content: space-between; font-size: 10px;
+.dias__pie { display: flex; justify-content: space-between; gap: 8px; font-size: 10px;
   color: var(--gris); margin-top: 5px; }
+.dias__pie span:nth-child(2) { text-align: center; }
 
 /* ------------------------------------------------------------ más pedidos */
 
