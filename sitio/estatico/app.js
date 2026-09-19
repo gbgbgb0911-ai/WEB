@@ -120,59 +120,33 @@
     try { prod = JSON.parse(document.getElementById('datos-producto').textContent); }
     catch (e) { return; }
 
-    var elColores = raiz.querySelector('[data-colores]');
     var elTallas = raiz.querySelector('[data-tallas]');
-    var elColorSel = raiz.querySelector('[data-color-elegido]');
     var elTallaSel = raiz.querySelector('[data-talla-elegida]');
-    var elGrupoTallas = raiz.querySelector('[data-grupo-tallas]');
     var cta = raiz.querySelector('[data-cta]');
+    var consulta = raiz.querySelector('[data-consulta]');
     var principal = raiz.querySelector('[data-foto-principal]');
     var tiras = raiz.querySelector('[data-tiras]');
 
-    // El color inicial puede venir del enlace: ?c=<id_color>
-    var pedido = new URLSearchParams(location.search).get('c');
-    var iColor = 0;
-    if (pedido) {
-      for (var k = 0; k < prod.colores.length; k++) {
-        if (String(prod.colores[k].id) === String(pedido)) { iColor = k; break; }
-      }
-    }
+    // El color ya no se elige: lo pidieron los dueños porque el stock por
+    // color cambia todo el día. Las fotos siguen enseñando los colores que
+    // hay, y cuál queda se confirma por WhatsApp.
+    var tallas = prod.tallas || [];
     var iTalla = 0;
 
-    function colorActual() { return prod.colores[iColor] || { tallas: [], imagenes: [] }; }
+    function tallaActual() { return tallas.length ? tallas[iTalla] : null; }
 
     function pintarTallas() {
-      var c = colorActual();
       if (!elTallas) return;
-
-      if (!c.tallas.length) {
-        elTallas.innerHTML = '<span class="chip__aviso">Consultar disponibilidad</span>';
-        if (elTallaSel) elTallaSel.textContent = '';
-        return;
-      }
-      elTallas.innerHTML = c.tallas.map(function (t, i) {
-        return '<button type="button" class="chip" data-talla="' + i + '" aria-pressed="' +
-          (i === iTalla ? 'true' : 'false') + '">' + t.nombre + '</button>';
-      }).join('');
-      if (elTallaSel) elTallaSel.textContent = c.tallas[iTalla] ? c.tallas[iTalla].nombre : '';
-    }
-
-    function pintarColores() {
-      if (!elColores) return;
-      var botones = elColores.querySelectorAll('[data-color]');
+      var botones = elTallas.querySelectorAll('[data-talla]');
       for (var i = 0; i < botones.length; i++) {
-        botones[i].setAttribute('aria-pressed', Number(botones[i].dataset.color) === iColor ? 'true' : 'false');
+        botones[i].setAttribute('aria-pressed', Number(botones[i].dataset.talla) === iTalla ? 'true' : 'false');
       }
-      if (elColorSel) elColorSel.textContent = colorActual().nombre || '';
+      if (elTallaSel) elTallaSel.textContent = tallaActual() || '';
     }
 
     function pintarFotos() {
-      var c = colorActual();
-      var fotos = (c.imagenes && c.imagenes.length) ? c.imagenes : prod.imagenes;
+      var fotos = prod.imagenes || [];
       if (!fotos.length || !principal) return;
-
-      principal.src = rutaImg(fotos[0], 'full');
-      principal.alt = prod.nombre + (c.nombre ? ', ' + c.nombre : '');
 
       if (tiras) {
         tiras.innerHTML = fotos.map(function (h, i) {
@@ -184,39 +158,25 @@
       }
     }
 
-    function armarMensaje() {
-      var c = colorActual();
-      var t = c.tallas[iTalla];
-      var lineas = ['Hola Euchel, quiero continuar mi compra:', '', prod.nombre];
+    // Los dos mensajes. Sin la Ref.: el enlace ya dice qué producto es, y el
+    // número no le decía nada a quien compra.
+    function armarMensaje(tipo) {
+      var lineas = [tipo === 'compra'
+        ? 'Hola Euchel, quiero continuar mi compra:'
+        : 'Hola Euchel, quiero consultar disponibilidad de este producto:', '', prod.nombre];
 
-      var detalle = [];
-      if (c.nombre && c.nombre !== 'Único') detalle.push('Color: ' + c.nombre);
-      if (t) detalle.push('Talla: ' + t.nombre);
-      if (detalle.length) lineas.push(detalle.join('  ·  '));
-
-      lineas.push('S/ ' + prod.precio + '  ·  Ref. ' + prod.id);
+      var t = tallaActual();
+      if (t) lineas.push('Talla: ' + t);
+      if (prod.precio) lineas.push('S/ ' + prod.precio);
       lineas.push('');
-      lineas.push(location.origin + '/p/' + prod.slug + '/' + (c.id ? '?c=' + c.id : ''));
+      lineas.push(location.origin + '/p/' + prod.slug + '/');
       return lineas.join('\n');
     }
 
     function refrescarCta() {
-      if (!cta) return;
-      cta.href = 'https://wa.me/' + WA + '?text=' + encodeURIComponent(armarMensaje());
-    }
-
-    if (elColores) {
-      elColores.addEventListener('click', function (e) {
-        var b = e.target.closest('[data-color]');
-        if (!b) return;
-        iColor = Number(b.dataset.color);
-        iTalla = 0;
-        pintarColores(); pintarTallas(); pintarFotos(); refrescarCta();
-        var u = new URL(location.href);
-        var id = colorActual().id;
-        if (id) { u.searchParams.set('c', id); } else { u.searchParams.delete('c'); }
-        history.replaceState(null, '', u);
-      });
+      var wa = 'https://wa.me/' + WA + '?text=';
+      if (cta && !cta.hasAttribute('aria-disabled')) cta.href = wa + encodeURIComponent(armarMensaje('compra'));
+      if (consulta) consulta.href = wa + encodeURIComponent(armarMensaje('consulta'));
     }
 
     if (elTallas) {
@@ -242,12 +202,10 @@
     // (qué se pide más). sendBeacon no retrasa la apertura de WhatsApp.
     if (cta) {
       cta.addEventListener('click', function () {
-        var c = colorActual();
-        var t = c.tallas[iTalla];
         var cuerpo = JSON.stringify({
           producto_id: prod.id,
-          color_id: c.id || null,
-          talla: t ? t.nombre : null,
+          color_id: null,
+          talla: tallaActual(),
           precio: Number(prod.precio) || null
         });
         try {
@@ -261,8 +219,7 @@
       });
     }
 
-    if (elGrupoTallas) elGrupoTallas.hidden = false;
-    pintarColores(); pintarTallas(); pintarFotos(); refrescarCta();
+    pintarTallas(); pintarFotos(); refrescarCta();
   }
 
   /* ----------------------------------------------------------------- PWA */
@@ -313,19 +270,22 @@
 
         if (ocultos.has(pid) || agotados.has(pid)) {
           var cta = raiz.querySelector('[data-cta]');
+          var consulta = raiz.querySelector('[data-consulta]');
           var nota = raiz.querySelector('.cta__nota');
           if (cta) {
             cta.removeAttribute('href');
             cta.setAttribute('aria-disabled', 'true');
-            cta.style.background = '#cccccc';
-            cta.style.pointerEvents = 'none';
+            cta.classList.add('cta--muerto');
             var txt = cta.querySelector('span');
             if (txt) txt.textContent = ocultos.has(pid) ? 'No disponible' : 'Agotado';
           }
+          // El de preguntar pasa a ser el principal: es lo único que se puede
+          // hacer con algo que no está, y sigue llevando a WhatsApp.
+          if (consulta) { consulta.classList.remove('cta--suave'); consulta.classList.add('cta--llena'); }
           if (nota) {
             nota.textContent = ocultos.has(pid)
               ? 'Este producto ya no está en el catálogo.'
-              : 'Sin stock por ahora. Escríbenos y te avisamos cuando vuelva.';
+              : 'Sin stock por ahora. Pregúntanos y te avisamos cuando vuelva.';
           }
         }
       })

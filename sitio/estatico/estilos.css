@@ -347,6 +347,28 @@ a { color: inherit; text-decoration: none; }
 .cta:active { transform: scale(.98); }
 .cta__nota { font-size: 12px; color: var(--gris); text-align: center; }
 
+/* Los dos botones de la ficha.
+   Comprar arriba, preguntar debajo. Mismo alto y mismo ancho, para que se
+   lean como una pareja y no como un añadido; el de preguntar va en contorno
+   para que quede claro cuál es el principal. */
+.grupo--acciones { gap: 10px; }
+
+.cta--suave {
+  background: var(--papel); color: var(--tinta);
+  border: 1px solid var(--tinta); height: 50px;
+}
+.cta--suave:hover { background: var(--tinta); color: var(--papel); box-shadow: none; }
+
+/* Cuando no hay stock, preguntar es lo único que queda: pasa a ser el negro. */
+.cta--llena { background: var(--tinta); color: var(--papel); border: 1px solid var(--tinta); }
+.cta--llena:hover { background: var(--acento); border-color: var(--acento); }
+
+.cta--muerto {
+  background: var(--suave); color: var(--gris);
+  box-shadow: none; pointer-events: none; cursor: default;
+}
+.cta--muerto:hover { background: var(--suave); box-shadow: none; }
+
 /* ------------------------------------------------------- botón flotante */
 
 .flotante {

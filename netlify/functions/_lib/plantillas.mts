@@ -132,6 +132,68 @@ export function plano(texto: string): string {
 /** ¿La subió el equipo? Las de la extracción son 16 hex sin extensión. */
 const subida = (h: string) => h.includes(".");
 
+/* Tallas que no son una talla: el equipo escribió de todo en ese campo
+   ("Standar", "Standard", "standart", "único", "-"). Ninguna dice nada al
+   cliente, así que no se pintan: si no hay que elegir, no hay que preguntar. */
+const SIN_TALLA = new Set([
+  "", "-", "estandar", "standar", "standard", "standart", "unico", "s/t", "na",
+]);
+
+/* Para ordenarlas: los números por número (26, 28, 30…) y las letras por
+   cuerpo, no por alfabeto, que pondría la L antes que la S. */
+const ORDEN_LETRAS = ["xs", "s", "s-m", "m", "m-l", "l", "xl", "xxl"];
+
+/** Las tallas que se pueden pedir, juntando las de todos los colores. */
+export function tallasVisibles(p: Producto): string[] {
+  const vistas = new Map<string, string>();
+  for (const c of p.colores) {
+    if (c.agotado) continue;
+    for (const t of c.tallas) {
+      if (t.agotado) continue;
+      const nombre = String(t.nombre || "").trim();
+      const clave = plano(nombre);
+      if (SIN_TALLA.has(clave)) continue;
+      if (!vistas.has(clave)) vistas.set(clave, nombre);
+    }
+  }
+  const numero = (s: string) => (/^\d+$/.test(s) ? Number(s) : null);
+  return [...vistas.values()].sort((a, b) => {
+    const na = numero(a), nb = numero(b);
+    if (na !== null && nb !== null) return na - nb;
+    if (na !== null) return -1;
+    if (nb !== null) return 1;
+    const ia = ORDEN_LETRAS.indexOf(plano(a)), ib = ORDEN_LETRAS.indexOf(plano(b));
+    if (ia !== -1 && ib !== -1) return ia - ib;
+    if (ia !== -1) return -1;
+    if (ib !== -1) return 1;
+    return a.localeCompare(b, "es");
+  });
+}
+
+/** Todas las fotos del producto, las sueltas y las de cada color. */
+export function fotosDe(p: Producto): string[] {
+  const todas = [...p.galeria];
+  for (const c of p.colores) for (const h of c.imagenes) todas.push(h);
+  return [...new Set(todas)];
+}
+
+/* Los dos mensajes de WhatsApp. Sin la Ref.: el enlace al producto ya dice
+   cuál es, y el número de referencia no le decía nada a quien compra. */
+export function mensajeWa(tipo: "compra" | "consulta", p: Producto, base: string,
+                          talla: string | null = null): string {
+  const lineas = [
+    tipo === "compra"
+      ? "Hola Euchel, quiero continuar mi compra:"
+      : "Hola Euchel, quiero consultar disponibilidad de este producto:",
+    "",
+    p.nombre,
+  ];
+  if (talla) lineas.push(`Talla: ${talla}`);
+  if (p.precio !== null) lineas.push(`S/ ${soles(p.precio)}`);
+  lineas.push("", `${base}/p/${p.slug}/`);
+  return lineas.join("\n");
+}
+
 /** Ruta pública de una imagen. Igual que ruta_img() y rutaImg() de app.js. */
 export function rutaImg(h: string, medida: "thumb" | "full"): string {
   if (subida(h)) {
@@ -259,8 +321,15 @@ export function tarjeta(original: Producto, primera = false): string {
     ? `<span class="sello sello--agotado" style="top:${p.antes ? "46px" : "10px"}">Agotado</span>` : "";
   const antes = p.antes ? `<span class="precio--antes">S/ ${soles(p.antes)}</span>` : "";
 
-  const nCol = p.colores.filter((c) => c.nombre !== "Único").length;
-  const meta = nCol > 1 ? `${nCol} colores` : p.colores.length ? e(p.colores[0].nombre) : "";
+  /* Antes aquí decía "3 colores". Ya no: el color no se elige (ver la ficha),
+     así que anunciarlo era prometer un surtido que igual no está. En su
+     lugar, la talla, que sí es lo que se mira antes de entrar. */
+  const tallas = tallasVisibles(p);
+  const numericas = tallas.length > 0 && tallas.every((t) => /^\d+$/.test(t));
+  const meta = !tallas.length ? ""
+    : numericas ? `Tallas ${tallas[0]}–${tallas[tallas.length - 1]}`
+    : tallas.length <= 3 ? `Tallas ${tallas.join(", ")}`
+    : `${tallas.length} tallas`;
 
   return `<a class="tarjeta revelar" href="/p/${e(p.slug)}/">
   <div class="tarjeta__foto">${img}${oferta}${agotado}</div>
@@ -268,7 +337,7 @@ export function tarjeta(original: Producto, primera = false): string {
     <div class="tarjeta__nombre">${e(p.nombre)}</div>
     <div class="tarjeta__precios">
       <span class="precio">S/ ${soles(p.precio)}</span>${antes}
-      <span class="tarjeta__meta">${meta}</span>
+      <span class="tarjeta__meta">${e(meta)}</span>
     </div>
   </div>
 </a>`;
@@ -322,44 +391,60 @@ export function paginaFicha(base: string, original: Producto, categorias: Catego
   const sello = p.antes ? '<span class="sello" style="position:static">Oferta</span>' : "";
   const parrafo = p.descripcion ? `<p class="ficha__desc">${e(p.descripcion)}</p>` : "";
 
-  // Selector de color: se omite cuando hay un único color sin nombre real.
-  const muestraColores = p.colores.length > 1
-    || (p.colores.length === 1 && !["Único", "Unico"].includes(p.colores[0].nombre));
-  const bloqueColores = muestraColores ? `<div class="grupo">
-        <div class="grupo__titulo"><span>Color</span><span class="grupo__elegido" data-color-elegido></span></div>
-        <div class="opciones" data-colores>${p.colores.map((c, i) =>
-          `<button type="button" class="chip" data-color="${i}" aria-pressed="false">${e(c.nombre)}</button>`).join("")}</div>
+  /* El color ya no se elige aquí.
+   *
+   * Lo pidieron los dueños: el stock por color cambia todo el día y ofrecer
+   * una lista de colores era prometer lo que a veces no estaba. Las fotos
+   * siguen enseñando los colores que hay; cuál queda se confirma por
+   * WhatsApp, que es donde de verdad se sabe. */
+  const tallas = tallasVisibles(p);
+  const bloqueTallas = tallas.length ? `<div class="grupo">
+        <div class="grupo__titulo"><span>Talla</span><span class="grupo__elegido" data-talla-elegida></span></div>
+        <div class="opciones" data-tallas>${tallas.map((t, i) =>
+          `<button type="button" class="chip" data-talla="${i}" aria-pressed="${i === 0}">${e(t)}</button>`).join("")}</div>
       </div>` : "";
 
   const principal = foto
     ? `<img data-foto-principal src="${rutaImg(foto, "full")}" alt="${e(p.nombre)}" width="1400" height="1867" decoding="async">`
     : '<div style="width:100%;height:100%"></div>';
 
-  // Agotado: el botón sale ya desactivado. Mismo aspecto que pone app.js
-  // cuando lo aprende de /api/estado, así no hay salto al cargar.
+  /* Dos botones, y los dos sirven de algo.
+   *
+   * Arriba el de comprar. Debajo, el de preguntar: para el color que no está
+   * en la foto, para la talla que no aparece, para lo que esté agotado. Los
+   * dos salen ya armados desde aquí, así que funcionan aunque el guion no
+   * llegue; app.js solo les añade la talla elegida.
+   *
+   * Agotado: el de comprar sale desactivado y el de preguntar pasa a ser el
+   * principal, que es lo que toca hacer cuando algo no está. */
+  const waCompra = `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(mensajeWa("compra", p, base))}`;
+  const waConsulta = `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(mensajeWa("consulta", p, base))}`;
+
   const cta = p.agotado
-    ? `<a class="cta" data-cta aria-disabled="true" style="background:#cccccc;pointer-events:none">
+    ? `<a class="cta cta--muerto" data-cta aria-disabled="true">
           ${ICONOS.whatsapp}<span>Agotado</span>
         </a>
-        <div class="cta__nota">Sin stock por ahora. Escríbenos y te avisamos cuando vuelva.</div>`
-    : `<a class="cta" data-cta href="https://wa.me/${WHATSAPP}" target="_blank" rel="noopener">
+        <a class="cta cta--llena" data-consulta href="${waConsulta}" target="_blank" rel="noopener">
+          <span>Consultar disponibilidad</span>
+        </a>
+        <div class="cta__nota">Sin stock por ahora. Pregúntanos y te avisamos cuando vuelva.</div>`
+    : `<a class="cta" data-cta href="${waCompra}" target="_blank" rel="noopener">
           ${ICONOS.whatsapp}<span>Continuar compra</span>
         </a>
-        <div class="cta__nota">Se abre WhatsApp con tu pedido y la foto del producto</div>`;
+        <a class="cta cta--suave" data-consulta href="${waConsulta}" target="_blank" rel="noopener">
+          <span>Consultar disponibilidad</span>
+        </a>
+        <div class="cta__nota">Te confirmamos color y talla por WhatsApp antes de cerrar el pedido</div>`;
 
-  // Lo que app.js necesita para armar el pedido. Solo tallas disponibles y
-  // colores con existencia: lo que no se puede pedir no se ofrece.
+  // Lo que app.js necesita: las fotos de todo el producto y las tallas que
+  // se pueden pedir. Lo que no se puede pedir no se ofrece.
   const datos = JSON.stringify({
     id: p.id,
     slug: p.slug,
     nombre: p.nombre,
     precio: soles(p.precio),
-    imagenes: p.galeria,
-    colores: p.colores.map((c) => ({
-      id: c.id, nombre: c.nombre, precio: c.precio,
-      tallas: c.tallas.filter((t) => !t.agotado).map((t) => ({ nombre: t.nombre })),
-      imagenes: c.imagenes,
-    })),
+    imagenes: fotosDe(p),
+    tallas,
   });
 
   const esquema = JSON.stringify({
@@ -402,12 +487,8 @@ export function paginaFicha(base: string, original: Producto, categorias: Catego
         </div>
       </div>
       ${parrafo}
-      ${bloqueColores}
-      <div class="grupo" data-grupo-tallas hidden>
-        <div class="grupo__titulo"><span>Talla</span><span class="grupo__elegido" data-talla-elegida></span></div>
-        <div class="opciones" data-tallas></div>
-      </div>
-      <div class="grupo">
+      ${bloqueTallas}
+      <div class="grupo grupo--acciones">
         ${cta}
       </div>
     </div>
