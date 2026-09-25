@@ -105,6 +105,27 @@ El criterio vive en `catalogo.ajuste`, una tabla clave-valor. No entra
 pegado al texto de la consulta: va como parámetro en un CASE, así que desde
 el panel no se puede colar SQL.
 
+## Temporada del catálogo
+
+Admin, debajo del orden: un botón por temporada y uno de "Ninguna". Un
+toque guarda el ajuste `temporada` en `catalogo.ajuste`, purga la caché
+como cualquier escritura del panel, y la siguiente visita sale vestida.
+
+| Temporada | Barra | Cuelga de la cabecera | Se mueve todo el rato |
+|---|---|---|---|
+| San Valentín | frambuesa | corazones en péndulo | corazones que suben |
+| Día de la Madre | rosa pálido | enredadera con flores | pétalos que caen; ramo abajo a la izquierda |
+| Fiestas Patrias | rojo | banderines al viento | confeti rojo y blanco |
+| Halloween | morado y naranja | una araña que baja y vuelve a subir | murciélagos; telarañas y calabaza |
+| Navidad | verde | luces que parpadean | nieve |
+| Año Nuevo | negro y dorado | estrellas que titilan | fuegos artificiales y confeti |
+
+Todo va dentro del HTML como CSS y SVG (`_lib/temporadas.mts`): ni una
+petición más, ni una línea de guion. La capa no recibe clics, solo se animan
+`transform` y `opacity`, y con `prefers-reduced-motion` desaparece lo que se
+mueve y queda lo quieto. Sin temporada la página sale byte a byte como
+siempre; lo comprueba `pruebas/temporadas.mts`. Capturas en `docs/capturas/`.
+
 ## Los tres botones de la ficha
 
 | Botón | Mensaje que abre |
