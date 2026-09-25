@@ -3,6 +3,7 @@ import { neon } from "@neondatabase/serverless";
 import { almacen, clavePara, TIPOS, TOPE } from "./_lib/fotos.mts";
 import { invalidar } from "./_lib/cache.mts";
 import { sesionDe, anotar, json, errorDe, SinPermiso, type Sesion } from "./_lib/sesion.mts";
+import { CLAVES_TEMPORADA, resumenTemporadas } from "./_lib/temporadas.mts";
 
 /* API del panel. Una sola función con ruteo interno, para que el despliegue
  * sea una pieza y no diez.
@@ -19,7 +20,7 @@ import { sesionDe, anotar, json, errorDe, SinPermiso, type Sesion } from "./_lib
  *   POST /api/panel/talla/:id/estado      { agotado }
  *
  *   GET  /api/panel/ajustes               cómo se ordena el catálogo
- *   POST /api/panel/ajustes               { orden_catalogo }              (admin)
+ *   POST /api/panel/ajustes               { orden_catalogo } o { temporada } (admin)
  *
  *   GET  /api/panel/tablero?dias=30       (admin)
  *   POST /api/panel/producto/:id/precio   { precio, precio_antes }  (admin)
@@ -484,35 +485,57 @@ async function tablero(req: Request, sql: any) {
   });
 }
 
-/* Los ajustes del catálogo. Hoy solo hay uno, el orden, pero la tabla es
- * clave-valor: el siguiente no necesita otra migración. */
+/* Los ajustes del catálogo: el orden y la temporada. La tabla es
+ * clave-valor, así que el siguiente no necesita otra migración. Cada
+ * petición cambia uno solo; la caché del catálogo se purga en el enrutador
+ * como con cualquier otra escritura, y el cambio se ve en la visita
+ * siguiente. */
 const ORDENES_VALIDOS = ["novedad", "precio_asc", "precio_desc", "pedidos"];
 
 async function leerAjustes(sql: any) {
   const filas = await sql`select clave, valor from catalogo.ajuste`;
-  const ajustes: Record<string, string> = { orden_catalogo: "novedad" };
+  const ajustes: Record<string, unknown> = { orden_catalogo: "novedad", temporada: "" };
   for (const f of filas) ajustes[f.clave] = f.valor;
+  // Las temporadas que existen, para que el panel las pinte sin tener que
+  // saberlas: la lista vive en un solo sitio, con el catálogo.
+  ajustes.temporadas = resumenTemporadas();
   return json(ajustes);
 }
 
 async function guardarAjustes(req: Request, sql: any, yo: Sesion) {
   const cuerpo = await req.json().catch(() => ({})) as Record<string, unknown>;
+
+  if ("temporada" in cuerpo) {
+    // Vacío es "ninguna": el catálogo vuelve a salir como siempre.
+    const clave = String(cuerpo.temporada ?? "");
+    if (clave !== "" && !CLAVES_TEMPORADA.includes(clave)) {
+      throw new SinPermiso(400, "Esa temporada no existe");
+    }
+    const antes = await guardarAjuste(sql, "temporada", clave);
+    await anotar(sql, yo, "cambiar-temporada", "catalogo", 0,
+                 { temporada: antes }, { temporada: clave, nombre: "Temporada del catálogo" });
+    return json({ temporada: clave });
+  }
+
   const orden = String(cuerpo.orden_catalogo || "");
   if (!ORDENES_VALIDOS.includes(orden)) {
     throw new SinPermiso(400, "Ese orden no existe");
   }
+  const antes = await guardarAjuste(sql, "orden_catalogo", orden);
+  await anotar(sql, yo, "cambiar-orden", "catalogo", 0,
+               { orden: antes || "novedad" },
+               { orden, nombre: "Orden del catálogo" });
+  return json({ orden_catalogo: orden });
+}
 
-  const [antes] = await sql`select valor from catalogo.ajuste where clave = 'orden_catalogo'`;
+/** Escribe un ajuste y devuelve el valor que había (o vacío). */
+async function guardarAjuste(sql: any, clave: string, valor: string): Promise<string> {
+  const [antes] = await sql`select valor from catalogo.ajuste where clave = ${clave}`;
   await sql`
     insert into catalogo.ajuste (clave, valor, actualizado_en)
-    values ('orden_catalogo', ${orden}, now())
+    values (${clave}, ${valor}, now())
     on conflict (clave) do update set valor = excluded.valor, actualizado_en = now()`;
-
-  await anotar(sql, yo, "cambiar-orden", "catalogo", 0,
-               { orden: antes?.valor || "novedad" },
-               { orden, nombre: "Orden del catálogo" });
-
-  return json({ orden_catalogo: orden });
+  return antes?.valor || "";
 }
 
 async function bitacora(req: Request, sql: any) {

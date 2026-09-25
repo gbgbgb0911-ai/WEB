@@ -2,7 +2,7 @@ import type { Config, Context } from "@netlify/functions";
 import { neon } from "@neondatabase/serverless";
 import { categorias, productos, producto, ajuste, ORDEN_POR_DEFECTO, type Orden }
   from "./_lib/catalogo.mts";
-import { paginaListado, paginaFicha, pagina404, indiceBusqueda, sitemap, TIENDA, css, fijarVersion, fijarHoja, fijarGuion }
+import { paginaListado, paginaFicha, pagina404, indiceBusqueda, sitemap, TIENDA, css, fijarVersion, fijarHoja, fijarGuion, fijarTemporada }
   from "./_lib/plantillas.mts";
 import { hoja, guion } from "./_lib/activos.mts";
 import { cabecerasCache, cabecerasNoEncontrada, purgarSiHayDespliegueNuevo } from "./_lib/cache.mts";
@@ -53,9 +53,14 @@ export default async (req: Request, ctx: Context) => {
     const m = ruta.match(/^\/(c|p)\/([^/]+)$/);
     if (m) return Response.redirect(`${base}${ruta}/${url.search}`, 301);
 
-    // Cómo se ordena el catálogo lo elige el panel. Por defecto, lo más
-    // nuevo primero: lo que el equipo acaba de subir es lo que quiere enseñar.
-    const orden = await ajuste(sql, "orden_catalogo", ORDEN_POR_DEFECTO) as Orden;
+    // Cómo se ordena el catálogo y si está vestido de alguna temporada lo
+    // elige el panel. Por defecto, lo más nuevo primero (lo que el equipo
+    // acaba de subir es lo que quiere enseñar) y sin temporada.
+    const [orden, temporada] = await Promise.all([
+      ajuste(sql, "orden_catalogo", ORDEN_POR_DEFECTO) as Promise<Orden>,
+      ajuste(sql, "temporada", ""),
+    ]);
+    fijarTemporada(temporada);
 
     if (ruta === "/") {
       const [cats, ps] = await Promise.all([categorias(sql), productos(sql, undefined, orden)]);

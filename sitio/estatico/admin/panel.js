@@ -76,6 +76,7 @@ $('#forma-entrar').addEventListener('submit', async (ev) => {
     ev.target.reset();
     aPanel();
     montarOrden();
+    montarTemporada();
     await cargarSeccion('tablero');
   } catch (e) {
     caja.textContent = e instanceof ErrorPermiso ? e.message : (e.message || 'No se pudo entrar.');
@@ -143,6 +144,61 @@ async function montarOrden() {
     }
   });
   sel.dataset.valor = sel.value;
+}
+
+/* ------------------------------------------------- temporada del catálogo */
+
+/* Un botón por temporada más "Ninguna". Las opciones las trae la API con
+   el ajuste: la lista vive con el catálogo, no aquí. Un toque guarda y el
+   catálogo sale vestido en la siguiente visita. */
+async function montarTemporada() {
+  const caja = $('#temporadas');
+  if (!caja) return;
+
+  let ajustes;
+  try { ajustes = await api('ajustes'); }
+  catch (e) { caja.innerHTML = '<p class="orden__nota">No se pudieron leer las temporadas.</p>'; return; }
+
+  const opciones = [{ clave: '', nombre: 'Ninguna', cuando: 'El catálogo de siempre', emoji: '—' }]
+    .concat(ajustes.temporadas || []);
+  let puesta = ajustes.temporada || '';
+
+  const pintar = () => {
+    caja.innerHTML = opciones.map((t) => {
+      const activa = t.clave === puesta;
+      const muestra = t.clave
+        ? `style="background:${escapar(t.fondo)};color:${escapar(t.texto)}"`
+        : 'class="opcion-temporada__muestra opcion-temporada__muestra--nada"';
+      return `<button class="opcion-temporada" type="button" data-temporada="${escapar(t.clave)}"
+                      aria-pressed="${activa}">
+          <span class="opcion-temporada__muestra" ${muestra}>${escapar(t.emoji)}</span>
+          <span class="opcion-temporada__texto">
+            <span class="opcion-temporada__nombre">${escapar(t.nombre)}</span>
+            <span class="opcion-temporada__cuando">${activa && t.clave ? 'Puesta ahora' : escapar(t.cuando)}</span>
+          </span>
+        </button>`;
+    }).join('');
+    const actual = opciones.find((t) => t.clave === puesta);
+    $('#temporada-estado').textContent = puesta && actual ? `${actual.emoji} ${actual.nombre}` : 'Sin temporada';
+  };
+  pintar();
+
+  caja.addEventListener('click', async (ev) => {
+    const boton = ev.target.closest('[data-temporada]');
+    if (!boton || boton.dataset.temporada === puesta) return;
+    const clave = boton.dataset.temporada;
+    caja.querySelectorAll('button').forEach((b) => { b.disabled = true; });
+    try {
+      await api('ajustes', { cuerpo: { temporada: clave } });
+      puesta = clave;
+      const t = opciones.find((o) => o.clave === clave);
+      brindis(clave ? `${t.nombre} puesta. El catálogo ya sale así.` : 'Temporada quitada. El catálogo sale como siempre.');
+    } catch (e) {
+      fallo(e);
+    } finally {
+      pintar();
+    }
+  });
 }
 
 /* ---------------------------------------------------------------- pedidos */
@@ -432,6 +488,8 @@ $('#forma-cuenta').addEventListener('submit', async (ev) => {
 const QUE = {
   'cambiar-estado': 'cambió el estado',
   'cambiar-precio': 'cambió el precio',
+  'cambiar-orden': 'cambió el orden',
+  'cambiar-temporada': 'cambió la temporada',
   'archivar': 'archivó',
   'desarchivar': 'sacó del archivo',
 };
@@ -481,6 +539,8 @@ function resumirEstado(v) {
   if ('visible' in v) partes.push(v.visible ? 'visible' : 'oculto');
   if ('archivado' in v) partes.push(v.archivado ? 'archivado' : 'en el panel');
   if ('precio' in v) partes.push(moneda(v.precio));
+  if ('temporada' in v) partes.push(v.temporada || 'sin temporada');
+  if ('orden' in v) partes.push(v.orden);
   return partes.join(', ');
 }
 
@@ -515,5 +575,6 @@ montarPWA('/admin/sw.js', '/admin/');
   yo = sesion;
   aPanel();
   montarOrden();
+  montarTemporada();
   await cargarSeccion('tablero');
 })();

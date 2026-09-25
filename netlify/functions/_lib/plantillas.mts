@@ -10,6 +10,7 @@
  */
 
 import type { Producto, Categoria } from "./catalogo.mts";
+import { temporada, estilosTemporada, capaTemporada, type Temporada } from "./temporadas.mts";
 
 /* Versión de los estáticos. Va en la URL de estilos.css y app.js para que
  * cada despliegue tenga una URL nueva y ningún navegador se quede con la
@@ -36,6 +37,12 @@ let hoja: string | null = null;
 let guion: string | null = null;
 export function fijarHoja(texto: string | null) { hoja = texto; }
 export function fijarGuion(texto: string | null) { guion = texto; }
+
+/* La temporada puesta desde el panel (ver _lib/temporadas.mts). La fija la
+ * función en cada petición, con lo que diga la base; sin ninguna, la página
+ * sale exactamente como siempre. */
+let tema: Temporada | null = null;
+export function fijarTemporada(clave: string | null | undefined) { tema = temporada(clave); }
 
 function bloqueEstilos(): string {
   if (hoja) return `<style>${hoja}</style>`;
@@ -244,14 +251,14 @@ export function cabeza(base: string, titulo: string, descripcion: string, canoni
        + `<meta name="twitter:card" content="summary_large_image">\n`;
   }
   return `<!doctype html>
-<html lang="es-PE" data-wa="${WHATSAPP}">
+<html lang="es-PE" data-wa="${WHATSAPP}"${tema ? ` data-temporada="${tema.clave}"` : ""}>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${e(titulo)}</title>
 <meta name="description" content="${e(descripcion)}">
 <link rel="canonical" href="${e(abs)}">
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="${tema ? tema.fondo : "#ffffff"}">
 <meta property="og:type" content="${ogTipo}">
 <meta property="og:site_name" content="${e(TIENDA)}">
 <meta property="og:title" content="${e(titulo)}">
@@ -264,7 +271,7 @@ ${og}<link rel="icon" href="/favicon.png" type="image/png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap">
-${bloqueEstilos()}
+${bloqueEstilos()}${tema ? "\n" + estilosTemporada(tema) : ""}
 ${RESCATE_FOTOS}
 ${ARMAR_REVELADO}
 </head>
@@ -284,7 +291,10 @@ export function cabecera(categorias: Categoria[], actual: string | null = null):
     menu.push(`<a href="/c/${e(c.slug)}/"${marca}>${e(c.nombre)}</a>`);
   }
 
-  return `<div class="anuncio">${e(ANUNCIO)}</div>
+  // Con temporada, la barra dice qué se celebra y cambia de color; lo que
+  // cuelga de la cabecera va dentro de ella porque la cabecera es fija.
+  const anuncio = tema ? `${tema.anuncio} · ${e(ANUNCIO)}` : e(ANUNCIO);
+  return `<div class="anuncio">${anuncio}</div>
 <header class="cabecera">
   <div class="cabecera__fila">
     <div class="redes">${redes}</div>
@@ -301,7 +311,7 @@ export function cabecera(categorias: Categoria[], actual: string | null = null):
     </div>
   </div>
   <nav class="menu" aria-label="Categorías">${menu.join("")}</nav>
-</header>
+${tema ? tema.guirnalda + "\n" : ""}</header>
 `;
 }
 
@@ -309,7 +319,7 @@ export function pie(): string {
   const enlaces = REDES.map(([n, u]) =>
     `<a href="${e(u)}" target="_blank" rel="noopener">${e(n)}</a>`).join("");
   const consulta = "Hola%20Euchel%2C%20quiero%20hacer%20una%20consulta%20sobre%20el%20cat%C3%A1logo.";
-  return `<footer class="pie">
+  return `${tema ? capaTemporada(tema) + "\n" : ""}<footer class="pie">
   <div class="pie__fila">
     <img src="/logo.svg" alt="${e(TIENDA)}" width="130" height="24">
     <div class="pie__enlaces">${enlaces}</div>

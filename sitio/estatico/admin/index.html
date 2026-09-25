@@ -105,6 +105,22 @@
       <p class="orden__nota">Los destacados salen antes que todo lo demás.</p>
     </div>
 
+    <!-- El catálogo vestido para una fecha: un toque y sale así; otro en
+         "Ninguna" y vuelve a lo normal. Las opciones las trae la API, que
+         es donde viven las temporadas. -->
+    <div class="temporada">
+      <div class="temporada__tope">
+        <span class="temporada__titulo" id="temporada-titulo">Temporada del catálogo</span>
+        <span class="temporada__estado" id="temporada-estado" role="status"></span>
+      </div>
+      <div class="temporadas" id="temporadas" role="group" aria-labelledby="temporada-titulo"></div>
+      <p class="orden__nota">
+        Cambia la barra de arriba y añade adornos con movimiento suave. Los
+        productos, precios y botones siguen igual.
+        <a href="/" target="_blank" rel="noopener" id="temporada-ver">Ver el catálogo</a>
+      </p>
+    </div>
+
     <button class="btn btn--ancho" type="button" id="btn-nuevo"
             style="margin-top:4px">+ Producto nuevo</button>
     <p class="tarjeta__meta" style="margin:6px 2px 0">
