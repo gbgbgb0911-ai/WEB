@@ -88,7 +88,7 @@
 .sello--oculto  { color: var(--gris); border-color: var(--linea); background: var(--suave); }
 .sello--parcial { color: #7a5b00; border-color: #e6d39a; background: #fdf6e3; }
 
-.acciones { display: flex; gap: 6px; margin-top: auto; padding-top: 8px; }
+.acciones { display: flex; flex-wrap: wrap; gap: 6px; margin-top: auto; padding-top: 8px; }
 .palanca {
   flex: 1; min-height: 40px; padding: 0 8px;
   border: 1px solid var(--linea); border-radius: 6px;
@@ -101,6 +101,15 @@
 .palanca:active { transform: scale(.96); }
 .palanca[aria-pressed="true"] { background: var(--tinta); border-color: var(--tinta); color: var(--papel); }
 .palanca[disabled] { opacity: .5; cursor: progress; }
+
+/* Ajuste va en su propia fila: es otra cosa (abre una hoja, no cambia un
+   estado) y en el celular no cabían cuatro botones en una. */
+.palanca--ajuste {
+  flex: 1 0 100%;
+  display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+  border-style: dashed;
+}
+.palanca--ajuste:hover { border-style: solid; border-color: var(--tinta); }
 
 .vacio { text-align: center; color: var(--gris); padding: 48px 16px; font-size: 13px; }
 

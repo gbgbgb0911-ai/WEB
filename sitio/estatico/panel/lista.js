@@ -6,6 +6,10 @@
  *             y tallas
  *   admin   — todo lo anterior, más precio, archivar y borrar
  *
+ * Cada tarjeta lleva un botón Ajuste que abre una hoja corta con lo que más
+ * se corrige (nombre, precio, fotos). La ficha completa sigue al tocar el
+ * nombre.
+ *
  * El backend vuelve a comprobarlo todo, así que esconder un botón aquí es
  * comodidad, no seguridad.
  *
@@ -18,6 +22,20 @@ import { api } from '/panel/sesion.js';
 import { $, escapar, moneda, brindis, abrirHoja, cerrarHoja, hojaAbiertaPara,
          cabeceraHoja, rutaImg } from '/panel/ui.js';
 import { encoger, pesoLegible, ACEPTA } from '/panel/foto.js';
+
+/* Lápiz del botón Ajuste: el mismo trazo que el resto de iconos. */
+const ICONO_AJUSTE = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"'
+  + ' stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+  + '<path d="M4 20h4L19 9a2.8 2.8 0 0 0-4-4L4 16z"/><path d="M13.5 6.5l4 4"/></svg>';
+
+/* Un precio así de alto en esta tienda casi siempre es un cero de más
+   (55 → 550). No se prohíbe: se pregunta. */
+const PRECIO_RARO = 300;
+function precioConfirmado(valor) {
+  const n = Number(valor);
+  if (!Number.isFinite(n) || n < PRECIO_RARO) return true;
+  return confirm(`¿Seguro que el precio es S/ ${n}?\n\nSi querías otro, pulsa Cancelar y corrígelo.`);
+}
 
 export function crearLista({ rol, fallo }) {
   const vista = {
@@ -32,6 +50,7 @@ export function crearLista({ rol, fallo }) {
   let peticion = 0;          // para descartar respuestas viejas
   let categorias = [];
   let detalle = null;        // el producto abierto en la hoja
+  let modo = 'ficha';        // 'ficha' (todo) o 'ajuste' (lo rápido)
 
   /* ------------------------------------------------------------- tarjetas */
 
@@ -72,6 +91,7 @@ export function crearLista({ rol, fallo }) {
                   aria-pressed="${!p.visible}">${p.visible ? 'Ocultar' : 'Oculto'}</button>
           ${rol === 'admin' ? `<button class="palanca" type="button" data-campo="destacado"
                   aria-pressed="${!!p.destacado}">${p.destacado ? 'Destacado' : 'Destacar'}</button>` : ''}
+          <button class="palanca palanca--ajuste" type="button" data-ajuste="${p.id}">${ICONO_AJUSTE}Ajuste</button>
         </div>
       </div>`;
     return li;
@@ -184,6 +204,9 @@ export function crearLista({ rol, fallo }) {
     const abrir = ev.target.closest('[data-abrir]');
     if (abrir) { verFicha(Number(abrir.dataset.abrir)); return; }
 
+    const ajustar = ev.target.closest('[data-ajuste]');
+    if (ajustar) { verAjuste(Number(ajustar.dataset.ajuste)); return; }
+
     const boton = ev.target.closest('.palanca');
     if (!boton) return;
 
@@ -264,6 +287,8 @@ export function crearLista({ rol, fallo }) {
         return;
       }
 
+      if (!precioConfirmado(datos.get('precio'))) return;
+
       boton.disabled = true;
       boton.textContent = 'Creando…';
       aviso.classList.add('oculto');
@@ -287,14 +312,21 @@ export function crearLista({ rol, fallo }) {
 
   /* ----------------------------------------------------------------- hoja */
 
-  async function verFicha(id) {
+  async function verFicha(id, como = 'ficha') {
+    modo = como;
     abrirHoja(id, cabeceraHoja('Cargando…') + '<div class="esqueleto" style="margin:16px 0"></div>');
     let d;
     try { d = await api(`producto/${id}`); }
     catch (e) { cerrarHoja(); fallo(e); return; }
     if (hojaAbiertaPara() !== id) return;
     detalle = d;
-    pintarFicha();
+    pintarHoja();
+  }
+
+  function verAjuste(id) { return verFicha(id, 'ajuste'); }
+
+  function pintarHoja() {
+    if (modo === 'ajuste') pintarAjuste(); else pintarFicha();
   }
 
   async function recargarFicha() {
@@ -302,8 +334,96 @@ export function crearLista({ rol, fallo }) {
     try { detalle = await api(`producto/${detalle.id}`); }
     catch (e) { fallo(e); return; }
     if (hojaAbiertaPara() !== detalle.id) return;
-    pintarFicha();
+    pintarHoja();
     refrescar(detalle.id);
+  }
+
+  /* ------------------------------------------------------------- ajuste */
+
+  /* Lo que más se corrige, en una hoja corta: nombre, precio y fotos.
+     Colores, tallas, categoría y lo demás siguen en la ficha completa, a un
+     toque desde aquí. El precio solo lo ve administración, igual que en la
+     ficha: el servidor tampoco se lo deja cambiar al equipo. */
+  function pintarAjuste() {
+    const d = detalle;
+    const fotos = (d.fotos || []).map((f) => `
+      <div class="miniatura">
+        <img src="${rutaImg(f.hash, 'thumb')}" alt="" loading="lazy">
+        <button class="miniatura__quitar" type="button" data-quitar-foto="${f.id}"
+                aria-label="Quitar esta foto">&times;</button>
+      </div>`).join('');
+
+    vista.hoja.innerHTML = cabeceraHoja('Ajuste') + `
+      <div class="tarjeta__meta" style="padding:10px 0 0">Ref. ${d.id} · ${escapar(d.nombre)}</div>
+
+      <form id="forma-ajuste" class="grupo" novalidate>
+        <label class="campo"><span>Nombre</span>
+          <input name="nombre" value="${escapar(d.nombre)}" autocomplete="off"></label>
+        ${esAdmin ? `
+        <label class="campo"><span>Precio (S/)</span>
+          <input name="precio" type="number" step="0.10" min="0" inputmode="decimal"
+                 value="${d.precio === null ? '' : d.precio}"></label>` : `
+        <p class="tarjeta__meta">Precio: ${moneda(d.precio)}. Si está mal, avisa a administración: el precio lo cambia admin.</p>`}
+        <button class="btn btn--ancho" type="submit">Guardar cambios</button>
+      </form>
+
+      <div class="grupo">
+        <span class="eyebrow">Fotos</span>
+        <div class="miniaturas">${fotos || '<p class="tarjeta__meta">Todavía no tiene fotos.</p>'}</div>
+        <label class="btn btn--linea btn--ancho" style="margin-top:10px">
+          <span id="etiqueta-subir">Añadir fotos</span>
+          <input type="file" id="entrada-foto" accept="${ACEPTA}" multiple hidden>
+        </label>
+        <p class="tarjeta__meta" style="margin-top:6px">Para cambiar una foto: añade la buena y quita la otra con la ×.</p>
+      </div>
+
+      <div class="grupo">
+        <button class="btn btn--texto btn--ancho" type="button" id="btn-ficha-completa">
+          Colores, tallas, categoría y más →</button>
+      </div>`;
+
+    $('.hoja__cerrar', vista.hoja).addEventListener('click', cerrarHoja);
+    $('#entrada-foto', vista.hoja).addEventListener('change', subirFotos);
+    $('#forma-ajuste', vista.hoja).addEventListener('submit', guardarAjuste);
+    $('#btn-ficha-completa', vista.hoja).addEventListener('click', () => {
+      modo = 'ficha';
+      pintarFicha();
+    });
+  }
+
+  async function guardarAjuste(ev) {
+    ev.preventDefault();
+    const forma = ev.target;
+    const boton = forma.querySelector('button[type=submit]');
+    const datos = new FormData(forma);
+    const nombre = String(datos.get('nombre') || '').trim();
+    if (nombre.length < 3) { brindis('Ponle un nombre de al menos 3 letras.', true); return; }
+
+    const cambiaNombre = nombre !== detalle.nombre;
+    const precio = esAdmin ? String(datos.get('precio') || '').trim() : null;
+    const cambiaPrecio = esAdmin && precio !== '' && Number(precio) !== Number(detalle.precio);
+    if (!cambiaNombre && !cambiaPrecio) { brindis('No hay nada que cambiar.'); return; }
+    if (cambiaPrecio && !precioConfirmado(precio)) return;
+
+    boton.disabled = true;
+    boton.textContent = 'Guardando…';
+    try {
+      // Solo lo que cambió: el resto de datos (descripción, categoría) y el
+      // precio tachado se quedan como están.
+      if (cambiaNombre) await api(`producto/${detalle.id}/datos`, { cuerpo: { nombre } });
+      if (cambiaPrecio) {
+        await api(`producto/${detalle.id}/precio`, {
+          cuerpo: { precio, precio_antes: detalle.precio_antes },
+        });
+      }
+      brindis('Guardado. Ya se ve así en el catálogo.');
+      await recargarFicha();
+    } catch (e) {
+      fallo(e);
+    } finally {
+      const b = $('#forma-ajuste button[type=submit]', vista.hoja);
+      if (b) { b.disabled = false; b.textContent = 'Guardar cambios'; }
+    }
   }
 
   function pintarFicha() {
@@ -609,6 +729,7 @@ export function crearLista({ rol, fallo }) {
     const forma = ev.target;
     const boton = forma.querySelector('button');
     const datos = new FormData(forma);
+    if (!precioConfirmado(datos.get('precio'))) return;
     boton.disabled = true;
     try {
       const r = await api(`producto/${detalle.id}/precio`, {
