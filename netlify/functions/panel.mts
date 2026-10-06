@@ -600,18 +600,22 @@ async function crear(req: Request, sql: any, yo: Sesion) {
 
   // Nace oculto. Un producto a medio subir (sin foto, sin tallas) no tiene
   // por qué aparecer en el catálogo mientras lo terminan.
+  //
+  // El id se pide a la secuencia antes, para que el slug nazca con él en la
+  // misma sentencia. Antes se insertaba con el slug 'pendiente' y se
+  // actualizaba después; si esa segunda sentencia fallaba (pasó: un disparador
+  // de inventario que otro sistema puso en la tabla), el producto quedaba con
+  // 'pendiente' y, como el slug es único, ningún otro se podía crear.
   const [p] = await sql`
-    insert into catalogo.producto (slug, nombre, descripcion, subid, precio, visible, editado_por)
-    values ('pendiente', ${nombre}, ${textoDe(cuerpo.descripcion, 4000)},
-            ${subid}, ${precio}, false, ${yo.email})
-    returning id`;
-
-  const [conSlug] = await sql`
-    update catalogo.producto set slug = ${`${p.id}-${babosa(nombre)}`}
-     where id = ${p.id} returning id, slug, nombre`;
+    with nuevo as (select nextval('catalogo.producto_panel_seq') as id)
+    insert into catalogo.producto (id, slug, nombre, descripcion, subid, precio, visible, editado_por)
+    select id, id || '-' || ${babosa(nombre)}, ${nombre}, ${textoDe(cuerpo.descripcion, 4000)},
+           ${subid}, ${precio}, false, ${yo.email}
+      from nuevo
+    returning id, slug, nombre`;
 
   await anotar(sql, yo, "crear", "producto", p.id, null, { nombre });
-  return json(conSlug, 201);
+  return json(p, 201);
 }
 
 async function guardarDatos(req: Request, sql: any, yo: Sesion, id: number) {
