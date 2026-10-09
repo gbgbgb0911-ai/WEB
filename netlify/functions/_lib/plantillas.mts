@@ -10,7 +10,7 @@
  */
 
 import type { Producto, Categoria } from "./catalogo.mts";
-import { temporada, estilosTemporada, capaTemporada, type Temporada } from "./temporadas.mts";
+import { pieza, type Pieza } from "./temporadas.mts";
 
 /* Versión de los estáticos. Va en la URL de estilos.css y app.js para que
  * cada despliegue tenga una URL nueva y ningún navegador se quede con la
@@ -41,8 +41,10 @@ export function fijarGuion(texto: string | null) { guion = texto; }
 /* La temporada puesta desde el panel (ver _lib/temporadas.mts). La fija la
  * función en cada petición, con lo que diga la base; sin ninguna, la página
  * sale exactamente como siempre. */
-let tema: Temporada | null = null;
-export function fijarTemporada(clave: string | null | undefined) { tema = temporada(clave); }
+let tema: Pieza | null = null;
+export function fijarTemporada(clave: string | null | undefined) { tema = pieza(clave); }
+/** Para la vista previa: pone una temporada ya armada, sin pasar por la base. */
+export function fijarPieza(p: Pieza | null) { tema = p; }
 
 function bloqueEstilos(): string {
   if (hoja) return `<style>${hoja}</style>`;
@@ -271,7 +273,7 @@ ${og}<link rel="icon" href="/favicon.png" type="image/png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap">
-${bloqueEstilos()}${tema ? "\n" + estilosTemporada(tema) : ""}
+${bloqueEstilos()}${tema ? "\n" + tema.cabeza : ""}
 ${RESCATE_FOTOS}
 ${ARMAR_REVELADO}
 </head>
@@ -293,7 +295,7 @@ export function cabecera(categorias: Categoria[], actual: string | null = null):
 
   // Con temporada, la barra dice qué se celebra y cambia de color; lo que
   // cuelga de la cabecera va dentro de ella porque la cabecera es fija.
-  const anuncio = tema ? `${tema.anuncio} · ${e(ANUNCIO)}` : e(ANUNCIO);
+  const anuncio = !tema ? e(ANUNCIO) : tema.barra ?? `${tema.anuncio} · ${e(ANUNCIO)}`;
   return `<div class="anuncio">${anuncio}</div>
 <header class="cabecera">
   <div class="cabecera__fila">
@@ -311,7 +313,7 @@ export function cabecera(categorias: Categoria[], actual: string | null = null):
     </div>
   </div>
   <nav class="menu" aria-label="Categorías">${menu.join("")}</nav>
-${tema ? tema.guirnalda + "\n" : ""}</header>
+${tema?.guirnalda ? tema.guirnalda + "\n" : ""}</header>
 `;
 }
 
@@ -319,7 +321,7 @@ export function pie(): string {
   const enlaces = REDES.map(([n, u]) =>
     `<a href="${e(u)}" target="_blank" rel="noopener">${e(n)}</a>`).join("");
   const consulta = "Hola%20Euchel%2C%20quiero%20hacer%20una%20consulta%20sobre%20el%20cat%C3%A1logo.";
-  return `${tema ? capaTemporada(tema) + "\n" : ""}<footer class="pie">
+  return `${tema?.capa ? tema.capa + "\n" : ""}<footer class="pie">
   <div class="pie__fila">
     <img src="/logo.svg" alt="${e(TIENDA)}" width="130" height="24">
     <div class="pie__enlaces">${enlaces}</div>
@@ -394,7 +396,7 @@ export function paginaListado(base: string, titulo: string, etiqueta: string,
   return cabeza(base, titulo, descripcion, canonica, og)
     + cabecera(categorias, actual)
     + `<main id="principal">
-  <div class="envoltura">
+  <div class="envoltura">${tema?.banner ?? ""}
     <div class="titulo-seccion">
       <div>
         <div class="etiqueta">${e(etiqueta)}</div>
