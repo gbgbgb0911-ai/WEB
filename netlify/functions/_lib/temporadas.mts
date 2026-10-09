@@ -417,21 +417,3 @@ export function estilosTemporada(t: Temporada): string {
 export function capaTemporada(t: Temporada): string {
   return `<div class="tp" aria-hidden="true">${t.capa}</div>`;
 }
-
-/** Lo que la plantilla pone de una temporada, ya armado: lo que va en la
- *  cabeza, lo que cuelga de la cabecera, el banner sobre la lista y la capa
- *  del final. Así la plantilla no sabe cómo está hecha cada temporada. */
-export type Pieza = {
-  clave: string; fondo: string; anuncio: string;
-  cabeza: string; guirnalda: string; banner: string; capa: string;
-  /** La barra de arriba completa, si la temporada la arma ella misma. Sin
-   *  esto, la barra es `anuncio · Envíos a todo el Perú`. */
-  barra?: string;
-};
-
-export function pieza(clave: string | null | undefined): Pieza | null {
-  const t = temporada(clave);
-  if (!t) return null;
-  return { clave: t.clave, fondo: t.fondo, anuncio: t.anuncio,
-           cabeza: estilosTemporada(t), guirnalda: t.guirnalda, banner: "", capa: capaTemporada(t) };
-}
