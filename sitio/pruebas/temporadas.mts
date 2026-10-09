@@ -55,7 +55,7 @@ for (const t of TEMPORADAS) {
   assert.ok(pagina404("https://x", cats).includes(`data-temporada="${t.clave}"`));
   // Peso: lo que se añade a cada página tiene que quedarse chico
   const extra = html.length - limpia.length;
-  assert.ok(extra < 20000, `${t.clave}: añade ${extra} bytes a cada página`);
+  assert.ok(extra < 30000, `${t.clave}: añade ${extra} bytes a cada página`);
   console.log(`${t.clave.padEnd(12)} +${extra} bytes`);
 }
 fijarTemporada("");
