@@ -36,6 +36,7 @@ import { CLAVES_TEMPORADA, resumenTemporadas } from "./_lib/temporadas.mts";
  *   POST   /api/panel/color/:id/talla             { nombre }
  *   DELETE /api/panel/talla/:id
  *   POST   /api/panel/producto/:id/foto?color=    cuerpo: los bytes de la imagen
+ *   POST   /api/panel/foto/:id/primera            la que se ve primero
  *   DELETE /api/panel/foto/:id
  *
  * Las trabajadoras pueden agotar y ocultar. Archivar y editar precios es de
@@ -123,6 +124,11 @@ async function despachar(req: Request, sql: any, ruta: string, partes: string[])
     if (partes[0] === "producto" && partes[1] && partes[2] === "foto" && req.method === "POST") {
       const yo = await sesionDe(req, sql, ["admin", "trabajadora"]);
       return await subirFoto(req, sql, yo, Number(partes[1]));
+    }
+
+    if (partes[0] === "foto" && partes[1] && partes[2] === "primera" && req.method === "POST") {
+      const yo = await sesionDe(req, sql, ["admin", "trabajadora"]);
+      return await fotoPrimera(sql, yo, Number(partes[1]));
     }
 
     if (partes[0] === "foto" && partes[1] && req.method === "DELETE") {
@@ -260,8 +266,8 @@ async function ficha(sql: any, id: number) {
      where co.producto_id = ${id} order by t.color_id, t.orden`;
 
   const fotos = await sql`
-    select i.hash, i.color_id, i.fuente, i.url
-      from catalogo.imagen i where i.producto_id = ${id} order by i.orden`;
+    select i.id, i.hash, i.color_id, i.fuente, i.url
+      from catalogo.imagen i where i.producto_id = ${id} order by i.orden, i.id`;
 
   return json({ ...prod, colores, tallas, fotos });
 }
@@ -790,6 +796,23 @@ async function subirFoto(req: Request, sql: any, yo: Sesion, productoId: number)
 
   await anotar(sql, yo, "subir-foto", "producto", productoId, null, { foto: clave });
   return json({ ...img, ruta: `/img/subidas/${clave}` }, 201);
+}
+
+/* La foto que se ve primero: en la tarjeta del catálogo y al abrir la
+ * ficha. Se pone delante de todas las del producto. */
+async function fotoPrimera(sql: any, yo: Sesion, id: number) {
+  if (!Number.isInteger(id)) throw new SinPermiso(400, "Id inválido");
+  const [img] = await sql`select id, hash, producto_id from catalogo.imagen where id = ${id}`;
+  if (!img) return json({ error: "Foto no encontrada" }, 404);
+
+  await sql`
+    update catalogo.imagen
+       set orden = (select coalesce(min(orden), 0) - 1 from catalogo.imagen
+                     where producto_id = ${img.producto_id})
+     where id = ${id}`;
+
+  await anotar(sql, yo, "foto-primera", "producto", img.producto_id, null, { foto: img.hash });
+  return json({ primera: id });
 }
 
 async function borrarFoto(sql: any, yo: Sesion, id: number) {

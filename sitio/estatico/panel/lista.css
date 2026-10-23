@@ -197,6 +197,19 @@
   box-shadow: 0 1px 4px rgba(0,0,0,.14);
 }
 .miniatura__quitar:hover { background: var(--tinta); color: var(--papel); border-color: var(--tinta); }
+.miniatura__principal {
+  position: absolute; top: 5px; left: 5px;
+  background: var(--tinta); color: var(--papel);
+  font-size: 9px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+  padding: 3px 6px; border-radius: 4px;
+}
+.miniatura__primera {
+  display: block; width: 100%; min-height: 30px; margin-top: 4px; padding: 0 4px;
+  border: 1px solid var(--linea); border-radius: 6px; background: var(--papel); color: var(--cuerpo);
+  font: inherit; font-size: 10px; font-weight: 700; letter-spacing: .04em; cursor: pointer;
+}
+.miniatura__primera:hover { border-color: var(--tinta); }
+.miniatura__primera[disabled] { opacity: .5; cursor: progress; }
 .miniatura__color {
   position: absolute; left: 0; right: 0; bottom: 0;
   background: rgba(10,10,10,.72); color: #fff;

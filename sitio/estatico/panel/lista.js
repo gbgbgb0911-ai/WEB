@@ -346,12 +346,7 @@ export function crearLista({ rol, fallo }) {
      ficha: el servidor tampoco se lo deja cambiar al equipo. */
   function pintarAjuste() {
     const d = detalle;
-    const fotos = (d.fotos || []).map((f) => `
-      <div class="miniatura">
-        <img src="${rutaImg(f.hash, 'thumb')}" alt="" loading="lazy">
-        <button class="miniatura__quitar" type="button" data-quitar-foto="${f.id}"
-                aria-label="Quitar esta foto">&times;</button>
-      </div>`).join('');
+    const fotos = miniaturas(d);
 
     vista.hoja.innerHTML = cabeceraHoja('Ajuste') + `
       <div class="tarjeta__meta" style="padding:10px 0 0">Ref. ${d.id} · ${escapar(d.nombre)}</div>
@@ -374,7 +369,7 @@ export function crearLista({ rol, fallo }) {
           <span id="etiqueta-subir">Añadir fotos</span>
           <input type="file" id="entrada-foto" accept="${ACEPTA}" multiple hidden>
         </label>
-        <p class="tarjeta__meta" style="margin-top:6px">Para cambiar una foto: añade la buena y quita la otra con la ×.</p>
+        <p class="tarjeta__meta" style="margin-top:6px">La foto <b>Principal</b> es la que sale en la tarjeta del catálogo. Para cambiarla, toca <b>Poner primera</b> en otra. Para quitar una, la ×.</p>
       </div>
 
       <div class="grupo">
@@ -430,13 +425,7 @@ export function crearLista({ rol, fallo }) {
     const d = detalle;
     const delPanel = d.id >= 100001;
 
-    const fotos = (d.fotos || []).map((f) => `
-      <div class="miniatura">
-        <img src="${rutaImg(f.hash, 'thumb')}" alt="" loading="lazy">
-        <button class="miniatura__quitar" type="button" data-quitar-foto="${f.id}"
-                aria-label="Quitar esta foto">&times;</button>
-        ${f.color_id ? `<span class="miniatura__color">${escapar(nombreColor(f.color_id))}</span>` : ''}
-      </div>`).join('');
+    const fotos = miniaturas(d);
 
     const grupos = d.colores.map((c) => {
       const tallas = d.tallas.filter((t) => t.color_id === c.id);
@@ -564,6 +553,20 @@ export function crearLista({ rol, fallo }) {
     }
   }
 
+  /* Las fotos del producto, en el orden en que salen en el catálogo. La
+     primera es la de la tarjeta; las demás se pueden poner delante. */
+  function miniaturas(d) {
+    return (d.fotos || []).map((f, i) => `
+      <div class="miniatura">
+        <img src="${rutaImg(f.hash, 'thumb')}" alt="" loading="lazy">
+        <button class="miniatura__quitar" type="button" data-quitar-foto="${f.id}"
+                aria-label="Quitar esta foto">&times;</button>
+        ${i === 0 ? '<span class="miniatura__principal">Principal</span>' : ''}
+        ${f.color_id ? `<span class="miniatura__color">${escapar(nombreColor(f.color_id))}</span>` : ''}
+        ${i > 0 ? `<button class="miniatura__primera" type="button" data-primera-foto="${f.id}">Poner primera</button>` : ''}
+      </div>`).join('');
+  }
+
   function nombreColor(id) {
     const c = (detalle.colores || []).find((x) => x.id === id);
     return c ? c.nombre : '';
@@ -602,6 +605,16 @@ export function crearLista({ rol, fallo }) {
       brindis(bien === 1 ? 'Foto subida.' : `${bien} fotos subidas.`);
       await recargarFicha();
     }
+  }
+
+  async function fotoPrimera(boton) {
+    boton.disabled = true;
+    boton.textContent = 'Moviendo…';
+    try {
+      await api(`foto/${boton.dataset.primeraFoto}/primera`, { method: 'POST' });
+      brindis('Listo: es la primera foto en el catálogo.');
+      await recargarFicha();
+    } catch (e) { fallo(e); boton.disabled = false; boton.textContent = 'Poner primera'; }
   }
 
   async function quitarFoto(boton) {
@@ -649,6 +662,9 @@ export function crearLista({ rol, fallo }) {
   vista.hoja.addEventListener('click', async (ev) => {
     const quitarFotoBtn = ev.target.closest('[data-quitar-foto]');
     if (quitarFotoBtn) { quitarFoto(quitarFotoBtn); return; }
+
+    const primeraBtn = ev.target.closest('[data-primera-foto]');
+    if (primeraBtn) { fotoPrimera(primeraBtn); return; }
 
     const nuevaTallaBtn = ev.target.closest('[data-nueva-talla]');
     if (nuevaTallaBtn) { nuevaTalla(Number(nuevaTallaBtn.dataset.nuevaTalla)); return; }
